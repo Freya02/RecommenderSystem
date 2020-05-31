@@ -1,0 +1,39 @@
+slot:
+    phone:
+        type: text
+
+intents:
+    - greet
+    - goodbye
+    - 5k_to_10k
+    - best_phone
+
+entities:
+    - phone
+
+templates:
+    utter_greet:
+        - 'Hello! How can I help you?'
+
+    utter_goodbye:
+        - 'Talk to you later'
+        - 'bye bye :('
+
+    utter_ask_budget:
+        - 'What is your current budget?'
+
+actions:
+    - utter_greet
+    - utter_goodbye
+    - utter_ask_budget
+    - actions.best_phone
+
+policies:
+  - name: KerasPolicy
+    epochs: 100
+    max_history: 5
+  - name: FallbackPolicy
+    fallback_action_name: 'action_default_fallback'
+  - name: MemoizationPolicy
+    max_history: 5
+  - name: FormPolicy

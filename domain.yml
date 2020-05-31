@@ -1,0 +1,22 @@
+%YAML 1.1
+---
+actions:
+- actions.best_phone
+- utter_goodbye
+- utter_greet
+- utter_ask_budget
+entities:
+- phone
+intents:
+- greet
+- goodbye
+- 5k_to_10k
+- best_phone
+templates:
+  utter_ask_budget:
+  - text: What is your current budget?
+  utter_goodbye:
+  - text: Talk to you later
+  - text: bye bye :(
+  utter_greet:
+  - text: Hello! How can I help you?
