@@ -1,0 +1,307 @@
+* Prayers
+  * Nation
+      + Crime
+      + Current Affairs
+      + Politics
+      + In Other News
+  * World
+      + Australia and New Zealand
+      + Neighbours
+      + Asia
+      + Africa
+      + America
+      + Europe
+      + Middle East
+  * South
+      + Telangana
+      + Andhra Pradesh
+      + Tamil Nadu
+      + Karnataka
+      + Kerala
+  * Entertainment
+      + Theatre
+      + Music
+      + Bollywood
+      + Kollywood
+      + Sandalwood
+      + Tollywood
+      + Television
+      + Movie Reviews
+      + Mollywood
+      + Hollywood
+  * Sports
+      + Badminton
+      + Cricket
+      + Football
+      + Tennis
+      + In Other News
+  * Technology
+      + Gadgets
+      + In Other News
+      + Mobiles and Tabs
+  * Lifestyle
+      + Viral and Trending
+      + Health and Wellbeing
+      + Sex and Relationship
+      + Fashion and Beauty
+      + Food and Recipes
+      + Travel
+      + Books and Art
+      + Pets and Environment
+  * Videos
+  * Gallery
+  * Business
+      + Autos
+      + Companies
+      + Economy
+      + In Other News
+      + Market
+  * Opinion
+  * Sunday Chronicle
+  * Decaf
+  * Discourse
+  * 360 Degree
+  * Hyderabad Chronicle
+  * Chennai Chronicle
+  * Bengaluru Chronicle
+  * Kerala Chronicle
+  * Science
+  * Editors' Picks
+  * Just In
+  * Astroguide
+  * e-Paper |
+  * Sunday Chronicle
+  * Auto Refresh
+  * | Corporate Insolvency Resolution Process
+
+Friday, Jan 25, 2019 | Last Update : 03:08 PM IST
+
+search on deccanchronicle.com
+  * Nation
+  * World
+  * South
+  * Entertainment
+  * Sports
+  * Technology
+  * Lifestyle
+  * Videos
+  * Gallery
+  * Business
+  * More...
+      + Opinion
+      + Sunday Chronicle
+      + Decaf
+      + Discourse
+      + 360 Degree
+      + Hyderabad Chronicle
+      + Chennai Chronicle
+      + Bengaluru Chronicle
+      + Kerala Chronicle
+      + Science
+      + Editors' Picks
+      + Just In
+      + Astroguide
+Technology, Mobiles and Tabs
+
+Xiaomi Redmi Y2 review: Jack of all, ace at selfies
+
+DECCAN CHRONICLE. | AMRITANSHU MUKHERJEE
+Published Jun 7, 2018, 4:04 pm IST
+Updated Jul 13, 2018, 12:41 pm IST
+The Redmi Y2 impresses with a premium build and a capable AI-infused front camera, posing as a worthy alternative to the Redmi Note 5.
+The Redmi Y2 is a huge leap forward from its previous generation.
+Rating:
+
+
+Xiaomi has been dominating the Indian smartphone market with its value-for-money, yet feature-rich Redmi series. Whether it’s the all-rounder Redmi Note 5 or the trickled-down yet more pocket-friendly Redmi 5, Xiaomi has got it all covered to tackle the competition in the Indian budget smartphone segment. Last year, the Redmi Y series was unveiled to cater to those who preferred camera performance over everything else, especially the front camera performance. The Y1 (a re-engineered Redmi Note 5A from China) was their first model in the lineup that helped Xiaomi garner decent numbers on the cash registers.
+
+
+However, the Y1 left a lot to be desired, especially when it came to performance and aesthetics. Since then, the budget smartphone segment has evolved, bringing in modern and premium features from expensive tiers, thereby forcing Xiaomi to bring in the second generation of the Y series just after seven short months. Called the Redmi Y2, the new phone promises to patch the weaknesses of the Y1 while stepping up the game in the selfie camera performance, now infused with the power of AI. At a price of Rs 9,999 for the 3GB/32GB variant and Rs 12,999 for the 4GB/64GB variant, it is Xiaomi's weapon against the selfie-centric smartphones from OPPO and Vivo. However, it also sits alongside the Redmi 5 and Redmi Note 5, thereby posing a threat to Xiaomi’s existing budget arsenal. Therefore, is the Redmi Y2 actually Xiaomi’s nuke against the offerings from OPPO and Vivo, or simply a ‘just-another-Xiaomi’ with enhanced cameras to share the pie with the existing Redmi models? Let’s boot it up and find out.
+
+
+Also read: Xiaomi Redmi 5 review
+
+
+Design, Build:
+
+
+One of the biggest issues with the Redmi Y1 was its build and design — it carried a plastic chassis and a conventional (and archaic) 16:9 display with thick bezels all-around. Xiaomi changes that with the Y2 — the plastic is still there, but now comes with a premium metal finish, which at first sight makes it recognisable as a more expensive Redmi Note 5 Pro. However, instead of simply borrowing a design from the mainstream Redmi phones, Xiaomi has given the Y2 subtle touches to distinguish it with impressive details. The faux dual-band antenna design on the top and bottom edges looks elegant and makes the Y2 stand out from its rivals. The curved rear panel provides better grip for extended sessions of usage. The vertical dual camera setup, first seen on the Redmi Note 5 Pro, blends in well with the overall aesthetics of the phone.
+
+
+Move to the edges and you will notice an angular groove — we have seen something like this for the first time on a smartphone. While that may or may not appeal in terms of aesthetics, it certainly enhances the grip, making for comfortable user experience. Since this is a budget device, Xiaomi hasn’t made the move to USB-C yet. However, the micro USB port supports 10W fast charging, which is a respite for those who are always on the move.
+
+
+Similar to other Redmi phones of 2018, the Y2 adorns a modern 18:9 tall display with narrow bezels all around. The forehead flaunts an LED flash accompanying the front camera and the other sensors. The chin is noticeably thick, with no physical navigation buttons like the previous generation model — the Y2 gets on-screen navigation buttons or gestures similar to its cousins.
+
+
+Nonetheless, Xiaomi has shown their manufacturing prowess for affordable segments with the Y2, offering an impressive premium build. Hats off Xiaomi.
+
+
+Display:
+
+
+The Redmi Y2 sports a 5.99-inch 18:9 LCD panel that throws out pictures at a resolution of 1440 x 720 pixels. Therefore, you aren’t getting the best Xiaomi has to offer in this regard. However, what you are getting for sure is a vibrant display with good brightness levels and wide viewing angles.
+
+
+Whether you are catching up on the latest YouTube gigs or scrolling through your favourite blogs, the Redmi Y2’s display won’t disappoint. The curved corners also impart a sense of ‘premiumness’ that is usually restricted to smartphones sitting several tiers above the Y2. A lower screen resolution also ensures gains in performance and battery life (more on that later). However, sunlight legibility is low.
+
+
+Performance:
+
+
+Last year, Xiaomi got an abundant access to Qualcomm’s mid-range Snapdragon 625 chipset for its entire affordable smartphone lineup. It seems that Xiaomi still considers the SD 625 capable of handling new software in 2018, which is why they put it in the Redmi Y2. Clocked at 2.0GHz and comprising eight Cortex-A53 cores, it’s one of the most power efficient chipsets deemed fit to be used for midrange smartphones. However, geeks might argue that Xiaomi could have stretched for the Snapdragon 636 from the Redmi Note 5 Pro, which is a far more superior when it comes to performance. Nonetheless, Xiaomi will offer the Y2 with up to 4GB of RAM and 64GB of onboard storage. You can also expand the storage up to 256GB of storage with a dedicated micro SD card slot. And yes, the Redmi Y2 is the first Xiaomi smartphone in India to launch with MIUI 9.5 based on Android 8.1 Oreo. At first glance, the Redmi Y2 looks like a decent mix-n-match of proven components from Xiaomi’s parts bin.
+
+
+Xiaomi optimises their extensively customisable MIUI for all their smartphones and the Redmi Y2 is no exception. MIUI 9 is fast and fluid all around, with almost no noticeable lags or stutters while moving around the interface. The Y2 feels at home while multitasking with 3-4 apps. Android Oreo’s improved memory management also helps the Y2 manage multiple tasks with ease. The presence of a 720p low-resolution screen also helps with the fluidity.
+
+
+However, the SD 625’s age is noticed when you put it through its paces — the Y2 will be content with casual games and demanding social media apps, but it will shy away from heavy resource-intensive titles as such as Need For Speed No Limits and PUBG — You will be able to play them, albeit with consistent frame drops and stutters. Therefore, if you are looking for a gaming phone on a budget, we suggest you look for other phones from Xiaomi or ASUS sporting the performance-oriented Snapdragon 636.
+
+
+As for the OS, MIUI 9.5 is Xiaomi’s most feature-rich iteration of MIUI yet. You get a ton of customisation options, including hundreds of thousands of community developed themes and several minute tweaks to make your Xiaomi phone distinct. One of MIUI 9.5’s coolest features is the gesture-based navigation. Users can get rid of the old Android three-button navigation system and rely on the swipe-based navigation.
+
+
+Casual users may require some time to get acquainted with the gestures initially, but once accustomed, the gestures are some of the fastest ways to go around MIUI. And unlike similar implementation from other manufacturers, the gestures on MIUI are pretty close to iOS’s gestures for the Apple iPhone X in terms of refinement.
+
+
+Xiaomi also bakes in a Face Unlock system — it works decently in well-lit scenarios and is solely used for unlocking the phone. With MIUI 10 scheduled for the Redmi Y2, the user experience is only going to get betteron this one.
+
+
+Camera:
+
+
+This is where the Redmi Y2 comes into its own. The original Y1 had impressed us with its front camera performance. With the Y2, things have only improved. There’s a 16MP front camera with AI-based Beautify 4.0, which Xiaomi claims can help users get perfect selfies. Xiaomi also claims that they use ‘Super Pixel’ technology to enhance photos with more details and light. In essence, the front camera relies on Pixel Binning to combine four pixels and collect light as one large 2.0µm pixel. Sounds interesting, but does it deliver in reality?
+
+
+Definitely. The Y2’s front camera with its clever algorithms manages to snap some great looking photos in various lighting situations. In daylight, the selfies contain a decent amount of details with adequate brightness and vibrant colours. The auto beautification algorithms work well with male faces as well, with no tweaking that feels unnatural. In fact, most of the shots we went around clicking with the Y2 were usually put up on social media without any filters. The software-based portrait mode works well, giving depth-of-field effects to selfies, similar to the Google Pixel 2. The bokeh effect happens in real-time, which helps you let adjust the frame accordingly if the camera is struggling with blurring a busy background. The distinction between the subject and background is mostly accurate, and the blur effects are also rendered to natural levels. Check out some samples from the front camera below.
+
+
+Standard selfie in daylight.
+
+
+Portrait mode enabled for selfies in daylight.
+
+
+A selfie in low light.
+
+
+The rear optics also get some dual camera love. The Y2 sports a 12MP + 5MP setup with Electronic Image Stabilisation (ElS). Pictures shot from rear camera turn out to be good-looking as well. Daylight photos have a good mix of colours and contrasts, without losing on details. With a dip in luminous intensity, the camera struggles to capture details and colour accuracy suffers greatly. That said, the photos are still good enough to be used online, albeit with mild editing.
+
+
+Video performance can at best be described as average, with the Y2 letting you shoot at a maximum resolution of full HD. However, Electronic Image Stabilisation is onboard to look after wildly shaky footages.
+
+
+On the whole, the Redmi Y2 impresses with its camera performance, especially when you consider its price. Xiaomi has paid attention to photography with the help of artificial intelligence algorithms, making the Redmi Y2 a notable option for those obsessed with selfies.
+
+
+Battery:
+
+
+A good camera performance also needs to be accompanied by a reliable battery performance. The Redmi Y2 also delivers on this front, providing a comfortable backup of a single day, even when it has been stressed with multiple demanding tasks. Whether you are busy clicking yourself from various angles and uploading them to your social feed for an extended session, or simply binge-watching Netflix or YouTube, the Y2’s 3080mAh battery will ensure a day’s stamina.
+
+
+We managed to extract an average of 5-6 hours of screen-on time, which is impressive — thanks to the intensive optimisation from both MIUI and Android Oreo. However, the Y2 can achieve higher standby times if you dial down your usage. The presence of 10W fast charging also means that topping up the power reservoir is a matter of an hour and a half if the battery indicator goes red.
+
+
+Conclusion:
+
+
+The Redmi Y2 is a huge leap forward from its previous generation. Xiaomi has enhanced the areas where the previous phone nailed it and ironed out those where it fell short of expectations — build and aesthetics. In fact, the Redmi Y2 comes across as one of the few smartphones in Xiaomi’s lineup that aces some of their bestselling smartphones when it comes to desirable aesthetics. Add to that an impressive pair of cameras, good battery life and reasonable performance, and you end up with a smartphone that is a decent all-rounder to use as a daily driver.
+
+
+The Redmi Y2 isn’t perfect though — the battery life could have been on par with the Redmi Note 5 and the display could do with a full HD panel. However, for the price, these drawbacks can be overlooked.
+
+
+To sum it up, the Redmi Y2 is a great budget smartphone that ticks all the right boxes and specialises in the optics department. If you are seeking good camera performance fused in a package that is overall a great daily driver, then look no further.
+
+
+Also read: Xiaomi Redmi Note 5 review
+
+
+Click on Deccan Chronicle Technology and Science for the latest news and reviews. Follow us on Facebook, Twitter.
+
+
+Click on Deccan Chronicle Technology and Science for the latest news and reviews. Follow us on Facebook, Twitter.
+
+...
+Tags: xiaomi, android, smartphone
+
+
+
+Latest From Technology
+
+
+CORSECA Amigo sound bar is designed for streaming of movies and music
+
+
+Globus Infocom launches range of ITS – LED
+
+
+Top 5 must-have apps for women in 2019
+
+
+Weak Intel outlook stokes fears of a chip slowdown
+
+
+
+
+
+ADVERTISEMENT
+
+MOST POPULAR
+
+
+ISRO puts world’s lightest satellite into orbit, made by Indian students
+
+
+Redmi Note 7 teased, India launch imminent
+
+
+Apple will track health from your ears
+
+
+Huawei unveils the world’s most powerful 5G modem
+
+
+Boeing's flying car lifts off
+
+
+Facebook to prevent duplicate content
+
+ADVERTISEMENT
+ADVERTISEMENT
+
+
+
+More From Mobiles and Tabs
+
+
+Court orders Italian govt to publicise cellphone risks
+
+
+
+Microsoft ends Windows 10 Mobile support, pushes users to switch to Android
+
+
+
+Apple ordered to pull part of press release in Qualcomm case
+
+
+
+Game on: 4 smartphones with cooling tech
+
+
+
+Apple introduces its Smart Battery Cases for iPhone XS and XR
+
+
+
+ADVERTISEMENT
+ADVERTISEMENT
+Home Asian Age Andhrabhoomi Financial Chronicle About Us Contact Us Classifieds Book Classifieds Feedback Careers E-Paper Privacy Policy
+
+Copyright © 2015 - 2019 Deccan Chronicle.
+
+Designed, Developed & Maintained By Daksham
+×
+Prayers

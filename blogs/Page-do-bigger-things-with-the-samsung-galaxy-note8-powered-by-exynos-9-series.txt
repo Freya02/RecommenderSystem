@@ -1,0 +1,127 @@
+Skip to content
+Samsung Exynos Samsung Semiconductor Chinese Site
+Samsung
+  * PRODUCTS
+  * technology
+  * applications
+  * SHOWCASE
+  * NEWSROOM
+  * ABOUT US
+  * SEMICONDUCTOR
+  * CHINESE SITE
+Back to top
+
+BLOG
+
+
+Do bigger things with the Samsung Galaxy Note8 powered by Exynos 9 Series (8895)
+
+
+September 1, 2017
+
+
+The Galaxy Note is back and it’s bigger and better than ever. Since Samsung first introduced the Galaxy Note series in 2011, it quickly became one of the signature device categories of itself with an expansive writable screen and S Pen. This year, Samsung introduced the Galaxy Note8, the next level Note for those who want to do bigger things. The Galaxy Note8 is designed to help users to achieve more at work and in life with a larger 6.3inch Infinity Display, an enhanced S Pen and an advanced dual camera with OIS (Optical Image Stabilization)
+
+
+Will the new Galaxy Note8 satisfy the Note community’s desire for bigger and better device to further activate their creativity? According to Samsung’s market research, 85 percent of the Galaxy Note users say they’re proud to show off and recommend their Note to friends, and 75 percent say it’s the best phone they’ve ever had. And with the unveiling of the new Galaxy Note8 and its new innovations, the Note community is now buzzing more than ever with excitement.
+
+
+The Galaxy Note8 offers the best mobile experience ever with the advanced new features and technologies of which are activated by a hidden key component; the Exynos processor*. The Galaxy Note8 is powered by Samsung Exynos 9 Series (8895) mobile processor. Following the success of the Galaxy S8, the Exynos 8895 became the heart and the brain of the newly launched Galaxy Note8 thanks to its outstanding performance, superb power efficiency, and advanced technologies it offers. Let’s look into why the Exynos 8895 became the brain of the new Galaxy Note8.
+
+
+* May differ by market and mobile operator
+
+
+Do more on a bigger screen.
+The Galaxy Note8 features 6.3” Infinity Display, the biggest ever for a Galaxy Note. The larger screen provides more space to write or draw with the S Pen and more viewing area to run multi-applications for superb multi-tasking.
+
+
+Notably, the S Pen, one of the Note’s defining features, provides very natural and precise writing experience with very thin 0.7mm tip and accurate 4096 pressure levels. To maximize the user-experience of having a large beautiful curved display to write on or multitask, the mobile processor must be very powerful yet efficient enough to let the user go about her or his daily chores.
+
+
+The Exynos 8895 processor offers ultimate processing power for the Galaxy Note8 to deliver seamless multitasking experience using the S Pen on the Infinity Display. The Exynos 8895 processor is built on the 10nm FinFET process that offers 27% higher performance or 40% lower power consumption when compared to that of 14nm FinFET process. The Exynos 8895 features an octa-core CPU with 2nd generation custom CPU designed to deliver faster speed through improved IP and architectural design. With faster processing speed of the Exynos 8895 processor, the users will be able to do bigger things on the Galaxy Note8’s bigger screen without any lags. For example, the new App Pair lets the user to pair up couple of apps on the Edge Panel and launch them together simultaneously with an ease. Learn more about custom CPU in here.
+
+
+Furthermore, the Galaxy Note8 with the DeX station offers a smooth transition from a mobile to a desktop-like environment for more complicated and productive tasks. User only needs to simply set the Galaxy Note8 onto the DeX station, already connected to a monitor, a keyboard and a mouse, and enjoy the ultimate processing power of the Exynos 8895 as it provides desktop-like environment.
+
+
+Photos, sharp and steady even in low light
+One of the Galaxy Note8’s fascinating features is the advanced dual camera. For shutterbugs who want to take not just better but original and exciting pictures on their smartphone, the Galaxy Note8 features two 12MP rear cameras with Optical Image Stabilization (OIS) on both the wide-angle and telephoto lenses. User can capture a subject with more diverse composition through an optical zoom and produce sharper photographs even in low light thanks to the OIS.
+
+
+To perfectly support the dual-camera on the Galaxy Note8, the Exynos 8895 features dual ISP (Image Signal Processor) that manages two rear cameras to create one perfect image at once. The dual ISP consists of an ISP dedicated for high quality and another for low power resulting in producing high quality photo and video with better power efficiency. For more information about what ISP does, head over to the technology section.
+
+
+Data at gigabit speed
+The Galaxy Note8 supports gigabit LTE that offers superior mobile data connection speed of 1 gigabit per second.* The blazing fast speed makes it a snap to browse the web, stream video and download files from the cloud. The Exynos 8895, the mobile processor under the hood of Galaxy Note8, has a gigabit LTE modem integrated for fast and always connected mobile experience. It supports LTE category 16 for 1Gbps downlink and category 13 for 150Mbps uplink speed. Notably, the modem is the first of its kind to support aggregation of up to 5 carriers (or 5CA) for downlink resulting in fast yet very stable network usage.
+
+
+* May differ by market and mobile operator
+
+
+Gaming in the fast lane
+3D mobile games truly come alive on the big 6.3” Infinity Display. For the next level of gaming experience, the Exynos 8895 processor features advanced mobile GPU with 20 shader cores. The ARM Mali-G71 GPU is a high-end mobile GPU that delivers advanced computational performance for fuller 3D effects making games very realistic and supports complex use cases such as VR and high fidelity gaming. The GPU supports latest powerful yet very efficient graphic APIs such as Vulkan for users to enjoy 3D filled games for longer period of time.
+
+
+Always stay secure
+The Galaxy Note8 offers diverse security features such as Samsung Knox, a defense-grade security platform to protect both device hardware and software, and biometric authentication including iris and fingerprint scanning. To provide more secure environment, the Exynos 8895 processor features an enhance security sub-system with a separate security processing unit. The improved security technologies such as hardware crypto acceleration and flash memory protection help the Galaxy Note8 to protect user’s private information more securely.
+
+
+For more information about the Exynos-powered Galaxy Note8, please visit official Galaxy website and the Exynos 8895 webpage. And head over to Exynos Facebook and Twitter for more news. Don’t forget to follow Exynos on Instagram for fascinating stories.
+
+
+RELATED TAG
+
+
+Exynos 9 Series (8895) FinFET Process Custom CPU Advanced ISP Galaxy Note8
+
+LIST
+
+Back to top
+
+PRODUCTS PRODUCTS
+  * Mobile Processor
+  * Modem & RF
+  * IoT
+Technology Technology
+  * FinFET Process
+  * Custom CPU
+  * Advanced ISP
+Applications Applications
+  * Smartphone
+  * Smartwatch
+  * Automotive
+Showcase Showcase
+  * Latest Showcase
+  * Smartphone
+  * Tablet
+  * Smartwatch
+  * Others
+Newsroom Newsroom
+  * All News
+  * Press Release
+  * Blog
+ABOUT US ABOUT US
+  * President Message
+  * Company Information
+  * Partners
+MORE SITES MORE SITES
+
+  * Samsung.com
+
+
+  * Samsung Semiconductor
+
+FOLLOW US
+
+
+
+* Follow us
+
+CopyrightⒸ 2011-2018 SAMSUNG All Rights Reserved.
+
+
+Back to top
+
+
+PRIVACY LEGAL

@@ -1,0 +1,198 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+Xiaomi Redmi Note 5 Pro Review
+
+
+
+The sheer hype around Xiaomi’s successful Redmi series is not for nothing. Time and time again, the Redmi Note series has proved itself by offering a product that effectively straddles that thin line between performance and value. With the introduction of the Redmi Note 5 Pro though, the company is obliterating the few sacrifices it had to make to hit a certain price point and is taking the fight to the competition.
+
+
+Xiaomi Redmi Note 5 Pro specifications
+
+  * 5.99-inch (2160 × 1080 pixels) Full HD+ 18:9 2.5D curved glass display with 450 nits Brightness, 83% NTSC Color Gamut, 1500: 1 Contrast Ratio, Corning Gorilla Glass 3 Protection
+  * 1.8GHz Octa-Core Snapdragon 636 14nm Mobile Platform with Adreno 509 GPU
+  * 4GB / 6GB LPDDR4x RAM with 64GB (eMMC 5.0) storage, expandable memory up to 128GB with microSD
+  * Android 7.1.2 (Nougat) with MIUI 9
+  * Hybrid Dual SIM (nano + nano / microSD)
+  * 12MP rear camera with dual-tone LED Flash, Sony IMX486 sensor, 1.25μm pixel size, f/2.2 aperture, PDAF, secondary 5MP camera with Samsung sensor, 1.12μm pixel size, f/2.0 aperture
+  * 20MP front-facing camera with Sony IMX376 sensor, f/2.2 aperture, LED flash, 1080p video recording
+  * Fingerprint sensor, Infrared sensor
+  * Dimensions: 158.6×75.4×8.05mm; Weight: 181g
+  * 4G VoLTE, Wi-Fi 802.11 a/b/g/n (2.4GHz + 5GHz), Bluetooth 5, GPS + GLONASS
+  * 4000mAh (typical) / 3900mAh (minimum) battery with Quick Charge 2.0
+
+Design
+
+
+It would be fair to say that evolution of design has been relatively slow at Xiaomi. The focus seems to be more on refinement than all-out evolution. The Redmi Note 5 Pro doesn’t entirely break that tradition. One glance and you know that this is a Xiaomi product.
+
+
+The Redmi Note 5 Pro takes all the learnings from the Note 4 and sticks in an 18:9 display with minimal bezels. The end result is a modern looking device that is familiar yet fresh. The screen is now significantly taller than wider which makes it easier to hold in the hand but harder to reach all the way to the top. On the other hand, you do get slimmer bezels so I guess it balances things out? The Redmi Note 5 Pro nixes the capacitive controls at the bottom in lieu of onscreen controls. Up top is the front-facing camera, proximity sensor, and a selfie flash. The screen itself is a 5.99-inch panel with 2.5D Gorilla Glass 3 for protection. The 18:9 display gently curves over into the aluminum casing of the phone.
+
+
+The sides and port selection is fairly typical on the Note 5 Pro. The right side has a single unsegmented volume rocker with a power button below it. Meanwhile, on the left, you’ll spot the hybrid SIM tray for dual SIM cards or a single SIM paired with a microSD card. Up top is the IR Blaster while at the bottom lies the 3.5mm audio jack, speaker grille, in addition, a micro USB port. Yes, it is 2018 and Xiaomi’s mid-range flagship has a micro USB port.
+
+
+The dual camera module placed along the top left edge makes it a dead ringer for the iPhone X. A dual LED flash can be found between the 12 and 5MP sensor combo. The entire module sits proud of the body of the phone. You’ll also observe the fingerprint scanner placed along the middle within easy reach. The company has added in face unlock via a software update but the fingerprint reader remains the more reliable option. Two plastic end caps are placed along the top and bottom of the aluminum shell that sweeps around the edges making it more comfortable to hold.
+
+
+Software
+
+
+The Redmi Note 5 Pro runs MIUI 9, a custom ROM built on top of Android 7.1.1. The ROM is a complete departure from stock Android and introduces a whole range of additions. Now, the build on the Redmi Note 5 doesn’t bring any specific additions so if you are well versed with MIUI, this is the same interface that you either love or hate.
+
+
+Swiping up from the lock screen drops you onto the homescreen where you’ll find all your applications. The default launcher does not have an app tray and your only option is to organize apps manually into folders. Swiping down from the top reveals the notification bar that has received some much-needed updates in MIUI9.
+
+
+Between the App Lock, Dual Apps, Mi Drop and Mi Remote, the company built a plethora of apps that add further quality of life-related functionality. Other popular MIUI features include the ability to clone specific apps on your handset. Imagine being able to use two separate Whatsapp accounts on a single device. The latest version of MIUI even lets you reply directly through the notification shade by swiping down with two fingers. This works reasonably well in our experience. That said, with every subsequent release, the operating system has been putting on bloat and discoverability of features is on the verge of becoming a major concern for the brand.
+
+
+Performance
+The Snapdragon 636 is an all-new chipset making its debut on the Redmi Note 5. Built on a 14nm process, the Snapdragon 636 brings with it an eight Kryo 260 core configuration to the mid-range segment. The big.LITTLE architecture mixes four Cortex A73 cores clocked at 1.8Ghz with four Cortex A53 cores that are focussed on battery life. This is paired with the Adreno 509 GPU. The Note 5 Pro ships with either 4GB or 6GB of RAM.
+
+
+Now, the Snapdragon 636 is a particularly snappy chipset that puts the Note 5 Pro well ahead of the regular Redmi Note 5. Be it pure benchmarks or actual day to day performance, the Redmi Note 5 Pro delivers the goods. More important than the sheer performance is the fact that the 14nm process helps it achieve a great balance between power and performance. Games, split screen multitasking, extended browsing and media playback, the phone never skipped a beat.
+
+
+Display
+
+
+Xiaomi’s latest packs a 5.99-inch Full HD+ display. Despite the larger screen size compared to the Note 4, the usable screen real estate hasn’t changed much due to the slimmer 18:9 aspect ratio. The screen is reasonably accurate and errs on the side of punchy colors.
+
+
+Viewing angles are more than sufficient with just a mild color shift when viewing from the side. Brightness levels go as high as 450 nits which is enough to ensure that viewing the phone outdoors is no problem at all. On occasion, the automatic brightness control doesn’t work as expected but that’s far and few in between.
+
+
+Camera
+
+
+The camera module on the Redmi Note 5 Pro, both at the front and the back is rather special. Let’s start off with the rear camera. The Note 5 Pro’s sensor modules are placed within a raised black stack that holds the 12MP sensor alongside a secondary 5MP camera that is used for depth sensing. In the middle of the two, you’ll observe a dual LED flash.
+
+
+Xiaomi has done a fantastic job with the camera on the Redmi Note 5. The phone does a great job of capturing details and handily beats most of the competition. Using a secondary 5MP sensor, Xiaomi says that they are able to retrieve a lot more details in low light. Daylight photography is top notch and you won’t find anything to complain about there. Low light images are not bad at all either but like most Xiaomi phones, the Redmi Note 5 Pro tends to bump up the ISO a fair bit which can look a bit noisy, especially if you view them on a larger screen. The camera also has a bokeh mode built-in which works remarkably well. Check out the samples below.
+
+
+Finally, the Redmi Note 5 Pro takes a more serious approach towards the front-facing camera. The 20MP camera is paired with a selfie flash to ensure you can take good images no matter the lighting conditions. We’ve got to say that the results are pretty decent but we didn’t quite see the advantage of using a 20MP sensor. Images can be a bit soft in less than ideal lighting conditions and honestly, it seems like a bit of a gimmick.
+
+
+Check out more camera samples here.
+
+
+Connectivity & Battery Life
+
+
+The Redmi Note 5 Pro, like the regular Redmi Note 5, supports 4G VoLTE, Wi-Fi 802.11 a/b/g/n (2.4GHz + 5GHz), GPS + GLONASS. You also get an IR Blaster to make optimum use of the Mi Remote application. There’s support for Dual Nano SIM cards and one of them doubles up as a microSD slot for expansion. There is 64GB of storage on board of which just under 52GB is available at launch. The battery is a 4,000 mAh unit and the results are just as promising as you’d expect. You might think that the higher performance hardware on the Pro would result in lower battery life but the Kryo cores also bring increased efficiency resulting in similar battery drain between the two SKUs. We easily got an average of 6 hours of screen on time while pushing the phone through fairly heavy use. Throughout our testing period, with dual SIM cards in use, extended social media and phone calls, we would easily end the day with more than enough juice in the phone. The Redmi Note 5 Pro supports Quick Charge 2.0 for faster charging.
+
+
+Conclusion
+
+
+Should you buy the Redmi Note 5 Pro? Yes! Without a doubt, this is one of the most powerful mid-range devices around. Between the Snapdragon 636 chipset, the fresh design ID and the absolutely fantastic battery life, the phone delivers the goods. Add to that a camera that punches above its weight and you’re looking at a rather brilliant package. The only issue? Good luck finding it. The Redmi Note 5 Pro is priced at Rs. 13,999 for the 4GB RAM variant while the 6GB RAM variant is priced at Rs. 16,999. It is available exclusively from Flipkart as well as Mi.com and Mi Home Stores.
+
+
+
+Author: Dhruv Bhutani
+
+
+Your friendly neighborhood techie. Currently using a Pixel 2 XL. Catch him on Twitter (@DhruvBhutani) / Facebook . View all posts by Dhruv Bhutani
+
+Author Dhruv BhutaniPosted on March 23, 2018March 23, 2018Categories Headlines, India, Reviews, Xiaomi
+
+Post navigation
+
+Previous Previous post: JioFi 6 Unboxing and Demo – 4G Wireless Hotspot for Reliance Jio
+Next Next post: Instagram changes algorithm to show newer posts, testing ‘New Posts’ refresh button
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * Facebook is shutting down Moments app on February 25th
+  * Samsung Galaxy A9 Pro (2019) with 6.4-inch FHD+ Infinity-O display, 6GB RAM, triple rear cameras announced
+  * Get Android 9.0 Pie on Redmi Note 5 Pro with OxygenOS 9.0 port
+  * Nokia 2 users will get Android Oreo update option soon, but there’s a catch
+  * Xiaomi Redmi Go Android Oreo (Go Edition) smartphone with 5-inch HD display surfaces
+  * WhatsApp Business clocks 5 million active users; gets web and desktop support, new features
+  * Nokia 5 Android 9.0 (Pie) stable update starts rolling out
+  * Airtel USSD Codes – Complete Updated List to Check Balance, Plan and more
+  * Vivo APEX 2019 with Snapdragon 855, 12GB RAM, 5G, full-screen fingerprint, unibody 3D design without ports or buttons announced
+  * Huawei Balong 5000 5G multi-mode modem with up to 6.5Gbps download speeds announced, 5G smartphones arriving at MWC 2019
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

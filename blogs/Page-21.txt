@@ -1,0 +1,166 @@
+ProductsSolutionsSupportCompany
+
+OnQ Blog
+
+OnQ Blog
+
+New ASUS ZenFone 4 Pro is first with Gigabit LTE and multi-gigabit 802.11ad Wi-Fi
+
+
+Sep 21, 2017
+
+
+Qualcomm products mentioned within this post are offered by Qualcomm Technologies, Inc. and/or its subsidiaries.
+
+
+Marking a milestone in mobile devices, the ASUS ZenFone 4 Pro with Gigabit connectivity is the world’s first commercially available smartphone to feature both 802.11ad Wi-Fi connectivity and Gigabit LTE. This phone goes further than any other, blurring the line between connecting indoors and while on the go.
+
+
+“The ZenFone 4 Pro marks a significant milestone for the mobile industry,” says Cristiano Amon, executive vice president of Qualcomm Technologies, Inc. and QCT president at the We Love Photo event in Rome.
+
+
+As the desire for immediate access to the internet grows, so does the need for faster connectivity speeds and larger network capacity. Users need devices that can keep up with their lifestyles, smartphones that can upload and download at lightning-fast speeds, and almost instantly share content. With the Qualcomm Snapdragon 835 Mobile Platform, the ZenFone 4 Pro supports “Gigabit everywhere,” (with compatible network connection, of course) making all of the above possible.
+
+
+Gigabit everywhere is here with Gigabit LTE and 802.11ad
+
+
+Gigabit LTE and Multi-gigabit 802.11ad is here, providing blazing fast speeds in indoors or on the go.
+
+
+See it in action
+
+
+When on the go, the Snapdragon X16 LTE modem supports peak download speeds up to 1 Gbps (that’s fiber optic speeds sans the fiber). The Snapdragon 835 connects to Wi-Fi via multi-gigabit 802.11ad, which supports blazing fast theoretical peak speeds of up to 4.6 Gbps.
+
+
+Gigabit everywhere means users can enjoy the ultra-fast connectivity and excellent user experiences — like downloading 4K movies and TV shows in seconds or syncing and sharing entire photo albums with incredible speed — without having to worry about how they’re connected. They can enjoy delay-free VR and gaming. And enterprise users can download presentations quickly, access the cloud as if it’s on their phone, and take advantage of lag-free wireless docking, Moreover, the built-in portable Wi-Fi hotspot means users can share their Gigabit LTE connectivity with friends almost anywhere, even in crowded places such as airports.
+
+
+Ultra-fast gigabit connectivity virtually everywhere.
+
+
+Learn more.
+
+
+Download the infographic
+
+
+The ZenFone 4 Pro joins a growing ecosystem of 802.11ad devices, including routers, laptops, wireless docks, and smartphones, all powered by Qualcomm Wi-Fi chipsets. It also demonstrates Qualcomm Technologies’ leadership in mmWave band.; the phone’s 802.11ad Wi-Fi operates at 60GHz mmWave, providing a glimpse of 5G mobile experiences.
+
+
+Photo and video
+
+
+The ZenFone 4 Pro is part of an ASUS family of smartphones that feature dual rear and front cameras. Combined with the ultra-fast LTE connectivity of the Snapdragon 835, users can capture and share their photos and videos almost instantly.
+
+
+The main 12MP camera features the Sony IMX362 image sensor, with a large 1/2.55-inch, 1.4um pixel, f/1.7 aperture lens. The second 16MP camera has 2X optical zoom with a 10X total zoom, to bring distant objects into sharp focus. This innovative design lets users take brighter photos with better clarity, even in low light. Flip to the front, the selfie camera boosts light sensitivity and reduces image “noise” for clear, vivid photos.
+
+
+The innovative camera hardware in the ZenFone 4 Pro is paired with advanced photo tools to help users create stunning, high-quality photos. The ASUS SuperPixel Engine is designed to increase captured light by up to 8X as well, while optical image stabilization (OIS) and the Qualcomm Spectra 180 ISP are engineered to provide automatic enhancements for clearer photos any time of day.
+
+
+The rear dual-camera system incorporates TriTech+ technology. By using a combination of dual pixel phase-detection, subject-tracking, and laser autofocus, the camera can accurately adjust to a subject in just 0.03 seconds. Plus, with RGB-color correction, users can snap true-to-life colors.
+
+
+With focus on photos, ASUS announces new ZenFone 4 smartphones powered by Snapdragon
+
+
+Meet more of the ASUS ZenFone family
+
+
+Read more
+
+
+Audio
+
+
+The ZenFone 4 Pro also delivers a stunning audio experience. Equipped with both dual speakers and Headphone X 7.1 virtual surround sound, users can enjoy an immersive stereo experience whether they’re listening to music or streaming video with headphones. Hi-Res Audio certification indicates that the device supports 192-kHz/24-bit audio, which is 4X better than CDs.
+
+
+Battery Life
+
+
+Along with the superior power efficiency of the Snapdragon 835, the ZenFone 4 Pro boasts a 3600 mAh battery. The ASUS Boostmaster technology supplies 18W (9V/2A) of power and safeguards against overcharging. Just five minutes of charging can provide two hours of talk time.
+
+
+Display and design
+
+
+The sleek 5.5-inch AMOLED screen displays vivid colors in stunning 1920 x 1080 resolution. The ASUS Splendid technology powers an ambient light sensor, designed to adjust the color temperature of the phone’s display based on environmental lighting. Whether in the sunny outdoors or a dimly lit room, the screen adjusts, making it easy to watch, browse, and enjoy.
+
+
+This slim, 6.2-ounce smartphone is designed with a 2.5D curved glass display and coated in Corning Gorilla Glass. Crafted with Nano Molding Technology, the phone’s smooth frame integrates the dual camera into its chassis seamlessly, so it can lay flat.
+
+
+The ASUS ZenFone 4 Pro with Gigabit connectivity is available with 6GB RAM and 128GB ROM in Pure Black and Moonlight White.
+
+
+Qualcomm Snapdragon, Qualcomm Spectra, and Qualcomm Wi-Fi are products of Qualcomm Technologies, Inc.
+
+Wi-FiLGSnapdragon 835
+
+Engage with us on
+
+
+Twitter and Facebook
+
+
+Opinions expressed in the content posted here are the personal opinions of the original authors, and do not necessarily reflect those of Qualcomm Incorporated or its subsidiaries ("Qualcomm"). Qualcomm products mentioned within this post are offered by Qualcomm Technologies, Inc. and/or its subsidiaries. The content is provided for informational purposes only and is not meant to be an endorsement or representation by Qualcomm or any other party. This site may also provide links or references to non-Qualcomm sites and resources. Qualcomm makes no representations, warranties, or other commitments whatsoever about any non-Qualcomm sites or third-party resources that may be referenced, accessible from, or linked to this site.
+
+
+The OnQ Team
+
+
+More articles from this author
+
+
+About this author
+
+
+Related News
+
+
+OnQ Blog
+
+
+Three radios, three boards and a music festival – new developer projects and demos
+
+Jan 10, 2019
+OnQ Blog
+
+Covering multiple wireless technologies and ecosystems – Wi-Fi, Bluetooth 5 and Zigbee/Thread – with the QCA4020 Development Kit
+
+Dec 14, 2018
+
+OnQ Blog
+
+
+Holiday Gift Guide 2018: Always On, Always Connected PCs
+
+Nov 21, 2018
+
+OnQ Blog
+
+
+An ISP strategy for home network innovation
+
+Oct 22, 2018
+
+OnQ Blog
+
+
+Pushing the boundaries of wireless with new 60 GHz Wi-Fi chipset portfolio [video]
+
+Oct 16, 2018
+Language
+About QualcommCareersOfficesContact UsSupportSubscription Center
+Terms of UsePrivacyCookies
+
+©2019 Qualcomm Technologies, Inc. and/or its affiliated companies.
+
+
+References to "Qualcomm"; may mean Qualcomm Incorporated, or subsidiaries or business units within the Qualcomm corporate structure, as applicable.
+Materials that are as of a specific date, including but not limited to press releases, presentations, blog posts and webcasts, may have been superseded by subsequent events or disclosures.
+Qualcomm Incorporated includes Qualcomm's licensing business, QTL, and the vast majority of its patent portfolio. Qualcomm Technologies, Inc., a wholly-owned subsidiary of Qualcomm Incorporated, operates, along with its subsidiaries, substantially all of Qualcomm's engineering, research and development functions, and substantially all of its products and services businesses. Qualcomm products referenced on this page are products of Qualcomm Technologies, Inc. and/or its subsidiaries.

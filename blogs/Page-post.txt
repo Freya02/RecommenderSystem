@@ -1,0 +1,121 @@
+Toggle navigation
+  * Ubuntu Touch
+      + About Ubuntu Touch
+      + Get Ubuntu Touch
+      + Features
+      + Apps for Ubuntu Touch
+  * Devices
+      + Promoted devices
+      + Available devices
+  * Community
+      + About the Community
+      + Get involved
+      + FAQ
+      + Forum
+      + Documentation
+      + Events
+      + Community Sites
+  * Foundation
+      + UBports Foundation
+      + Sponsors
+      + Design guidelines
+  * Join us
+  * News
+      + Blogs
+      + Ubuntu Touch Audiocast
+      + Ubuntu Touch Q&A
+  * Donate
+  * Contact us
+  * My Cart
+
+* A Titan in the Community
+
+
+UBports Welcomes Moto G2 as First Community Device
+22 February 2018
+
+Blogs
+
+UBPorts is excited to announce our first community device, the Moto G Gen 2 (aka Moto G 2014 codename titan)!
+
+What is a community device?
+Community devices differ from the core devices (such as the Nexus 5) in that they are images maintained by community members, rather than UBPorts itself. These community devices are still hosted by UBPorts, however, and can be installed to the device just like any other core device.
+
+Of course, as community devices are maintained by a community member, the quality, stability, and updates are up to the maintainer.
+Do you have a device not yet supported, and want to support it? Check out the community devices page and become a device maintainer!
+
+The Moto G2.
+Thanks to Walid Hammami, the Moto G 2014 is now supported as a community device! It is a nice and capable phone (circa 2014) with a Snapdragon 400 (Qualcomm MSM8226 Snapdragon 400), 1GB of RAM, and 8GB of storage (with SD Card support, up to 32 GB ). For the most part, everything works just fine (WiFi, Bluetooth, SMS, etc).
+
+Current instructions for flashing Ubuntu Touch (15.04 Vivid and 16.04 Xenial) on the Moto G2 can be found on his XDA Fourm post (below).
+
+Installing Ubuntu Touch on the Moto G 2014.
+Unlike the core devices, where you can use the UBPorts installer to easily flash devices, the Moto G2 image by Walid requires a few terminal commands to flash. If you aren't afraid of a bit of terminal action (and potential issues!), continue ahead...
+https://forum.xda-developers.com/moto-g-2014/development/experimental-ubuntu-touch-titan-t3608846
+
+Whilst the 15.04 install is more complicated, it is the more stable branch of Ubuntu Touch right now.
+Found a bug? First check to see if it's an Ubuntu Touch issue affecting all devices (https://github.com/ubports/ubuntu-touch/issues). If it's not (i.e a device-specific issue), report it to Walid on the XDA Post.
+
+
+
+
+UBUNTU TOUCH NEWS DESK 180217
+
+
+February 17, 2018
+
+Blog Team
+
+Read Next
+
+
+UBports supports
+
+
+
+
+
+Donate
+
+
+Donate with Liberapay
+
+Donate with Paypal
+Donate with Bitcoin
+Donate with Patreon
+
+Keep up-to-date
+
+
+Mastodon
+
+Twitter
+Facebook
+YouTube
+RSS Feed
+
+Contact
+
+
+Contact Form
+
+@Telegram
+Membership Application
+
+
+Language
+
+  * English
+      + 简体中文
+      + Nederlands
+      + English
+      + Français
+      + Deutsch
+      + Italiano
+      + Português
+      + русский язык
+      + Español
+
+This site is maintained by The UBports Community and is not in any way endorsed by or affiliated with Ubuntu or Canonical.
+
+Ubuntu and Canonical are registered trademarks of Canonical Ltd. | Handling data: our Privacy Policy | License CC-BY-SA-4.0

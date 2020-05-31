@@ -1,0 +1,412 @@
+* News
+  * Forums
+    Forum Home
+
+    Top Devices
+
+
+    New Devices
+
+
+    Topics
+
+  * Devices
+    More
+  * Topics
+
+    Features
+
+
+    Customize
+
+  * Best Posts
+close
+close
+Remember me Forgot password?
+Log In
+Register or Login with Google
+
+
+Notifications
+
+
+My Devices (edit)
+
+  * Log Out
+  * Settings
+  * Reported Posts
+
+XDA’s Apps
+
+
+  * Nav Gestures
+
+
+    Add swipe gestures to any Android, no root
+
+
+  * One handed mode
+
+
+    Make your phone easier to use with one hand, no root
+
+
+  * XDA Forum App
+
+
+    The best way to access XDA on your phone
+
+
+  * XDA Labs
+
+
+    An app store for independent developers
+
+
+  * Hyperion Launcher
+
+
+    A sweet, feature-filled launcher with a beautiful UX.
+
+
+Sites we like
+
+
+  * Swappa
+
+
+    XDA’s official marketplace for buying and selling tech
+
+
+  * Pocketnow
+
+
+    Premium videos
+
+
+Social
+
+
+* Resources
+
+  * Subscribe to our Newsletter
+  * Contact
+  * About
+  * Tip Us
+ 1. Honor Hub
+ 2. Android Pie
+ 3. OnePlus 6T
+ 4. Snapdragon 855
+ 5. 5G
+ 6. Pixel 3
+ 7. Samsung
+ 8. root
+ 9. Mate 20 Pro
+January 14, 2018 6:45pm 0 Comments Aamir Siddiqui
+
+Xiaomi Redmi 5A XDA Mini-Review: Budget Smartphone Done Right
+
+
+The year 2017 saw flagships push boundaries of both hardware and price. New releases from OEMs got better, but they also became much more expensive. What if you can’t afford to spend upwards of $800 on a smartphone, though, and don’t need the processing power and features that come at those prices? What if you just want a smartphone that works reliably, and doesn’t cost an arm and a leg? Enter Xiaomi, the not-so-little OEM that can.
+
+
+Xiaomi’s smartphones deliver great bang for your buck. Yes, the company’s portfolio includes cutting-edge devices such as the Xiaomi Mi MIX and the Mi MIX 2, which are departures from conventional smartphone design and have relatively high asking prices. But in countries like India and other Southeast Asian nations, the Redmi lineup resonates much more deeply than Xiaomi’s own flagship Mi phones for a reason: It’s inexpensive and it works.
+
+
+With the Redmi 5A, Xiaomi’s taking aim at the early budget end of the smartphone spectrum. With its starting price of just ~$80, the Redmi 5A targets first-time smartphone buyers and those looking for an affordable smartphone that delivers a great overall experience.
+
+
+So how does the humble Redmi 5A compare to the the competition?
+
+
+In this hands-on and first impressions piece, we’ll be taking a look at the Redmi 5A through a practical lens Instead of pitting it against flagship smartphones that cost hundreds of dollars more than it, we’ll keep the phone’s price point and target audience in mind.
+
+Device Name:    Xiaomi Redmi 5A                                                 Release Date/Price Available Now, ₹4,999 ($79) onwards                      
+Android Version MIUI Global Stable 9.1.8.0 on top of Android 7.1.2 Nougat       Display            5 inch 720p IPS LCD (401p ppi)                           
+Chipset         Snapdragon 425, Quad Core Cortex-A53, 4x 1.4GHz, Adreno 308 GPU Battery            3,000mAh non-removable                                   
+RAM             2GB/3GB                                                         Sensors            Accelerometer, Proximity, Ambient Light                  
+Storage         16GB/32GB, expandable through dedicated slot                    Connectivity       microUSB 2.0, Dual SIM tray, 3.5mm audio jack, IR Blaster
+Dimensions      140.4 x 70.1 x 8.4 cm (~69.1% screen-to-body)                   Rear Camera        13MP, f/2.2, PDAF, [email protected] video               
+Weight          137g                                                            Front Camera       5MP, f/2.0                                               
+
+Index
+
+  * Design
+  * Software and Performance
+  * Battery Life and Charging
+  * Development
+  * Conclusion
+
+Design
+
+
+The Redmi 5A’s humble appearance belies its capable hardware.
+
+
+The phone’s shell is made of plastic, though the polycarbonate employed here has a nice metallic finish to it. It’s a simple design, and just about the same as that of its predecessor, Redmi 4A. In fact, there are only a handful of differences between the Redmi 4A and the Redmi 5A overall, the metallic finish being one of the differences on the outside.
+
+
+The front of the Redmi 5A, just like the Redmi 4A, is dominated by a 5-inch 720p IPS LCD display. The phone maintains a semblance of symmetry, with a centered earpiece and the front camera and proximity sensor flanking either side. Below the display are non-backlit capacitive keys for Android’s traditional Recents, Home, and Back navigation buttons, and a white LED.
+
+
+
+The top of the device has the secondary microphone, an IR blaster (a surprising feature rarely found on flagships, let alone one at the Redmi 5A’s price tag, and a 3.5mm headphone jack. The bottom of the device bears a microphone hole and a microUSB port. USB Type-C has still to make its way to the Redmi Note lineup, so the Redmi line will have to wait its turn.
+
+
+
+The left of the device has two slots, one for a single nano SIM and another for a microSD card, as well as another nano-SIM. Unlike the Redmi 4A and other Xiaomi devices, the Redmi 5A does away with the hybrid SIM tray and gives users the option to use two SIM cards alongside expandable storage up to 128GB. On the right side is a power button and a volume rocker. They’re both are plastic, but they have a decent clickiness to them (surprisingly better than the Xiaomi Mi A1’s, which is about three times the price of the Redmi 5A), but they also have a very slight wiggle to them.
+
+
+On the back of the device is a rear camera setup a single LED flash. There’s a speaker grille at the bottom, and a small raised lip below the speaker to prevent it from becoming muffled by flat surfaces.
+
+
+There’s no fingerprint sensor on the Redmi 5A which is a bit of a shame. It’s easier to ignore when you consider the price, but considering it came out in 2017, that doesn’t make it any less disappointing.
+
+
+The Redmi 5A doesn’t try to be style icon, which is a good thing. By focusing on a simplistic and safe design, Xiaomi could focus more of its resources on the internals. That’s not to suggest it’s cartoonish or ugly, but it also doesn’t compete against the all-metal devices that have become increasingly popular in the budget smartphone segment.
+
+
+The use of polycarbonate also helps keep the weight of the device in check. Combined with the smaller device profile, the phone feels solid and easy to handle. One-handed usage was very comfortable for someone like me, who’s used to handling larger 5.5-inch phones. And holding the phone for long periods of times didn’t cause wrist fatigue either.
+
+
+Software and Performance
+
+
+The Xiaomi Redmi 5A has a Qualcomm Snapdragon 425 system-on-chip (SoC), an budget, entry-level processor, and it comes in two storage and RAM combinations: 2GB RAM with 16GB storage, and 3GB RAM with 32GB of internal storage.
+
+
+The Snapdragon 425 is a 64-bit CPU with 4x Cortex A53 processors. Cortex A53 cores usually form a part of the efficiency cluster in big.LITTLE setups, so using them exclusively in a single cluster setup places a limit on what you can achieve in terms of raw performance (though this also results in stellar power efficiency, in most cases).
+
+
+Even so, Cortex A53 cores are sufficient for routine, low-intensity tasks that an average smartphone user might phone for (which is why they are so popularly used as efficiency clusters). Everyday use scenarios like calling, texting, social media apps, instant messaging, light games, productivity apps and more had no issues running on the Snapdragon 425. The official Facebook and Snapchat apps in particular experienced lag and skipped frames, but even then, the Snapdragon 425 is not the one to bear the blame here.
+
+
+Downgrading from my daily driver OnePlus 3 (Snapdragon 820) to the Redmi 5A for a few days, it was easy to spot the small delays in tasks that would otherwise happen instantly on a flagship. Splashscreens stayed on for a few seconds longer in several cases, animations would stick around to hide the delay in processing, and so on.
+
+Basemark OS II GeekBench GFXBench GFXBench
+
+So measuring the Redmi 5A with the same scale as we would a flagship would be stupid — after all, this phone costs 1/10th of a 2017 flagship. Benchmark scores are nothing to write home about, and the general experience of the device obviously does not compare to a flagship. It would be imperative for future buyers of this device to keep their expectations grounded. With the Redmi 5A and its Snapdragon 425, you certainly get much more than what you are paying for, but you aren’t paying all that much in the first place.
+
+
+The 2GB of RAM in our review unit also constrained how far we could push the device for multitasking, a limitation compounded by the aggressive RAM management found in MIUI. Free RAM as displayed in the Recents panel right after boot never exceeded 700 MB, while the average during use hovered closer to 300-350 MB. Simple app switching scenarios like between IM apps worked perfectly though, and there were no scenarios where essential apps like the Launcher would redraw. Gaming scenarios did lead to closure and reset of apps that were swapped to the background (like Reddit Sync), and it was in such situations do you notice that the phone has a limit on how many apps it can keep open. If you prefer using the Home button and are used to returning back to your old positions in apps, you should definitely pick up the 3GB RAM variant over the 2GB variant, though do keep in mind the bottleneck the budget SoC will create in the multitasking experience anyway.
+
+
+For software, the Xiaomi Redmi 5A comes with Android 7.1.2 underneath Xiaomi’s own MIUI 9 skin. This is another differentiating point between the Redmi 5A and 4A, as the Redmi 4A was launched with Android 6.0.1 Marshmallow and MIUI 8 (and later upgraded to MIUI 9). There is no word if the device will receive Android 8.0/8.1 Oreo, and we wouldn’t hold our breath on it either.
+
+
+Xiaomi does have a good track record in keeping the MIUI version of several of its devices updated, and this is something that the phone could realistically expect for the future. The phone was on the 1st October 2017 security patch level, but frequent MIUI updates will likely bump it up every now and then.
+
+
+MIUI 9 is an iterative upgrade over MIUI 8 that we have extensively covered in our Redmi Note 4 review, and the software experience is largely similar. Several of the headlining features of MIUI 9 like the Xiaomi Smart Assistant were not present on the Global ROM, and even smaller features like the App Vault and Lunar Calendar feature were nowhere to be found despite being launched specifically for India.
+
+
+MIUI as a whole invites polarizing opinions. Some users like the experience and the extra functionality that it brings over and above stock Android, while others detest the far-reaching changes it does to the stock Android experience. Android Go devices are still a few months away from becoming a viable alternative in the early-budget segment, so there aren’t a whole lot of options in this space.
+
+
+The Xiaomi Redmi 5A provides an experience that is better than what you can find in this price segment. But owing to its entry level specifications, the bar itself is not too high.
+
+
+Battery Life and Charging
+
+
+Budget devices from Xiaomi are known for their battery life, and the Xiaomi 5A has large shoes to fill in. To help with that, the phone comes with a 3,000 mAh battery, which should theoretically complement its small 5” HD display and energy-efficient SoC very well.
+
+PCMark Work 2.0 Minimum PCMark Work 2.0 Maximum
+
+While the Redmi 5A is unable to compete against the efficiency-kings like the Redmi Note 4, it does manage to get impressive results. PCMark’s Work 2.0 Battery Life test gives it a score of 5h 50m of battery life at full brightness and with wifi and sync active, and a score of 11h 29m of battery life at minimum brightness. This means that you can expect practical results anywhere in between these numbers for your daily screen on-time. Practical usage of the phone allows it to be used heavily for a full day, and beyond with lower usage levels. I personally do miss the battery prowess of Xiaomi’s budget devices when I go back to my daily drivers, because of the confidence of lasting through the entire day irrespective of how often and how heavily I use the device.
+
+
+When it comes to charging, though, the device is once again a typical Xiaomi device from 2017. There is no fast charging on the phone, so charging the device from 0 to 100 takes close to 3 hours. Across the three sets of data that we collected for charging, the phone shows a surprisingly linear rate of charging, gaining about 3% charge for every 5 minutes of being plugged in with the stock charger.
+
+
+Development
+
+
+Owing to its entry level nature, the Xiaomi Redmi 5A is unlikely to attract a large group of experienced developers. Instead, this device will very likely be the first step into the world of Android for budding enthusiasts. And that may not be a bad thing after all.
+
+
+The Redmi 5A currently does not have its own development forum at XDA, but one can still find a couple of threads for the device.
+
+
+Notably, there is an unofficial build of TWRP available for the phone. Unlocking the bootloader of the phone would be similar to other Xiaomi devices, meaning that you will have to utilize the official tool from the company and go through the standard steps.
+
+
+Because the Redmi 5A is very similar to the Redmi 4A, there is a chance that developers could figure out easier routes for porting third-party development resources between the two phones. ROMs like unofficial Lineage OS 14.1 and others are up and running on the 4A, and the 5A would greatly benefit if the development work had the possibility of being carried over like it does with OnePlus “T” variants.
+
+
+Xiaomi Redmi 5A Conclusion
+
+
+The Redmi 5A is an entry level device, and there is no running away from this fact. There is nothing in the device that is likely to appeal to anyone running a current generation mid-range or flagship device, and that is absolutely alright, for the Redmi 5A does not aim to win over existing Android users.
+
+
+What the Redmi 5A aims to do for Xiaomi is provide a device that first-time smartphone users can purchase without hesitation. The 5A extends Xiaomi’s product portfolio to a price segment which, after the failed attempt of the first generation Android One, has seen little action in terms of value purchases. Products in this category tended to be vessels of sub-par specifications and poor user experiences — and the Xiaomi Redmi 5A is Xiaomi’s attempt at fixing this in their own style.
+
+
+Redmi 5A Color Options: Pink, Gold, Dark Grey
+
+
+The real deal with the Redmi 5A is its price tag. For just ₹4,999 (~$79), you can get your hands on the 2GB + 16GB variant of the Redmi 5A. This is a discounted price that is being made available to the first 5 million purchasers, after which, the price jumps up to ₹5,999 (~$95). The 3GB + 32GB variant costs ₹6,999 (~$110), and there’s no discount available on this variant.
+
+
+The discounted pricing of the base variant makes it an excellent contender for someone looking for a low cost device that still manages to get a lot of things right. For its (discounted) price tag, there is very little fault to be found with the base variant. Perhaps the only thing that a consumer in 2018 would miss would be a fingerprint sensor. But outside of this, Xiaomi has managed to create a wholesome package that will be appreciated by those looking for their first smartphone, or simply a secondary burner phone.
+
+
+The price tag after discount, and for the higher model make it a little tricky for recommendation. Again, the major selling point of this entry level device is its price, so if you take that away, you are not left with a whole lot to work with. The higher price point starts coming closer to other offerings from Xiaomi, and with some more flexibility in the purchaser’s budget, they can land a significantly better deal with products like the Xiaomi Redmi Note 4 or other Snapdragon 625 SoC devices. Not to mention, the Redmi Note 4 itself is a year old, so a newer variant for the Indian market should be around the corner too.
+
+
+As far as competition goes, the most noteworthy competitor comes (surprisingly) from none other than Amazon India. As part of its “Crafted for Amazon” program, Amazon India has tied up with OEM partner 10.or (pronounced Tenor) to manufacture smartphones for selling exclusively on its online platform.
+
+
+The 10.or D (Tenor D) is the smartphone that competes directly against the Redmi 5A. For the same price tag of ₹4,999 (~$79) as the discounted Redmi 5A, the 10.or D has no “limitation” on its pricing, which means that it will continue to sell at the same price irrespective of the quantity of units sold. And for that price, you get a 5.2” HD display, the same Qualcomm Snapdragon 425 SoC coupled with 2GB RAM and 16GB internal storage (with expandability options through a dedicated slot), a larger 3,500 mAh battery and a fingerprint sensor. Further, the 10.or D runs a lighter and closer-to-stock UX on Android 7.1 Nougat, and which Amazon claims is “upgradeable to Android 8.0”. The higher variant bumps up the RAM and storage to 3GB + 32GB, but is priced at ₹5,999 (~$95), lower than the competing Xiaomi Redmi 5A.
+
+
+The 10.or D smartphone does suffer from its own cons. For one, it is purchasable exclusively through the online store, which will pose a difficulty when it comes to buyers looking for their first smartphone. 10.or loses out against Xiaomi’s expanding offline presence, and also loses out sorely against the brand recognition that Xiaomi has managed to build over the past few years in India. Further, reviews on Amazon India for other 10.or smartphones like the 10.or E and 10.or G do not speak too highly of the quality of the products, so consumers would be taking a gamble on that end too. You also lose out on the IR Blaster, which is a feature that isn’t commonly found in current generation smartphones. The camera experience on the Redmi 5A was nothing to talk about, and we do not expect the 10.or D to fare any better either.
+
+
+The Xiaomi Redmi 5A is a good iterative product from Xiaomi that will help it attract consumers from a price segment it was not touching before. If you are looking for an entry level device on a sensitive budget, our recommendation goes out for the base variant with its discounted price tag. If you can stretch your budget or have higher expectations, you are better off opting for devices with the Snapdragon 62x SoC.
+
+
+* Discuss This Story
+
+Tags reviewxiaomixiaomi redmi 5
+
+Want more posts like this delivered to your inbox? Enter your email to be subscribed to our newsletter.
+
+Email Address
+Frequency - Select -XDA News DailyXDA News Weekly
+Subscribe
+
+READ THIS NEXT
+
+
+Are you up for this coding challenge? Test your skills in the New Developer Economics survey!
+
+0 Comments
+
+Honor View20 launches internationally with a 48MP and 3D ToF rear cameras and an in-display front camera
+
+0 Comments
+
+Honor View20 Review: The First Flagship Smartphone with a 48MP Camera
+
+Please enable JavaScript to view comments.
+
+About Author
+
+* Aamir Siddiqui 1048 posts see posts >
+Commerce graduate and Law student with a passion for all things Android, Aamir frequently helps people get the best out of their budget smartphones through generous use of custom roms and kernels. He receives press releases at [email protected]
+
+
+Subscribe to XDA
+
+
+Receive the freshest Android & development news right in your inbox!
+
+Email Address
+Consent
+I give xda-developers permission to collect and use my data submitted in this form.
+
+Give consent that we may collect and use your data.
+
+Subscribe Now
+
+Latest XDA News
+
+
+Some Xiaomi Mi A2 users are facing bootloops after the January 2019 update
+
+January 25, 2019
+
+[Update: Galaxy A9 Pro] Samsung’s first Infinity-O Galaxy A8s may launch outside of China, starting with Korea
+
+January 24, 2019
+
+[Update: Stable Update Available] Internal Android Pie beta for the Nokia 5 leaks online
+
+January 24, 2019
+
+Are you up for this coding challenge? Test your skills in the New Developer Economics survey!
+
+January 24, 2019
+
+Pressing a volume button lets you hear the other party in Google Pixel’s Call Screen
+
+January 24, 2019
+
+From the Forums
+
+
+Franco Kernel Manager now lets you flash almost any ZIP file from the app
+
+January 23, 2019
+
+Nokia Extensions is a Magisk Module that brings China-only features to global Android One models
+
+January 23, 2019
+
+Google Pixel 3 XL mod increases exposure time and ISO in Google Camera [Root]
+
+January 22, 2019
+
+Kernel sources for the Xiaomi Redmi 6 Pro, Redmi 5 Plus, and Mi 5X are now available
+
+January 22, 2019
+
+Memoria is a beautiful, Material Design gallery app for your photos
+
+January 19, 2019
+
+MIUI 10 Camera gets ported for AOSP ROMs on the Xiaomi POCO F1
+
+January 19, 2019
+
+Oxy-ify Magisk Module brings OnePlus’s apps, boot animation, media and font to any device
+
+January 19, 2019
+More Forum Links
+
+Suggested Apps
+
+
+Official XDA Forum App
+
+The XDA App is the fastest way to access the forums on mobile.
+
+Navigation Gestures
+
+Customizable gesture control for any Android device.
+
+XDA Labs
+
+Labs is an independent app store that gives developers full control over their work.
+
+Substratum
+
+The ultimate, most complete theming solution for Android.
+
+Hyperion Launcher
+
+A sweet, feature-filled launcher with a beautiful UX.
+
+XDA Developers was founded by developers, for developers. It is now a valuable resource for people who want to make the most of their mobile devices, from customizing the look and feel to adding new functionality.
+Are you a developer? | Terms of Service
+
+More info
+  * Contact
+  * Advertise
+  * Rules
+  * Suggest Content
+  * Security
+  * Privacy Policy
+  * XDA App
+  * Remove ads on XDA
+    
+  * Root Any Device
+  * How To Guides
+  * XDA's Best
+
+
+Copyright © xda-developers. Hosted by Leaseweb
+
+We're Social

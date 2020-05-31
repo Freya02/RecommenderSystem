@@ -1,0 +1,259 @@
+<table cellspacing="0">
+<tr class="tr-hover">
+<th rowspan="15" scope="row">Network</th>
+<td class="ttl"><a href="network-bands.php3">Technology</a></td>
+<td class="nfo"><a href="#" class="link-network-detail collapse" data-spec="nettech">GSM / CDMA / HSPA / LTE</a></td>
+</tr>
+<tr class="tr-toggle">
+<td class="ttl"><a href="network-bands.php3">2G bands</a></td>
+<td class="nfo" data-spec="net2g">GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2</td>
+</tr><tr class="tr-toggle" data-spec-optional>
+<td class="ttl">&nbsp;</td>
+<td class="nfo">CDMA 800 & TD-SCDMA</td>
+</tr>
+<tr class="tr-toggle">
+<td class="ttl"><a href="network-bands.php3">3G bands</a></td>
+<td class="nfo" data-spec="net3g">HSDPA 850 / 900 / 1900 / 2100 </td>
+</tr>
+<tr class="tr-toggle">
+<td class="ttl"><a href="network-bands.php3">4G bands</a></td>
+<td class="nfo" data-spec="net4g">LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 34(2000), 38(2600), 39(1900), 40(2300), 41(2500)</td>
+</tr>
+<tr class="tr-toggle">
+<td class="ttl"><a href="glossary.php3?term=3g">Speed</a></td>
+<td class="nfo" data-spec="speed">HSPA, LTE</td>
+</tr>
+
+<tr class="tr-toggle">
+<td class="ttl"><a href="glossary.php3?term=gprs">GPRS</a></td>
+<td class="nfo" data-spec="gprstext">Yes</td>
+</tr>
+<tr class="tr-toggle">
+<td class="ttl"><a href="glossary.php3?term=edge">EDGE</a></td>
+<td class="nfo" data-spec="edge">Yes</td>
+</tr>
+</table>
+
+
+<table cellspacing="0">
+<tr>
+<th rowspan="2" scope="row">Launch</th>
+<td class="ttl"><a href="glossary.php3?term=phone-life-cycle">Announced</a></td>
+<td class="nfo" data-spec="year">2018, December</td>
+</tr>
+<tr>
+<td class="ttl"><a href="glossary.php3?term=phone-life-cycle">Status</a></td>
+<td class="nfo" data-spec="status">Available. Released 2018, December</td>
+</tr>
+</table>
+
+
+<table cellspacing="0">
+<tr>
+<th rowspan="6" scope="row">Body</th>
+<td class="ttl"><a href=# onClick="helpW('h_dimens.htm');">Dimensions</a></td>
+<td class="nfo" data-spec="dimensions">147.8 x 71.9 x 7.8 mm (5.82 x 2.83 x 0.31 in)</td>
+</tr><tr>
+<td class="ttl"><a href=# onClick="helpW('h_weight.htm');">Weight</a></td>
+<td class="nfo" data-spec="weight">150 g (5.29 oz)</td>
+</tr>
+<tr>
+<td class="ttl"><a href="glossary.php3?term=sim">SIM</a></td>
+<td class="nfo" data-spec="sim">Dual SIM (Nano-SIM, dual stand-by)</td>
+</tr>
+
+</table>
+
+
+<table cellspacing="0">
+<tr>
+<th rowspan="6" scope="row">Display</th>
+<td class="ttl"><a href="glossary.php3?term=display-type">Type</a></td>
+<td class="nfo" data-spec="displaytype">IPS LCD capacitive touchscreen, 16M colors</td>
+</tr>
+<tr>
+<td class="ttl"><a href=# onClick="helpW('h_dsize.htm');">Size</a></td>
+<td class="nfo" data-spec="displaysize">5.84 inches, 85.1 cm<sup>2</sup> (~80.1% screen-to-body ratio)</td>
+</tr>
+<tr>
+<td class="ttl"><a href="glossary.php3?term=resolution">Resolution</a></td>
+<td class="nfo" data-spec="displayresolution">1080 x 2280 pixels, 19:9 ratio (~432 ppi density)</td>
+</tr>
+<tr>
+<td class="ttl"><a href="glossary.php3?term=multitouch">Multitouch</a></td>
+<td class="nfo">Yes</td>
+</tr>
+<tr><td class="ttl">&nbsp;</td><td class="nfo" data-spec="displayother">- MIUI</td></tr>
+
+</table>
+
+
+<table cellspacing="0">
+<tr>
+<th rowspan="4" scope="row">Platform</th>
+<td class="ttl"><a href="glossary.php3?term=os">OS</a></td>
+<td class="nfo" data-spec="os">Android 9.0 (Pie)</td>
+</tr>
+<tr><td class="ttl"><a href="glossary.php3?term=chipset">Chipset</a></td>
+<td class="nfo" data-spec="chipset">Mediatek Helio P35 (12nm)</td>
+</tr>
+<tr><td class="ttl"><a href="glossary.php3?term=cpu">CPU</a></td>
+<td class="nfo" data-spec="cpu">Octa-core 2.3 GHz Cortex-A53</td>
+</tr>
+<tr><td class="ttl"><a href="glossary.php3?term=gpu">GPU</a></td>
+<td class="nfo" data-spec="gpu">PowerVR GE8320</td>
+</tr>
+</table>
+
+
+<table cellspacing="0">
+<tr>
+<th rowspan="5" scope="row">Memory</th>
+<td class="ttl"><a href="glossary.php3?term=memory-card-slot">Card slot</a></td>
+
+
+<td class="nfo" data-spec="memoryslot">microSD, up to 256 GB (uses SIM 2 slot)</td></tr>
+
+
+
+<tr>
+<td class="ttl"><a href="glossary.php3?term=dynamic-memory">Internal</a></td>
+<td class="nfo" data-spec="internalmemory">64 GB, 4 GB RAM</td>
+</tr>
+
+
+
+</td>
+</tr>
+</table>
+
+
+	<table cellspacing="0">
+	<tr>
+	<th rowspan="4" scope="row" class="small-line-height">Main Camera</th>
+		<td class="ttl"><a href="glossary.php3?term=camera">Dual</a></td>
+	<td class="nfo" data-spec="cam1modules">12 MP, f/2.2, 1.25 &#956;m, PDAF<br />
+Secondary camera, depth sensor</td>
+	</tr>
+		<tr>
+	<td class="ttl"><a href="glossary.php3?term=camera">Features</a></td>
+	<td class="nfo" data-spec="cam1features">LED flash, HDR, panorama</td>
+	</tr>
+		<tr>
+	<td class="ttl"><a href="glossary.php3?term=camera">Video</a></td>
+	<td class="nfo" data-spec="cam1video">1080p@30fps</td>
+	</tr>
+		</table>
+
+
+	<table cellspacing="0">
+	<tr>
+	<th rowspan="4" scope="row" class="small-line-height">Selfie camera</th>
+		<td class="ttl"><a href="glossary.php3?term=secondary-camera">Single</a></td>
+	<td class="nfo" data-spec="cam2modules">8 MP</td>
+	</tr>
+		<tr>
+	<td class="ttl"><a href="glossary.php3?term=secondary-camera">Features</a></td>
+	<td class="nfo" data-spec="cam2features">HDR</td>
+	</tr>
+		<tr>
+	<td class="ttl"><a href="glossary.php3?term=secondary-camera">Video</a></td>
+	<td class="nfo" data-spec="cam2video">1080p@30fps</td>
+	</tr>
+		</table>
+
+
+
+<table cellspacing="0">
+<tr>
+<th rowspan="4" scope="row">Sound</th>
+<td class="ttl"><a href="glossary.php3?term=call-alerts">Alert types</a></td>
+<td class="nfo">Vibration; MP3, WAV ringtones</td>
+	</tr>
+
+<tr>
+<td class="ttl"><a href="glossary.php3?term=loudspeaker">Loudspeaker</a> </td>
+<td class="nfo">Yes</td>
+</tr>
+
+<tr>
+<td class="ttl"><a href="glossary.php3?term=audio-jack">3.5mm jack</a> </td>
+<td class="nfo">Yes</td>
+</tr>
+
+
+<tr><td class="ttl">&nbsp;</td><td class="nfo" data-spec="optionalother">- Active noise cancellation with dedicated mic</td></tr>
+
+</table>
+
+
+<table cellspacing="0">
+<tr>
+<th rowspan="9" scope="row">Comms</th>
+<td class="ttl"><a href="glossary.php3?term=wi-fi">WLAN</a></td>
+<td class="nfo" data-spec="wlan">Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot</td>
+</tr>
+<tr>
+<td class="ttl"><a href="glossary.php3?term=bluetooth">Bluetooth</a></td>
+<td class="nfo" data-spec="bluetooth">4.2, A2DP, LE</td>
+</tr>
+<tr>
+<td class="ttl"><a href="glossary.php3?term=gps">GPS</a></td>
+<td class="nfo" data-spec="gps">Yes, with A-GPS, GLONASS, BDS</td>
+</tr>
+
+
+
+<tr>
+<td class="ttl"><a href="glossary.php3?term=usb">USB</a></td>
+<td class="nfo" data-spec="usb">microUSB 2.0, USB On-The-Go</td>
+</tr>
+</table>
+
+
+<table cellspacing="0">
+<tr>
+<th rowspan="12" scope="row">Features</th>
+<td class="ttl"><a href="glossary.php3?term=sensors">Sensors</a></td>
+<td class="nfo" data-spec="sensors">Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass</td>
+</tr><tr>
+<td class="ttl"><a href="glossary.php3?term=messaging">Messaging</a></td>
+<td class="nfo">SMS(threaded view), MMS, Email, Push Email, IM</td>
+</tr><tr>
+<td class="ttl"><a href="glossary.php3?term=browser">Browser</a></td>
+<td class="nfo">HTML5</td>
+</tr>
+
+
+
+<tr><td class="ttl">&nbsp;</td><td class="nfo" data-spec="featuresother">- 5V/2A 10W charging</td></tr>
+
+</table>
+
+
+<table cellspacing="0">
+<tr>
+<th rowspan="7" scope="row">Battery</th>
+<td class="ttl">&nbsp;</td>
+<td class="nfo" data-spec="batdescription1">Non-removable Li-Ion 3000 mAh battery</td>
+</tr>
+
+
+</table>
+
+
+<table cellspacing="0">
+<tr>
+<th rowspan="5" scope="row">Misc</th>
+<td class="ttl"><a href="glossary.php3?term=build">Colors</a></td>
+<td class="nfo" data-spec="colors">Dream Blue, Twilight Gold, Black</td>
+</tr>
+
+
+<tr>
+<td class="ttl"><a href="glossary.php3?term=price">Price</a></td>
+<td class="nfo" data-spec="price">About 170 EUR</td>
+</tr>
+</table>
+
+

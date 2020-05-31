@@ -1,0 +1,217 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+Honor 9N Review : Excellence in Design
+
+
+
+Following on the success of the Honor 9 Lite, the 9N is the latest mid range smartphone from Honor. Not aimed as a replacement for the 9 Lite but rather as an option for someone looking for a more fashionable smartphone. The Honor 9N brings a notch to maximise screen real estate, a tried and tested chipset and a camera that can take on the competition head on. Follow along for our review of the all new Honor 9N.
+
+
+Honor 9N specifications
+
+  * 5.84-inch (1080 x 2280 pixels) Full HD+ 19:9 2.5D curved glass display
+  * Octa-Core Kirin 659 processor (4 xA53 at 2.36GHz + 4 x A53 at 1.7GHz) with MaliT830-MP2 GPU
+  * 3GB RAM with 32GB storage, 4GB RAM with 64GB / 128GB storage, expandable memory up to 256GB with microSD
+  * Android 8.0 (Oreo) with EMUI 8.0
+  * Hybrid Dual SIM (nano + nano / microSD)
+  * 13MP rear camera with LED flash, secondary 2MP camera
+  * 16MP front-facing camera
+  * Fingerprint sensor
+  * Dimensions: 149.2×71.8×7.7mm; Weight: 152g
+  * 3.5mm audio jack, FM Radio
+  * Ride Mode, Partymode
+  * 4G VoLTE, WiFi 802.11 b/g/n, Bluetooth 4.2, GPS / GLONASS
+  * 3000mAh (typical) / 2900mAh (Minimum) battery
+
+The Honor 9N has a very distinct design language. The phone looks modern and packs a notch as is the case with many 2018 smartphones. There’s a minimal bezel running around all sides. The notch does allow Honor to pack in a large 5.8 inch screen within a very comfortable frame. And honestly, that’s one of our key takeaways from the phone. Honor has nailed the ergonomics on the 9N and it is a very comfortable device to hold and use single handed.
+
+
+Up at the top is the front facing camera as well as the earpiece. The earpiece sounds loud and clear and we’ll talk more about the camera further along in our review. Bezels along the side are pretty small but you do get a chin along the bottom edge within which is the Honor logo.
+
+
+The right side has the volume rocker as well as power button both of which are very clicky and give you good tactile feedback. Meanwhile on the left is a Hybrid Dual SIM slot so you can choose between two SIM cards or a single SIM plus microSD configuration. Along the bottom edge is a microUSB port in addition to the 3.5mm audio jack.
+
+
+Flip the phone over and you’ll see the continuation of the glass design. Yes, the phone is a fingerprint magnet but Honor told us that more than design, using glass helps them improve network performance drastically. Can’t argue with that. At the top left corner is a dual camera array that just very slightly protrudes out. You’ll also get an LED flash and fingerprint scanner. There’s yet another Honor logo near the bottom which seems a bit redundant considering there already is branding at the front.
+
+
+The Honor 9N is essentially a glass sandwich with a plastic frame in the middle. The frame has been given a metallic coating which works well with the design language. The hand feel is absolutely fantastic here and the 19:9 aspect ratio has helped Honor make a large screen phone that feels very comfortable.
+
+
+Software
+
+
+Running Android 8.0 with EMUI on top, Honor’s custom ROM is a heavily skinned and equally well optimised experience. There are tweaks and additions everywhere and for the most part, it works really well. Using their own chipset means that Honor has been able to tune EMUI specifically for it and in terms of usage, you won’t find any lag or slowdown at all. Our only complaint would be that the phone isn’t running EMUI 8.1 instead but hopefully software update won’t be too far off.
+
+
+The interface is pretty straight forward. We were a little miffed to see a bunch of preinstalled apps but most of these can be removed without much effort. There are two integrated apps or features that stand out. Ride Mode is one which is critical for a market like India where a whole lot of users travel on two wheelers. Ride Mode hides away almost all functionality and even automatically responds to calls with a preprogrammed SMS. The idea is to avoid distractions while you are driving. Party Mode is the other feature that lets you sync multiple Honor phones to act as speakers while you play music. If you and your friends are all using Honor phones, this can serve as a fun way to get a party started without bringing along a bluetooth speaker.
+
+
+Performance
+
+
+The Honor 9N is running a HiSilicon Kirin 659 chipset which is the same as on the Honor 9 Lite. In our review of the Honor 9 Lite, we found that the chipset delivered excellent performance for its category. That continues to be the case. In fact, day to day use seems to be even better, perhaps a result of extra optimization. Regardless, graphically intensive games work well without any frame rate drops. Some games like PUBG had very occasional frame rate drops but nowhere close enough to being a deal breaker. We’ve got some benchmarks below to give you an idea of comparative performance.
+
+
+In the Geekbench 4 Single Core benchmark, the phone scores 934 points which is in line with the Honor 9 Lite and very high up in our test bench.
+
+
+Meanwhile in Geekbench 4 Multi Core, the phone scores 3752 points placing it in the middle of the test bench.
+
+
+The phone does very well in the AnTuTu 6 benchmark with a score of 68157 points.
+
+
+In Basemark OS II, the phone manages 1435 points which places it in the upper half of our test bench.
+
+
+Display
+
+
+One of the key differences that the Honor 9N offers over the Honor 9 Lite is in the display department. The notch is a visible differentiator and has helped maximize screen real estate without increasing dimensions. The resolution here is 2280×1080 pixels.
+
+
+Heavy multimedia consumers will like the rich colors and contrast levels delivered by the display on the Honor 9N. The screen is well saturated which makes it great for viewing images and videos. The phone lets you choose between warm, cold and default settings but you can adjust the color wheel if you really want to tweak the color temperature. There’s no way to adjust saturation levels. Brightness levels are more than adequate for outdoor use.
+
+
+Camera
+
+
+The Honor 9N has the same rear camera as the Honor 9 Lite and the results are mostly similar though we did observe a few changes in how the software processes the shot. The rear set up uses a combination of a 13MP primary sensor and a 2MP secondary sensor that captures depth information. The phone has a very wide range of modes for capturing images including a nifty light painting mode for those who like to get creative with their photography.
+
+
+Image quality is generally very decent. Day light shots reveal a good amount of detail and the HDR mode was effective in retaining highlights while pulling detail from shadow regions.
+
+
+Focussing can be hit or miss when dealing with macro shots. In a low light scenario with light shining from the background, the HDR function worked well to highlight the subject. The shot displayed signs of heavy noise reduction but the overall image was still quite usable especially if you’re just going to view it on your phone’s screen.
+
+
+Like most current smartphones, the phone does well enough outdoors. Even in overcast conditions, the images captured had a good amount of detail. The metering was also accurate with no signs of over saturation.
+
+
+The phone supports portrait mode both at the rear camera and the front as well through software based processing. The results are pretty good for a mid range device though we would recommend switching off the beauty mode. Video capture tops off at 1080p resolution.
+
+
+Connectivity & Battery Life
+
+
+Connectivity options on the Honor 9N include 4G VoLTE, WiFi 802.11 b/g/n, Bluetooth 4.2, GPS and GLONASS. The phone has 64GB of storage of which a little over 53GB is available at first boot. You can expand storage further via the microSD slot. The phone even has an FM Radio built into it.
+
+
+With a 3000 mAh battery, you wouldn’t really expect great longevity. We were quite surprised to see that the phone easily lasted a full day of use. Extensive gaming will deplete battery life quicker but for most users, a full day’s use will be easy to achieve.
+
+
+Conclusion
+
+
+We had called the Honor 9 Lite one of the best smartphones in the mid range segment. The Honor 9N continues the tradition by giving you great performance, good battery life and a very decent camera. What really stands out for us though is the design and ergonomics. The notch might be polarising but it certainly helps in increasing the screen dimensions without physically increasing the size of the phone. The all glass design of the phone plays a big role in making it looks exceptionally good. In fact, the Honor 9N might very well be one of the best looking smartphones in its category.
+
+
+The Honor 9N in our opinion is one of the most beautiful and stylish phones in this range. The camera too delivers the goods. The Honor 9N ships in Lavender Purple, Robin Egg Blue, Sapphire Blue and Midnight Black colors, is priced at Rs. 11,999 for the 3GB RAM with 32GB storage version, Rs. 13,999 for the 4GB RAM with 64GB version and the 128GB version of it costs Rs. 17,999. It will be available exclusively on Flipkart starting from 31st July.
+
+
+
+Author: Dhruv Bhutani
+
+
+Your friendly neighborhood techie. Currently using a Pixel 2 XL. Catch him on Twitter (@DhruvBhutani) / Facebook . View all posts by Dhruv Bhutani
+
+Author Dhruv BhutaniPosted on July 25, 2018August 4, 2018Categories Honor, Reviews
+
+Post navigation
+
+Previous Previous post: Twitter introduces new developer requirements to prevent misinformation, removed over 143,000 apps in Q2 2018
+Next Next post: Google releases final Android P Beta 4 (DP5), stable release coming soon
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * Apple iOS 12.2 beta brings new ‘Hey Siri’ setup for the rumored AirPods 2
+  * Twitter confirms it is testing “Original Tweeter” tag to distinguish who started a thread
+  * Facebook is shutting down Moments app on February 25th
+  * Samsung Galaxy A9 Pro (2019) with 6.4-inch FHD+ Infinity-O display, 6GB RAM, triple rear cameras announced
+  * Get Android 9.0 Pie on Redmi Note 5 Pro with OxygenOS 9.0 port
+  * Nokia 2 users will get Android Oreo update option soon, but there’s a catch
+  * Xiaomi Redmi Go Android Oreo (Go Edition) smartphone with 5-inch HD display surfaces
+  * WhatsApp Business clocks 5 million active users; gets web and desktop support, new features
+  * Nokia 5 Android 9.0 (Pie) stable update starts rolling out
+  * Airtel USSD Codes – Complete Updated List to Check Balance, Plan and more
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

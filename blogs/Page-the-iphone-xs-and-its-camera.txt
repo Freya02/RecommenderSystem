@@ -1,0 +1,214 @@
+Thursday, September 20, 2018 [Tweets] [Favorites]
+
+
+The iPhone XS and Its Camera
+
+
+John Gruber (Hacker News):
+
+
+But there is one wow factor comparing the iPhone XS to last year’s iPhone X: photography. But the reasons don’t show up in Apple’s comparison spec list (even though some of them could). I’ve focused nearly the entirety of my testing on taking photos and videos side-by-side against my 10-month old iPhone X. Overall, I’m simply blown away by the iPhone XS’s results. Sometimes the difference is subtle but noticeable; sometimes the difference is between unusable and pretty good. The iPhone XS can capture still images and video that the iPhone X cannot.
+
+
+[…]
+
+
+The iPhone XS has a seriously improved wide-angle camera. Just in terms of pure old-fashioned optics — light passing through a lens onto a sensor. More — perhaps too much more — on that later. But the iPhone XS has captured images for me that I’m certain can’t be explained by optics alone.
+
+
+[…]
+
+
+The way I understand it, Smart HDR is basically applied to all images from the iPhone XS. Sometimes more, sometimes less. If an image needs a little highlight recovery, a little Smart HDR is applied. If it needs a lot, it does more. But Photos only applies the “HDR” badge when it’s really extreme.
+
+
+[…]
+
+
+Apple confirmed that the iPhone XS wide-angle sensor is in fact 32 percent larger. That the pixels on the sensor are deeper, too, is what allows this sensor to gather 50 percent more light. This exemplifies why more “megapixels” are not necessarily better.
+
+
+Great review. I’m not sure what to think of Smart HDR. The idea sounds great, but regular HDR sometimes messes up the image—will people occasionally get stuck with bad photos when Smart HDR does the same (since it sounds like it doesn’t save a non-HDR version)? Or is this not a problem because it’s less aggressive, and the faster processing will prevent artifacts from motion? Lastly, of course Smart HDR looks great compared with a regular photo, but how does it compare with standard HDR?
+
+
+I continue to think that Portrait Mode looks weird. At first glance, the results are striking, but then you start to see areas that are sharp that should be blurry and vice-versa.
+
+
+Also of note: Apple told him that the glass is more scratch-resistant than on any other smartphone.
+
+
+See also: Sebastiaan de With, Nilay Patel, Rene Ritchie, Michael Zhang (MacRumors), Austin Mann, Justine Ezarik, Pete Souza, Apple’s list of reviews.
+
+
+Previously: iPhone 8 and iPhone X Cameras, Scratched iPhone 8 and iPhone X Screens.
+
+
+Update (2018-09-24): See also: iFixit.
+
+
+Jason Snell:
+
+
+Maybe the most bananas thing I’ve learned about iPhone XS is that if you shoot 4K 30fps video, it actually shoots 60fps with every other frame stepped up/down, and then stitches the frame pairs together on the fly to create extended dynamic range.
+
+
+John Gruber:
+
+
+As promised, here’s a selection of photos and videos taken with iPhone XS and iPhone X side-by-side. The low-light video clips are just amazing. And audio quality is remarkably better in all video.
+
+
+Matt Birchler:
+
+
+One of the most impressive elements of the iPhone XS is the new camera, which appears to be far more enhanced than even Apple let on when they revealed it a few weeks ago. Before I get into a strong of posts comparing the 2018 and 2017 iPhone cameras, I wanted to take a look at some iPhone XS photos on their own to judge them without compassion…at least for now.
+
+
+Mike:
+
+
+While it’s still a 12-megapixel sensor with an optically stabilized f/1.8 lens, Apple has bumped up the size of the sensor and the megapixels
+
+
+[…]
+
+
+Smart HDR will then look at these frames and decide whether they can improve a photo by adding detail. It also intelligent detects motion or faces within a shot and adapts the final result accordingly.
+
+
+So, essentially, Apple’s A12 Bionic chip takes a photo and makes it look better in the very instant that you snap it. That’s a feature that even full-frame cameras can’t do, even though they might take higher-quality photos.
+
+
+Update (2018-09-25): Juli Clover:
+
+
+There’s a weird amount of smoothing used in the front-facing camera on iPhone XS Max. It looks dull and unnatural.
+
+
+The Talk Show:
+
+
+Nilay Patel returns to the show to talk about the iPhone XS and XS Max. We got so caught up talking about cameras, we never even mention headphone jacks.
+
+
+Mark Spoonauer:
+
+
+If you really care about battery life and you’re in the market for a new iPhone, we would opt for the iPhone XS Max over the iPhone XS. Apple’s 6.5-inch flagship lasted nearly an hour longer on a charge than its smaller, 5.8-inch sibling.
+
+
+On the fence between Android and iOS? You can get considerably better endurance from Android phones, especially those with larger batteries.
+
+
+Tim Hardwick:
+
+
+Both of Apple’s latest flagship models failed to reach the heights of last year’s first-generation iPhone X using the same battery endurance test, which involved surfing the web continuously over a 4G data connection.
+
+
+Juli Clover:
+
+
+According to multiple threads on the MacRumors forums, iPhone XS and iPhone XS Max users are experiencing connectivity problems with Wi-Fi and LTE on the two new iPhones when compared to other, older Apple devices.
+
+
+Update (2018-09-26): Joe Rossignol:
+
+
+iPhone XS Max has the best smartphone display ever, according to display testing and calibration firm DisplayMate Technologies.
+
+
+Battery Life Camera Cellular Data Display High Dynamic Range (HDR) iOS iOS 12 iPhone iPhone XS iPhone XS Max Wi-Fi
+
+
+8 Comments
+
+
+8 Comments
+
+Adrian
+September 21, 2018 1:53 AM
+
+The example HDRs in his examples are still not that clear cut to me - I mean, the backlit portrait is obviously better with the new HDR, but the clown photo, I don’t know. The white colour has that weird HDR grey/purple tinge to it, and I’d probably go for the non-HDR version despite the blown highlights and wrong blackpoint.
+
+Adrian
+September 22, 2018 2:40 AM
+
+John just posted a bunch more comparisons, and in all but two I’d choose the non-HDR version. HDR adds good detail, but the colours look unnatural, and I’d rather have the colour...
+
+Lukas
+September 24, 2018 3:24 AM
+
+I'm of two minds about the neural network image processing idea. On one hand, yes, the pictures look better. On the other hand, the phone is not just processing the pixels the camera sees in some way, it's actually changing the image. It's adding detail that wasn't there in the original scene, and that might be different from the original scene. It reminds me of the Xerox debacle, where their copies changed numbers due to "smart" compression algorithms:
+http://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning?
+
+
+So the question is: do you want pictures that look good, or do you want pictures that show things that were actually there when you took the photo?
+
+Michael Tsai
+September 24, 2018 8:26 AM
+
+@Lukas Yep. It’s interesting that there’s no option to turn off changing the image in this way. Apple must be confident that people will like the results, but I’ve seen some that look quite artificial.
+
+Ben G
+September 25, 2018 1:37 AM
+
+But generally, don't we see a lot with our eyes in the real world that doesn't come across in the non-HDR photos? I mostly prefer the HDR enhanced ones, though I also agree that there's some tweaking to be done so it doesn't look quite so unrealistic in some of the shots.
+
+Michael Tsai - Blog - iPhone XS Users Complain About Skin-Smoothing Selfie Camera
+September 29, 2018 11:26 AM
+
+[…] Previously: The iPhone XS and Its Camera. […]
+
+Episode 71: KDE Is Now A Part Of The Republic Of Gamers
+October 29, 2018 12:09 PM
+
+[…] iPhone XS and its camera […]
+
+Michael Tsai - Blog - Do the iPhone XS and XR Screens Scratch Less?
+November 26, 2018 2:00 PM
+
+[…] The iPhone XS and Its Camera, Scratched iPhone 8 and iPhone X […]
+
+
+Stay up-to-date by subscribing to the Comments RSS Feed for this post.
+
+
+Leave a Comment
+
+
+Name
+
+
+E-mail (will not be published)
+
+
+Web site
+
+
+← →
+
+
+Blog
+Archives
+Tag Cloud
+Top Posts
+
+
+@mjtsai
+Recently Updated
+RSS / Comments
+Apple News
+Trackback
+
+
+Support this site via Patreon.
+
+
+Try my apps:
+
+DropDMG
+EagleFiler
+SpamSieve
+ToothFairy
+Copyright © 2000–2019 Michael Tsai.

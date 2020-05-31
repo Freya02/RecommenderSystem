@@ -1,0 +1,262 @@
+* Likes
+  * Followers
+  * Followers
+Sign in / Join
+  * Thursday, February 7, 2019
+  * About
+  * Contact
+  * Blog
+
+XBT - Everything Cryptos -
+
+  * How to Buy Bitcoin
+  * Coins
+  * Exchanges
+  * Reviews
+      + Exchanges
+  * Wallets
+      + Web Wallets
+      + Desktop Wallets
+      + Mobile Wallets
+      + Hardware Wallets
+      + Paper Wallets
+  * Guides
+      + Bitcoin Guides
+          o Getting Started
+              - Bitcoin Get Started Guide
+              - What is Bitcoin?
+              - How Bitcoin Works
+              - What is Blockchain Tech?
+              - How Do I Store My Bitcoin?
+          o Funds, Security, Privacy
+              - Bitcoin Wallets Guide
+              - How to Buy Bitcoin
+              - Securing Your Wallet
+              - Bitcoin Privacy
+              - Is Bitcoin Legal?
+          o General Guides
+              - Bitcoin for Individuals
+              - Bitcoin for Businesses
+              - Who is Satoshi Nakamoto?
+              - Bitcoin Revolutionized Payments Tech
+          o Technology
+              - Bitcoin Transactions Explained
+              - What is Distributed Ledger Tech?
+              - Blockchain: Capabilities and Features
+          o Mining Bitcoin
+              - What is Bitcoin Mining?
+              - What Are Bitcoin Mining Pools?
+      + Ethereum Guides
+      + Litecoin Guides
+      + Ripple Guides
+      + EOS Guides
+      + Dash Guides
+  * Blog
+      + Blog Home Page
+      + Bitcoin Blog
+      + Ethereum Blog
+      + Ripple Blog
+      + EOS Blog
+      + Stellar Blog
+      + Litecoin Blog
+      + Monero Blog
+      + Cardano Blog
+  * Contact
+Blog
+
+HTC Launches Crypto-Focused Phone ‘HTC Exodus 1’ Payable In Crypto Only
+
+
+The race for the ultimate blockchain phone is on and HTC Exodus appears a clear winner so far. The phone is currently available for pre-order and payable in cryptocurrency only.
+
+By XBT Network Last updated Oct 24, 2018
+0
+Share
+
+A few months ago, the race for the first blockchain-based smartphone began, with one of the industry’s giants, HTC, spearheading the development competition.
+
+
+According to the latest reports, the winner of the race is on the horizon as HTC announced that their customers can now pre-order their Exodus 1 mobile device.
+
+
+Recently, XBT.net reported on Kripto Mobile, a smartphone pre-loaded with the Dash coin ecosystem with a focus on Latin America.
+
+HTC accepts crypto exclusively
+
+
+The company announced that Exodus 1 can be pre-ordered using Bitcoin (BTC) and Ethereum (ETH) cryptocurrencies exclusively.
+
+
+Phil Chen, the head of HTC’s blockchain initiative, explained:
+
+
+“Selling it in crypto only and being the first to do so means we are bringing this directly to the core audience and those who will want this device – the blockchain community,”
+
+
+Chen further added that the project is important:
+
+
+“it reflects our belief in cryptocurrencies – in fact, we had to recreate and overcome many processes internally, as well as find new distributors so that we can achieve the goal of only accepting cryptocurrencies as the form of payment,” he explained.
+
+
+The Core of the system
+
+
+Under the hood, Exodus 1 runs on the Android 0. operating system, backed by Qualcomm® Snapdragon™ 845 processor, and 6GB – DDR4x RAM.
+
+
+Those lucky enough to acquire one of these smartphones will be able to store data in 128GB of the UFS2.1 storage, while its Cat. 18 Gigabit LTE will allow download of up to 1.2 Gbps and up to 150 Mbps of upload speed.
+
+
+The back of the phone will hold a 12MP and 16MP cameras with high-quality zoom, and two 8MP cameras with natural Bokeh will find their place at the front.
+
+
+Furthermore, a 6.0” Quad HD+ display with 18:9 aspect ratio will be installed in the first edition of Exodus 1.
+
+
+Security at the heart of the smartphone
+
+
+On the subject of security, HTC’s head of blockchain initiative explained:
+
+
+“Recent figures show that there are around 35 million wallets out there at the moment. The HTC EXODUS 1 is about getting the consumer used to owning their own keys and going from there to develop the EXODUS into a device that can be for the broader market,”
+
+
+That claim goes in line with the fact that Exodus 1 will have a form of a secure compartment, whose goal is to divide users private blockchain-related information (e.g. private keys) from the Android operating system, ensuring an extra security layer for the sensitive data.
+
+
+As losing a private key means losing the access to one’s funds, HTC devised a “Social Key Recovery” process which will enable users to assign a number of contacts as “caretakers” of their private keys.
+
+
+The recovery seed needed to reclaim funds will be divided among the selected trusted contacts which will, in turn, be able to assist a user to regain access to his funds in case of the phone getting lost, or a key being forgotten.
+
+
+HTC seeks support of the crypto community
+
+
+On their official Twitter channel, HTC announced that:
+
+
+“This is official early access release to the EXODUS 1. We are inviting a community of developers and enthusiasts to work with us to keep building security,”
+
+
+They added that they call on everybody to join them in “rebuilding trust, one phone at a time.”
+
+
+Phil Chen emphasized that the goal of the invitation is to start with the blockchain community, as HTC wants to get their assistance in making Exodus 1’s wallet and the technology even more secure by testing it out and providing feedback and suggestions.
+
+
+Release date of HTC Exodus 1
+
+
+The company states that first Exodus 1 mobile devices are scheduled for shipping just in time for Christmas.
+
+
+With the announced application program interfaces (APIs) for third-party developers and software development kit (SDK), this pioneer smartphone is definitely a gadget that the majority of the crypto community will be pausing to test.
+
+
+XBT.net will keep monitoring the release of the phone and provide updates as they trickle in.
+
+blockchain phonecrypto phoneExodus 1HTCHTC ExodusHTC Exodus 1
+0
+Share
+
+Prev Post
+
+
+Centra Tech Scam: DJ Khaled and Boxer Floyd Mayweather Face Class Action Lawsuit
+
+
+Next Post
+
+
+Ripple (XRP) Co-Founder To Invest In David Chaum’s Cryptocurrency Project Elixxir
+
+You might also like More from author
+Blog
+
+Iranian Banks Launch Gold-Backed Cryptocurrency
+
+Blog
+
+Zcash Fixed Bug That Could Have Allowed Infinite Counterfeiting Of ZEC Tokens
+
+Blog
+
+Troubled QuadrigaCX Gets Stay Of Proceedings, But Lawyers Could Sell Company To Repay $190…
+
+Blog
+
+BitTorrent Token (BTT)’s Price Spikes 900% Since Its ICO
+
+Prev Next
+
+Leave A Reply
+
+
+Your email address will not be published.
+
+
+Save my name, email, and website in this browser for the next time I comment.
+
+
+Latest Posts
+
+
+Iranian Banks Launch Gold-Backed Cryptocurrency
+
+Feb 6, 2019 0 0
+
+Zcash Fixed Bug That Could Have Allowed Infinite Counterfeiting Of ZEC Tokens
+
+Feb 6, 2019 0 0
+
+Troubled QuadrigaCX Gets Stay Of Proceedings, But Lawyers Could Sell Company To Repay…
+
+Feb 6, 2019 0 0
+
+BitTorrent Token (BTT)’s Price Spikes 900% Since Its ICO
+
+Feb 5, 2019 0 0
+
+Indian Government Worried That Crypto Could Hurt The Rupee
+
+Feb 5, 2019 0 0
+
+Popular Posts
+
+
+Is Ripple (XRP) A Good Investment?
+
+Jun 27, 2018 2 1
+
+When Is The Next Litecoin (LTC) Halving?
+
+Aug 9, 2018 1 0
+
+Next Coin On Coinbase [Updated December 2018]
+
+Dec 19, 2018 1 2
+
+Canadian Court Seizes Control Of Quadriga Funds Frozen By CIBC
+
+Nov 19, 2018 3 0
+
+What is an Ethereum (ETH) Virtual Machine (EVM)?
+
+Jun 29, 2018 2 0
+
+XBT.net is your one-stop shop for everything cryptos.
+
+  * Bitcoin & Crypto Guides
+  * Blog
+  * How to Buy Bitcoin
+  * Getting Started
+  * News
+  * About
+  * Contact
+  * Privacy Policy
+  * Terms & Conditions
+© 2019 - XBT.net. All Rights Reserved.
+Sign in / Join

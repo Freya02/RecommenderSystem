@@ -1,0 +1,657 @@
+Toggle navigation Geekbench Browser
+  * Geekbench 4
+      + Top Single-Core Results
+      + Top Multi-Core Results
+      + Recent Results
+      + Search Results
+      + Recent Compute Results
+      + Search Compute Results
+  * Geekbench 3
+      + Top Single-Core Results
+      + Top Multi-Core Results
+      + Recent Results
+      + Search Results
+      + Top Battery Results
+      + Longest Battery Results
+      + Recent Battery Results
+      + Search Battery Results
+  * Benchmark Charts
+      + Android Benchmark Chart
+      + iOS Benchmark Chart
+      + Mac Benchmark Chart
+      + Processor Benchmark Chart
+      + CUDA Benchmark Chart
+      + OpenCL Benchmark Chart
+      + RenderScript Benchmark Chart
+      + Battery Benchmark Chart
+  * Account
+      + Sign Up
+      + Log In
+
+Samsung Galaxy A9 Pro Benchmarks
+
+
+Benchmark results for the Samsung Galaxy A9 Pro can be found below. The data on this chart is gathered from user-submitted Geekbench 4 results from the Geekbench Browser.
+
+
+Geekbench 4 scores are calibrated against a baseline score of 4000 (which is the score of an Intel Core i7-6600U). Higher scores are better, with double the score indicating double the performance.
+
+
+CPU Benchmark Scores
+
+1300
+Single-Core Score
+3794
+Multi-Core Score
+
+Compute Benchmark Scores
+
+3738
+OpenCL Score
+3540
+RenderScript Score
+
+Battery Benchmark Scores
+
+N/A
+Battery Score
+
+Device Information
+
+Name                Samsung Galaxy A9 Pro          
+Model Identifier                                   
+Processor           Qualcomm MSM8976 Snapdragon 652
+Processor Frequency 1401 MHz                       
+Processor Cores     4                              
+
+Samsung Benchmarks
+
+  * Single-Core
+  * Multi-Core
+  * OpenCL
+  * RenderScript
+Processor                                                                  Score 
+Samsung Galaxy Note 9 Samsung Exynos 9810 @ 1.8 GHz                        3474  
+Samsung Galaxy S9+ Samsung Exynos 9810 @ 1.8 GHz                           3320  
+Samsung Galaxy S9 Samsung Exynos 9810 @ 1.8 GHz                            3273  
+Samsung Galaxy Note 9 Qualcomm Snapdragon 845 @ 1.8 GHz                    2366  
+Samsung Galaxy S9+ Qualcomm Snapdragon 845 @ 1.8 GHz                       2288  
+Samsung Galaxy S9 Qualcomm Snapdragon 845 @ 1.8 GHz                        2276  
+Samsung Galaxy Note 8 Samsung Exynos 8895 Octa @ 1.7 GHz                   1955  
+Samsung Galaxy S8 Samsung Exynos 8895 Octa @ 1.7 GHz                       1945  
+Samsung Galaxy S8+ Samsung Exynos 8895 Octa @ 1.7 GHz                      1942  
+Samsung Galaxy S7 Samsung Exynos 8890 @ 1.6 GHz                            1813  
+Samsung Galaxy Note 8 Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz            1795  
+Samsung Galaxy S8 Active Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz         1778  
+Samsung Galaxy S8+ Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz               1773  
+Samsung Galaxy S8 Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz                1765  
+Samsung Galaxy S7 edge Samsung Exynos 8890 @ 1.6 GHz                       1746  
+Samsung Galaxy Note 7 Samsung Exynos 8890 @ 1.6 GHz                        1734  
+Samsung Galaxy S7 Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz                1537  
+Samsung Galaxy Tab S3 Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz            1526  
+Samsung Galaxy Note 7 Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz            1519  
+Samsung Galaxy S7 Active Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz         1504  
+Samsung Galaxy A8 (2018) Samsung Exynos 7885 Octa @ 1.6 GHz                1484  
+Samsung Galaxy S7 edge Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz           1457  
+Samsung Galaxy A8+ (2018) Samsung Exynos 7885 Octa @ 1.6 GHz               1455  
+Samsung Galaxy Tab S2 9.7 (2016) Qualcomm MSM8976 Snapdragon 652 @ 1.4 GHz 1369  
+Samsung Galaxy Tab S2 8.0 Samsung Exynos 5433 @ 1.4 GHz                    1359  
+Samsung Galaxy Tab S2 8.0 Qualcomm MSM8976 Snapdragon 652 @ 1.4 GHz        1357  
+Samsung Galaxy S6 edge+ Samsung Exynos 7420 @ 1.5 GHz                      1310  
+Samsung Galaxy A8 (2016) Samsung Exynos 7420 @ 1.5 GHz                     1308  
+Samsung Galaxy Note 5 Samsung Exynos 7420 @ 1.5 GHz                        1303  
+Samsung Galaxy A9 Pro Qualcomm MSM8976 Snapdragon 652 @ 1.4 GHz            1300  
+Samsung Galaxy C9 Pro Qualcomm MSM8976 Snapdragon 653 @ 1.4 GHz            1296  
+Samsung Galaxy S6 edge Samsung Exynos 7420 @ 1.5 GHz                       1292  
+Samsung Galaxy S6 Active Samsung Exynos 7420 @ 1.5 GHz                     1285  
+Samsung Galaxy Note5 Duos Samsung Exynos 7420 @ 1.5 GHz                    1277  
+Samsung Galaxy S6 Samsung Exynos 7420 @ 1.5 GHz                            1257  
+Samsung Galaxy Note FE Samsung Exynos 8890 @ 1.3 GHz                       1034  
+Samsung Galaxy Note 4 Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz            1024  
+Samsung Galaxy S5 Plus Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz           1010  
+Samsung Galaxy Tab S2 9.7 Samsung Exynos 5433 @ 1.3 GHz                    1001  
+Samsung Galaxy S5 LTE-A Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz          973   
+Samsung Galaxy Note 4 Samsung Exynos 5433 @ 1.3 GHz                        972   
+Samsung Galaxy Tab Pro 8.4 Qualcomm Snapdragon 800 @ 2.3 GHz               969   
+Samsung Galaxy Note 4 Duos Qualcomm APQ8084 Snapdragon 805 @ 2.6 GHz       966   
+Samsung Galaxy Note Edge Qualcomm APQ8084 Snapdragon 805 @ 2.6 GHz         965   
+Samsung Galaxy S4 Qualcomm Snapdragon 800 @ 2.3 GHz                        950   
+Samsung Galaxy S5 Active Qualcomm MSM8974AA Snapdragon 801 @ 2.5 GHz       942   
+Samsung Galaxy S5 Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz              931   
+Samsung Galaxy Note 3 Qualcomm Snapdragon 800 @ 2.3 GHz                    923   
+Samsung Galaxy J Qualcomm Snapdragon 800 @ 2.3 GHz                         921   
+Samsung Galaxy S5 Duos Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz         913   
+Samsung Galaxy J7 Perx Qualcomm MSM8953 Snapdragon 625 @ 2.2 GHz           902   
+Samsung Galaxy J7 V Qualcomm MSM8953 Snapdragon 625 @ 2.2 GHz              902   
+Samsung Galaxy C7 Pro Qualcomm Snapdragon 626 @ 2.2 GHz                    892   
+Samsung Galaxy C5 Pro Qualcomm Snapdragon 626 @ 2.2 GHz                    880   
+Samsung Galaxy A8 Duos Qualcomm MSM8939 Snapdragon 615 @ 1.3 GHz           853   
+Samsung Galaxy C7 Qualcomm MSM8953 Snapdragon 625 @ 2.0 GHz                840   
+Samsung Galaxy Tab Pro 10.1 Exynos 5 Octa 5420 @ 1.9 GHz                   807   
+Samsung Nexus 10 Samsung Exynos 5250 @ 1.7 GHz                             801   
+Samsung Galaxy Tab S 10.5 Exynos 5 Octa 5420 @ 1.9 GHz                     785   
+Samsung Galaxy Tab S 8.4 Exynos 5 Octa 5420 @ 1.9 GHz                      782   
+Samsung Galaxy Alpha Samsung Exynos 5430 @ 1.3 GHz                         782   
+Samsung Galaxy Tab S 10.5 Qualcomm Snapdragon 800 @ 1.9 GHz                778   
+Samsung Galaxy Tab S 8.4 LTE Qualcomm Snapdragon 800 @ 1.9 GHz             773   
+Samsung Galaxy A5 (2017) Samsung Exynos 7880 @ 1.9 GHz                     773   
+Samsung Galaxy A7 (2017) Samsung Exynos 7880 @ 1.9 GHz                     771   
+Samsung Galaxy J7 Max Mediatek Helio P20 MT6757 @ 1.7 GHz                  770   
+Samsung Galaxy Note 10.1 (2014) Exynos 5 Octa 5420 @ 1.9 GHz               769   
+Samsung Galaxy Note Pro 12.2 Exynos 5 Octa 5420 @ 1.9 GHz                  762   
+Samsung Galaxy Note 3 Exynos 5 Octa 5420 @ 1.9 GHz                         761   
+Samsung Galaxy S4 (Google Play Edition) Qualcomm Snapdragon 600 @ 1.9 GHz  736   
+Samsung Galaxy S4 Value Edition Qualcomm Snapdragon 600 @ 1.9 GHz          721   
+Samsung Galaxy S4 Qualcomm Snapdragon 600 @ 1.9 GHz                        717   
+Samsung Galaxy S4 Active Qualcomm Snapdragon 600 @ 1.9 GHz                 716   
+Samsung Galaxy J7 (2017) Samsung Exynos 7870 Octa @ 1.6 GHz                714   
+Samsung Galaxy J7 Pro Samsung Exynos 7870 Octa @ 1.6 GHz                   711   
+Samsung Galaxy Feel Samsung Exynos 7870 Octa @ 1.6 GHz                     711   
+Samsung Galaxy Note 3 Neo Samsung Exynos 5260 @ 1.3 GHz                    709   
+Samsung Galaxy Tab A 10.1 Samsung Exynos 7870 Octa @ 1.6 GHz               705   
+Samsung Galaxy A3 (2017) Samsung Exynos 7870 Octa @ 1.6 GHz                705   
+Samsung Galaxy J5 (2017) Samsung Exynos 7870 Octa @ 1.6 GHz                705   
+Samsung Galaxy J7 Qualcomm MSM8952 Snapdragon 617 @ 1.6 GHz                693   
+Samsung Galaxy J7 Nxt Samsung Exynos 7870 Octa @ 1.6 GHz                   692   
+Samsung Galaxy J7 (2016) Qualcomm MSM8952 Snapdragon 617 @ 1.6 GHz         687   
+Samsung Galaxy S4 Exynos 5 Octa 5410 @ 1.6 GHz                             682   
+Samsung Galaxy J7 Prime Samsung Exynos 7870 Octa @ 1.6 GHz                 682   
+Samsung Galaxy C5 Qualcomm MSM8952 Snapdragon 617 @ 1.5 GHz                666   
+Samsung Galaxy A7 (2016) Samsung Exynos 7580 @ 1.6 GHz                     643   
+Samsung Galaxy A5 (2016) Samsung Exynos 7580 @ 1.6 GHz                     642   
+Samsung Galaxy S5 Neo Samsung Exynos 7580 Octa @ 1.6 GHz                   641   
+Samsung Galaxy J7 Sky Pro Qualcomm MSM8953 Snapdragon 625 @ 1.4 GHz        640   
+Samsung Galaxy S4 Mini Qualcomm Snapdragon 400 @ 1.7 GHz                   632   
+Samsung Galaxy S4 Duos Qualcomm Snapdragon 400 @ 1.7 GHz                   629   
+Samsung Galaxy J3 Luna Pro Qualcomm MSM8917 Snapdragon 425 @ 1.4 GHz       629   
+Samsung Galaxy J3 Emerge Qualcomm MSM8937 Snapdragon 430 @ 1.4 GHz         624   
+Samsung Galaxy A3 (2016) Samsung Exynos 7578 @ 1.5 GHz                     613   
+Samsung Galaxy J3 Prime Samsung Exynos 7570 @ 1.4 GHz                      609   
+Samsung Galaxy J3 (2017) Samsung Exynos 7570 @ 1.4 GHz                     607   
+Samsung Galaxy J5 Prime Samsung Exynos 7570 @ 1.4 GHz                      599   
+Samsung Galaxy Note II Samsung Exynos 4412 @ 1.6 GHz                       579   
+Samsung Galaxy Note 8.0 Samsung Exynos 4412 @ 1.6 GHz                      579   
+Samsung Galaxy A7 Qualcomm MSM8939 Snapdragon 615 @ 1.5 GHz                568   
+Samsung Galaxy J2 Prime Mediatek MT6737 @ 1.4 GHz                          558   
+Samsung Galaxy Note 10.1 Samsung Exynos 4412 @ 1.4 GHz                     530   
+Samsung Galaxy Note 10.1 3G Samsung Exynos 4412 @ 1.4 GHz                  525   
+Samsung Galaxy Core Prime Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz        519   
+Samsung Galaxy S III Samsung Exynos 4412 @ 1.4 GHz                         506   
+Samsung Galaxy Grand Prime Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz       497   
+Samsung Galaxy Tab E 9.6 Spreadtrum SC7730 @ 1.2 GHz                       497   
+Samsung Galaxy J5 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                491   
+Samsung Galaxy A3 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                491   
+Samsung Galaxy Tab A 8.0 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz         491   
+Samsung Galaxy Tab A 9.7 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz         491   
+Samsung Galaxy J5 (2016) Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz         491   
+Samsung Galaxy A5 Duos Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz           491   
+Samsung Galaxy A5 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                488   
+Samsung Galaxy E5 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                485   
+Samsung Galaxy J3 V Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz              481   
+Samsung Galaxy Tab 3 8.0 Samsung Exynos 4212 @ 1.5 GHz                     477   
+Samsung Galaxy S III Qualcomm Snapdragon S4 MSM8960 @ 1.5 GHz              476   
+Samsung Galaxy On7 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz               476   
+Samsung Nexus S Samsung Exynos 3110 @ 1.0 GHz                              469   
+Samsung Galaxy S3 Neo Qualcomm MSM8226 Snapdragon 400 @ 1.4 GHz            466   
+Samsung Galaxy Note Samsung Exynos 4210 @ 1.4 GHz                          463   
+Samsung Galaxy J3 Spreadtrum SC9830 @ 1.5 GHz                              440   
+Samsung Galaxy Tab 4 10.1 Qualcomm Snapdragon 400 @ 1.2 GHz                425   
+Samsung Galaxy Grand 2 Qualcomm MSM8226 Snapdragon 400 @ 1.2 GHz           416   
+Samsung Galaxy S II Samsung Exynos 4210 @ 1.2 GHz                          415   
+Samsung Galaxy S5 Mini Samsung Exynos 3470 @ 1.4 GHz                       414   
+Samsung Galaxy Nexus Ti OMAP 4460 @ 1.2 GHz                                413   
+Samsung Galaxy J2 Pro (2016) Spreadtrum SC8830 @ 1.5 GHz                   411   
+Samsung Galaxy Grand Prime Qualcomm MSM8916 Snapdragon 410 @ 1.3 GHz       408   
+Samsung Galaxy J2 Samsung Exynos 3475 Quad @ 1.3 GHz                       406   
+Samsung Galaxy On5 Samsung Exynos 3475 Quad @ 1.3 GHz                      403   
+Samsung Galaxy Tab A 7.0 Qualcomm MSM8916 Snapdragon 410 @ 1.3 GHz         395   
+Samsung Galaxy J3 (2016) Spreadtrum SC9830 @ 1.3 GHz                       387   
+Samsung Galaxy J1 (2016) Spreadtrum SC9830 @ 1.2 GHz                       374   
+Samsung Galaxy Note LTE Qualcomm Snapdragon S4 MSM8660 @ 1.5 GHz           331   
+Samsung Galaxy Tab 2 10.1 Ti OMAP 4430 @ 1.0 GHz                           312   
+Samsung Galaxy Tab 2 7.0 (WiFi) Ti OMAP 4430 @ 1.0 GHz                     311   
+Samsung Galaxy Tab 2 7.0 Ti OMAP 4430 @ 1.0 GHz                            310   
+Samsung Galaxy S III mini ST-Ericsson NovaThor U8420 @ 1.0 GHz             306   
+Samsung Galaxy S II Skyrocket Qualcomm Snapdragon S3 MSM8260 @ 1.5 GHz     300   
+Processor                                                                  Score 
+Samsung Galaxy Note 9 Samsung Exynos 9810 @ 1.8 GHz                        8800  
+Samsung Galaxy S9+ Samsung Exynos 9810 @ 1.8 GHz                           8663  
+Samsung Galaxy Note 9 Qualcomm Snapdragon 845 @ 1.8 GHz                    8551  
+Samsung Galaxy S9 Samsung Exynos 9810 @ 1.8 GHz                            8524  
+Samsung Galaxy S9+ Qualcomm Snapdragon 845 @ 1.8 GHz                       8275  
+Samsung Galaxy S9 Qualcomm Snapdragon 845 @ 1.8 GHz                        8209  
+Samsung Galaxy Note 8 Samsung Exynos 8895 Octa @ 1.7 GHz                   6422  
+Samsung Galaxy S8 Samsung Exynos 8895 Octa @ 1.7 GHz                       6397  
+Samsung Galaxy S8+ Samsung Exynos 8895 Octa @ 1.7 GHz                      6361  
+Samsung Galaxy Note 8 Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz            6280  
+Samsung Galaxy S8 Active Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz         6055  
+Samsung Galaxy S8+ Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz               6030  
+Samsung Galaxy S8 Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz                6022  
+Samsung Galaxy S7 Samsung Exynos 8890 @ 1.6 GHz                            5359  
+Samsung Galaxy S7 edge Samsung Exynos 8890 @ 1.6 GHz                       5294  
+Samsung Galaxy Note 7 Samsung Exynos 8890 @ 1.6 GHz                        5109  
+Samsung Galaxy Tab S2 9.7 (2016) Qualcomm MSM8976 Snapdragon 652 @ 1.4 GHz 4272  
+Samsung Galaxy A8 (2018) Samsung Exynos 7885 Octa @ 1.6 GHz                4210  
+Samsung Galaxy A8 (2016) Samsung Exynos 7420 @ 1.5 GHz                     4208  
+Samsung Galaxy C7 Pro Qualcomm Snapdragon 626 @ 2.2 GHz                    4202  
+Samsung Galaxy J7 V Qualcomm MSM8953 Snapdragon 625 @ 2.2 GHz              4172  
+Samsung Galaxy S6 Active Samsung Exynos 7420 @ 1.5 GHz                     4147  
+Samsung Galaxy J7 Perx Qualcomm MSM8953 Snapdragon 625 @ 2.2 GHz           4139  
+Samsung Galaxy A5 (2017) Samsung Exynos 7880 @ 1.9 GHz                     4106  
+Samsung Galaxy A8+ (2018) Samsung Exynos 7885 Octa @ 1.6 GHz               4088  
+Samsung Galaxy S6 edge+ Samsung Exynos 7420 @ 1.5 GHz                      4058  
+Samsung Galaxy S6 edge Samsung Exynos 7420 @ 1.5 GHz                       4050  
+Samsung Galaxy C5 Pro Qualcomm Snapdragon 626 @ 2.2 GHz                    4049  
+Samsung Galaxy C9 Pro Qualcomm MSM8976 Snapdragon 653 @ 1.4 GHz            4027  
+Samsung Galaxy Note 5 Samsung Exynos 7420 @ 1.5 GHz                        4026  
+Samsung Galaxy A7 (2017) Samsung Exynos 7880 @ 1.9 GHz                     4012  
+Samsung Galaxy Tab S2 8.0 Samsung Exynos 5433 @ 1.4 GHz                    3962  
+Samsung Galaxy Tab S2 8.0 Qualcomm MSM8976 Snapdragon 652 @ 1.4 GHz        3953  
+Samsung Galaxy Note5 Duos Samsung Exynos 7420 @ 1.5 GHz                    3952  
+Samsung Galaxy S6 Samsung Exynos 7420 @ 1.5 GHz                            3944  
+Samsung Galaxy Note 7 Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz            3864  
+Samsung Galaxy Tab S3 Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz            3842  
+Samsung Galaxy A9 Pro Qualcomm MSM8976 Snapdragon 652 @ 1.4 GHz            3794  
+Samsung Galaxy S7 edge Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz           3746  
+Samsung Galaxy S7 Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz                3722  
+Samsung Galaxy S7 Active Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz         3703  
+Samsung Galaxy Feel Samsung Exynos 7870 Octa @ 1.6 GHz                     3553  
+Samsung Galaxy C7 Qualcomm MSM8953 Snapdragon 625 @ 2.0 GHz                3530  
+Samsung Galaxy J7 (2017) Samsung Exynos 7870 Octa @ 1.6 GHz                3496  
+Samsung Galaxy J7 Pro Samsung Exynos 7870 Octa @ 1.6 GHz                   3465  
+Samsung Galaxy A3 (2017) Samsung Exynos 7870 Octa @ 1.6 GHz                3429  
+Samsung Galaxy Tab A 10.1 Samsung Exynos 7870 Octa @ 1.6 GHz               3410  
+Samsung Galaxy Note FE Samsung Exynos 8890 @ 1.3 GHz                       3409  
+Samsung Galaxy J5 (2017) Samsung Exynos 7870 Octa @ 1.6 GHz                3367  
+Samsung Galaxy J7 Qualcomm MSM8952 Snapdragon 617 @ 1.6 GHz                3326  
+Samsung Galaxy J7 (2016) Qualcomm MSM8952 Snapdragon 617 @ 1.6 GHz         3323  
+Samsung Galaxy Tab S2 9.7 Samsung Exynos 5433 @ 1.3 GHz                    3295  
+Samsung Galaxy J7 Nxt Samsung Exynos 7870 Octa @ 1.6 GHz                   3257  
+Samsung Galaxy J7 Max Mediatek Helio P20 MT6757 @ 1.7 GHz                  3238  
+Samsung Galaxy Note 4 Samsung Exynos 5433 @ 1.3 GHz                        3220  
+Samsung Galaxy A5 (2016) Samsung Exynos 7580 @ 1.6 GHz                     3207  
+Samsung Galaxy A7 (2016) Samsung Exynos 7580 @ 1.6 GHz                     3206  
+Samsung Galaxy J7 Prime Samsung Exynos 7870 Octa @ 1.6 GHz                 3147  
+Samsung Galaxy S5 Neo Samsung Exynos 7580 Octa @ 1.6 GHz                   3063  
+Samsung Galaxy Note 4 Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz            2832  
+Samsung Galaxy A8 Duos Qualcomm MSM8939 Snapdragon 615 @ 1.3 GHz           2763  
+Samsung Galaxy S5 LTE-A Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz          2633  
+Samsung Galaxy S5 Plus Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz           2616  
+Samsung Galaxy C5 Qualcomm MSM8952 Snapdragon 617 @ 1.5 GHz                2613  
+Samsung Galaxy Tab Pro 8.4 Qualcomm Snapdragon 800 @ 2.3 GHz               2547  
+Samsung Galaxy S5 Active Qualcomm MSM8974AA Snapdragon 801 @ 2.5 GHz       2517  
+Samsung Galaxy Note 4 Duos Qualcomm APQ8084 Snapdragon 805 @ 2.6 GHz       2494  
+Samsung Galaxy Note Edge Qualcomm APQ8084 Snapdragon 805 @ 2.6 GHz         2458  
+Samsung Galaxy Alpha Samsung Exynos 5430 @ 1.3 GHz                         2454  
+Samsung Galaxy Note 3 Qualcomm Snapdragon 800 @ 2.3 GHz                    2420  
+Samsung Galaxy S4 Qualcomm Snapdragon 800 @ 2.3 GHz                        2415  
+Samsung Galaxy S5 Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz              2411  
+Samsung Galaxy S5 Duos Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz         2372  
+Samsung Galaxy J Qualcomm Snapdragon 800 @ 2.3 GHz                         2250  
+Samsung Galaxy Tab Pro 10.1 Exynos 5 Octa 5420 @ 1.9 GHz                   2019  
+Samsung Galaxy Note 10.1 (2014) Exynos 5 Octa 5420 @ 1.9 GHz               1981  
+Samsung Galaxy Tab S 10.5 Exynos 5 Octa 5420 @ 1.9 GHz                     1979  
+Samsung Galaxy Note 3 Exynos 5 Octa 5420 @ 1.9 GHz                         1967  
+Samsung Galaxy Note Pro 12.2 Exynos 5 Octa 5420 @ 1.9 GHz                  1958  
+Samsung Galaxy Tab S 10.5 Qualcomm Snapdragon 800 @ 1.9 GHz                1937  
+Samsung Galaxy Tab S 8.4 Exynos 5 Octa 5420 @ 1.9 GHz                      1889  
+Samsung Galaxy Tab S 8.4 LTE Qualcomm Snapdragon 800 @ 1.9 GHz             1850  
+Samsung Galaxy A3 (2016) Samsung Exynos 7578 @ 1.5 GHz                     1825  
+Samsung Galaxy S4 Value Edition Qualcomm Snapdragon 600 @ 1.9 GHz          1796  
+Samsung Galaxy S4 Active Qualcomm Snapdragon 600 @ 1.9 GHz                 1792  
+Samsung Galaxy S4 Qualcomm Snapdragon 600 @ 1.9 GHz                        1773  
+Samsung Galaxy J3 (2017) Samsung Exynos 7570 @ 1.4 GHz                     1758  
+Samsung Galaxy J3 Prime Samsung Exynos 7570 @ 1.4 GHz                      1751  
+Samsung Galaxy J5 Prime Samsung Exynos 7570 @ 1.4 GHz                      1718  
+Samsung Galaxy S4 Exynos 5 Octa 5410 @ 1.6 GHz                             1692  
+Samsung Galaxy Note 3 Neo Samsung Exynos 5260 @ 1.3 GHz                    1658  
+Samsung Galaxy J7 Sky Pro Qualcomm MSM8953 Snapdragon 625 @ 1.4 GHz        1647  
+Samsung Galaxy J3 Luna Pro Qualcomm MSM8917 Snapdragon 425 @ 1.4 GHz       1637  
+Samsung Galaxy J3 Emerge Qualcomm MSM8937 Snapdragon 430 @ 1.4 GHz         1620  
+Samsung Galaxy J2 Prime Mediatek MT6737 @ 1.4 GHz                          1596  
+Samsung Galaxy S4 (Google Play Edition) Qualcomm Snapdragon 600 @ 1.9 GHz  1522  
+Samsung Galaxy Note II Samsung Exynos 4412 @ 1.6 GHz                       1489  
+Samsung Galaxy A7 Qualcomm MSM8939 Snapdragon 615 @ 1.5 GHz                1470  
+Samsung Galaxy Note 8.0 Samsung Exynos 4412 @ 1.6 GHz                      1469  
+Samsung Galaxy Core Prime Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz        1434  
+Samsung Galaxy Note 10.1 Samsung Exynos 4412 @ 1.4 GHz                     1385  
+Samsung Galaxy Note 10.1 3G Samsung Exynos 4412 @ 1.4 GHz                  1382  
+Samsung Galaxy Tab A 9.7 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz         1279  
+Samsung Galaxy Grand Prime Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz       1264  
+Samsung Galaxy Tab A 8.0 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz         1254  
+Samsung Galaxy S III Samsung Exynos 4412 @ 1.4 GHz                         1253  
+Samsung Galaxy Tab E 9.6 Spreadtrum SC7730 @ 1.2 GHz                       1246  
+Samsung Nexus 10 Samsung Exynos 5250 @ 1.7 GHz                             1223  
+Samsung Galaxy S3 Neo Qualcomm MSM8226 Snapdragon 400 @ 1.4 GHz            1210  
+Samsung Galaxy J5 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                1199  
+Samsung Nexus S Samsung Exynos 3110 @ 1.0 GHz                              1195  
+Samsung Galaxy J5 (2016) Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz         1166  
+Samsung Galaxy E5 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                1160  
+Samsung Galaxy J3 Spreadtrum SC9830 @ 1.5 GHz                              1158  
+Samsung Galaxy On5 Samsung Exynos 3475 Quad @ 1.3 GHz                      1152  
+Samsung Galaxy J3 V Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz              1140  
+Samsung Galaxy A5 Duos Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz           1128  
+Samsung Galaxy A5 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                1126  
+Samsung Galaxy Tab 4 10.1 Qualcomm Snapdragon 400 @ 1.2 GHz                1124  
+Samsung Galaxy S5 Mini Samsung Exynos 3470 @ 1.4 GHz                       1122  
+Samsung Galaxy J2 Samsung Exynos 3475 Quad @ 1.3 GHz                       1119  
+Samsung Galaxy A3 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                1115  
+Samsung Galaxy On7 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz               1113  
+Samsung Galaxy Grand 2 Qualcomm MSM8226 Snapdragon 400 @ 1.2 GHz           1099  
+Samsung Galaxy Grand Prime Qualcomm MSM8916 Snapdragon 410 @ 1.3 GHz       1070  
+Samsung Galaxy J2 Pro (2016) Spreadtrum SC8830 @ 1.5 GHz                   1051  
+Samsung Galaxy Tab A 7.0 Qualcomm MSM8916 Snapdragon 410 @ 1.3 GHz         1026  
+Samsung Galaxy J3 (2016) Spreadtrum SC9830 @ 1.3 GHz                       1005  
+Samsung Galaxy S4 Mini Qualcomm Snapdragon 400 @ 1.7 GHz                   985   
+Samsung Galaxy S4 Duos Qualcomm Snapdragon 400 @ 1.7 GHz                   985   
+Samsung Galaxy J1 (2016) Spreadtrum SC9830 @ 1.2 GHz                       975   
+Samsung Galaxy S III Qualcomm Snapdragon S4 MSM8960 @ 1.5 GHz              775   
+Samsung Galaxy Tab 3 8.0 Samsung Exynos 4212 @ 1.5 GHz                     761   
+Samsung Galaxy Note Samsung Exynos 4210 @ 1.4 GHz                          696   
+Samsung Galaxy Nexus Ti OMAP 4460 @ 1.2 GHz                                668   
+Samsung Galaxy S II Samsung Exynos 4210 @ 1.2 GHz                          639   
+Samsung Galaxy Note LTE Qualcomm Snapdragon S4 MSM8660 @ 1.5 GHz           568   
+Samsung Galaxy S II Skyrocket Qualcomm Snapdragon S3 MSM8260 @ 1.5 GHz     537   
+Samsung Galaxy Tab 2 10.1 Ti OMAP 4430 @ 1.0 GHz                           522   
+Samsung Galaxy Tab 2 7.0 (WiFi) Ti OMAP 4430 @ 1.0 GHz                     517   
+Samsung Galaxy Tab 2 7.0 Ti OMAP 4430 @ 1.0 GHz                            513   
+Samsung Galaxy S III mini ST-Ericsson NovaThor U8420 @ 1.0 GHz             489   
+Processor                                                                  Score 
+Samsung Galaxy Note 8 Samsung Exynos 8895 Octa @ 1.7 GHz                   13943 
+Samsung Galaxy S8 Samsung Exynos 8895 Octa @ 1.7 GHz                       13884 
+Samsung Galaxy S8+ Samsung Exynos 8895 Octa @ 1.7 GHz                      13821 
+Samsung Galaxy S9+ Samsung Exynos 9810 @ 1.8 GHz                           13488 
+Samsung Galaxy Note 9 Samsung Exynos 9810 @ 1.8 GHz                        13471 
+Samsung Galaxy S9 Samsung Exynos 9810 @ 1.8 GHz                            13226 
+Samsung Galaxy S9+ Qualcomm Snapdragon 845 @ 1.8 GHz                       13095 
+Samsung Galaxy Note 9 Qualcomm Snapdragon 845 @ 1.8 GHz                    12962 
+Samsung Galaxy Note 8 Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz            12942 
+Samsung Galaxy S9 Qualcomm Snapdragon 845 @ 1.8 GHz                        12941 
+Samsung Galaxy S8 Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz                12893 
+Samsung Galaxy S8+ Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz               11699 
+Samsung Galaxy S8 Active Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz         10346 
+Samsung Galaxy Tab S3 Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz            9020  
+Samsung Galaxy Note FE Samsung Exynos 8890 @ 1.3 GHz                       8417  
+Samsung Galaxy S7 Active Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz         8229  
+Samsung Galaxy S7 Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz                7380  
+Samsung Galaxy S7 Samsung Exynos 8890 @ 1.6 GHz                            7326  
+Samsung Galaxy S7 edge Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz           6927  
+Samsung Galaxy S7 edge Samsung Exynos 8890 @ 1.6 GHz                       6900  
+Samsung Galaxy S6 Active Samsung Exynos 7420 @ 1.5 GHz                     5813  
+Samsung Galaxy A8 (2016) Samsung Exynos 7420 @ 1.5 GHz                     5735  
+Samsung Galaxy Note 5 Samsung Exynos 7420 @ 1.5 GHz                        5605  
+Samsung Galaxy S6 edge+ Samsung Exynos 7420 @ 1.5 GHz                      5482  
+Samsung Galaxy S6 Samsung Exynos 7420 @ 1.5 GHz                            5379  
+Samsung Galaxy S6 edge Samsung Exynos 7420 @ 1.5 GHz                       5252  
+Samsung Galaxy Note5 Duos Samsung Exynos 7420 @ 1.5 GHz                    5225  
+Samsung Galaxy S5 Plus Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz           4966  
+Samsung Galaxy A8+ (2018) Samsung Exynos 7885 Octa @ 1.6 GHz               4910  
+Samsung Galaxy Note Edge Qualcomm APQ8084 Snapdragon 805 @ 2.6 GHz         4792  
+Samsung Galaxy S5 LTE-A Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz          4782  
+Samsung Galaxy Note 4 Duos Qualcomm APQ8084 Snapdragon 805 @ 2.6 GHz       4636  
+Samsung Galaxy A8 (2018) Samsung Exynos 7885 Octa @ 1.6 GHz                4545  
+Samsung Galaxy Tab S2 9.7 (2016) Qualcomm MSM8976 Snapdragon 652 @ 1.4 GHz 3901  
+Samsung Galaxy Tab S2 8.0 Qualcomm MSM8976 Snapdragon 652 @ 1.4 GHz        3888  
+Samsung Galaxy A9 Pro Qualcomm MSM8976 Snapdragon 652 @ 1.4 GHz            3738  
+Samsung Galaxy Note 4 Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz            3533  
+Samsung Galaxy Note 7 Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz            3524  
+Samsung Galaxy Tab S2 9.7 Samsung Exynos 5433 @ 1.3 GHz                    3515  
+Samsung Galaxy C9 Pro Qualcomm MSM8976 Snapdragon 653 @ 1.4 GHz            3475  
+Samsung Galaxy Note 7 Samsung Exynos 8890 @ 1.6 GHz                        3433  
+Samsung Galaxy Note 4 Samsung Exynos 5433 @ 1.3 GHz                        3419  
+Samsung Galaxy Tab S2 8.0 Samsung Exynos 5433 @ 1.4 GHz                    3386  
+Samsung Galaxy A5 (2017) Samsung Exynos 7880 @ 1.9 GHz                     3299  
+Samsung Galaxy A7 (2017) Samsung Exynos 7880 @ 1.9 GHz                     3285  
+Samsung Galaxy C7 (2017) Mediatek MT6755 Helio P10 @ 0 MHz                 2446  
+Samsung Galaxy S5 Active Qualcomm MSM8974AA Snapdragon 801 @ 2.5 GHz       2390  
+Samsung Galaxy Tab Pro 8.4 Qualcomm Snapdragon 800 @ 2.3 GHz               2349  
+Samsung Galaxy Tab S 8.4 Exynos 5 Octa 5420 @ 1.9 GHz                      2344  
+Samsung Galaxy J Qualcomm Snapdragon 800 @ 2.3 GHz                         2329  
+Samsung Galaxy S5 Duos Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz         2219  
+Samsung Galaxy Tab S 8.4 LTE Qualcomm Snapdragon 800 @ 1.9 GHz             2192  
+Samsung Galaxy S5 Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz              2168  
+Samsung Galaxy S5 Samsung Exynos Octa 5422 @ 1.9 GHz                       2168  
+Samsung Galaxy Tab S 10.5 Qualcomm Snapdragon 800 @ 1.9 GHz                2126  
+Samsung Galaxy Tab S 10.5 Exynos 5 Octa 5420 @ 1.9 GHz                     2126  
+Samsung Galaxy Note 3 Exynos 5 Octa 5420 @ 1.9 GHz                         1989  
+Samsung Galaxy Note 3 Qualcomm Snapdragon 800 @ 2.3 GHz                    1976  
+Samsung Galaxy A8 Duos Qualcomm MSM8939 Snapdragon 615 @ 1.3 GHz           1917  
+Samsung Galaxy Note 10.1 (2014) Exynos 5 Octa 5420 @ 1.9 GHz               1841  
+Samsung Galaxy Note Pro 12.2 Exynos 5 Octa 5420 @ 1.9 GHz                  1806  
+Samsung Galaxy J7 Perx Qualcomm MSM8953 Snapdragon 625 @ 2.2 GHz           1781  
+Samsung Galaxy C7 Qualcomm MSM8953 Snapdragon 625 @ 2.0 GHz                1735  
+Samsung Galaxy C5 Pro Qualcomm Snapdragon 626 @ 2.2 GHz                    1718  
+Samsung Galaxy C7 Pro Qualcomm Snapdragon 626 @ 2.2 GHz                    1688  
+Samsung Galaxy Alpha Samsung Exynos 5430 @ 1.3 GHz                         1645  
+Samsung Galaxy S4 Exynos 5 Octa 5410 @ 1.6 GHz                             1459  
+Samsung Galaxy S4 Qualcomm Snapdragon 800 @ 2.3 GHz                        1459  
+Samsung Galaxy S4 Qualcomm Snapdragon 600 @ 1.9 GHz                        1436  
+Samsung Galaxy Note 3 Neo Samsung Exynos 5260 @ 1.3 GHz                    1422  
+Samsung Galaxy S4 (Google Play Edition) Qualcomm Snapdragon 600 @ 1.9 GHz  1373  
+Samsung Galaxy S4 Active Qualcomm Snapdragon 600 @ 1.9 GHz                 1362  
+Samsung Galaxy S4 Value Edition Qualcomm Snapdragon 600 @ 1.9 GHz          1296  
+Samsung Galaxy A7 (2016) Samsung Exynos 7580 @ 1.6 GHz                     1282  
+Samsung Galaxy C5 Qualcomm MSM8952 Snapdragon 617 @ 1.5 GHz                1257  
+Samsung Galaxy A7 Qualcomm MSM8939 Snapdragon 615 @ 1.5 GHz                1255  
+Samsung Galaxy Feel Samsung Exynos 7870 Octa @ 1.6 GHz                     1237  
+Samsung Galaxy J7 (2017) Samsung Exynos 7870 Octa @ 1.6 GHz                1235  
+Samsung Galaxy Tab A 10.1 Samsung Exynos 7870 Octa @ 1.6 GHz               1234  
+Samsung Galaxy A3 (2017) Samsung Exynos 7870 Octa @ 1.6 GHz                1232  
+Samsung Galaxy J7 Pro Samsung Exynos 7870 Octa @ 1.6 GHz                   1231  
+Samsung Galaxy A3 (2016) Samsung Exynos 7578 @ 1.5 GHz                     1204  
+Samsung Galaxy J5 (2017) Samsung Exynos 7870 Octa @ 1.6 GHz                1200  
+Samsung Galaxy J7 Prime Samsung Exynos 7870 Octa @ 1.6 GHz                 1194  
+Samsung Galaxy J7 (2016) Qualcomm MSM8952 Snapdragon 617 @ 1.6 GHz         1151  
+Samsung Galaxy A5 (2016) Samsung Exynos 7580 @ 1.6 GHz                     1143  
+Samsung Galaxy J7 Nxt Samsung Exynos 7870 Octa @ 1.6 GHz                   1116  
+Samsung Galaxy J7 Qualcomm MSM8952 Snapdragon 617 @ 1.6 GHz                1056  
+Samsung Galaxy S5 Neo Samsung Exynos 7580 Octa @ 1.6 GHz                   1041  
+Samsung Galaxy J3 (2017) Samsung Exynos 7570 @ 1.4 GHz                     644   
+Samsung Galaxy J5 Prime Samsung Exynos 7570 @ 1.4 GHz                      616   
+Samsung Galaxy J3 Emerge Qualcomm MSM8937 Snapdragon 430 @ 1.4 GHz         564   
+Samsung Galaxy J3 Luna Pro Qualcomm MSM8917 Snapdragon 425 @ 1.4 GHz       539   
+Samsung Galaxy J3 Spreadtrum SC9830 @ 1.5 GHz                              502   
+Samsung Galaxy J1 (2016) Spreadtrum SC9830 @ 1.2 GHz                       491   
+Samsung Galaxy S3 Neo Qualcomm MSM8226 Snapdragon 400 @ 1.4 GHz            427   
+Samsung Galaxy S5 Mini Samsung Exynos 3470 @ 1.4 GHz                       425   
+Samsung Galaxy J2 Prime Mediatek MT6737 @ 1.4 GHz                          422   
+Samsung Galaxy Tab A 9.7 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz         415   
+Samsung Galaxy J5 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                400   
+Samsung Galaxy A3 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                400   
+Samsung Galaxy A5 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                400   
+Samsung Galaxy J5 (2016) Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz         400   
+Samsung Galaxy Tab A 8.0 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz         399   
+Samsung Galaxy A5 Duos Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz           399   
+Samsung Galaxy On7 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz               399   
+Samsung Galaxy J3 (2016) Spreadtrum SC9830 @ 1.3 GHz                       397   
+Samsung Galaxy E5 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                397   
+Samsung Galaxy On5 Samsung Exynos 3475 Quad @ 1.3 GHz                      353   
+Samsung Galaxy Tab 4 10.1 Qualcomm Snapdragon 400 @ 1.2 GHz                316   
+Processor                                                                  Score 
+Samsung Galaxy S9+ Qualcomm Snapdragon 845 @ 1.8 GHz                       13515 
+Samsung Galaxy Note 9 Qualcomm Snapdragon 845 @ 1.8 GHz                    13406 
+Samsung Galaxy S9 Qualcomm Snapdragon 845 @ 1.8 GHz                        13215 
+Samsung Galaxy Note 8 Samsung Exynos 8895 Octa @ 1.7 GHz                   10164 
+Samsung Galaxy Note 9 Samsung Exynos 9810 @ 1.8 GHz                        9361  
+Samsung Galaxy S8 Samsung Exynos 8895 Octa @ 1.7 GHz                       9341  
+Samsung Galaxy Note 8 Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz            9187  
+Samsung Galaxy S8+ Samsung Exynos 8895 Octa @ 1.7 GHz                      9099  
+Samsung Galaxy S8 Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz                8897  
+Samsung Galaxy S9 Samsung Exynos 9810 @ 1.8 GHz                            8510  
+Samsung Galaxy S9+ Samsung Exynos 9810 @ 1.8 GHz                           8392  
+Samsung Galaxy S8+ Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz               8371  
+Samsung Galaxy S8 Active Qualcomm MSM8998 Snapdragon 835 @ 1.9 GHz         7499  
+Samsung Galaxy Tab S3 Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz            6666  
+Samsung Galaxy S7 Active Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz         6150  
+Samsung Galaxy Note FE Samsung Exynos 8890 @ 1.3 GHz                       5275  
+Samsung Galaxy S7 Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz                4877  
+Samsung Galaxy S7 Samsung Exynos 8890 @ 1.6 GHz                            4708  
+Samsung Galaxy S7 edge Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz           4688  
+Samsung Galaxy S7 edge Samsung Exynos 8890 @ 1.6 GHz                       4513  
+Samsung Galaxy Tab S2 9.7 (2016) Qualcomm MSM8976 Snapdragon 652 @ 1.4 GHz 4223  
+Samsung Galaxy Tab S2 8.0 Qualcomm MSM8976 Snapdragon 652 @ 1.4 GHz        4141  
+Samsung Galaxy C9 Pro Qualcomm MSM8976 Snapdragon 653 @ 1.4 GHz            4088  
+Samsung Galaxy Note 7 Qualcomm MSM8996 Snapdragon 820 @ 1.6 GHz            4067  
+Samsung Galaxy A8 (2018) Samsung Exynos 7885 Octa @ 1.6 GHz                3681  
+Samsung Galaxy A9 Pro Qualcomm MSM8976 Snapdragon 652 @ 1.4 GHz            3540  
+Samsung Galaxy A8+ (2018) Samsung Exynos 7885 Octa @ 1.6 GHz               3537  
+Samsung Galaxy Tab 3 10.1 Intel Atom Z2560 @ 1.6 GHz                       3480  
+Samsung Galaxy J7 Perx Qualcomm MSM8953 Snapdragon 625 @ 2.2 GHz           3419  
+Samsung Galaxy J7 V Qualcomm MSM8953 Snapdragon 625 @ 2.2 GHz              3415  
+Samsung Galaxy A8 (2016) Samsung Exynos 7420 @ 1.5 GHz                     3404  
+Samsung Galaxy C7 Pro Qualcomm Snapdragon 626 @ 2.2 GHz                    3330  
+Samsung Galaxy C5 Pro Qualcomm Snapdragon 626 @ 2.2 GHz                    3311  
+Samsung Galaxy Note 7 Samsung Exynos 8890 @ 1.6 GHz                        3309  
+Samsung Galaxy S5 Plus Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz           3286  
+Samsung Galaxy Tab S2 8.0 Samsung Exynos 5433 @ 1.4 GHz                    3181  
+Samsung Galaxy S6 Active Samsung Exynos 7420 @ 1.5 GHz                     3084  
+Samsung Galaxy C7 Qualcomm MSM8953 Snapdragon 625 @ 2.0 GHz                3058  
+Samsung Galaxy S5 LTE-A Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz          3056  
+Samsung Galaxy A5 (2017) Samsung Exynos 7880 @ 1.9 GHz                     2989  
+Samsung Galaxy A7 (2017) Samsung Exynos 7880 @ 1.9 GHz                     2956  
+Samsung Galaxy S6 edge Samsung Exynos 7420 @ 1.5 GHz                       2915  
+Samsung Galaxy S6 edge+ Samsung Exynos 7420 @ 1.5 GHz                      2899  
+Samsung Galaxy Note 5 Samsung Exynos 7420 @ 1.5 GHz                        2891  
+Samsung Galaxy Note5 Duos Samsung Exynos 7420 @ 1.5 GHz                    2886  
+Samsung Galaxy Note Edge Qualcomm APQ8084 Snapdragon 805 @ 2.6 GHz         2851  
+Samsung Galaxy Tab S2 9.7 Samsung Exynos 5433 @ 1.3 GHz                    2843  
+Samsung Galaxy S6 Samsung Exynos 7420 @ 1.5 GHz                            2839  
+Samsung Galaxy Note 4 Duos Qualcomm APQ8084 Snapdragon 805 @ 2.6 GHz       2774  
+Samsung Galaxy Note 4 Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz            2622  
+Samsung Galaxy Note 4 Samsung Exynos 5433 @ 1.3 GHz                        2613  
+Samsung Galaxy S5 Active Qualcomm MSM8974AA Snapdragon 801 @ 2.5 GHz       2577  
+Samsung Galaxy Feel Samsung Exynos 7870 Octa @ 1.6 GHz                     2406  
+Samsung Galaxy S5 Duos Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz         2354  
+Samsung Galaxy S5 Samsung Exynos Octa 5422 @ 1.9 GHz                       2320  
+Samsung Galaxy S5 Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz              2319  
+Samsung Galaxy J7 (2017) Samsung Exynos 7870 Octa @ 1.6 GHz                2274  
+Samsung Galaxy A3 (2017) Samsung Exynos 7870 Octa @ 1.6 GHz                2272  
+Samsung Galaxy J7 Pro Samsung Exynos 7870 Octa @ 1.6 GHz                   2249  
+Samsung Galaxy J5 (2017) Samsung Exynos 7870 Octa @ 1.6 GHz                2236  
+Samsung Galaxy Note 3 Exynos 5 Octa 5420 @ 1.9 GHz                         2228  
+Samsung Galaxy Note 3 Qualcomm Snapdragon 800 @ 2.3 GHz                    2223  
+Samsung Galaxy J7 Nxt Samsung Exynos 7870 Octa @ 1.6 GHz                   2186  
+Samsung Galaxy Tab A 10.1 Samsung Exynos 7870 Octa @ 1.6 GHz               2169  
+Samsung Galaxy S Vibrant Samsung Exynos 3110 @ 1.0 GHz                     2140  
+Samsung Galaxy J7 Prime Samsung Exynos 7870 Octa @ 1.6 GHz                 2117  
+Samsung Galaxy J Qualcomm Snapdragon 800 @ 2.3 GHz                         2110  
+Samsung Galaxy Tab Pro 8.4 Qualcomm Snapdragon 800 @ 2.3 GHz               2101  
+Samsung Galaxy J7 (2016) Qualcomm MSM8952 Snapdragon 617 @ 1.6 GHz         2039  
+Samsung Galaxy A7 Qualcomm MSM8939 Snapdragon 615 @ 1.5 GHz                1988  
+Samsung Galaxy J7 Qualcomm MSM8952 Snapdragon 617 @ 1.6 GHz                1987  
+Samsung Galaxy A8 Duos Qualcomm MSM8939 Snapdragon 615 @ 1.3 GHz           1987  
+Samsung Galaxy A5 (2016) Samsung Exynos 7580 @ 1.6 GHz                     1982  
+Samsung Galaxy A7 (2016) Samsung Exynos 7580 @ 1.6 GHz                     1974  
+Samsung Galaxy S5 Neo Samsung Exynos 7580 Octa @ 1.6 GHz                   1973  
+Samsung Galaxy C7 (2017) Mediatek MT6755 Helio P10 @ 0 MHz                 1950  
+Samsung Galaxy Note 10.1 (2014) Exynos 5 Octa 5420 @ 1.9 GHz               1946  
+Samsung Galaxy C5 Qualcomm MSM8952 Snapdragon 617 @ 1.5 GHz                1899  
+Samsung Galaxy J7 Max Mediatek Helio P20 MT6757 @ 1.7 GHz                  1892  
+Samsung Galaxy Alpha Samsung Exynos 5430 @ 1.3 GHz                         1797  
+Samsung Galaxy Note Pro 12.2 Exynos 5 Octa 5420 @ 1.9 GHz                  1776  
+Samsung Galaxy Tab S 8.4 Exynos 5 Octa 5420 @ 1.9 GHz                      1715  
+Samsung Galaxy Tab Pro 10.1 Exynos 5 Octa 5420 @ 1.9 GHz                   1709  
+Samsung Galaxy Tab S 10.5 Exynos 5 Octa 5420 @ 1.9 GHz                     1707  
+Samsung Galaxy Tab S 8.4 LTE Qualcomm Snapdragon 800 @ 1.9 GHz             1706  
+Samsung Galaxy Tab S 10.5 Qualcomm Snapdragon 800 @ 1.9 GHz                1703  
+Samsung Nexus S Samsung Exynos 3110 @ 1.0 GHz                              1603  
+Samsung Galaxy S4 Exynos 5 Octa 5410 @ 1.6 GHz                             1524  
+Samsung Galaxy S4 Qualcomm Snapdragon 800 @ 2.3 GHz                        1524  
+Samsung Galaxy S4 Qualcomm Snapdragon 600 @ 1.9 GHz                        1511  
+Samsung Galaxy S4 Value Edition Qualcomm Snapdragon 600 @ 1.9 GHz          1361  
+Samsung Galaxy S4 Active Qualcomm Snapdragon 600 @ 1.9 GHz                 1339  
+Samsung Nexus 10 Samsung Exynos 5250 @ 1.7 GHz                             1318  
+Samsung Galaxy Note 3 Neo Samsung Exynos 5260 @ 1.3 GHz                    1292  
+Samsung Galaxy S4 (Google Play Edition) Qualcomm Snapdragon 600 @ 1.9 GHz  1261  
+Samsung Galaxy J7 Sky Pro Qualcomm MSM8953 Snapdragon 625 @ 1.4 GHz        1206  
+Samsung Galaxy J3 Luna Pro Qualcomm MSM8917 Snapdragon 425 @ 1.4 GHz       1201  
+Samsung Galaxy J3 Emerge Qualcomm MSM8937 Snapdragon 430 @ 1.4 GHz         1156  
+Samsung Galaxy A3 (2016) Samsung Exynos 7578 @ 1.5 GHz                     1120  
+Samsung Galaxy J3 (2017) Samsung Exynos 7570 @ 1.4 GHz                     1100  
+Samsung Galaxy J3 Prime Samsung Exynos 7570 @ 1.4 GHz                      1072  
+Samsung Galaxy J5 Prime Samsung Exynos 7570 @ 1.4 GHz                      1048  
+Samsung Galaxy Note II Samsung Exynos 4412 @ 1.6 GHz                       940   
+Samsung Galaxy J2 Prime Mediatek MT6737 @ 1.4 GHz                          936   
+Samsung Galaxy Tab 10.1 3G NVIDIA Tegra 2 T20 @ 1.0 GHz                    927   
+Samsung Galaxy Tab E 9.6 Spreadtrum SC7730 @ 1.2 GHz                       903   
+Samsung Galaxy Note 8.0 Samsung Exynos 4412 @ 1.6 GHz                      899   
+Samsung Galaxy Tab A 8.0 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz         888   
+Samsung Galaxy J5 (2016) Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz         873   
+Samsung Galaxy Tab A 9.7 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz         867   
+Samsung Galaxy J5 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                865   
+Samsung Galaxy Grand Prime Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz       861   
+Samsung Galaxy J3 V Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz              859   
+Samsung Galaxy Grand Prime Qualcomm MSM8916 Snapdragon 410 @ 1.3 GHz       849   
+Samsung Galaxy On7 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz               831   
+Samsung Galaxy Note 10.1 3G Samsung Exynos 4412 @ 1.4 GHz                  814   
+Samsung Galaxy Note 10.1 Samsung Exynos 4412 @ 1.4 GHz                     811   
+Samsung Galaxy A3 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                808   
+Samsung Galaxy Core Prime Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz        805   
+Samsung Galaxy A5 Duos Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz           805   
+Samsung Galaxy E5 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                798   
+Samsung Galaxy A5 Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz                797   
+Samsung Galaxy S3 Neo Qualcomm MSM8226 Snapdragon 400 @ 1.4 GHz            764   
+Samsung Galaxy S5 Mini Samsung Exynos 3470 @ 1.4 GHz                       738   
+Samsung Galaxy J3 Spreadtrum SC9830 @ 1.5 GHz                              737   
+Samsung Galaxy S III Samsung Exynos 4412 @ 1.4 GHz                         724   
+Samsung Galaxy S III Qualcomm Snapdragon S4 MSM8960 @ 1.5 GHz              724   
+Samsung Galaxy Tab 4 10.1 Qualcomm Snapdragon 400 @ 1.2 GHz                710   
+Samsung Galaxy Tab A 7.0 Qualcomm MSM8916 Snapdragon 410 @ 1.3 GHz         708   
+Samsung Galaxy S4 Duos Qualcomm Snapdragon 400 @ 1.7 GHz                   705   
+Samsung Galaxy J3 (2016) Spreadtrum SC9830 @ 1.3 GHz                       703   
+Samsung Galaxy J2 Samsung Exynos 3475 Quad @ 1.3 GHz                       700   
+Samsung Galaxy Grand 2 Qualcomm MSM8226 Snapdragon 400 @ 1.2 GHz           685   
+Samsung Galaxy J1 (2016) Spreadtrum SC9830 @ 1.2 GHz                       681   
+Samsung Galaxy S4 Mini Qualcomm Snapdragon 400 @ 1.7 GHz                   678   
+Samsung Galaxy On5 Samsung Exynos 3475 Quad @ 1.3 GHz                      676   
+Samsung Galaxy J2 Pro (2016) Spreadtrum SC8830 @ 1.5 GHz                   672   
+Samsung Galaxy Tab 3 8.0 Samsung Exynos 4212 @ 1.5 GHz                     441   
+Samsung Galaxy Note Samsung Exynos 4210 @ 1.4 GHz                          423   
+Samsung Galaxy S II Samsung Exynos 4210 @ 1.2 GHz                          344   
+Samsung Galaxy S II Qualcomm Snapdragon S3 APQ8060 @ 1.5 GHz               344   
+Samsung Galaxy Tab 7.7 Samsung Exynos 4210 @ 1.4 GHz                       343   
+Samsung Galaxy S II Plus Broadcom BC28155 @ 1.2 GHz                        340   
+Samsung Galaxy Nexus Ti OMAP 4460 @ 1.2 GHz                                336   
+Samsung Galaxy Tab 2 7.0 (WiFi) Ti OMAP 4430 @ 1.0 GHz                     334   
+Samsung Galaxy Grand Broadcom BC28155 @ 1.2 GHz                            330   
+Samsung Galaxy Tab 2 10.1 Ti OMAP 4430 @ 1.0 GHz                           310   
+Samsung Galaxy S III mini ST-Ericsson NovaThor U8420 @ 1.0 GHz             290   
+Samsung Galaxy Tab 2 7.0 Ti OMAP 4430 @ 1.0 GHz                            276   
+  * Share
+  * Tweet
+
+Products
+
+  * Geekbench 4
+  * Geekbench 3
+  * Geekbench 2
+  * VoodooPad
+
+Support
+
+  * Knowledge Base
+  * Lost License
+  * Contact
+  * Privacy Policy
+  * Terms of Use
+
+News & Social
+
+  * Blog
+  * Twitter
+  * Facebook
+  * Instagram
+  * YouTube
+
+Company
+
+  * Corporate
+  * Jobs
+  * Media
+
+1867 Yonge St. Suite 902
+Toronto, Ontario, Canada
+M4S 1Y5
+
+
+Copyright © 2004-2019 Primate Labs Inc.

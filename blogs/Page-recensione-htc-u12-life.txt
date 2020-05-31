@@ -1,0 +1,474 @@
+* HDnetwork
+  * HDblog.it
+  * HDmotori.it
+
+* Segnala
+
+  * TUTTO SU
+
+
+
+  * ASUS
+  * HONOR
+  * HUAWEI
+  * LG
+  * SAMSUNG
+  * RECENSIONI
+  * VIDEO
+  * PREZZI
+  * COMPARA
+Forum
+  * Android
+  * Apple
+  * Windows
+  * Games
+  * Hardware
+  * HD
+  * Mobile
+SCHEDE TECNICHE
+
+
+Recensione HTC u12 Life: non eccelle ma fa tutto bene
+
+
+
+24 Novembre 2018 251
+
+Rimani aggiornato quotidianamente sui video, approfondimenti e recensioni di HDblog. Iscriviti ora al canale Youtube, basta un Click!
+Mi piace Tweet G+ Commenta
+8.3 Hardware
+
+
+6.4 Qualità Prezzo
+
+HTC U12 Life
+
+Miglior Prezzo 339€
+
+Compara
+Scheda TecnicaTutti i Prezzi
+
+HTC da ascolto alla sua clientela e nel nuovo modello "life" della serie u12 riporta il jack audio 3.5mm, abbandona la personalizzazione di Android One e crea un device che potrei definire "molto equilibrato".
+
+Design e costruzione
+
+L’u12 Life è interamente costruito in vetro acrilico. Sebbene in video e foto, e soprattutto dai render online, lo smartphone sembri in vetro, in mano e al tatto le sensazioni non sono delle migliori e sembra di tenere in mano uno smartphone più economico. Questo perché, ovviamente, il vetro acrilico non è altro che un materiale plastico.
+
+
+Malgrado la plastica non dia sensazioni particolarmente appaganti, nell’uso quotidiano diventa invece molto comoda, perché il non avere una scocca in vetro fragile ci consente di preoccuparci meno da eventuali cadute accidentali. Il retro dell’u12 Life non è solo molto resistente, ma dal punto di vista del design è anche molto singolare: la parte inferiore ha una rifinitura zigrinata a righe, mentre quella superiore appare lucida e metallizzata.
+
+
+Questa doppia rifinitura ricorda per composizione quella dei Google Pixel e rende lo smartphone poco scivoloso. Molto comodo anche il pulsante power laterale sempre con una rifinitura zigrinata per essere più facile da individuare al tatto. L’u12 Life è lungo 158mm, largo 75 e spesso 8. Dimensioni non compattissime, ma di certo non stona in quest’anno di padelloni.
+
+
+Rispetto all’u11 Life sparisce la funzionalità Squeeze (per attivare Google Assistant con una pressione sui bordi). Sul lato superiore, come detto in apertura, torna il jack audio 3.5mm, mentre su quello inferiore c'è la porta di ricarica/dati in formato Type-C e l’unico speaker di sistema mono. Il volume e la qualità dell’audio sono nella media, senza però mai distorcere.
+
+
+Il carrellino laterale sim è ibrido con slot per nano SIM e uno che possiamo utilizzare, alternativamente, per una seconda nano SIM o per una scheda di espansione micro-SD.
+
+                                                                                                                                                                                      
+HTC U11 Life 72.9 x 149.09 x 8.1 mm 5.2 pollici - 1920x1080 px HTC U12 Life 75.4 x 158.5 x 8.3 mm 6 pollici - 2160x1440 px HTC U12 Plus 73.9 x 156.6 x 8.7 mm 6 pollici - 2880x1440 px
+Clicca qui per il confronto completo »
+DISPLAY E SBLOCCHI
+
+L’u12 Life è lo smartphone che accontenta tutti gli utenti che odiano il notch. Difatti il display è privo di tacca e il pannello utilizzato è un IPS LCD da 6 pollici con risoluzione FullHD e proporzioni 18:9.
+
+
+Gli angoli di visione sono molto ampio, in orizzontale si oscura leggermente con gli occhiali da sole polarizzati, ma la qualità del pannello è nel complesso buona con colori naturali e con la possibilità di calibrare la temperatura del bianco secondo le nostre preferenze. Sul retro c’è il classico sensore d’impronte digitali, veloce e preciso, anche se è posto un po’ troppo in alto rispetto ad altri smartphone e se non si hanno le mani molto grandi diventa un po' scomodo.
+
+
+Lo sblocco con il viso è quello classico bidimensionale di Android Stock, cioè quello disponibile nella sezione Smart Lock. Non è preciso e sicuro come una scansione 3D ma comunque può far piacere trovarlo.
+
+HARDWARE
+
+La componentistica hardware è da medio/bassa gamma con un SoC Qualcomm Snapdragon 636. Il processore come sappiamo è veloce e consuma pochissima batteria. Nell’uso quotidiano è veloce e reattivo anche se capita di vedere qualche lag nel launcher, probabilmente legato a un problema software.
+
+
+La GPU invece si comporta bene anche durante le sessioni di gaming intense, infatti con Asphalt 9 non scalda e gira senza problemi con i dettagli massimi disponibili per i SoC di fascia media.
+
+
+Nonostante il SoC sia molto efficiente dal punto di vista dei consumi, HTC ha integrato in u12 Life una batteria da 3600 mAh, una capacità che consente tranquillamente di arrivare alla fine della giornata con qualsiasi tipo utilizzo..
+
+
+Dal punto di vista della connettività abbiamo un device con supporto alle reti 4G+ e Wi-Fi ac Dual Band. Il Bluetooth è 5.0 e sono presenti sia la Radio FM che l’NFC.
+
+  * Sistema operativo: Android 8.1 HTC Sense UI Oreo
+  * Display: 6 pollici 2160 x 1080 LCD
+  * Processore: Qualcomm Snapdragon 636
+  * GPU: Adreno 509
+  * Memoria: 4GB RAM – 64GB eMMC
+  * Fotocamere posteriori: 16mpx + 5mpx - 4K/1080 video
+  * Fotocamera frontale: 13mpx
+  * Connettività: 802.11 ac Wi-Fi (2.4 e 5GHz), Bluetooth 5.0, 4G LTE, Type-C
+  * Dual nano-SIM: Dual
+  * Posizionamento: GPS, A-GPS, Glonass, BeiDou
+  * Batteria: 3600 mAh
+  * Dimensioni e peso: 158.5 x 75.4 x 8.3 mm / 175gr
+
+SOFTWARE
+
+Il sistema operativo installato è Android Oreo 8.1 con skin HTC Sense UI. La personalizzazione di HTC nel corso degli anni è andata sempre più a diminuire tant’è che oggi in questo smartphone le opzioni aggiuntive rispetto ad Android Stock sono poche.
+
+
+Abbiamo il launcher HTC Sense Home con icone circolari e la possibilità di applicare temi personalizzati. Una customizzazione grafica molto carina ma non molto ottimizzata, in quanto nell’apertura del drawer spesso si notano alcuni rallentamenti.
+
+
+Nel launcher con uno swipe sulla sinistra si va nel BlinkFeed, un aggregatore delle notizie principali provenienti dai nostri social. Purtroppo tra i vari post vi saranno spesso pubblicità HTC molto invadenti. Questa “funzione” è attiva di default e si può disattivare solo dalle impostazioni del launcher.
+
+
+Preinstallate di sistema c’è l’app meteo, mail, orologio e il Boost+: un ottimizzatore di velocità e memorie che agisce sui processi aperti in background, ripulendo il file spazzatura come la cache di Youtube o Instagram.
+
+
+Purtroppo nelle impostazioni l’unica gesture rapida è quella per avviare la fotocamera con doppia pressione sul tasto power, quindi è assente l’apertura delle notifiche con swipe sul sensore d’impronte.
+
+FOTO E VIDEO
+
+
+
+Il reparto fotografico è buono. Disposte in verticale abbiamo sul retro due fotocamere con sensori da 16 e 5 mpx.
+
+
+Con la luce diurna le foto sono discrete anche se ho notato che l’HDR non riesce a preservare correttamente le alte luci e spesso ci capiterà di avere il cielo bruciato, specialmente negli scatti in fuori casa. L’HDR non è automatico, dovremo attivarlo ogniqualvolta ci serve e in notturna le foto vengono leggermente impastate.
+
+
+La fotocamera anteriore da 13 mpx offre buoni scatti anche con effetto bokeh, ma nei selfie in esterna il cielo viene spesso bruciato.
+
+
+
+È disponibile il 4k nella registrazione video, ma non vi sono opzioni per attivare o meno la stabilizzazione.
+
+
+CONCLUSIONI
+
+L’HTC u12 Life è uno smartphone concreto, fa tutto e lo fa bene. Insomma non eccelle nel display, nelle performance, nella fotocamera o altro, ma in tutte si comporta bene e vi lascerà sempre soddisfatti.
+
+
+L’u12 Life di HTC ha del potenziale, ma il prezzo di listino di 349 euro non lo rende molto appetibile se rapportato alla concorrenza, sempre più agguerrita in questa fascia di mercato. Qualora dovesse scendere sotto la soglia dei 300 euro, sarà sicuramente uno smartphone da consigliarvi.
+
+
+PRO E CONTRO
+
+Adatto agli hater del NotchJack Audio e NFCBatteria GrandeDesign e rifiniture particolari
+Fotocamera non eccellente, specialmente di nottePrezzo listino altoPubblicità nel Launcher
+
+VOTO: 7.7
+
+VIDEO
+
+8.3 Hardware
+
+6.4 Qualità Prezzo
+
+HTC U12 Life
+
+MIGLIOR PREZZO 339€
+Tutti i prezzi (2)
+Recensione HTC u12 Life: non eccelle ma fa tutto bene
+Compara Avviso di prezzo
+Htc U12.Life Smartphone (15.24.Cm (6.Pollici) 18: 9.Ltps Display, 64.Gb di Memoria Interna e 4.Gb di Ram, Dual Flash LED, Dual Sim, Frontale Flash, Android 8.1)
+Amazon prime
+339€ Vedi offerta
+  * HTC U12 Life è disponibile online da Amazon a 339 euro.
+
+
+
+
+HTC U12 Life è disponibile su a 264 euro.
+
+
+(aggiornamento del 07 febbraio 2019, ore 08:45)
+580
+condivisioni Condividi Tweet
+Lorenzo Angotzi
+
+Notizie
+RelazionateU12 LifeSmartphoneHTCVideo ReviewReview
+    HTC, fatturato in crescita su base mensile, ma crollo su base annua 6
+
+    06 Dicembre 2018
+
+    HTC fornirà a Sprint uno smart hub 5G nella prima metà del 2019 0
+
+    28 Novembre 2018
+
+    HTC continuerà a produrre smartphone. Nuovi modelli in arrivo nei prossimi mesi 91
+
+    23 Novembre 2018
+
+    HTC Exodus 1: foto dal vivo dello smartphone blockchain 56
+
+    20 Novembre 2018
+
+Notizie
+Più CommentateUltime
+Commenti
+
+
+251
+
+Commenti
+
+Regolamento Commentando dichiaro di aver letto il regolamento e di essere a conoscenza delle informazioni e norme che regolano le discussioni sul sito. Clicca per info.
+
+Caricamento in corso. Per commentare attendere...
+
+
+Francesco Dongiovanni04 Dic 2018 @ 08:19
+
+......
+
+LowRangeMan02 Dic 2018 @ 08:01
+
+Ok dai vai a trollare altrove.
+
+
+Bloccato, ciao!
+
+Francesco Dongiovanni02 Dic 2018 @ 02:55
+
+Spari ca$$ate di continuo
+
+LowRangeMan01 Dic 2018 @ 04:53
+
+Pensi davvero che dell’HTC dei tempi dell’M7 sia rimasto qualcosa oggi?
+
+Francesco Dongiovanni01 Dic 2018 @ 03:40
+
+Di HTC nn capisci nulla e meno male.....
+
+From Monkey Island 2 (bannato)29 Nov 2018 @ 11:38
+
+è proprio il ragionamento "se fosse utile lo avrebbero tutti"che non mi trova d'accordo... ( tralasciando che il concetto di "utilità"è comunque un paramentro soggettivo. Per me è utile nel momento in cui riesce a velocizzarmi le cose e a migliorarmi l'organizzazione. Magari a te non può servire, ma è proprio un ragionamento stup1d0 quello del "se ce l'hanno due telefoni allora è inutile".
+Poi io continuo a pensare che essere prevenuti, in qualsiasi ambito della vita è un atteggiamento superficiale, va considerato il prodotto o, almeno, bisogna avere la decenza di sospendere il giudizio se quel determinato prodotto e/o feature non la si è potuta testare. Ma questo è solo il modo in cui ragiono io eh!
+
+LowRangeMan28 Nov 2018 @ 08:23
+
+Ah, quindi l’ho scritto. O io non so scrivere molto bene, oppure tu sei bravo a capire cose che nessuno ha mai detto.
+
+Ivan Donà27 Nov 2018 @ 06:14
+
+ah quindi per lei, iphone è da sempre il top del mondo smartphone. Allora è giusto che i nuovi iphone vengano messi in vendita a 5000€ tanto per la maggior parte della gente ignorante, più un telefono costa, migliore è...
+
+Choz Chozzy27 Nov 2018 @ 12:17
+
+Io mi diverto a capire i concetti, se lo squeeze fosse così utile come dici stai sicuro che l’avrebbero adottato anche altri telefoni, invece è su 2 telefoni in croce, quindi lascia fare che lo squeeze è una cosa in più fondamentalmente inutile e probabilmente difficile da integrare.
+Non ho mai detto che Htc fa solo brutti telefoni, questo proprio non lo capite, ho detto che Htc fa pochi telefoni buoni ma non migliori dei concorrenti, difficili da trovare (è stata senza distributore per qualche anno e non ha sede in italia), a prezzi generalmente alti che di conseguenza vendono poco. Se lavori bene vendi, htc ha lavorato malissimo per anni e quindi non si può non essere prevenuti, sopratutto sui medi gamma dove è stata a dir poco disastrosa. Questi sono semplicemente dati di fatto.
+
+From Monkey Island 2 (bannato)27 Nov 2018 @ 11:17
+
+Grazie grazie. Mi auguro anche tu possa divertirti con i dati delle vendite.
+
+Choz Chozzy27 Nov 2018 @ 10:34
+
+Ripeto hai ragione, divertiti col tuo squeeze! :)
+
+From Monkey Island 2 (bannato)27 Nov 2018 @ 08:40
+
+Poi ti svegli tutto sudato.
+
+From Monkey Island 2 (bannato)27 Nov 2018 @ 08:40
+
+esatto lo squeeze, proprio quello che tu non hai avuto modo di provare ma che comunque ti affretti a percul4r3.
+
+Discaz27 Nov 2018 @ 07:56
+
+Dunque un terminale che non sa ne di carne e né di pesce, grande, e che costa caro. Ottimo
+
+LowRangeMan26 Nov 2018 @ 02:44
+
+Quante motivazioni!
+
+
+Voi fanboy siete peggio della lebbra.
+
+LowRangeMan26 Nov 2018 @ 02:43
+
+Dipende dai giorni, ma niente allucinogeni per una questione etica.
+
+Depp26 Nov 2018 @ 12:36
+
+Ma ti droghi?
+
+Fra26 Nov 2018 @ 10:07
+
+Persino un Mi 8 Lite, che su Honorbuy si compra a 100 euro in meno circa, è superiore a questo HTC
+
+Mick&LOzzo26 Nov 2018 @ 10:03
+
+Lorenzo Angotzi e la qualità dei video invece com'è? Sempre discreta, immagino.
+Ecco, però è un simpatico medio gamma a tutto tondo, una limatina al prezzo, e ci si può pensare.
+
+Alessandro26 Nov 2018 @ 09:03
+
+Quante sciocchezze
+
+Choz Chozzy26 Nov 2018 @ 04:16
+
+Certo certo, e il Milan di Gullit e Van Basten era fortissimo, ma per piacere...
+
+Gas_2018®25 Nov 2018 @ 10:46
+
+No J6
+
+utente25 Nov 2018 @ 09:48
+
+Siamo qui per guardare il telefono, non il numero di vendite dell'azienda produttrice.
+
+utente25 Nov 2018 @ 09:47
+
+Mi ricordo che quando 3/4/5 anni fa dicevi HTC si inchinavano tutti :D. Adesso mi piacerebbe rivedere quel marchio.
+
+Shane Falco25 Nov 2018 @ 09:13
+
+forse volevi dire A6...
+
+LowRangeMan25 Nov 2018 @ 08:35
+
+"Vetro acrilico"... Lo facesse Apple tutti giù di insulti...
+
+
+Io non capisco proprio chi spera in un ritorno di HTC.. Ok, anche io avevo l'M7, ed era uno smartphone fantastico, l'unica vera alternativa ad iPhone se si voleva Android.
+
+
+Ma ora siamo nel 2018, e HTC continua a sfornare dispositivi che non solo sono inferiori ad iPhone, ma addirittura ai peggiori Android cinesi, soprattutto se tiriamo in ballo il fattore prezzo e il rapporto tra quest'ultimo e la dotazione del prodotto.
+
+
+Ormai HTC è morta. E, anche se dovesse tornare a vendere tanto, e glielo auguro per i dipendenti, altro non sarebbe che l'ennesimo produttore di smartphone banali a prezzi banali, vedi Xiaomi, Meizu... Un produttore in grado di sfornare ottimi prodotti che si confondo in un mercato sempre più stagnante e sovraffollato.
+
+pakocero25 Nov 2018 @ 05:41
+
+the best smartphone that will remain on the scaffale!!
+
+Luca Lucani25 Nov 2018 @ 04:46
+
+lo vedrei a 229€ (ma neanche a quel prezzo lo comprerei)
+
+pollopopo25 Nov 2018 @ 04:27
+
+uno si prende un android one e i problemi spariscono :)
+
+Giardiniere Willy25 Nov 2018 @ 12:15
+
+Boh, mai notate. Comunque, come giustamente hai detto, almeno Xiaomi un telefono di fascia simile lo fa pagare 160€ in questi giorni.
+
+
+Parlo del redmi note 5, se non erro
+
+Hazard25 Nov 2018 @ 12:14
+Hazard25 Nov 2018 @ 12:14
+
+Che cucina hai? È orrenda, spendi i pochi soldi per qualcosa di serio
+
+Lorenzo Angotzi25 Nov 2018 @ 11:11
+
+Ti riporto quanto ho scritto nei commenti sotto:
+
+
+"Ho letto anche io quel dato sul sito, ma testando la velocità delle memorie ho ottenuto 277 in Read e 206 in Write, con 54 in random read e 15 in write.
+Una memoria UFS 2.1 standard ha velocità che si aggirano solitamente sugli 700/800 in Read e 250 Write, con 130 in random read e 50 in random write.
+
+
+Non voglio addentrarmi in ulteriori dati, ma o le memorie utilizzate sono UFS 2.1 non molto performanti, oppure vi è stato un errore sul sito HTC e le memorie sono solo eMMC.
+
+
+Ti lascio due screen in comparazione con il Meizu 16th con memorie UFS 2.1 più veloci."
+
+
+https://uploads.disquscdn.c...
+
+From Monkey Island 2 (bannato)25 Nov 2018 @ 10:45
+
+non sono nel Laucher, sono in blkinkfeed, sono disattivabili e non sono per nulla invadenti. In oltre 6 mesi di u11+ non ;e ho disattivate nemmeno in quanto mi sono comparsi solo un banner in vista dell'uscita di u12+ e un banner in uscita del u12 life... senza ombra di dubbio meglio questo che avere mille mila bloatware in stile Samsung/Huawei/Asus...
+
+From Monkey Island 2 (bannato)25 Nov 2018 @ 10:13
+
+io mi chiedo sempre se qui siamo su un blog di tecnologia o su uno di finanza. Di vendere a noi non deve fregare niente, qui si dovrebbe parlare SOLO DEL PRODOTTO. HTC è stata tra le più innovative e anche in questi anni ha continuato, a modo suo, a innovcare.
+- Prima scocca unibody
+- il sensore secondario con il Bokeh lo faceva quando gli altri pensavano solo ad aumentare il numero di pixel
+- il 3D
+- per anni ha avuto il miglior Browser
+- il tema libero
+- lo squeeze
+- il 3d audio
+e tante altre cose... ma su sto blog si parlava e si continua a parlare di cornici e di vendite...
+
+From Monkey Island 2 (bannato)25 Nov 2018 @ 10:08
+
+anche m8, (un po meno M9), 10,u ultra, u11, u11+ e u12+ sono ottimi terminali. Non capisco in cosa HTC sia meno seria. Probabilmente per il fatto di non allungare mazzette ad hdblog per non essere ogni anno il top smartphone
+
+From Monkey Island 2 (bannato)25 Nov 2018 @ 10:06
+
+ci credo, io ho cambiato M9 solo per il gusto di provare u11+, altrimenti M9 sarebbe ancora il mio telefono principale( lo uso ancora con molta soddisfazione come muletto)
+
+From Monkey Island 2 (bannato)25 Nov 2018 @ 10:05
+
+disattivabile in due tap. Meglio questo che avere mille mila bloatware (che poi anche quelli sono da considerarsi pubblicità)
+
+Max25 Nov 2018 @ 10:04
+
+Eh già ... https://uploads.disquscdn.c...
+
+From Monkey Island 2 (bannato)25 Nov 2018 @ 10:02
+
+Pubblicità invadente è quella che c'è qui sul blog (tra l'altro attivando adblock si viene trattati alla stregua di bestie di satana e infatti ho ancora problemi con il mio vecchio account) sulla sense al massimo ( e lo dico dopo anni di M9 e ora dopo i6 mesi di u11+) mi è uscito un banner in blinkfeed in vista dell'uscita di u12+ e uno in vista dell'uscita di u12 life ( tra l'atro disattivabile in due semplici tap...
+
+Aster25 Nov 2018 @ 09:07
+
+Xiaomi,htc da anni lo ha introdotto, altri telefoni cinesi e non.
+
+Mox25 Nov 2018 @ 08:57
+Mox25 Nov 2018 @ 08:49
+
+Dentro la miui le pubblicità ci sono... E ne sto usando una... Poi in quella global del RMN3pro non sono mai riuscito a disattivarla, nelle nuove la disattivi dalle impostazioni. Scelta opinabile ma almeno il concorrente di HTC ha primi prezzi
+
+LowRangeMan25 Nov 2018 @ 08:44
+
+Ma qualità dove, scusa? Nel software? No. Nella costruzione? No, è plastica e gorilla glass.
+
+
+In che cosa, esattamente, sti HTC sarebbero di qualità? Lo erano, non lo sono più. O meglio, è la concorrenza che si è messa al passo.
+
+Ikaro25 Nov 2018 @ 08:04
+
+Tu non stai bene aahhaa
+
+franky2925 Nov 2018 @ 05:34
+
+Tranne mister chuck
+
+franky2925 Nov 2018 @ 05:33
+
+Ahahah ma che caz z o ci fa call e a come tuo avatar ?
+
+Riky25 Nov 2018 @ 01:44
+
+Tra l'altro con cover si uccide la bellezza, che è tutta dietro e nel frame laterale.
+
+Riky25 Nov 2018 @ 01:43
+
+Ci credo perchè lo sto ancora usando xD
+La batteria è ancora l'originale, mi toccca girare con il power bank ma il resto va ancora bene...
+A breve cambio però :D
+
+Fabrizio25 Nov 2018 @ 01:11
+
+È concreto, equilibrato e non gli manca niente, ma Non capisco perché presentarlo prima dell'estate e iniziare a venderlo solo da pochi giorni fa e soprattutto a quel listino così elevato, quando i diretti concorrenti si trovano mediamente tra i 180€ e i 240€. Praticamente un flop voluto a tavolino. Sembra che ad HTC abbiano una tendenza alla catastrofe, zero marketing e zero strategie. Ma la pubblicità integrata nel launcher poi è il colpo di grazia
+
+Più Lette
+
+Recensione Nokia 8.1, tutto quello che serve e anche di più
+
+
+Recensione Xiaomi Mi Mix 3: difficile chiedere di più a 500 euro
+
+
+Xiaomi Mi Mix 3 (3.200mAh): live batteria | Fine ore 21.50
+
+
+LG V40 ThinQ al CES in attesa del suo debutto in Italia | Video anteprima
+
+
+
+HDnetwork s.r.l© - P.Iva 06183350484 L'informazione in Alta Definizione. Copyright 2016.
+
+Chi siamo Segnala/Tips Us Pubblicità Privacy Informativa Cookie Partners Lavora con noi

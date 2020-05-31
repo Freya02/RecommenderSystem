@@ -1,0 +1,484 @@
+Menu
+
+  * Tech
+
+      + Android
+      + Apps/Games/Softwares
+      + Computers
+      + Featured
+      + Gaming
+      + How to’s
+      + Social Media
+      + Spotlight
+      + Telecoms
+  * Reviews
+  * Videos
+  * About
+      + Advertise
+      + Contact Us
+Search
+Search for: Search
+Follow us
+  * facebook
+  * twitter
+  * googleplus
+  * instagram
+  * youtube
+
+Latest stories
+
+
+  * Huawei Y9 2019 Review
+
+
+  * Realme C1 Review
+
+
+  * Xiaomi Mi 8 Lite Review
+
+
+  * Huawei Mate 20 Pro Review
+
+
+  * Cherry Mobile Flare S7 Plus Review
+
+
+  * Huawei Nova 3 Review
+
+Previous Next
+
+Android, Reviews,
+
+
+Huawei Nova 3i Review
+
+
+by Patrick Cañete August 26, 2018, 1:02 PM 9 Comments
+
+447
+SHARES
+ShareTweet+1
+
+The Philippines is one of the first markets around the world to get their hands on the new Huawei Nova 3i. Unsurprisingly, this country is one of Huawei’s top priorities, considering the local success of the Nova 2i last year.
+
+
+Speaking of which, the reason behind the Nova 2i’s success was the incredible value that it was able to offer for the price. It packs a capable processor, good display, feature-packed cameras, all of which are housed in a sturdy and premium body.
+
+
+So it goes without saying that its successor has large shoes to fill. And in our Huawei Nova 3i review, we want to see if this device has what it takes to continue the legacy of the Nova-series. Without further ado, let’s start.
+
+
+Huawei Nova 3i Specs
+
+  * Android 8.1 Oreo, EMUI 8.2
+  * Dual SIM, Dual Standby (Hybrid)
+  * 6.3-inch FHD+ IPS display, 2340 x 1080 pixel resolution, ~409ppi
+  * 2.2GHz HiSilicon Kirin 710 octa-core processor
+  * Mali-G51 GPU
+  * 4GB RAM
+  * 128GB internal storage, expandable via microSD
+  * 24-megapixel + 2-megapixel dual front camera
+  * 16-megapixel + 2-megapixel dual rear cameras
+  * 480fps slow-motion video recording
+  * Fingerprint scanner, Face Unlock
+  * HSPA+, 4G LTE
+  * WiFi, WiFi hotspot
+  * Bluetooth
+  * GPS, A-GPS
+  * FM Radio
+  * microUSB
+  * Colors: White, Black, Gradient Blue
+  * 3,340mAh non-removable battery
+
+Design and Build Quality
+
+
+Huawei really stepped up their game with the Nova 3i’s design. When put side by side with the Nova 2i, it feels like they came from a different line-up. However, the Huawei Nova 3i’s aesthetic is not necessarily a new one. This glass-on-glass, color-gradient look began on the P20-series, and its posh design eventually rubbed off on Huawei’s midrange device.
+
+
+The Huawei Nova 3i is marginally bigger and heavier than the Nova 2i due to its improved hardware inside. But still, the handset feels ergonomic and comfortable to use. It has curved corners and edges. Plus, the metal sides have this coating that makes it feel really smooth in the hands.
+
+
+Another major design addition is the display notch. This is a new style Huawei started to adopt in pretty much all of their smartphones. So if you hate it just like most people, the only thing you can do about it is hide it.
+
+
+See also: Huawei Nova 3i vs Nova 2i: Specs Comparison
+
+
+But other than the notch, the Huawei Nova 3i’s display has thin bezels all around. Both side bezels, even the one on the chin, almost have the same thickness which provides a more seamless look. The Huawei branding was relocated on the back, so the bottom bezel definitely looks slimmer than before.
+
+
+Speaking of the back, here we can find the fingerprint scanner and the dual camera setup. The Nova 3i has a tiny camera bump in it, which is the current best scenario that we can have since almost all smartphones today has it.
+
+
+Moving on, we have the hybrid SIM tray on the left side. On the right, there are the volume controls and lock/power switch. The buttons are not the most satisfying thing to press, they also feel a bit mushy at times. However, I don’t think they will break easily.
+
+
+On top, we only have the secondary microphone for noise-cancellation while at the bottom there are the microUSB port, 3.5mm headphone jack, and the loudspeakers.
+
+
+Overall, I’m really satisfied with the Huawei Nova 3i’s build and design. It feels well crafted and looks really stylish and modern — fit for the teens and young professionals’ lifestyles.
+
+
+Display
+
+
+The market’s attention has gone way past the smartphone’s display quality. For as long as it’s an IPS panel with FHD+ resolution, and has a decent size, we’re all good. That being said, the Huawei Nova 3i was able to satisfy in that department with its 6.3-inch FHD+ IPS screen, with a 2340 x 1080 resolution and ~409 pixels-per-inch.
+
+
+The Huawei Nova 3i’s display quality looks ordinary. It projects decent colors. They don’t appear washed out or lifeless, but they are also not overly vibrant or saturated. Thanks to its large size, it makes watching movies and random YouTube videos really enjoyable.
+
+
+For a screen of this size, an FHD+ resolution starts to lose its fidelity. To the normal eye, it still looks fine and sharp. But for those who really know their displays, or for some who came from a smartphone with a QHD screen, you can notice absolutely notice the difference.
+
+
+Let’s not forget to talk about the screen notch. Whether you like it or not, it’s there. However, if you’re really annoyed with it, there’s a “hide” option in the settings that puts a black bar on top, which does a decent job of concealing the existence of the notch.
+
+
+But then again, for the price, this is possibly the best you can get. Thankfully, the screen on the Nova 3i is quite good and acceptable, but it’s clearly not its best asset.
+
+
+Sound Quality
+
+
+Other than the display, the loudspeaker on the Huawei Nova 3i is also unexciting. Not that it’s bad, but it is not the best either.
+
+
+The bottom-firing speakers can be easily muffled plus its volume is a little lackluster. It’s quite okay for private listening. But if you have friends around or if you’re in a larger room, you might struggle to hear the audio that comes out of it.
+
+
+But if you want the best possible listening experience, you should plug in a pair of headphones. Huawei’s Histen sound effects feature is present here which attempts to improve the sound quality in the software level by letting you chose different playback modes or letting it know what type of headset you’re using.
+
+
+Based on my testing, the Nova 3i does a decent job of mimicking different soundstage effects, altering the equalizations and what not. However, it’s still no match to a dedicated HiFi chip, which we previously saw on devices like the Vivo X21.
+
+
+Hardware and Performance
+
+
+The Huawei Nova 3i is the first device to come equipped with the new Kirin 710 chipset, an in-house processor from Huawei that will be powering their upcoming midrange smartphones. This system on a chip (SoC) comes with a 2.2GHz octa-core processor, 4GB of RAM, 128GB of storage, and a Mali-G51 GPU.
+
+
+As per my testing, the performance was decent. It’s not sluggish, but definitely not the snappiest that we have tested. You can browse through the interface and some basic apps fairly fast and smoothly. Although expect some random stuttering from time to time. This is actually a norm to most midrange smartphones. So unless you came from a powerful and high-end device, you’d barely notice it.
+
+
+Moreover, the Huawei Nova 3i is also a good gaming smartphone. The device is slated to receive the GPU Turbo update. But as of now, it can still handle games decently.
+
+
+Upon first boot, the PUBG Mobile’s graphics was set to the lowest settings. But if you can get past the poor graphics quality, it does deliver playable frame rates with an immersive experience, thanks to the large screen.
+
+
+Also, I highly appreciate Huawei Nova 3i’s large 128GB of storage. Having this much room capacity is rare in budget-friendly, midrange devices such as this. So if you’re into hoarding photos, tons of apps, saving Netflix shows offline, you won’t run out of storage that quickly.
+
+
+But if you still do, then you can easily throw in a microSD card (up to 256GB) on this thing. However, you’d be sacrificing the second SIM slot which is really a bummer.
+
+
+In general, the Huawei Nova 3i features a pretty capable set of hardware. You can confidently use it as a daily-driver device and as a portable gaming machine on the side.
+
+
+Software and User Interface
+
+
+What binds all of Huawei’s devices is the software, at least the latest ones. Just like their current flagships, the Huawei Nova 3i also comes with Android 8.1 Oreo with EMUI 8.2 interface.
+
+
+EMUI is not the cleanest, most straightforward interface of all. But it has gotten better over time. Plus, it packs a lot of features that make the entire user experience more intuitive.
+
+
+There’s the mini screen view for those who have small hands. Motion controls for incoming calls, and a three-finger screenshot. You can also quickly summon the Google Assistant by holding the home button.
+
+
+For those who are into customization, the Nova 3i also comes with a dedicated Themes app. However, it doesn’t really do much other than changing the wallpaper and some of the native app’s icons.
+
+
+The Huawei Nova 3i also comes pre-installed with a bunch of Google apps, some of which are uninstallable. This means that you’re stuck with a Gmail app and Huawei’s own Mail app. There’s also the Google Photos and EMUI’s Gallery app.
+
+
+Some features come standard with Android Oreo. There are the notification dots that allows you to see if you have an unopened notification from the app’s icon itself. You can also long press some compatible app to have quick access on some of its functions, right from the home screen.
+
+
+I also liked how organized the Settings menu is. There’s a search tab on top of it that lets you easily find what you are looking for.
+
+
+I’m definitely not the biggest fan of Huawei’s EMUI interface. However, I do appreciate some of its quirks and features — things that improve the way I use a smartphone.
+
+
+Security
+
+
+The Huawei Nova 3i utilizes both a fingerprint scanner and face unlock for biometrics security. And as usual, they work reliably fast and accurate.
+
+
+Huawei has put the fingerprint scanner on a really accessible location. It’s in the upper back, a place where your index finger usually rests while using the device. The scanner can detect and authenticate your print in less than a second.
+
+
+You can also use the fingerprint scanner alongside the face unlock feature. And despite the lack of any complex sensors like what most high-end devices have, the facial recognition on this handset still works incredibly fast. In most cases, the Nova 3i is already unlocked once you lift up the device. It also works surprisingly well in low-light scenarios.
+
+
+Camera
+
+
+Just like its predecessor, the Huawei Nova 3i’s claim to fame is its quad-camera setup. There’s a 24-megapixel front camera and a 16-megapixel shooter on the back. Both of them are partnered with a depth-sensing, 2-megapixel sensor.
+
+
+The 16-megapixel primary camera can take good pictures. However, despite the Artificial Intelligence (AI) mode turned off, there are times where the images Huawei Nova 3i captures still feels like it passed through tons of automatic software post-processing.
+
+
+The details feel a little soft and the colors look unnatural. But other than those few instances, it can surely take Instagrammable photos. They look sharp, has vibrant colors, and good contrast.
+
+
+But if you want to utilize the Huawei Nova 3i’s full photography potential, you should enable the AI mode. We’ve initially experienced it in our Mate 10 review, and it works really well. Once it’s switched on, it can instantly detect the scene or subject that you’re shooting. This helps apply the right effect and adjustments in the settings to make it look more professional.
+
+
+On the other hand, the 24-megapixel front camera takes even better pictures, which isn’t surprising since it boasts a more pixel-packed sensor. It has good colors and contrast, although the quality will be put to waste once you use its novelty features.
+
+
+The Huawei Nova 3i also has the AR Lens features. There’s the 3D Qmoji, which is Huawei’s take on Apple’s Animoji. It’s fun to use, but its facial tracking is not as accurate as the iPhone X.
+
+
+There’s also the Snapchat-like effects that add random elements in your face and changes the background. It also comes with a dedicated background music per effect.
+
+
+Probably the most interesting novelty is the 3D Objects. This is the most common exhibition of AR technology. The system can add 3D animations in the on the frame, which moves dynamically as if it’s actually in the real world.
+
+
+Moving on, the secondary 2-megapixel cameras of the Huawei Nova 3i in the front and back also did a good job on our tests. As you can see in the samples below, the addition of a dedicated depth-sensing camera allowed it to isolate the foreground from the background in a more believable way.
+
+
+Clearly, one of Huawei Nova 3i’s strongest suits is its cameras. Not just because of the hardware itself, but also because of its intelligent software and capable AI processor.
+
+
+Connectivity
+
+
+The Huawei Nova 3i might not have the best wireless standards around, but it was still able to cover the basics. There’s the WiFi 802.11 b/g/n and Bluetooth 4.2 with A2DP. Both of which worked seamlessly during my testing.
+
+
+Its connection through our home network was seamless, it can also play music through my wireless headphones and speakers without a hitch. In addition, the Huawei Nova 3i has a built-in FM Radio for those who need it.
+
+
+Of course, we also have the 4G LTE connectivity and it works reliably well for as long as you have good signal reception.
+
+
+Lastly, the call quality on the Huawei Nova 3i is great. The earpiece has a decent volume and clarity to it, while its dual-microphone setup was able to pick-up my voice well.
+
+
+Related
+
+  * Honor Play vs Huawei Nova 3i: Specs Comparison
+  * OPPO F9 vs Huawei Nova 3i: Specs Comparison
+
+Battery
+
+
+Much like its predecessor, the Huawei Nova 3i has a meager battery capacity, at least on paper. Its 3,340mAh battery might be underwhelming, but we were really impressed when we tested it out.
+
+
+After a day of casual use, the Huawei Nova 3i still left us with around 10% to 15% charge — which is just the recommended battery percentage to recharge it back to full. By the way, that usage consists of occasional web browsing, taking pictures, and listening to music over headphones.
+
+
+As a standard procedure, we also ran PCMark’s battery test on the Nova 3i. With the WiFi turned off, and the screen and volume set to 50%, the device had a screen-on time of 11-hours and 7-mins before hitting the 20% mark.
+
+
+For a perspective, the Xiaomi Redmi Note 5 and its 4,000 battery got a score of 13-hours and 16-minutes.
+
+
+Verdict
+
+
+Did the Huawei Nova 3i manage to deliver on everybody’s expectations? Well, the answer is a definite yes. Not only that is was able to match the bar that its predecessor has set, but it was even able surpass it by a notch.
+
+
+One of the Huawei Nova 3i’s distinguishable characteristics is its flashy and attractive design. Its gradient color tone, partnered with its glass back and metal chassis, screams premium all around.
+
+
+There’s also its quad-camera setup. The extra two cameras might not be that useful (unless you really like taking bokeh pictures), but the primary sensors did take impressive pictures.
+
+
+And of course, we have the Huawei Nova 3i’s new chipset. Although it’s not the most powerful in the midrange category because of the existence of the Honor Play, it sure is capable enough to handle day to day tasks and casual gaming.
+
+
+But at the end of the day, the Huawei Nova 3i is not a perfect device. For one, the device still uses the microUSB standard, instead of USB Type-C which is a little ironic since the P20 previously had it.
+
+
+And if I really have to nitpick, we wish that the audio quality, both in the loudspeakers and headphone output, could have been better.
+
+
+But other than that, I think that the Huawei Nova 3i is still a solid choice for a lot of people. This device has everything that we’re looking for in a midrange smartphone — attractive looks, capable performance, good battery life, and great cameras.
+
+
+Pricing and Availability of Huawei Nova 3i
+
+
+The new Huawei Nova 3i is now available in the Philippines through Huawei concept stores, kiosks, and through their official shops online. You can also get it through numerous authorized resellers around the Philippines.
+
+
+Huawei Nova 3i has a retail price of Php15,990. As of writing, Huawei is offering a free Bluetooth speaker valued at Php1,990 for every purchase.
+
+
+In case you don’t want to pay in cash, you may also check out the Huawei Nova 3i Home Credit installment plans.
+
+
+The Good
+
+  * Stylish design
+  * Good cameras
+  * Capable processor
+  * Impressive battery life
+
+The Bad
+
+  * Terrible audio quality
+  * No USB Type-C
+
+More From NoypiGeeks
+
+  * Huawei celebrates Brand Day on Lazada with exciting freebies on select devices
+  * DEAL ALERT: Huawei drops the price of the Nova 3i to Php14,990
+  * Huawei Nova 3i now up for pre-order through Globe
+  * Honor 10 Lite vs Huawei Nova 3i: Specs Comparison
+  * Huawei Nova 3i vs Nova 2i: Specs Comparison
+  * Huawei Nova 3i: Kirin 710 CPU, 4GB RAM, 128GB storage, Quad-camera setup
+
+HuaweiHuawei Nova 3i
+
+
+Comments
+
+  * Native 9
+  * Facebook
+Leave a Reply
+ 1. Kiro Ro says:
+    August 26, 2018 at 1:34 PM
+
+    Please review Honor. Play.
+
+    Reply
+      + Adam Parnala says:
+        August 26, 2018 at 1:57 PM
+
+        It’s up next. :-)
+
+        Reply
+ 2. Mia says:
+    August 28, 2018 at 12:25 AM
+
+    Do you prefer this to the Xiaomi Mi A1?
+
+    Reply
+ 3. boysilog says:
+    August 28, 2018 at 3:45 AM
+
+    Why compare this with the Mi A1? it should be the Mi A2 since they are current releases. I had a chance to play with this at one of their stores, unfortunately, the ui is terrible. There are also tons of bloatware. I just go for miui of xiaomi, much easier to use anyway.
+
+    Reply
+ 4. Mia says:
+    August 28, 2018 at 12:56 PM
+
+    Ah, yes. You’re right. Currently choosing between the Mi A1, Mi A2, Redmi Note 5, and this one. Camera prowess is a top priority for me.
+
+    Reply
+      + Adam Parnala says:
+        August 28, 2018 at 7:50 PM
+
+        If camera is a top priority, I’d say go for either Huawei, OPPO, or Vivo. I haven’t tested the Mi A2 yet, but I’m sure it’s pretty good, too. (and it’s cheaper + stock Android!)
+
+        Reply
+ 5. Mia says:
+    August 29, 2018 at 12:20 AM
+
+    The AI tech in Huawei doesn’t mean much to me because I like to post-process my own photos. I read that Mi A2’s camera is great even in lowlight and it’s a lot more affordable than other options so I’ll probably go for it. Thanks for your informative blog! :)
+
+    Reply
+      + Adam Parnala says:
+        August 29, 2018 at 12:02 PM
+
+        Alright. Enjoy your new phone!
+        Thank you very much, Mia. We really appreciate it. :-)
+
+        Reply
+ 6. RCB says:
+    August 31, 2018 at 12:22 PM
+
+    i am disappointed with Nova 3i.. di maganda kahit sa causal gaming.. i should have chose Asus M1 over this.. nag hang at matindi ang lags.. low setting na nga ganun pa rin.. di pa PUBG ang nilalaro ko. World of Tanks Blitz lang.. what a waste of precious money..
+
+    Reply
+
+Leave a Reply
+
+
+Loading…
+
+
+THE LATEST
+
+
+  * OPPO Find Z with Snapdragon 855 processor coming soon
+
+
+    by Patrick Cañete
+
+
+  * Huawei P30 Pro render reveals bizarre quad-camera placement
+
+
+    by Patrick Cañete
+
+
+  * Philippine Pro Gaming League 2019 prize pool set to Php1.3 Million
+
+
+    by Patty Mesias
+
+
+  * Jaywalking can now cause a ‘hit’ on your NBI record
+
+
+    by Jamie Manuel
+
+
+
+
+
+Now Trending
+
+
+  * Realme Buds, Tech Backpack now available in the Philippines
+
+
+  * Xiaomi Redmi Note 7 Pro to come in 6GB/128GB configuration
+
+
+  * DxOMark: Xiaomi Pocophone F1 camera performance similar to the iPhone 8
+
+
+Copyright © 2017 NoypiGeeks. All Rights Reserved.
+
+  * Xiaomi Price List Philippines
+  * RSS Feed
+  * Disclosure
+  * Privacy Policy
+Back to Top
+Search for: Search
+  * Tech
+      + Android
+      + Apps/Games/Softwares
+      + Computers
+      + Featured
+      + Gaming
+      + How to’s
+      + Social Media
+      + Spotlight
+      + Telecoms
+  * Reviews
+  * Videos
+  * About
+      + Advertise
+      + Contact Us
+  * facebook
+  * twitter
+  * googleplus
+  * instagram
+  * youtube
+Open

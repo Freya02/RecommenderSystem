@@ -1,0 +1,181 @@
+Primary MenuPrimary Menu
+  * Home
+  * Services
+  + Product Engineering
+      o Web Apps
+      o MVP Development
+      o Mobile Apps
+  + Creative Design
+      o UX Design
+      o UI Development
+      o Creative Design
+  + Enterprise Mobility
+      o EMM Solutions
+      o Mobile App Development
+      o Enterprise Security
+  + Microsoft Solutions
+      o Microsoft Consulting
+      o SharePoint Solutions
+      o SharePoint Migration
+      o Business Intelligence
+  + Cloud Solutions
+      o Cloud Migration
+      o Salesforce Apps
+      o Cloud App Development
+  + Staffing Solutions
+      o Virtual Teams
+      o Permanent Staffing
+      o Contractual Staffing
+  + Emerging Tech
+      o AR & VR
+      o IoT
+      o BLE Solutions
+  + Chatbots & AI Development
+  * Case Studies
+  * Blog
+  * Company
+  * Contact
+
+Top 5 Pros and Cons of Samsung Galaxy Note 9
+
+0 4   
+By Falak Khuram blog News August 31, 2018
+
+Samsung Galaxy Note 9 was released on 24th August 2018. It is the latest phablet in the company’s Note-series. Today, this device has become one of the most famous smartphones available in the market. This can be considered among the top five devices along with OnePlus 6 and Galaxy S9. Majority of the Galaxy Note customers have an experience with the previous models in the same lineup. They upgrade when the latest model comes on the market.
+
+
+Keeping this scenario mind, we are presenting you the list of top 5 pros and cons of Samsung Galaxy Note 9.
+
+
+Pros
+
+
+1. All-new S-Pen
+
+
+This signature S-Pen had been a part of these series since the introduction of Galaxy Note 3 back in 2014. You will get a similar looking pen with Note 9 smartphone, but it will have some upgrades. These upgrades encompass color options of yellow and black.
+
+
+It can control more than seven devices at one time within 30-feet space over Bluetooth. The functionality list includes YouTube, Powerpoint, Snapchat, Spotify music control and camera app etc. Recharging the stylus is likely to take less than one minute. This will give you the usage time of thirty minutes.
+
+
+2. AI Dual-Camera
+
+
+Samsung introduced an AI-powered dual camera setup on the rear panel of the Galaxy Note 9. It also has the company’s DualPixel technology. The dual 12P sensors have an adjustable space (F/2.4 & F/1.5) like in Galaxy S9+.
+
+
+This is an intelligent scene detection feature, which is already present in a few of the flagship smartphones like Vivo NEX, Huawei P20 pro, and LG G7 ThinQ etc. On the other hand, Samsung’s camera performance is famous for the pixel detail and low-light photography, with zooming capacity of up to 2x using the optical lens.
+
+
+3. Gaming, Cooling System
+
+
+The company claims that Galaxy Note 9 is highly optimized for smartphone gaming. It is powered with ARM Mali- G72 MP18 GPU and Exynos 9810 chipset. In addition, there is a new gaming mode on the software level that permits to block pop-ups and notifications while gaming. The company has an experience with water carbon cooling system that is able to reduce heat which results in a performance boost.
+
+
+4. Samsung Dex
+
+
+Samsung’s screen extending pod “The Dex Pad”, was launched back with S8+ and Galaxy S8. Then this went through additional enhancement in device support and functioning. This will help you connect your smartphone to a pad and see the content on the big screen. Its functions are more or less similar to the Microsoft’s Windows Continuum. This plays an important role in connecting windows phones to a PC.
+
+
+Port the Galaxy Note 9 to the Dex Pad and utilize the smartphone like a touchpad, even though you can use the smartphone on a big screen. You can also play games, control smartphones and watch movies with one cable.
+
+
+5. Biggest Infinity Display
+
+
+Samsung Galaxy Note 9 has the biggest infinity curved display Samsung ever created. The smartphone owns a Quad HD+ (1440 x 2960 pixels with 516ppi) Super AMOLED show that sizes at-inches. The hike in screen size has no effect on the external body aspect and smartphone usability, as the infinity show lies from end to end with the ratio of 18.5:9. The screen also has an additional safety with Corning Gorilla Glass 5, which is HDR10 acquiescent.
+
+
+Cons
+
+
+1. Unchanged Design (Almost)
+
+
+Samsung contemplates a design change with each new launch of their products in a series. Anyhow, the Samsung Galaxy Note 9 is not different than the earlier year’s Galaxy Note 8, excluding the fingerprint scanner. The rear camera components are attached horizontally, similar to the Note 8. Similarly, the front panel contains bigger chins at both the top and bottom.
+
+
+2. Rear mounted fingerprint scanner
+
+
+The Galaxy Note 9 has the biometric scanner attached to the rear glass panel, under the camera. The position still makes it difficult for many users due to the bigger screen. Everybody might not want the gradual in-screen fingerprint scanner expending CMOS sensors. Therefore, the external scanner also benefits one way or another.
+
+
+3. Fragility
+
+
+It has come with a glass back rear panel with gorilla glass protection. The company utilizes the same glass on the rear which the display is topped with. Therefore, both back and front get the equal vulnerability and protection at the same time.
+
+
+4. No 5G Support
+
+
+This is a major drawback; as a consequence majority of the wireless carriers and modem manufacturer are working in coordination with each other to bring the 5G network by early 2019. However, for the time being, it has just 4-G support.
+
+
+5. Expensive
+
+
+Samsung Galaxy Note 9 is one of the most expensive consumer smartphones existing in the market. The base variant of this phone begins from US$1000, which is not worth an enhancement if we consider other disadvantages of the device. It is likely to become more expensive when the smartphone hits other markets in Asian and Eastern regions. Most of the budget-centered first-class smartphone buyers are expected to choose less expensive Galaxy S9+ or other flagships by Chinese-Taiwanese manufacturers like Oppo, Vivo, OnePlus etc.
+
+Galaxy Note 9Galaxy Note ConsGalaxy Note ProsSamsung Galaxy Note 9Samsung review
+Falak Khuram / About Author
+Falak Khurram is a Content Marketing Executive at IQVIS. She's a news junky and loves to stay up to date on the latest marketing trends. Falak earned her MBA in Marketing from LSE in 2016. Follow her on Twitter @FalakKhurram
+More posts by Falak Khuram
+
+Leave a comment
+
+Send Comment
+
+Subscibe
+
+
+Receive latest Tech Talks in your inbox
+
+
+Join us on Social Media
+
+
+Recent Posts
+
+  * Step-by-Step Guide to Usability Testing
+    September 12, 2018
+  * Startup Money Management: 5 Steps on How to Manage it Wisely
+    September 5, 2018
+  * Augmented Reality for Apple Maps: Hiring Trends Suggest Apple’s Inclination to AR
+    September 4, 2018
+  * Top 5 Pros and Cons of Samsung Galaxy Note 9
+    August 31, 2018
+  * 7 Best Wireframe Tools For New Product Development
+    August 27, 2018
+
+About
+
+
+We are a software solutions company with focus on providing custom and personalized technology solutions.
+
+
+Contact
+
+1647 S Main st. Suite 200 Milpitas, CA 95035
+415 787 0756
+info@iqvis.com
+www.iqvis.com
+
+Quick Links
+
+  * About Us
+  * Services
+  * Case Studies
+  * Blog
+  * Privacy Policy
+  * Careers
+  * Contact Us
+
+Newsletter
+
+Submit
+2017 © All Rights Reserved

@@ -1,0 +1,493 @@
+* Edition:
+      + Asia
+      + Australia
+      + Europe
+      + India
+      + United Kingdom
+      + United States
+      + ZDNet around the globe:
+      + ZDNet China
+      + ZDNet France
+      + ZDNet Germany
+      + ZDNet Korea
+      + ZDNet Japan
+Search
+Go
+  * Cloud
+  * CXO
+  * Hardware
+  * Mobility
+  * Microsoft
+  * more
+      + Storage
+      + Security
+      + Enterprise Software
+      + Data Centers
+      + Wearables Fit For Business
+      + Apple
+      + Innovation
+      + See All Topics
+      + White Papers
+      + Downloads
+      + Reviews
+      + Galleries
+      + Videos
+      + TechRepublic Forums
+  * Newsletters
+  * All Writers
+      + Log In to ZDNET
+      + Join ZDNet
+      + About ZDNet
+      + Preferences
+      + Community
+      + Newsletters
+      + Log Out
+      + Go
+  * Menu
+      + Cloud
+      + CXO
+      + Hardware
+      + Mobility
+      + Microsoft
+      + Storage
+      + Security
+      + Enterprise Software
+      + Data Centers
+      + Wearables Fit For Business
+      + Apple
+      + Innovation
+      + See All Topics
+      + White Papers
+      + Downloads
+      + Reviews
+      + Galleries
+      + Videos
+      + TechRepublic Forums
+          o Log In to ZDNET
+          o Join ZDNet
+          o About ZDNet
+          o Preferences
+          o Community
+          o Newsletters
+          o Log Out
+  * in
+      + Asia
+      + Australia
+      + Europe
+      + India
+      + United Kingdom
+      + United States
+      + ZDNet around the globe:
+      + ZDNet China
+      + ZDNet France
+      + ZDNet Germany
+      + ZDNet Korea
+      + ZDNet Japan
+
+HTC U12 Plus review: Sometimes innovation goes awry
+
+
+By Matthew Miller | June 7, 2018 -- 13:48 GMT (19:18 IST) | Topic: Mobility
+
+  * Editors' rating
+    7.4 Very good
+  * $799.99
+  * Editors' review
+  * Specs
+
+Pros
+
+  * ✓Outstanding design with cool translucent back glass
+  * ✓Excellent audio performance and included USonic earbuds
+  * ✓High quality dual rear cameras
+  * ✓High level water & dust resistance
+  * ✓Unique and useful Edge Sense functionality
+
+Cons
+
+  * ✕Below average battery life
+  * ✕Annoying haptic side buttons
+  * ✕Priced too high
+
+top picks
+
+
+The 10 best smartphones right now
+
+
+It's easy to find a great phone today. In fact, current flagship devices are so good you really don't need to be replacing them every year.
+
+
+Read More
+
+
+A couple of weeks ago I posted my initial impressions of the HTC U12 Plus after meeting with HTC and handling the device for about 30 minutes. After more than a week of use, I'm ready to send the eval unit back and move on.
+
+
+The improvements over last year's U11 look great on paper, but there are a few things on the U12 Plus that drive me bonkers and prompted me to cancel my pre-order. Your phone should not annoy you, especially at a cost of more than $800. I'll get into more details later, but these issues include:
+
+  * Haptic side buttons
+  * Poor battery life
+  * Bloated BlinkFeed
+  * Edge Sense 2.0 activation indicators
+
+HTC U12 Plus specifications
+
+  * Processor: Qualcomm Snapdragon 845 2.6 GHz octa-core
+  * Display: 6.0 inch, 2880 x 1440 pixels resolution Super LCD 6 (537 ppi)
+  * Operating system: Android 8.0 Oreo
+  * RAM: 6GB
+  * Storage: 64GB or 128GB internal with microSD expansion card slot
+  * Cameras: 12 megapixel f/1.75 UltraPixel 4 and 16 megapixel f/2.6 telephoto 2x optial zoom rear cameras. Dual 8 megapixel f/2.0 front-facing cameras with wide-angle field of view and Bokeh mode.
+  * Water and dust resistance: IP68 rating
+  * Connectivity: Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), Bluetooth 5.0, GPS, GLONASS, Galileo, BeiDou, NFC
+  * Sensors: Accelerometer, Fingerprint Sensor, Gyro Sensor, Magnetic Sensor, Proximity Sensor, Ambient Light Sensor, Edge Sensor
+  * Battery: 3,500 mAh non-removable with Quick Charge 3.0 (QC 4 is supported)
+  * Dimensions: 156.6 x 73.9 x 9.7mm and 188 grams
+  * Colors: Translucent Blue and Ceramic Black. A Flame Red one similar to the Solar Red U11 will be coming to select markets later in 2018.
+
+The HTC U12 Plus has nearly all of the high end specifications you would expect in a flagship. But it has no wireless charging capability, which is an annoyance, especially given the poor battery life I experienced over the past nine days. It also does not include Band 71 (600 MHz) support, which is even found today on the much less expensive OnePlus 6.
+
+
+CNET: Best Earbuds for 2018
+
+
+A headphone jack is also not present, which is the trend today so I'm not listing that as a con for HTC. However, given that HTC was one of the first to focus on a powered amp in the headset socket and has a focus on audio performance I think removing the 3.5mm headset jack was a poor design decision a couple of years ago. There is also no way to charge up the U12 Plus and use the awesome sounding USonic earbuds so that's a problem.
+
+
+Hardware
+
+
+The HTC U12 Plus is a gorgeous phone and although some may not like the transparent back glass, I think it is lovely and geeky so I'm a fan. The look and feel of the phone was a primary reason I placed my pre-order in the first place.
+
+
+Top ZDNET Reviews
+
+Dell Latitude 11 5179
+7.9
+Apple iPhone 7 Plus
+9.3
+Amazon Echo
+9.0
+Google Pixel XL
+8.0
+
+It has a large display with minimal bezels, rear fingerprint scanner, and superb fit and finish. It's a bit thicker than most flagships at 9.7 mm, but has nice curved edges and still fits my hands well. It's more than a millimeter thicker than the Galaxy S9 Plus and two millimeters thicker than an iPhone X and Huawei P20 Pro.
+
+
+The glass back is very slippery and the first night that the U12 Plus was sitting on my flat nightstand it worked its way to the edge and then fell off in the middle of the night, startling me awake. After nine days I also notice some minor scratching on the back glass, which is what I also saw on the U11 last year. I guess it is to be expected on a glass back device and other such devices have done the same. Without support for wireless charging, I think I would prefer the cool metal backs that seemed to last forever without these micro scratches.
+
+
+HTC is the first company I know of that made the three right side buttons (volume up, volume down, and power) haptic buttons rather than mechanical buttons. HTC's official statement is that this design element was made to help achieve the highest IP68 rating HTC has had on a phone. Unfortunately, this design decision was a mistake and the haptic buttons drove me to the edge over the past nine days. They were inconsistent in their performance and when something as simple as a button does not react to a press 100 percent of the time it is a failure. I understand that new technology takes some time to get used to, but unlike the iPhone haptic home button these buttons never felt like real buttons and annoyed me every day. Your expensive phone should help you get things done and not pester you with inconsistent performance.
+
+
+CNET: Peek under the hood of the HTC U12 Plus
+
+
+Edge Sense 2 improves upon the squeezeable side experience with a double tap option. The double tap is even smart enough to work whether you hold the phone in your right or left hand. I found the Edge Sense 2.0 feature to actually be even more helpful with in-app squeezes for things such as switching to reading mode in the Samsung Internet browser.
+
+
+However, it felt like I had to crush the phone in my hand to get the squeeze and hold to activate. I even adjusted the force settings down to the 2/10 level and was unable to get the squeeze and hold to work consistently. However, the Edge Sense 2.0 half circle and flashing blue dot indicators would appear often just as I was holding the phone and not attempting to activate Edge Sense 2.0. Yet another annoyance on a phone where there should be none.
+
+
+The HTC U12 Plus is focused on the audio experience and this is one area where it shines brightly. The USonic noise-cancelling earbuds included in the box sound superb while the BoomSound speakers also sound excellent when you do not want to use headphones. My phone is my primary audio device and this is one area that I will be missing when I send back this eval unit and also one reason I thought I could get over the button and Edge Sense annoyances.
+
+HTC U12 Plus announced: in pictures SEE FULL GALLERY
+1 - 5 of 21
+NEXT PREV
+
+If the battery life was acceptable, then I likely would look past the annoyances and keep the U12 Plus. However, I was never able to go a single full day without the battery dying and some days only saw just over three hours of screen-on time. It seems to me that this phone suffers from rather terrible standby time since I was able to turn on continuous playing movies and see over four hours of screen-on time. I listen to music and use my phone for about 45 minutes on the morning train ride and saw the battery go down 20 percent. Then throughout the day I would occasionally use it for calls, texts, and a few photos to see the battery deplete another 50 to 60 percent in a typical eight to nine hour day of work. I would get home after my commute and the phone would be dead or nearly dead with aggressive battery saving modes kicking in. Over the past couple of years of testing phones, I have never had a flagship perform as terribly as the HTC U12 Plus.
+
+
+The rear cameras on the U12 Plus are excellent and I've seen solid performance with them as I've shot many photos with five or six dual rear camera phones. Check out my full Flickr album and compare the photos yourself. I still think the Google Pixel 2 takes better shots most of the time, but the U12 Plus performs as well as a current flagship should.
+
+
+I haven't seen anything stunning from the dual front cameras though and think one front camera would have been just fine for this device. I think being able to say your phone has four cameras was likely the reason to add another camera on the front just to capture depth data.
+
+
+Software
+
+
+The HTC U12 Plus launches with Android 8.0 Oreo and HTC confirmed it will be upgraded to Android P shortly after this next version of Android is released to the public. It is likely HTC will skip 8.1 since the team is focused on getting the Android P update ready to roll.
+
+
+HTC's Sense UI is the lightest of the flagships, Moto has an even lighter skin, and by selling the U12 Plus without a US carrier, customers will get a phone without all of that terrible carrier bloatware. There are just a few HTC apps, such as Mail, and most of these add value to the overall experience rather than bog it down as some other heavier skins have been shown to do.
+
+
+TechRepublic: Android P: Cheat sheet
+
+
+HTC still supports themes so you can customize the device to your preference. Theming includes freestyle layouts where you can have custom icons and placement on the home screen panels. This is still something that is unique to the HTC devices.
+
+
+You can swipe the three Android buttons from right to left to access some quick settings and it turns out this is one of the best ways to capture screenshots. The traditional method on Android of using a volume and power button dual button press does not work due to the use of haptic buttons. You can try an awkward power and virtual home button press, but swiping to use the quick screenshot control is likely a better move.
+
+
+Face unlock is included as a convenient way to quickly unlock the phone and that has worked reliably for me on the U12 Plus. The rear fingerprint scanner is used for a secure unlock method, but when you pick up the phone it is nice to have face unlock available too.
+
+
+HTC's Blinkfeed used to be pretty useful and very customizable to the content you wanted to see on the left home screen panel. It has devolved into ads, trashy content I don't care to see, and a hot mess of junk. Thankfully, you can hide this panel from the home screen experience, but it would be great to see HTC do what LG did on the G7 and give the customer the option to have the Google news feed there instead. I suppose you could always install a third party launcher and customize this experience to your liking.
+
+
+The HTC camera app is similar to what we have seen on the past with a menu button in the upper right that provides access to the many available modes; photo, slow motion, pro/manual, video, hyperlapse, panorama, selfie photo, selfie panorama, and selfie video. You can drag and drop these modes into any order you prefer.
+
+
+TechRepublic: 4 secrets: How to take professional photos with your smartphone
+
+
+To the right of the photo capture button is an icon with two bodies. Tap once to turn on auto-bokeh, tap again for manual bokeh, and then tap a third time to toggle bokeh affects off. With manual bokeh you can use the slider to adjust the level of background blur. This works as well as most other phones with portrait mode support.
+
+
+At the bottom of the viewfinder you will see a zoom slider. Tap the 1X icon in the center once to toggle to 2x optical zoom and again to go back to the 1x viewfinder. You can slide or pinch and zoom to achieve other levels of optical or digital zoom.
+
+
+There is a bokeh mode editor available so you can adjust the level of background blur after the fact. You can also tap and change the focal point after the image is captured. Huawei and Samsung have provided these types of editing tools for depth effects and they are handy ways to get creative with images.
+
+
+The camera app also has icons to toggle flash, character overlays (I'm too old for this stuff), timer, photo and video quality, and HDR.
+
+
+The video capability has been updated to include a cool natural zoom tool so your can zoom in and out of subject slowly in a cinematic manner. Advanced audio modes include hi-res audio, 3D audio, and acoustic focus with audio boost to also enhance subject audio.
+
+
+Price and availability
+
+
+The Samsung Galaxy S9 Plus starts at $840 so launching the comparable 64GB model HTC U12 Plus at $799 is reasonable. For $50 more you get 128GB internal storage with a microSD card slot. The OnePlus 6 is priced from $529 to $629 and LG G7 ThinQ is priced at $749. The OnePlus 6 supports the 600 MHz frequency and has a 3.5mm headset jack while the LG G7 supports wireless charging, has a wide-angle camera, and a 3.5mm headset jack. For myself, these two are more compelling (and less annoying) than the HTC U12 Plus.
+
+
+You can pre-order the HTC U12 Plus now from Amazon and HTC. HTC has a financing option of $34/month for 24 months at 0 percent APR for the 64GB model and $36 per month for the 128GB model. Amazon is only selling the 64GB model. Both the Ceramic Black and Translucent Blue are available for ordering with both unlocked and certified to work with Verizon, T-Mobile, and AT&T networks in the US.
+
+
+In Canada, Translucent Blue can be pre-ordered for $1,099 CAD (64GB) or $1,169 CAD (128GB), and Ceramic Black for $1,099 CAD (64GB).
+
+
+Daily usage experiences and conclusions
+
+
+The HTC U12 Plus is a gorgeous phone that matches the specs of the other flagships, while also having some features and functions not seen in Apple, Samsung, or Huawei phones. These include:
+
+  * Audio quality: The integrated speaker system is loud and clear. While there is no headset jack (it's time to move on folks) HTC includes noise-cancelling USonic earbuds in the box. These map your ears for enhanced audio customized to you and the audio experience through these is fantastic.
+  * Performance: HTC has one of the lightest Android "skins" out there and this phone flies. Using it and then using other Androids convinces me it jumps between apps, scrolls up and down, and just seems to do things faster than others.
+  * Edge Sense 2.0: I could never get the default Google Assistant to launch correctly, but after switching to the Edge Launcher I find the squeeze-and-hold to be far more useful. The in-app squeeze options significantly increase productivity and are an innovation in a space where people say there is no longer innovation.
+  * Swipeable bottom buttons: I've seen the ability to swipe the bottom Android navigation buttons in third party launchers, but love that I can swipe from right to left to record the screen, take a screenshot, pull down the notification shade, and even hide these bottom buttons.
+  * Double tap for one-handed mode: I never use one-handed mode on any phone because it has always been a real pain to toggle. However, I use my phone on the train and in other situations where one-handed use is preferred. The double tap on the side to toggle this on and off is simple, yet brilliant.
+  * Sonic Zoom and Auto Zoom: Sonic Zoom lets you zoom in on a sound or other audio source in your video to bring out that audio in your video. It's impressive in use and not something we have seen from others. LG's V series has a cool auto zoom capability that simulates what we see at the movies. HTC now has this smooth zoom capability with Auto Zoom.
+
+That said, there are also several things that bug me about the HTC U12 Plus as well and some of these I wouldn't be as concerned about if it was priced a couple hundred less and competing with devices like the OnePlus 6. Issues that bother me include:
+
+  * Haptic side buttons: The buttons do not perform at 100 percent reliability, especially when trying to use the double press to launch the camera. They annoy me more than help so let's go back to regular buttons like every other phone already has.
+  * Edge Sense activation indicators: I can't stand seeing the blue semi-circles and dots appear when I am just holding onto the phone. I would be fine with HTC providing a setting to always hide the indicators.
+  * Limited battery life: I admittedly use my phones a lot, but so do many others. The U12 Plus has performed the worst out of any phone I have tested over the past couple of years when it comes to my typical daily usage. I cannot imagine trying to use it on a day when I am out in the field and have no available power source to charge during the day.
+  * Lack of wireless charging: Yes, this is a convenience feature, but flagships from Apple, Samsung, and LG support it so there is no reason why HTC could not have included it on a glass back phone. It obviously did not use the space for a massive Huawei-sized battery.
+  * No band 71 (600 MHz): T-Mobile is actively rolling out support for this frequency and the latest phones from Samsung, LG, and even OnePlus have this support. For $800+, HTC should also have included support for this band.
+
+I've been using devices created by HTC since 2001 so I'm a fan. That said, I did not keep the HTC U11 around and don't buy devices just to sit on shelves. Although the company has been struggling financially and releasing fewer devices, this review is judging the HTC U12 Plus and not the company. The U12 Plus is a fantastic piece of hardware and if the unique features I listed above are important to you then go try one out. If the list of bothersome things irks you too much, then move along and look at something from Samsung, LG, Moto, Huawei, or others.
+
+
+See: The 10 best smartphones of 2018
+
+
+Given that there will be a Samsung Galaxy Note 9 and Pixel 3 XL likely coming in the next few months, I can't justify paying $800 for the HTC U12 Plus at this time and am tired of my phone annoying me like some insolent child.
+
+
+Specifications
+
+Phone Features                     
+Phone Functions                     Speakerphone, voice control, call timer, conference call, flight mode, voice dialing, vibrating alert                                                                                                                                                                                                                                                                                     
+Sensors                             Ambient light sensor, proximity sensor, digital compass, magnetometer, gyro sensor, G-sensor, edge sensor                                                                                                                                                                                                                                                                                 
+Additional Features                 DLNA Certified, AirPlay wireless streaming, sharing media via DLNA, Face Unlock, Wi-Fi Miracast, MIMO technology, Flip to Mute function, Power Saving Mode, notification LED, Wi-Fi Calling, four microphones, Pocket mode, Hi-Res Audio, Motion Launch, Android Sensor Hub, HTC Connect, Extreme power saving mode, MU-MIMO technology, Quiet ring on pick up, pressure sensitive buttons
+Security Devices                    Fingerprint reader, face recognition                                                                                                                                                                                                                                                                                                                                                      
+Cellular                           
+Technology                          WCDMA (UMTS) / GSM                                                                                                                                                                                                                                                                                                                                                                        
+Type                                smartphone (Android OS)                                                                                                                                                                                                                                                                                                                                                                   
+Integrated Components               digital player, dual front-facing camera, dual rear-facing camera, navigation, voice recorder                                                                                                                                                                                                                                                                                             
+Navigation                          A-GPS, BeiDou, GLONASS, GPS, Galileo                                                                                                                                                                                                                                                                                                                                                      
+Band                                WCDMA (UMTS) / GSM 850/900/1800/1900                                                                                                                                                                                                                                                                                                                                                      
+Mobile Broadband Generation         4G                                                                                                                                                                                                                                                                                                                                                                                        
+Phone Form Factor                   touch                                                                                                                                                                                                                                                                                                                                                                                     
+Service Provider                    Verizon Wireless, AT&T, T-Mobile, Unlocked                                                                                                                                                                                                                                                                                                                                                
+Operating System Family             Android                                                                                                                                                                                                                                                                                                                                                                                   
+Operating System                    Android 8.0 Oreo                                                                                                                                                                                                                                                                                                                                                                          
+User Interface                      HTC Sense                                                                                                                                                                                                                                                                                                                                                                                 
+Intelligent Assistant               Alexa, Google Assistant, HTC Sense Companion                                                                                                                                                                                                                                                                                                                                              
+SIM Card Type                       nano SIM                                                                                                                                                                                                                                                                                                                                                                                  
+SIM Card Slot Qty                   single-SIM                                                                                                                                                                                                                                                                                                                                                                                
+Input Device                        Multi-touch, capacitive                                                                                                                                                                                                                                                                                                                                                                   
+Details                            
+SAR Value                           0.53 W/kg (body) / 0.66 W/kg (head)                                                                                                                                                                                                                                                                                                                                                       
+Integrated Components               Voice recorder, navigation, dual rear-facing camera, dual front-facing camera, digital player                                                                                                                                                                                                                                                                                             
+Body Color                          Translucent blue                                                                                                                                                                                                                                                                                                                                                                          
+Messaging & Internet               
+Messaging Services                  MMS, SMS                                                                                                                                                                                                                                                                                                                                                                                  
+Supported Social Networks and Blogs Yes                                                                                                                                                                                                                                                                                                                                                                                       
+Miscellaneous                      
+Sensors                             G-sensor, ambient light sensor, digital compass, edge sensor, gyro sensor, magnetometer, proximity sensor                                                                                                                                                                                                                                                                                 
+Communications                     
+Data Transmission                   EDGE, FDD-LTE, GPRS, HSDPA, HSPA+, HSUPA, TDD-LTE, VoLTE, VoWiFi                                                                                                                                                                                                                                                                                                                          
+3G UMTS Band                        Band 1, Band 2, Band 4, Band 5, Band 8                                                                                                                                                                                                                                                                                                                                                    
+Wireless Interface                  Bluetooth 5.0, IEEE 802.11a/b/g/n/ac, NFC                                                                                                                                                                                                                                                                                                                                                 
+Processor                          
+Clock Speed                         2.8 GHz                                                                                                                                                                                                                                                                                                                                                                                   
+Manufacturer                        QUALCOMM                                                                                                                                                                                                                                                                                                                                                                                  
+Processor Core Qty                  8-core                                                                                                                                                                                                                                                                                                                                                                                    
+64-bit Architecture                 Yes                                                                                                                                                                                                                                                                                                                                                                                       
+Display                            
+Technology                          Super LCD 6                                                                                                                                                                                                                                                                                                                                                                               
+Display Resolution                  2880 x 1440 pixels                                                                                                                                                                                                                                                                                                                                                                        
+Color Depth                         24-bit (16.7 million colors)                                                                                                                                                                                                                                                                                                                                                              
+Display Format                      QHD+                                                                                                                                                                                                                                                                                                                                                                                      
+Pixel Density (ppi)                 537                                                                                                                                                                                                                                                                                                                                                                                       
+Diagonal Size                       6 in                                                                                                                                                                                                                                                                                                                                                                                      
+Diagonal Size (metric)              15.2 cm                                                                                                                                                                                                                                                                                                                                                                                   
+Smartphone Diagonal Size            6 in                                                                                                                                                                                                                                                                                                                                                                                      
+Aspect Ratio                        18:9                                                                                                                                                                                                                                                                                                                                                                                      
+Protection                          Corning Gorilla Glass (scratch resistant glass)                                                                                                                                                                                                                                                                                                                                           
+Color Support                       color                                                                                                                                                                                                                                                                                                                                                                                     
+Features                            DCI-P3 Wide color gamut, Display color personalisation, HDR10, HTC Edge Sense 2, Smart dim, Smart display, Smart rotate                                                                                                                                                                                                                                                                   
+Media Player                       
+Supported Digital Video Standards   MKV, MPEG-4, 3GP, TS, WebM                                                                                                                                                                                                                                                                                                                                                                
+Supported Digital Audio Standards   WAV, AAC, MP3, FLAC, OGG, M4A, LDAC, MP4, MID, apt-X HD                                                                                                                                                                                                                                                                                                                                   
+Memory                             
+RAM                                 6 GB - LPDDR4X SDRAM                                                                                                                                                                                                                                                                                                                                                                      
+Supported Flash Memory Cards        microSDXC - up to 2 TB                                                                                                                                                                                                                                                                                                                                                                    
+Battery                            
+Run Time Details                    Talk: up to 1428 min                                                                                                                                                                                                                                                                                                                                                                      
+Fast Charging Technology            Qualcomm Quick Charge 3.0                                                                                                                                                                                                                                                                                                                                                                 
+Digital Camera                     
+Self-Timer Delay                    10 sec                                                                                                                                                                                                                                                                                                                                                                                    
+Header                             
+Brand                               HTC                                                                                                                                                                                                                                                                                                                                                                                       
+Product Line                        HTC                                                                                                                                                                                                                                                                                                                                                                                       
+Model                               U12+                                                                                                                                                                                                                                                                                                                                                                                      
+Packaged Quantity                   1                                                                                                                                                                                                                                                                                                                                                                                         
+CE Input Device                    
+Type                                touch sensitive screen (multi-touch)                                                                                                                                                                                                                                                                                                                                                      
+Touchscreen Technology              capacitive                                                                                                                                                                                                                                                                                                                                                                                
+Features                           
+Sensors                             G-sensor, ambient light sensor, digital compass, edge sensor, gyro sensor, magnetometer, proximity sensor                                                                                                                                                                                                                                                                                 
+Phone Functions                     call timer, conference call, flight mode, speakerphone, vibrating alert, voice control, voice dialing                                                                                                                                                                                                                                                                                     
+Security Devices                    face recognition, fingerprint reader                                                                                                                                                                                                                                                                                                                                                      
+Additional Features                 AirPlay wireless streaming, Android Sensor Hub, DLNA Certified, Extreme power saving mode, Face Unlock, Flip to Mute function, HTC Connect, Hi-Res Audio, MIMO technology, MU-MIMO technology, Motion Launch, Pocket mode, Power Saving Mode, Quiet ring on pick up, Wi-Fi Calling, Wi-Fi Miracast, four microphones, notification LED, pressure sensitive buttons, sharing media via DLNA
+Digital Player (Recorder)          
+Supported Digital Audio Standards   AAC, FLAC, LDAC, M4A, MID, MP3, MP4, OGG, WAV, apt-X HD                                                                                                                                                                                                                                                                                                                                   
+Supported Digital Video Standards   3GP, MKV, MPEG-4, TS, WebM                                                                                                                                                                                                                                                                                                                                                                
+Sound Enhancements                  HTC BoomSound Hi-Fi Edition, HTC USonic with Active Noise Cancellation, Hi-Res audio certified, Hi-Res audio recording                                                                                                                                                                                                                                                                    
+RAM                                
+Installed Size                      6 GB                                                                                                                                                                                                                                                                                                                                                                                      
+Technology                          LPDDR4X SDRAM                                                                                                                                                                                                                                                                                                                                                                             
+Flash Memory                       
+Internal Memory Capacity            64 GB                                                                                                                                                                                                                                                                                                                                                                                     
+Max Supported Size                  2 TB                                                                                                                                                                                                                                                                                                                                                                                      
+Supported Flash Memory Cards        microSDXC                                                                                                                                                                                                                                                                                                                                                                                 
+Front-facing Camera                
+Sensor Resolution                   8 Megapixel                                                                                                                                                                                                                                                                                                                                                                               
+Lens Aperture                       f/2.0                                                                                                                                                                                                                                                                                                                                                                                     
+Focus Adjustment                    automatic                                                                                                                                                                                                                                                                                                                                                                                 
+Features                            AR sticker, Self timer up to 10 seconds                                                                                                                                                                                                                                                                                                                                                   
+Second Front Camera                
+Lens Aperture                       f/2.0                                                                                                                                                                                                                                                                                                                                                                                     
+
+Related Topics:
+
+Hardware Smartphones Mobile OS Security Reviews
+
+Where To Buy
+
+Price
+$799.99
+  * Amazon
+    $700.00
+  * Amazon Marketplace
+    $799.99
+  * Adorama
+    $799.00
+
+Top ZDNET Reviews
+
+BlackBerry KEY2 LE
+7.9
+Honor 8X
+8
+Lenovo ThinkPad X1 Extreme
+8.5
+Doogee S80
+8.5
+* LOG IN TO COMMENT
+  * My Profile
+  * Log Out
+| Community Guidelines
+
+Join Discussion
+
+Add Your Comment
+Add Your Comment
+
+Where To Buy
+
+
+HTC U12 Plus (64GB, translucent blue)
+
+Part Number: 99HAPC004-00
+Price
+$799.99
+  * Amazon
+    $700.00 See It
+  * Amazon Marketplace
+    $799.99 See It
+  * Adorama
+    $799.00 See It
+
+Related Stories
+
+  * 1 of 2
+
+  * BlackBerry KEY2 LE review: Retro productivity with modern security and an affordable price
+
+
+  * ​Honor 8X review: A notch above expectation
+
+
+  * Lenovo ThinkPad X1 Extreme review: A powerful business laptop with a top-quality 4K screen
+
+
+  * Doogee S80 hands-on: A waterproof, rugged walkie-talkie phone
+
+
+×
+
+Thank You
+
+
+Please review our terms of service to complete your newsletter subscription.
+
+By registering you become a member of the CBS Interactive family of sites and you have read and agree to the Terms of Use, Privacy Policy and Video Services Policy. You agree to receive updates, alerts and promotions from CBS and that CBS may share information about you with our marketing partners so that they may contact you by email or otherwise about their products or services. You will also receive a complimentary subscription to the ZDNet's Tech Update Today and ZDNet Announcement newsletters. You may unsubscribe from these newsletters at any time.
+
+ACCEPT & CLOSE
+
+Newsletters
+
+See All
+See All
+ZDNet
+Connect with us
+
+© 2019 CBS Interactive. All rights reserved. Privacy Policy | Cookies | Ad Choice | Advertise | Terms of Use | Mobile User Agreement
+
+Visit other CBS Interactive sites: Select SiteCBS CaresCBS FilmsCBS RadioCBS.comCBSInteractiveCBSNews.comCBSSports.comChowhoundCNETCollege NetworksGameSpotLast.fmMaxPrepsMetacritic.comMoneywatchmySimonRadio.comSearch.comShopper.comShowtimeTechRepublicThe InsiderTV.comUrbanBaby.comZDNet
+  * Topics
+  * All Authors
+  * Galleries
+  * Videos
+  * Sponsored Narratives
+  * About ZDNet
+  * Meet The Team
+  * Site Map
+  * RSS Feeds
+  * Reprint Policy
+  * Manage | Log Out
+  * Join | Log In | Membership
+  * Newsletters
+  * Site Assistance
+  * ZDNet Academy
+  * TechRepublic Forums

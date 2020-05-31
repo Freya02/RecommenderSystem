@@ -1,0 +1,109 @@
+Menu
+  * PRIVACY
+  * WHO WE ARE
+  * HOW IT WORKS
+  * BLOG
+  * ADVISORIES
+  * LOG IN
+  * SIGN UP
+  * Trend Micro
+Menu
+  * PRIVACY
+  * WHO WE ARE
+  * HOW IT WORKS
+  * BLOG
+  * ADVISORIES
+  * LOG IN SIGN UP
+
+* Really Check Errors: Pointing to the Object of your Desire
+
+December 20, 2018 | Jasiel Spelman
+SUBSCRIBE
+
+This is the fourth in our series of Top 5 interesting cases from 2018. Each of these bugs has some element that sets them apart from the approximately 1,400 advisories released by the program this year. We now cover yet another Pwn2Own winner, this time exploiting macOS.
+
+
+At Pwn2Own 2018, MWR Labs successfully compromised Apple Safari. The exploit started off by taking advantage of a heap overflow in the handling of SVG objects, followed by a sandbox escape due to an uninitialized pointer in the Dock. Since uninitialized data is one of my favorite things, I’ll be covering the vulnerability used in the sandbox escape. The identifier for this vulnerability is ZDI-18-781/CVE-2018-4196.
+
+
+In macOS, the Dock is reachable through a Mach service identified by “com.apple.dock.server”. These functions heavily employ the serialization functionality provided by the HIServices framework. The vulnerability was triggered in the DSSetDesktopForDisplayAndSpace function, which was reachable by sending a Mach message with 96548 as the ID.
+
+
+Let’s take a look at what the DSSetDesktopForDisplayAndSpace function looks like:
+
+
+This is just the beginning of the function, but we can see some variables are initialized on the stack prior to _UnserializeCFType being called. That function lives in the HIServices, so let’s look at it too:
+
+
+That isn’t very interesting on its own, but let’s dive deeper anyway. Here’s the AXUnserializeCFType function:
+
+
+This function first checks to ensure that the fourth argument is at least eight before continuing on. If so, it’ll initialize the fifth argument such that it points to NULL and then attempt to deserialize based on the type of data. If deserialized without error, a pointer to the newly created object will be stored in the fifth argument.
+
+
+Did you catch the issue? Let’s look at the beginning of the DSSetDesktopForDisplayAndSpace in a different manner that might make it more apparent:
+
+
+This is the same as the assembly snippet we first looked at, including all of the variable initialization. Now do you see the issue? The stack variable that is used as an argument to UnserializeCFType is never initialized. Execution then makes it to AXUnserializeCFType, which only initializes that pointer if the second argument to UnserializeCFType is at least eight. Immediately after, objc_autorelease is called on the stack variable, which has the same effect as using the autorelease selector. As such, we can get code execution if that variable on the stack can be controlled.
+
+
+The MWR team took advantage of this by using a function that contained a push rbx instruction that aligned with the offset of the uninitialized stack variable. When that instruction executes, the rbx register points 40 bytes into the Mach msg being processed, which is perfect for controlling the pointer that objc_autorelease will end up operating on.
+
+
+There were a total of eight methods that had the vulnerable code path, where they also called _UnserializeCFType without initializing the fourth argument or checking the return code, though there were also a couple more that did things correctly. In the correct cases, the return value of _UnserializeCFType was checked to ensure it was successful and the stack variable passed by reference as an argument was initialized to NULL.
+
+
+In 2016, lokihardt disclosed ZDI-16-282 as part of his Microsoft Edge chain, where he took advantage of an uninitialized stack variable when handling the `Array.concat` method. In 2017, 360 Security disclosed ZDI-17-237 as part of their guest-to-host OS escape within VMware Workstation. For details on that vulnerability, check out this blog by Abdul-Aziz Hariri.
+
+
+I hope you’ve enjoyed this foray into one of the consistent vulnerability types used at Pwn2Own. Vulnerabilities due to uninitialized data continue to be one of my favorite bug classes, and it’s always fun to see how others have been able to take advantage of them to get code execution.
+
+
+You can find me on Twitter at @WanderingGlitch, and follow the team for the latest in exploit techniques and security patches. Stay tuned for the final Top 5 bug blog, which will be released tomorrow.
+
+  * Top 5
+  * Apple
+  * Research
+BACK TO THE BLOG
+
+Using the Weblinks API to Reach JavaScript UAFs in Adobe Reader
+
+Adobe, Acrobat, Research
+
+Implementing Fuzz Logics with Dharma
+
+Dharma, Research, Foxit, Fuzzer
+
+Of ISOs and Attorneys: Legal Action in Vulnerability Disclosure
+
+Program News, Disclosure
+
+General Inquiries
+
+zdi@trendmicro.com
+
+Find us on Twitter
+
+@thezdi
+
+Media Inquiries
+
+media_relations@trendmicro.com
+
+Sensitive Email Communications
+
+PGP Key
+WHO WE ARE
+  * Our Mission
+  * Trend Micro
+  * TippingPoint IPS
+HOW IT WORKS
+  * Process
+  * Researcher Rewards
+  * FAQS
+  * Privacy
+ADVISORIES
+  * Published Advisories
+  * Upcoming Advisories
+  * RSS Feeds
+BLOG

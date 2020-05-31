@@ -1,0 +1,299 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+Xiaomi Redmi 5 Review
+
+
+
+Xiaomi launched the Redmi 5 smartphone in India last month. Even though the Redmi Note 5 was not a huge upgrade, the Redmi 5 is a major upgrade compared to the Redmi 4 in terms of design and internals, but it has a slightly smaller battery and is costly compared to the predecessor . Should you get it? Let us jump into the review to find out.
+
+
+Unboxing
+
+
+We recently unboxed the smartphone, check out the video below.
+
+
+Box Contents
+
+
+  * Xiaomi Redmi 5 smartphone in Black color
+
+  * 2-pin charger (5V-2A)
+  * Micro USB cable
+  * SIM ejector tool
+  * Clear protective case
+  * User guide
+
+Display, Hardware and Design
+
+
+The main change in the Redmi 5 compared to the Redmi 4 is its 18:9 2.5D curved glass screen with gentle rounded corners. It has a large 5.7-inch HD+ display with a pixel resolution of 1440 × 720 pixels and a pixel density of about 282 PPI. The display is bright, thanks to 450 nits brightness and has 1000:1 contrast ratio. Sunlight legibility is good, since it has a Sunlight display that uses hardware-level technology to adjust the contrast of each pixel in real-time, so images are less affected by glare. It has 72% of NTSC color gamut, same as the predecessor. It should have a Corning Gorilla Glass protection, but the company has not confirmed it. Even though the pixel density is less compared to the Redmi Note 5, the display is good for the price.
+
+
+Since this has a 18:9 aspect ratio screen, you can pinch to zoom to fill the screen when you use apps like YouTube, but the content is cropped. Several apps support full-screen, but JioTV or Airtel Live TV apps don’t support full-screen, so you get weird black bars.
+
+
+Under the display options there are different options to adjust colors and contrast based on your preference. There is also reading mode that lets you reduce the display’s blue light emission so it doesn’t cause eye strain when you are reading at night.
+
+
+Above the display there is an earpiece along with the usual set of proximity and ambient light sensors next to it. It also has a gyroscope and a magnetic sensor, otherwise known as a magnetometer. There is also a 5-megapixel camera on the front with f/2.0 aperture along with selfie flash. There is also a notification LED next to the camera that glows in white color.
+
+
+Even though there is a small bezel below the display, it uses on-screen buttons.
+
+
+Coming to the button placements and slots, the power button and the volume rockers are present on the rights side, hybrid SIM slot is present on the left side, 3.5mm audio jack, secondary microphone and Infrared sensor are present on the top, while the primary microphone, micro USB port and loudspeaker grill are present on the bottom. The phone is just 7.7mm thick compared to 8.65 mm thick Redmi 4. It is 72.8mm wide and 151.8mm tall since it has a large 18:9 screen.
+
+
+Same as the Redmi 4, the Redmi 5 comes with a hybrid SIM slot, even though the company has moved to dedicated slots in the Redmi 5A and the Redmi Y1 series. This accepts two SIMs or a SIM and a microSD card (up to 128GB).
+
+
+On the back there is a 12-megapixel rear camera with LED flash and a fingerprint sensor below it. Even though the phone is slightly slimmer compared to the predecessor, this has a slight camera bump, but the camera lens doesn’t get scratched when you place it on a flat surface since it has scratch-resistant glass.
+
+
+Even though the phone has a large screen, it is compact to hold. It has a screen-to-body ratio of about 76%, slightly more than Redmi 4’s 71% screen-to-body ratio. Similar to the predecessor, it has a metallic finish in the middle, while the top and bottom parts of the back have plastic finish where the antennas are present. It packs a 3300mAh built-in battery compared to 4100mAh battery, same as the predecessor. At the launch the company said that similar to the Redmi Note 5 and other latest smartphone, this has dual pyrolytic graphite sheets that will help to diffuse and radiate heat quickly. Overall the build quality of the smartphone is good.
+
+
+Xiaomi also bundles a clear case with the phone, so that you don’t have to worry about looking for one.
+
+
+Camera
+
+
+The Redmi 5 has a 12-megapixel rear camera with 5-element lens, f/2.2 aperture and large 1.25μm pixel size, same as the Redmi Note 5, but it has a single LED flash compared to dual-tone LED flash. It has a 5-megapixel front-facing camera with f/2.0 aperture and selfie flash.
+
+
+The camera UI is familiar with other Xiaomi smartphones with flash and HDR toggles on the top, front camera toggle on the bottom along with option to select modes (Panorama, Timer (3 to 10 seconds), Audio trigger, manual mode to adjust white balance and ISO (100 to 3200), Straighten, Beautify, HHT (Hand held twilight), Scene and Tilt-shift to blur a part of an image. It has image preview window, camera and video buttons on the right side. For the front camera, it has beautify mode, pro mode and smart mode that guesses your age using facing recognition algorithm.
+
+
+Coming to the image quality, daylight shots are good in bright conditions, but some images are a bit dull. HDR shots are better, and macro shots are good as well. Since the sensor has 1.25μm pixel size, low-light shots are decent, but there is still noise. Images with flash are good and the flash is not overpowering. Daylight front camera shots are good, but in low-light there is a lot of noise in the image even when LED flash is on. Overall the phone has a good camera for the price, and is an improvement compared to the Redmi 4.
+
+
+Check out some camera samples (Click the image to view the full resolution sample.)
+
+
+Sunset Scene mode
+
+HDR OFF
+
+
+HDR ON
+
+
+Front Camera
+
+
+It can record videos at 1080p resolution at 30 fps. Video quality is good and the audio is crisp, thanks to the secondary microphone. It has time-lapse, but it doesn’t have slow-motion video recording. The front camera can record 1080p videos at 30fps. Check out the video sample below.
+
+
+Check out more Redmi 5 Camera Samples here.
+
+
+Software, UI and Apps
+
+
+It runs Android 7.1.2 (Nougat) out of the box with MIUI 9.2 on top with Android security update for January 1, 2018. It should get MIUI 9.5 update soon that will add full-screen gestures, New Notification Shade with Quick Replies and more new features. It will likely get the Android Oreo update, but no details about the time-frame yet.
+
+
+MIUI 9 adds a lot of features including improved notifications, split screen, improved apps like Mi Drop to transfer of files between any Android device without requiring an internet connection. It also has new App Vault feature that shows shortcuts to access apps quickly by when you swipe left in the homescreen. You can add up to 8 shortcuts. There is also App lock that lets you protect your apps with a password and the dual apps feature lets you run app like WhatsApp with two different accounts at the same time.
+
+
+Out of 3GB RAM, you get 2.8GB of usable RAM, and 1.6GB of RAM is free when default apps are running in the background. Out of 32GB, you get 24.4GB of free storage since OS and apps take about 7GB of space. The built-in Cleaner inside the storage lets free up space by clearing cache and obsolete files.
+
+
+Apart from the usual set of utility apps, Google apps and Xiaomi’s own set of apps, it comes pre-loaded with Amazon Shopping, Facebook, Myntra and Amazon Prime Video apps. You can easily uninstall these apps.
+
+
+Since the phone has an infrared sensor for remote function, it comes with Mi Remote that lets you control your home appliances easily. It worked flawlessly with Airtel Set-top box, Samsung TV and Panasonic AC. It also supports A/V receiver, DVD Player, Projector, Camera and more.
+
+
+Fingerprint Sensor
+
+
+The phone has a fingerprint sensor on the back. It immediately unlocks phone just by keeping your finger on the home button so that you don’t have to press it. You can add up to 5 fingerprints.
+
+
+Music Player and FM Radio
+
+
+The Mi Music Player is the default music player. There is also equalizer. It also has FM Radio with recording. Audio through the speaker is good. Since the speaker is present on the bottom, audio doesn’t get muffled when the phone is on a flat surface. Audio through earphones is also good.
+
+
+Dual SIM and Connectivity
+
+
+It has the usual set of connectivity features such as Wi-Fi 802.11 b/g/n, Bluetooth 4.2, GPS + GLONASS. It also has USB OTG support that lets you connect external drives. It has 4G connectivity and also has Voice-over-LTE (VoLTE) support for Reliance Jio. Even though Airtel says that it supports Airtel VoLTE, we did not get it yet. It is expected to get Vodafone VoLTE support soon.
+
+
+Both the SIMs support 4G, but you can enable 4G only in one SIM at a time, while the other goes to 3G. You can set preferred SIM for a voice call, text and data from the SIM card manager.
+
+
+Calling and Messaging
+
+
+The dialer and messaging UI are similar to other Xiaomi smartphones running MIUI 9. Since this is a dual SIM phone, you get the option to select either SIMs when calling or sending a text message. There are no call drops and the earpiece volume is good.
+
+
+Performance and Benchmarks
+
+
+Coming to the performance, the phone is powered by an Octa-Core Snapdragon 450 Mobile Platform with eight ARM Cortex A53 cores clocked at 1.8GHz per core and has 2GB, 3GB or 4GB of RAM depending on the model. The SoC is more than enough to run a phone with a HD+ screen, and the performance is good without any lags. It gets a bit heated on intensive gaming and 4G data use, but it doesn’t too hot to handle. It also has a Adreno 506 GPU that offers good gaming performance. That said, check out some synthetic benchmark scores below.
+
+
+It scored 55437 points in AnTuTu Benchmark 6 and grabbed the third spot.
+
+
+It scored 763 points in the Geekbench 4 Single-Core benchmark and grabbed the fourth spot.
+
+
+It scored 3515 points in Geekbench 4 Multi-Core benchmark and grabbed the fourth spot again.
+
+
+It scored 12733 points in the 3D Mark Ice Storm Unlimited GPU benchmark and grabbed the fourth spot, behind the Redmi Note 5.
+
+
+Battery life
+
+
+Coming to the battery life, the 3300mAh (typical) / 3200mAh (minimum)
+
+built-in battery, is smaller compared to the 4100mAh battery on the Redmi 4, but the battery life is good, thanks to the power-efficient Snapdragon 450 14nm SoC and optimization in the MIUI 9. It lasts for a whole day even with heavy use and with average use it lasts for two days.
+
+
+Sadly, the phone doesn’t have fast charging so it takes about 2 hours to charge it from 0 to 100%, but 0 to 50% takes just 48 minutes.
+
+
+It achieved One Charge Rating of 16 hours and 56 minutes, which is pretty good for the phone with a 3300mAh battery. We will bring you the complete set of battery life test results soon.
+
+
+Conclusion
+
+
+At a starting price of Rs. 7999, the Redmi 5 is good upgrade to last year’s Redmi 4. It has a larger screen, faster SoC, better cameras, slim design and offers a brilliant battery life, but it has the same hybrid dual SIM slot, which most users looking for a budget smartphone don’t prefer.
+
+
+Xiaomi could have priced the base variant at Rs. 6999, same as the launch price of the predecessor since you can get the Redmi Note 5 with a larger FHD+ screen, better SoC, larger battery, more RAM and storage if you spend Rs. 2000 more. If you are tight on the budget, the Redmi 5 is a good choice, otherwise we would recommend the Redmi Note 5, if you are looking for a phone under Rs. 10,000.
+
+
+The Xiaomi Redmi 5 goes on sale every week exclusively on Amazon.in as well as Mi.com starting at Rs. 7999 for the 2GB RAM with 16GB storage version, Rs. 8,999 for 3GB RAM with 32GB storage version and Rs. 10,999 for 4GB RAM with 64GB storage version.It also comes with Rs. 2200 cashback offer and 100% additional 4G data for Reliance Jio customers. To summarize, here are the pros and cons of the smartphone.
+
+
+Pros
+
+      + Good build quality and sleek design
+      + Brilliant battery life
+      + Decent cameras
+
+Cons
+
+  * Only 282 PPI HD+ screen
+  * Hybrid Dual SIM might not be preferred by everyone
+
+Images by Siraj
+
+
+
+Author: Srivatsan Sridhar
+
+
+Srivatsan Sridhar is a Mobile Technology Enthusiast who is passionate about Mobile phones and Mobile apps. He uses the phones he reviews as his main phone. You can follow him on Twitter, Instagram and on Google+ View all posts by Srivatsan Sridhar
+
+Author Srivatsan SridharPosted on April 3, 2018Categories Reviews, Xiaomi
+
+Post navigation
+
+Previous Previous post: Google rolls out April 2018 Android security update, includes functional improvements for Pixel and Nexus devices
+Next Next post: Indian Govt imposes 10% import tax on key smartphone components
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * XOLO Era 4X 2GB Unboxing and First Impressions
+  * LG to introduce Snapdragon 855-powered 5G smartphone with vapor chamber at MWC 2019
+  * Apple dismisses over 200 employees from its Project Titan autonomous vehicle group
+  * Microsoft Office 365 now available via the Apple Mac App Store
+  * Gmail v8.12 starts testing Dynamic Email support
+  * Apple iOS 12.2 beta brings new ‘Hey Siri’ setup for the rumored AirPods 2
+  * Twitter confirms it is testing “Original Tweeter” tag to distinguish who started a thread
+  * Facebook is shutting down Moments app on February 25th
+  * Samsung Galaxy A9 Pro (2019) with 6.4-inch FHD+ Infinity-O display, 6GB RAM, triple rear cameras announced
+  * Get Android 9.0 Pie on Redmi Note 5 Pro with OxygenOS 9.0 port
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

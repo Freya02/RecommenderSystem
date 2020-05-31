@@ -1,0 +1,323 @@
+* Search
+  * OTA Update Center
+  * Contact Us
+  * Home
+      + Asus Zenfone2
+      + Asus Zenfone2 Laser
+      + Asus Zenfone Selfie
+      + Asus ZenfoneZoom
+      + Asus Zenfone 4
+      + Asus Zenfone 4.5
+      + Asus Zenfone 5
+      + Asus Zenfone 5 LTE
+      + Zenfone 5 Lite
+      + Asus Zenfone 6
+      + Asus Padfone S
+      + Asus ZenPad
+  * ROM
+      + Asus Zenfone 2
+      + Custom Rom Zenfone 2
+      + Asus Zenfone 4
+      + Custom Rom Zenfone 4
+      + Asus Zenfone 4.5
+      + Asus Zenfone 5
+      + Asus Zenfone 5 LTE
+      + Custom Rom Zenfone 5
+      + Asus Zenfone 6
+      + Custom Rom Zenfone 6
+      + Latest Firmware
+      + KitKat
+      + Lollipop ROM
+      + Upgrade to KitKat
+      + AOSP
+  * OTA Center
+  * Developer
+      + Recovery
+      + Kernel
+      + Custom Recovery (Philz,CWM,TWRP)
+      + Manual Update
+      + Zenfone Flashtool
+      + Flash via ADB
+      + Install international ROM
+      + Install Gapps
+      + Unlock Bootloader
+      + Viper4Android
+      + Re-Lock Bootloader
+      + Unbrick Zenfone
+      + Fix bootloop Zenfone
+      + Downgrade/Upgrade,CN/TW to WW
+      + Downgrade4.4.2 to 4.3
+      + Enable ART Runtime
+      + Backup
+      + Deactivate Demo Mode
+  * Forum
+  * Root
+      + Zenfone 3
+      + Zenfone Zoom
+      + Zenfone 2
+      + Zenfone 2 Laser
+      + Zenfone Selfie
+      + ZenPad
+      + Zenfone 4
+      + Zenfone 4.5
+      + Zenfone 5
+      + Zenfone 5 LTE
+      + Zenfone 6
+      + Root Zenfone Kitkat
+      + Root Zenfone Lollipop
+      + Root Asus Pegasus
+  * Apps/Games
+  * Download
+      + Themes
+      + Games
+      + APK
+      + Wallpaper
+  * News
+      + Indonesian Review
+  * Tutorial
+      + Tutorial
+      + ZenUI Tutorial
+      + PC Link Tutorial
+      + ZenMotion Tutorial
+  * Review
+      + Benchmarking
+      + Camera
+
+ASUS Announces ZenFone AR ZS571
+
+
+ZenFone AR features a powerful Qualcomm® Snapdragon™ 821 processor that is optimized for Tango, and is the world's first smartphone with 8GB of RAM. ZenFone AR's powerful performance and innovative camera work in conjunction with Tango to enable smooth and compelling smartphone AR experiences.
+
+
+Zennovation CES 2017
+
+
+ASUS Chairman Jonney Shih unveiled the ASUS ZenFone AR and ZenFone 3 Zoom smartphones during the Zennovation press event at Caesars Palace in Las Vegas. ZenFone AR will be the world's first smartphone that is both Tango enabled and Daydream-ready
+
+
+Asus announces the ZenFone 3 Zoom
+
+
+ASUS ZenFone 3 Zoom is a 5.5-inch smartphone designed to excel at photography with a dual-camera system that captures gorgeous photos and videos. It is also the world’s slimmest smartphone with a high-capacity, 5000mAh battery, giving users extended usage times without compromising style and portability.
+
+
+Asus ZenFone 4, ZenFone 5 and ZenFone 6 launching on April 11
+
+
+Asus will launch its new range of ZenFone smartphones in China on 11 April 2014. The company for now hasn't detailed global availability for the ZenFone 4, ZenFone 5 and ZenFone 6, which were announced by the company in January during CES.
+
+
+Asus ZenFone 4 vs ZenFone 5 vs Zenfone 6 Size Comparison
+
+
+Asus ZenFone series, comprises of three smartphones – ZenFone 4, ZenFone 5 and ZenFone 6. Each of the smartphones is named based on their screen size and all these offerings fall in the entry and mid-range category.
+
+Friday, January 25, 2019
+
+ZenFone Mobile Manager: Data Usage Function
+
+ZenFoneBlogShare This Post
+Email This BlogThis! Share to Twitter Share to Facebook
+
+What is [Data usage] function? With the "Data usage" function, you can check the data usage when using the cellular network or Wi-Fi network on a month, day, or application basis. In addition, each data usage can be managed and restricted by cellular network, Wi-Fi network, per application. * Please be aware that the data usage recorded here may differ from the data usage of the telecommunications company that you are using.
+
+1. You can check the data usage of "Today" and "This Month" by tapping "Data usage" in Mobile Manager app.
+2. By tapping "Today", you can check the data usage of the day on a per application basis.
+
+3. By tapping "This Month" you can check the data usage of the current month by application.
+
+Manage and restrict data usage of cellular networks:
+1. Tap "Set a Mobile Data Limit".
+2. By switching the switch next to "Cellular data", you can switch the connection to the cellular network to enable and disable.
+By tapping "Set data plan" you can manage and limit monthly data usage. Also, you can toggle the created data plan with the switch next to it.
+4. Items that can be set using the "Set data plan" function are "Limit", "Warning", "Unlimited plan", "Renewal date".
+a) For "Limit", enter the total amount of data to be used in one month.
+b) When reaching the data usage selected in "Data limit alert", an alert notification message will be displayed. Turn off the switch next to "Unlimited plan" to temporarily stop the cellular network when it reaches the data usage entered in "Limit".
+
+c) In "Renewal date", enter the start date to start calculating monthly data usage.
+Manage and limit data usage by application:
+1. Tap "Control app data usage".
+2. The application list will be displayed. By toggling the switch next to the application, you can restrict the connection to the cellular network or Wi-Fi network for each application. To restrict the connection to the cellular network, make settings from "Cellular" tab. "Wi-Fi" tab to restrict connection to Wi-Fi network.
+3. You can set limits for cellular networks and Wi-Fi networks on a per-app basis. From the list, tap the application you want to restrict. If you want to restrict the connection to the cellular network, toggle the switch next to "Cellular" .For "Wi-Fi" if you want to restrict the connection toggle the switch next to Wi-Fi network.
+4. You also can restrict the connection from the background to the cellular network and the Wi-Fi network by unchecking "background data". * Depending on the application, restricting the connection of the network in the background may restrict the function of the application.
+5. You can also restrict all apps by disabling the switch next to "All apps". To restrict the connection to the cellular network, make settings from "Cellular" tab and for "Wi-Fi" tab to restrict connection to Wi-Fi network.
+
+Read More
+
+
+Wednesday, December 19, 2018
+
+Download Android 9.0 Pie update for Asus Zenfone 5 ZE620KL
+
+ZenFoneBlogShare This Post
+Email This BlogThis! Share to Twitter Share to Facebook
+
+Asus just uploaded the Android 9.0 Pie FOTA update for its Zenfone 5 ZE620KL and the package can be found on the company's official FOTA website. The FOTA update is just around 1.1GB you can get it by go to settings>system update. Or via manual by download this FOTA (make sure you in the latest firmware before pie.
+
+                                                        
+Download FOTA Android 9.0 Pie for Asus ZenFone 5 ZE620KL
+
+downloaded file to the microSD card. Enter into recovery mode, choose "apply updates from microSD, select the downloaded package, confirm and you are all set. If you want OTA update should be coming shortly too - so keep an eye for the notification. And as for the rest of the Zenfone lineup, in an official statement, Asus said that the Zenfone 5z will be getting the Pie by the end of January
+Read More
+
+
+Wednesday, October 10, 2018
+
+How to Root ASUS ZenFone Max Pro M1 ZB601KL
+
+ZenFoneBlogShare This Post
+Email This BlogThis! Share to Twitter Share to Facebook
+Today ZenFoneblog will share How to Root Max Pro M1 ZB601KL with Snapdragon 636. Unlock bootloader is required for root, installing Custom Recovery or Custom ROM, but it will void the warranty so DWYOR (Do it with your own risks).
+
+How to Root ASUS ZenFone Max PRO M1
+
+ 1. Unlock bootloader ( Tutorial Here )
+ 2. Flash TWRP recovery ( Tutorial Here )
+ 3. Download Magisk ( Download Here )
+ 4. Copy magisk.zip to SDCard and insert to Zenfone Max Pro M1
+ 5. Turn Off ZenFone Max Pro M1
+ 6. Go to Recovery Mode (Power+Volume Down)
+ 7. Choose Install at TWRP menu and chose storage where you place magisk.zip
+ 8. Choose magisk.zip and swipe to install
+ 9. done now your ZenFone Max Pro M1 is rooted
+Screenshoots:
+
+
+
+
+Read More
+
+
+Wednesday, October 10, 2018
+
+TWRP Custom Recovery for ZenFone Max Pro M1 ZB601KL
+
+ZenFoneBlogShare This Post
+Email This BlogThis! Share to Twitter Share to Facebook
+                                
+ZenFone Max Pro M1 TWRP Recovery
+
+Today I will share How to Install Custom Recovery for your ZenFone Max Pro M1 ZB601KL. Team Win Recovery Project (TWRP), is an open-source software custom recovery image for Android-based devices. It provides a touchscreen-enabled interface which allows users to install third-party firmware and backup the current system, which are often unsupported by stock recovery images. Today Asus zenfone blog will teach you How to Install TWRP recovery for ZenFone Max Pro M1 ZB601KL. To install TWRP recovery you need unlock bootloader your zenfone 2 laser, and this action will void your warranty. DWYOR (Do it with your own risks).
+
+What you need:
+ 1. Unlock Bootloader ZenFone Max Pro M1 ( Tutorial Here )
+ 2. TWRP for ZenFone Max Pro M1 ( Download )
+ 3. ADB Fastboot (Download)
+How to flash TWRP on ZenFone Max Pro M1
+ 1. Make sure your zenfone max pro m1 bootloader unlocked
+ 2. download and extract adb fastboot
+ 3. Download twrp.img above and move to adb folder
+ 4. Turn off zenfone
+ 5. Enter fastboot mode by pressing Power+volume up
+ 6. Connect ZenFone with PC/Laptop with usb cable
+ 7. On adb folder open cmd by (shift+right click > open command here)
+ 8. Type on cmd:
+    fastboot flash recovery twrp-3.2.3-0-X00TD-20180814.img
+ 9. Make sure Reboot to recovery by pressing Power+volume down
+Read More
+
+
+Wednesday, October 10, 2018
+
+ZenFone Max Pro M1 ZB601KL Unlock Bootloader Tutorial
+
+ZenFoneBlogShare This Post
+Email This BlogThis! Share to Twitter Share to Facebook
+                                                             
+You will receive this warning after unlock zenfone bootloader
+
+Today ZenFoneblog will share How to Unlock bootloader ZenFone Max Pro M1 ZB601KL with Snapdragon 636. Unlock bootloader is required for root, installing Custom Recovery or Custom ROM, but it will void the warranty so DWYOR (Do it with your own risks). And this tutorial will erase your data so backup it first!
+
+Download
+
+ 1. Download Unlock Files ( Download )
+
+How to Unlock Bootloader ZenFone Max Pro M1 ZB601KL
+
+ 1. Extract unlock.rar
+ 2. Enter unlock folder
+ 3. Enable USB Debugging on your Zenfone (Settings>Developer Options), if there is no developer options menu, go to settings>system>about>tap build number 7x.
+ 4. Connect ZenFone Max Pro M1 to PC/Laptop
+ 5. Double click unlock.cmd
+ 6. Done
+Read More
+
+
+Monday, October 08, 2018
+
+Download ASUS ROG Phone Wallpaper for your smartphone
+
+ZenFoneBlogShare This Post
+Email This BlogThis! Share to Twitter Share to Facebook
+
+These wallpapers are stock wallpapers which is present on the ROG Phone. In order to download these wallpapers to your device, Simply click the image and save to your device or computer. Or you can download all via zip download link below.
+
+ROG Phone Stock Launcher Wallpaper
+
+
+
+
+
+ROG Phone System Wallpaper
+
+
+
+
+
+
+
+
+
+Or you can download the zip files that have been attached to the Download Links section below. Once you have downloaded the zip file, you just need to unzip the zip file and enjoy the wallpapers from the device in original quality.
+
+Read More
+
+
+Older Posts
+
+Search
+Follow Us on Twitter!
+
+
+
+Adv
+
+
+Google+
+
+
+Categories
+
+Accessories Adoptable Storage Android Android 8.0 Android 9 Android Nougat 7.0 Android Pie AOSP APK ART Asus ASUS Live Asus Pegasus Backup Battery Benchmarking Beta Bootloop Fix Brick Camera Change to WW Clone Apps CM 12.1 Custom Kernel Custom Recovery CyanogenMod CyanogenMod 13 CyanogenMod 14 Deodex Downgrade Download Firmware Flash Firmware Flash ZenFone 3 Flashtool Fonepad 7 Gallery Games IMEI Recovery Kernel KitKat Latest Firmware LolliFlash Lollipop Lollipop ROM Marshmallow News Oreo Padfone S Padfone S Custom ROM PCLink Pegasus Pegasus 5000 Pegasus ROM PixelMaster RAW Re-Lock Bootloader Recovery Review Robot ROG Phone ROM ROM Zenfone 2 Root Root Fonepad 7 Root Fonepad 8 Root Kitkat Root Lollipop Root Marshmallow Root Padfone Root Pegasus Root Zenfone 2 Root Zenfone 2 Laser Root ZenFone 2 Laser Marshmallow Root ZenFone 3 Root ZenFone 3 Deluxe Root ZenFone 3 Zoom Root Zenfone 4 Root Zenfone 4.5 Root Zenfone 5 Root Zenfone 5 Lite Root Zenfone 5 LTE Root Zenfone 6 Root Zenfone C Root ZenFone Go Root Zenfone Selfie Root Zenfone Zoom Root Zenpad Service Smartphone Smartwatch SnapView Themes Tips Tutorial TWRP Unbrick Unlock Bootloader Upgrade Video Vivowatch VoLTE Wallpaper X002 Xposed ZC554KL ZE520KL ZE552KL ZE554KL Zenbo ZenEar ZenFlash Zenfone Zenfone 2 Zenfone 2 Custom ROM Zenfone 2 Laser Zenfone 2 Laser ROM ZenFone 2 Marshmallow ZenFone 3 ZenFone 3 AR ZenFone 3 Deluxe ZenFone 3 Deluxe ROM ZenFone 3 Go ZenFone 3 Max ROM ZenFone 3 ROM ZenFone 3 Ultra ZenFone 3 Ultra ROM ZenFone 3 Zoom ZenFone 3 ZOOM Nougat Zenfone 4 ZenFone 4 2017 Zenfone 4 Custom ROM ZenFone 4 Max ZenFone 4 Max Plus ZenFone 4 Max Pro ZenFone 4 Pro Zenfone 4 ROM ZenFone 4 Selfie Zenfone 4.5 Zenfone 4.5 ROM ZenFone 4s Zenfone 5 ZenFone 5 2018 Zenfone 5 Custom ROM Zenfone 5 Lite Zenfone 5 LTE Zenfone 5 LTE ROM Zenfone 5 ROM ZenFone 5z Zenfone 6 Zenfone 6 Custom ROM Zenfone 6 ROM ZenFone AR Zenfone C Zenfone C ROM Zenfone Deluxe Zenfone Go Zenfone Max ZenFone Max Plus M1 ZenFone Max Pro M1 ZenFone Max ROM Zenfone Selfie Zenfone Selfie ROM ZenFone V Zenfone ZOOM Zenfone ZOOM ROM ZenFone Zoom S ZenMotion Zenpad Zenpad 8 ZenPower ZenTripod ZenUI ZenUI 3.5 ZenUI 4.0 ZenWatch ZenWatch 2
+
+Blog Archive
+
+Blog Archive January (1) December (1) October (5) September (1) July (1) April (8) February (5) January (5) December (7) November (3) October (2) September (15) August (5) July (7) May (5) April (4) March (4) February (15) January (8) December (3) November (5) October (5) September (2) August (7) July (3) June (3) May (11) April (2) March (4) February (8) January (13) December (18) November (13) October (25) September (10) August (21) July (14) June (27) May (24) April (25) March (31) February (29) January (22) December (18) November (34) October (45) September (29) August (36) July (18) June (35) May (41) April (106)
+
+Popular Posts
+
+  * Download ASUS Flashtool 1.0.0.45 for Windows
+  * Download ASUS Flashtool 1.0.0.14 for Windows
+  * Asus Zenfone 4 5 6 RAW Firmware for ASUS Flashtool
+  * [Full Firmware] ASUS Zenfone 5 T00F/T00J V2.22.40.53
+  * Asus Flashtool Installer for Zenfone
+  * Flash Tutorial via ADB sideload
+  * ASUS ZenFone 3 RAW Firmware and ASUS Flashtool
+  * ASUS ZenFone RAW Firmware Download All Type
+  * [Full Firmware] ASUS Zenfone 5 A501CG/A500CG V3.24.40.87
+  * CyanogenMod 12.1 for ASUS ZenFone Go
+
+Total Pageviews
+
+
+Visitors
+
+
+
+
+Powered by Blogger.
+
+Copyright © 2014-2017 Asus Zenfone Blog News, Tips, Tutorial, Download and ROM | We Are not Official, Just a fan of Asus Zenfone Series |
+
+Android is a trademark of Google Inc. | Zenfone is a trademark of ASUSTeK Computer Inc.
+Design by asus-zenfone blog | Created by Asus Zenfone Blog - Email Us: info.zenfone[at]gmail.com | Facebook page | Travel Blog

@@ -1,0 +1,224 @@
+* News
+  * Reviews
+  * Phone Finder
+  * Mobiles Home
+  * Upcoming Mobiles
+Search
+Sign in
+Welcome! Log into your account
+your username
+your password
+Forgot your password? Get help
+Password recovery
+Recover your password
+your email
+A password will be e-mailed to you.
+91mobiles.com
+  * News
+  * Reviews
+  * Phone Finder
+  * Mobiles Home
+  * Upcoming Mobiles
+Home Reviews OPPO A3s review: a budget-friendly, notch-toting phone that leaves a little something...
+
+OPPO A3s review: a budget-friendly, notch-toting phone that leaves a little something to be desired
+
+By
+Shekhar Thakran
+-
+August 4, 2018
+ShareTweet
+Expert Rating
+3.5/5
+Design
+★★★★★
+★★★★★
+Display
+★★★★★
+★★★★★
+Software
+★★★★★
+★★★★★
+Camera
+★★★★★
+★★★★★
+Performance
+★★★★★
+★★★★★
+Battery
+★★★★★
+★★★★★
+
+
+Pros
+* Impressive display
+* Beefy battery
+* Trendy notch design
+
+
+Cons
+* Processor choice
+* Camera performance
+
+
+“The OPPO A3s is one of the most pocket-friendly handsets to come with the trendy notch display design”
+
+
+
+Earlier this month, OPPO unveiled its A3s smartphone with the currently trending notch design in India. The budget segment handset notably comes in with slightly underwhelming specifications on paper compared to the Realme 1 and ASUS Zenfone Max Pro M1. However, not that we have managed to spend some time with the OPPO A3s, we are ready with the detailed review of the handset. Just read on to find out if the A3s is worth your bucks.
+
+
+Design and Display
+
+
+The OPPO A3s is one of the most affordable handsets currently available in India that offers a notch display design. As this design trend is a rage right now, if you want to hop on to the bandwagon, this might be the most pocket-friendly option for you. The handset is available in dark purple and red colour variants. Our review unit was the former variant out of the two and in all honesty, we liked the colour choice from OPPO. The A3s comes with a glass-like finish at the back and has a dual camera arranged in a horizontal orientation, along with LED flash, on the top-left. Unfortunately, the brand has not included a fingerprint sensor on the phone and there is just OPPO branding in the middle.
+
+
+The power button is located on the right of the handset and the volume rocker sits on the left spine below the SIM card slot. Both the button options are easily accessible, and frankly more preferable than the traditional same-side placement on most phones. The micro-USB charging port (yes! It is not going away soon from this price category) along with the loudspeaker grille and 3.5mm headphone jack are present at the bottom of the handset.
+
+
+The new budget segment offering from OPPO packs a 6.2-inch HD+ (720 x 1,520 pixels) In-Cell IPS LCD “Super Full Screen” display with a 19:9 aspect ratio and a small cutout on the top that features the front camera and the earpiece. There are minimum bezels to the left and right sides of the display but the bottom bezel is reasonably thick for some reason. The display quality offered by the A3s is impressive. The viewing angles and maximum brightness ensure that the handset remains usable even in outdoor conditions. For those who are wondering, the notch does not bother you few minutes into using the handset and as you have already made the choice of going for a handset with a notch design, it is pretty much a given that you will not be disappointed.
+
+
+The A3s does not feel heavy in the hand and is easy to hold despite a large screen size. The phone also feels sturdy and should survive an occasional fall or two. Overall, the build quality offered by the smartphone is decent, especially for its price range. Here’s a closer look at the phone in the design gallery embedded below:
+OPPO A3s Design Gallery
+
+1 of 10
+
+Camera
+
+
+To get the specifications out of the way first, the OPPO A3s comes with a rear-facing dual camera setup, which consists of a 13-megapixel primary sensor and a 2-megapixel secondary sensor, supported by an LED flash unit. At the front, we get an 8-megapixel sensor for taking selfies and video calling. Even though OPPO has a good reputation in terms of camera performance, I faced some glaring issues in this department (pun intended). The camera setups, both front and rear, presented some exposure issues while clicking pictures for us. Even when we tried to focus on the source of light, a procedure that usually helps in adjusting the exposure, there were prominent lens flare issues presented by the smartphone.
+
+
+If we talk about the default camera app, you get the portrait mode option, thanks to dual cameras, which offers depth effect in images. When it works, the depth effect manages to produce some really good pictures. You also get the option to capture images in portrait mode when taking images from the front camera. You also get the time-lapse and pano modes right from the homescreen in the camera app. There is an HDR mode, also available right from the home screen, and an AI-based beauty feature that allows users to take digitally enhanced images of themselves.
+
+The front camera, just like the rear setup, comes across as a hit-and-miss. Provided apt conditions, the handset can produce some good images but as it is not the case in everyday scenarios, this comes across as a major drawback for the A3s. You can take a look at the camera samples below and be your own judge.
+OPPO A3s Camera Samples
+
+1 of 9
+
+Software and performance
+
+
+The new budget segment offering from OPPO runs Android 8.1 Oreo-based ColorOS 5.1 out of the box. The handset is powered by the Snapdragon 450 SoC, which is a popular choice among phone makers in this price range. The processor is coupled with 2GB RAM and 16GB built-in storage, which is further expandable up to 256GB via microSD card. As I have said with other OPPO phones in the past, the ColorOS platform tries to keep things minimalistic and does not bring much bloatware to the table. However, a section named Hot Apps comes with a suggestion to install certain apps, including MyJio, WhatsApp, JioTV, Facebook, among others. As you refresh this selection, the handset provides some more suggestions. In an otherwise neat platform, this feels like an unnecessary addition.
+
+
+There is a Game Space feature, which allows the handset to specifically optimise the handset’s performance for certain games. This feature lets users adjust phone settings like power consumption, notification banners, and brightness, according to their gaming requirements. A full-screen multitasking feature allows users to keep one app open on the entire screen space and have another open in a small window (useful mostly for messaging apps). As the handset does not feature a fingerprint sensor, there is a face unlock option, which is definitely very fast in unlocking the handset but not as secure. For a better perspective, we managed to unlock the handset with half the face covered and even with the eyes closed.
+
+
+Coming to the performance, we managed to breeze past in terms of UI navigation but the smartphone could not handle slightly demanding apps and games all that well.
+
+
+We had some noticeable issues while playing PUBG and Injustice 2, which are both demanding games but currently a benchmark for performance. As there are other handsets in the range that come with better processors and more memory, the A3s falls short in this category.
+
+
+Battery
+
+
+OPPO A3s packs in a beefy 4,230mAh battery. As you might expect from the capacity, the handset manages to last beyond a day of heavy usage with ease. In our video loop test, the smartphone managed to last 19 hours before running out of battery. This means you can easily take the A3s out for a road trip without caring much about the charger.
+
+Verdict
+
+
+Even though the OPPO A3s comes with a good design and impressive display quality, the handset feels lacklustre compared with competition in the same price range. The performance offered by the Realme 1 (review) and the ASUS Zenfone Max Pro M1 (review) is noticeably better, thanks to better processors and more memory. Despite offering a good battery capacity, the camera performance offered by OPPO A3s makes it hard to recommend the smartphone. Having said that, the A3s is available offline as well, which is not the case for some other smartphones.
+
+Editor’s rating: 3.5 / 5
+
+
+Pros
+
+  * Impressive display
+  * Beefy battery
+  * Trendy notch design
+
+Cons
+
+  * Processor choice
+  * Exposure issues with cameras
+
+Photos by Raj Rout
+Oppo A3s Price View All
+
+ Rs. 8,900.00 Go To Store
+
+ Rs. 8,990.00 Go To Store
+
+ Rs. 8,990.00 Go To Store
+
+Competitors for Oppo A3s
+ Oppo A3s vs Honor 9N 
+ Oppo A3s vs Realme 1 
+ Oppo A3s vs Asus Zenfone Max Pro M1 
+ShareTweet
+Facebook Comments
+  * TAGS
+  * Oppo
+  * OPPO A3s
+Previous articleMoto Z3 Force with a shatterproof display won’t be launched, confirms Motorola
+Next articleTop 4 features of the Motorola Moto Z3
+Shekhar Thakran
+One of the newest members of the 91mobiles team, Shekhar is a tech enthusiast who finds it difficult to hold his excitement when it comes to latest gadgets. He has a wicked sense of humour and can have a repartee with you on any topic ranging from sports, movies, and literature to the shameful existence of The Flat Earth Society. He'll always regret not investing in Bitcoin when it was $230 and will still advise against investing in cryptocurrency. He doesn’t consider Shakespeare to be a great playwright and if you want to have a funny conversation, just ask him why.
+
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+Amazon Echo Dot 3rd-gen and Echo Plus 2nd-gen review: refinements all around
+
+
+Skagen Falster 2 review: a capable fitness smartwatch that scores high on style
+
+
+ASUS ZenBook 13 UX333FN review: portability first
+
+
+Honor View 20 review: throws a sucker punch at the competition
+
+
+Samsung Galaxy M10 review: makes an emphatic claim for mindshare in the affordable segment
+
+
+Samsung Galaxy M20 review: M marks the spot
+
+
+Yeelight Motion Sensor Rechargeable Nightlight review: spontaneous illumination
+
+
+Ultimate Ears Boom 3 review: slightly different, slightly better
+
+
+Audeze Mobius review: pricey for a gaming headset, but worth every penny
+
+
+Leica D-LUX 7 review: compact goodness
+
+Contact us: editor@91mobiles.com
+
+POPULAR CATEGORY
+
+  * News15670
+  * Android Phones6984
+  * Mobiles6785
+  * Product Launch4223
+  * New Product3846
+  * Android2369
+  * Samsung1552
+  * Mobile Apps1313
+  * Industry News1156
+  * About us
+  * Team
+  * Privacy
+  * Visitor Agreement
+  * Terms & Conditions
+  * Contact
+  * Mobile Recharge
+© 91digital Web Private Limited. All Rights Reserved.
+MORE STORIES
+
+Blind camera comparison results: Honor’s View 20 decimates the OnePlus 6T
+
+February 5, 2019
+
+Skullcandy Set water-resistant earphones with call and track control feature launched
+
+February 5, 2019

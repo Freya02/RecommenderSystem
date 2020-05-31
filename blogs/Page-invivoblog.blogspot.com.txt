@@ -1,0 +1,526 @@
+Pages
+
+  * Home
+
+SUBSCRIBE
+
+Click here to register to receive The IN VIVO Blog email!
+Or subscribe via
+
+RSS Feed
+
+
+Follow Us ...
+
+
+Follow us on:
+
+Headlines from 'The Pink Sheet' DAILY
+
+
+Subscribe to RSS headline updates from:
+Powered by FeedBurner
+
+
+Contributors
+
+  * Adam Gordon
+  * Alex Lash
+  * Amanda Micklus
+  * Chris Morrison
+  * Chris Trudeau
+  * Jessica Merrill
+  * John Davis
+  * Joseph Haas
+  * Lisa LaMotta
+  * M. Nielsen Hobbs
+  * Mark Ratner
+  * Mary Jo Laffler
+  * Maureen Riordan
+  * Michael Goodman
+  * Scott Steinke
+  * Stacy Lawrence
+  * Sten Stovall
+  * Tom Salemi
+  * Wendy Diller
+
+Labels
+
+
+Tuesday, April 07, 2015
+
+
+IN VIVO Blog Is No More.
+
+
+The IN-VIVO Blog will no longer be publishing content. For the latest health-care industry news, analysis and much more, be sure to visit www.pharmamedtechbi.com!
+
+
+By Chris Trudeau at 2:07 PM 0 comments Links to this post
+
+
+Friday, March 07, 2014
+
+
+Deals of the Week Takes Stock in M&A
+
+
+Here at Deals of the Week, we don’t often take note explicitly of buyouts outside the biopharma sphere. But one well-publicized tech deal last month piqued our interest – and it parallels another recent pharma deal in a way we found curious.
+
+
+As you may have heard, social networking giant Facebook wowed the tech field with its February takeout of smartphone communications app developer WhatsApp for a jaw-dropping $16 billion plus an additional $3 billion in employee-retention bonuses, reportedly the largest-ever acquisition price for a private, venture-backed company. (We’ll note in passing that one of the deal’s biggest winners, venture firm Sequoia Capital, is also a life sciences investor.)
+
+Now, $19 billion is a lot of scratch – it’s a bigger pile of cash than the gross domestic product of Jamaica, and it’s in the ballpark of the price Sanofi paid for Genzyme in 2011. But a closer look at the WhatsApp deal’s terms reveals that Facebook paid just $4 billion in cash – a quarter of the deal’s baseline value – and the balance, including the retention bonuses, in its somewhat volatile stock. It’s a common formula in tech, a sector in which speculative value far outpaces revenue in many cases.
+
+In the biopharma world, such arrangements traditionally are unheard of – but that might be changing. While many pharma mega-deals include both cash and stock components, most feature bigger cash portions than paper value. Just over a third of the $68 billion Pfizer spent to acquire Wyeth in 2009 was in stock, with the rest coming in cash; Johnson & Johnson’s $21.7 billion deal for Synthes in 2011 was in the same league, weighted roughly 65%-35% in favor of cash.
+
+That’s why Actavis’ pending $25 billion deal to acquire Forest Laboratories last month was so unusual. Actavis paid just $26.04 per share, or 29% of the total $89.48-per-share purchase price, in cash, and swapped its stock for the rest. So there’s financial risk involved: If Actavis shares fluctuate, the deal’s total value could go up or down rapidly, perhaps before it even closes. (We note that the Facebook/WhatsApp deal technically gained more than $600 million in value before it was even announced, since its stock component was based on an already-outdated five-day average of Facebook’s share price.)
+
+It’s not the first mega-buyout to favor equity over the hard stuff; Merck’s $42 billion buyout of Schering-Plough was tilted slightly in favor of stock over cash, with 56% of the price paid in equity. But rarely are large pharma deals ever consummated with paper value vastly outweighing cash money; it’s even less likely with smaller deals. A search of our Strategic Transactions database of reveals that only about one in 10 biopharma deals since 2008 falling into the “bolt-on” range – those ranging from a few hundred million dollars to a few billion – had a stock component.
+
+Some life sciences companies, particularly those living off their sunny growth prospects rather than established, dividend-paying, cash-rich ones, soon could find that their stock is becoming a valuable deal-making currency. And with biotechs soaring in the public markets, some of them look like good candidates for stock-heavy deals. Like Actavis’ stock price, the Nasdaq Biotechnology Index has doubled since November 2012. Emilio Ragosa, a partner with Morgan Lewis & Bockius’ mergers-and-acquisitions practice, said mid-cap biotechs – those valued around $1 billion – are in the sweet-spot. “They tend to have less cash, but their stock is appreciating more rapidly,” he said.
+
+Big biotechs and specialty pharmas, responsible for most of the M&A deal-making action in 2013, are enjoying exceptionally high valuations, but don’t always have big pharma-like cash flow. They’re good candidates to use their strong stock prices to beef up their businesses without denting their cash piles severely.
+
+It’s unlikely that big pharmas will change this aspect of their deal-making strategies much; as Ragosa notes, “They have enough cash on their balance sheets.” Ever sensitive to their quarterly earnings, most large pharmas will continue to avoid using stock to take out biotechs. Seven of the top 50 cash holdings among U.S. companies belonged to pharmas, according to a 2013 Moody’s report; six were sitting on double-digit billions, led by Pfizer. - Paul Bonanos
+
+Transactional activity has been as slow as a snowy Interstate lately, but we’re still taking stock of the latest alliances in...
+
+
+Biogen/Eisai: Biogen Idec teamed up with Japanese pharma Eisai on March 5 to potentially co-develop and co-commercialize four compounds for the treatment of Alzheimer’s disease. While specific financial details weren’t released, Biogen will pay Eisai an upfront payment of undisclosed size, as well as a fixed number of milestones based on development, regulatory and commercial events. The team also will split worldwide profits on the drugs should they reach the market. Eisai will take the lead on the first two compounds, which it will provide. The first is a beta-site amyloid precursor protein cleaving enzyme (BACE) inhibitor dubbed E2609; Eisai discovered the compound in-house, and is about to begin its Phase II trials. The second monoclonal antibody, BAN-2401, is already in Phase II trials; it’s an immunotherapy designed to break down beta amyloid plaques after they develop. Eisai also has the option to jointly develop and commercialize Biogen’s two in-house Alzheimer’s candidates, the anti-amyloid beta antibody BIIB037 and an anti-tau monoclonal antibody, both of which are in very early stages. The BACE inhibitor space has been heating up as Merck pushes its candidate into Phase III and AstraZeneca follows closely on its heels. Both Roche and Lilly have ended programs in the space after safety signals cropped up in clinical trials. There hasn’t been any proof so far that the safety issues are class-wide, but the industry is keeping a close watch for any signs. - Lisa LaMotta
+
+Genocea/Harvard/Dana-Farber: Fresh from its initial public offering last month, vaccine specialist Genocea Biosciences struck a research deal with Dana-Farber Cancer Institute and Harvard Medical School to study cancer immunology. Under the March 5 alliance, researchers will use Genocea’s proprietary T cell antigen discovery platform to find antigens that correlate with an anti-tumor immune response in melanoma patients. Charitable scientific network Ludwig Trust will sponsor the research; terms weren’t released. The research will play off existing work by Dana-Farber’s Stephen Hodi and Glenn Dranoff in anti-CTLA-4 therapies such as Bristol-Myers Squibb’s Yervoy (ipilimumab). Harvard microbiology and immunobiology professor Darren Higgins will lead the development of a cancer antigen protein library, which will be screened against patient-derived cells using Genocea’s platform in order to seek a correlative immune response. After an initial lukewarm reception, Cambridge, Mass.-based Genocea shares have rebounded, rising more than 50% since the company’s February 5 debut. The company is best known for its clinical pipeline of anti-infective vaccines, including therapies and preventive treatments for herpes simplex virus-2, pneumococcus, chlamydia and malaria. Its most advanced program is GEN-003, a Phase II therapy for HSV-2. - P.B.
+
+NeoStem/Massachusetts Eye & Ear/Schepens: Cell therapy developer NeoStem also inked a deal with some of Harvard Medical School’s tentacles, entering a research collaboration March 6 with Massachusetts Eye & Ear and the Schepens Eye Research Institute. The publicly traded, New York-based stem cell company will sponsor research by Michael Young, director of Mass. Eye & Ear’s ocular regenerative medicine institute, into various eye disorders; financial terms were not revealed. The deal will fund Young’s research using NeoStem’s proprietary very small embryonic-like stem cells, or VSELs. The scientist will perform preclinical work to find uses of NeoStem’s VSEL products to combat degenerative disorders such as retinitis pigmentosa and macular degeneration. Both Mass. Eye & Ear and Schepens are Harvard Medical School affiliates. NeoStem previously has used its VSELs clinically as wound-healing therapy and to treat periodontitis; the company also has targeted cardiovascular diseases and autoimmune disorders. The eye also has been a popular target for gene therapies, thanks to its closed system and immune-privileged status. That has led to several recent fundings of companies with preclinical and clinical-stage programs. - P.B.
+
+Thanks to Flickr user ProAeroPhoto for his photo of a different way to trade cash for stock, reproduced here under Creative Commons license.
+
+By Paul Bonanos at 2:57 PM 0 comments Links to this post
+
+
+Labels: actavis, Alzheimer's disease, Biogen Idec, cash, deal valuation, Eisai, Facebook, Forest Labs, Genzyme, Harvard, Merck, mergers and acquisitions, Pfizer, sanofi, social media
+
+
+What Is the Buoyant Biotech IPO Scene Doing to Private Biotech M&A Trends? FOTF Says: Not Much
+
+
+Despite a slight slowdown, there's considerable cash already sloshing around the biotech IPO space. There's (still!) plenty more stacked up in investor suitcases from California to the New York Island just waiting to back anything with a pulse. The momentum is here! This land grab is your land grab!
+
+All of which should mean that biotech boards weighing exit options the past year or so have had choices that didn't exist for most companies in the preceding four or five years. Remember the lean times? The doldrums? You don't?
+
+That revived optionality should translate into fewer companies agreeing to pharma takeovers. For the ones that do opt for the warm embrace of a bigger drug company, it should also translate into leverage. Those biopharma start-ups that choose to pull the M&A exit cord should be driving better bargains. But data we compiled from Strategic Transactions suggests neither is true. At least not yet.
+
+It's worth remembering that even during the coldest days of the Biotech Winter, when asset prices were at their most depressed, pharma companies flush with cash didn't really go on a shopping spree. Volume of private biotech M&A never really spiked. We reported that in 2009, and it pretty much held true the next few years. Why? Assets were cheap, but pharma was picky. Prices slackened a bit, and it won't be surprising if they tick up now as biotech booms (despite this week's hiccup among the larger issues). But volume has stayed fairly constant.
+
+
+In fact, the roughly two dozen private biotech M&A deals from 2013, compared with the past five years or so decade of data, slots in at just about average. Part of this might be due to company building strategies, born or embraced in the lean years, that emphasized capital efficiency, single-asset structures and baked-in-buyouts. Those were good ideas for the lean years, and they're still good ideas for these times-o-plenty.
+
+Now, what about prices? Data is of course limited; not every acquired company discloses a price tag, and absolute values tend to be worthless unless you know how much money went into the target prior to a deal. Instead, we looked at step-up multiples, and by-and-large, those haven't changed much either.
+
+Instead, up-front deal values on average have bounced around the 3x line for quite a while, and that's roughly in line with, and perhaps a a bit better than, the average pre-money to post-money step-ups we've seen in the biotech IPO space. But acquisition multiples are where we've heard, anecdotally, that things may be changing. So long as biotechs have the kind of optionality that public investors provide - i.e. not just getting onto the market but raising enough cash to have a credible alternative to a pharma partnering deal or outright acquisition - those upfronts might start sliding up. Or perhaps, instead, biobucks that are locked-up in earn-out payments will become easier to attain.
+
+
+Speaking of optionality we know you've got choices for your every-other-week biopharma financing wrap-up. Thanks for sticking with ...
+
+
+Acadia Pharmaceuticals: Just a week after reporting in its fiscal 2013 results that its cash on hand at year end totaled $185.8M, thanks mostly to a $108M secondary offering in May 2013, Acadia increased its cash position again on March 4, netting $171M in a FOPO of 6.4M shares for $28.50. The company, which could realize an additional $27M if underwriters buy up to 960k shares in the overallotment, is preparing to file an NDA in late 2014 for pimavanserin in psychosis associated with Parkinson’s disease and is working on pre-launch activities. Acadia presented pivotal Phase III data at the March 2013 meeting of the American Academy of Neurology. Studies showed the serotonin 5HT2A antagonist/inverse agonist significantly reduced psychosis over placebo (the primary endpoint) and helped maintain patients’ motor control. There were also clinically meaningful benefits in measures of nighttime sleep, daytime wakefulness, and caregiver burden. At the end of 2013, Acadia began testing pimavanserin in Phase II for Alzheimer’s-related psychosis. The company also recently advanced into preclinical studies a muscarinic agonist for glaucoma through its deal with Allergan. --Amanda Micklus
+
+Neurocrine Biosciences: The San Diego biotech focused on neurological and endocrine-based diseases priced a follow-on public offering February 26 to sell 8 million shares at $17.75 each, with net proceeds of $133.5 million. Neurocrine said it would use the proceeds to fund its R&D. Primary among its programs is NBI-98854, a wholly owned vesicular monoamine transporter 2 (VMAT2) inhibitor in Phase II for tardive dyskinesia. In 2012, the biotech reported mixed results from a Phase IIa study of ‘98854 in which patients at one of eight sites fared better on placebo than study drug. Neurocrine has said it plans to keep that program for itself as it attempts to evolve into a fully integrated pharmaceutical company. If successful, it would be quite a turnaround story. In 2006, the firm was rocked by the FDA's refusal to approve its insomnia drug indiplon, then partnered with Pfizer. Its comeback began in earnest with strong clinical data from its gonadotropin-releasing hormone (GnRH) antagonist elagolix, which is now partnered with AbbVie and in Phase III for endometriosis and Phase II for uterine fibroids. This is the second large FOPO by Neurocrine in slightly over two years – it raised $83.2 million in January 2012 by selling 10.9 million shares at $8.10 apiece. This time around, it granted underwriters Jefferies and J.P. Morgan a 30-day option to buy up to 1.2 million additional shares. The stock closed trading March 5 at $17.84 per share, with a 52-week high of $20.29 and a low of $8.57. – Joseph Haas
+
+Aquinox Pharmaceuticals: IPO activity slowed the past couple weeks, but Aquinox debuted March 6 by selling 4.2 million shares at $11 each. It hit the midpoint of its proposed range, but it ended up selling 14% more shares than it originally intended. Its lead compound, AQX-1125, is in Phase II for two indications, chronic obstructive pulmonary disease and bladder pain syndrome. Both trials started in 2013 after the firm pulled in an $18 million Series C round led by Johnson & Johnson Development Corp. and with participation from new investor Augment Investments and returnees Pfizer Venture Investments, Ventures West Capital and Baker Brothers Investment. AQX-1125 is an activator of the enzyme SHIP1, a modulator of the PI3 kinase pathway and, the company says, particularly important in preventing abnormal inflammation at mucosal surfaces. The founders of the Vancouver, BC firm discovered SHIP1 while at the University of British Columbia and created a mouse model whose immune system lacks SHIP1. The asset that became AQX-1125 came from Aquinox's 2009 deal for one of Swedish firm Biolipox's compound libraries. Lead underwriters Jefferies and Cowen, along with Canaccord Genuity, have the option to buy up to 555,000 additional shares. – Alex Lash
+
+
+Human Longevity: Pioneering biologist Craig Venter’s newest project will aim to compile a vast amount of genomic data to treat disorders associated with aging, with an eye on adding decades to the human lifespan. The former genome-mapping CEO of Celera Corp. and founder of the J. Craig Venter Institute unveiled the project March 4, revealing an initial funding round of $70 million. HLI didn’t name the full list of investors, but it includes lead backer KT Lim, a Malaysian billionaire whose holdings include a long list of casinos and resorts. Another investor, Illumina Inc., supplied HLI with two systems that can sequence a genome for $1,000, and normally list for $10 million apiece. The remainder of the roster includes an assortment of high net worth individuals, Venter said. HLI says it will initially create 40,000 genomic sequences annually, and may soon obtain 100,000. At first, most will come from consenting patients in University of California, San Diego research programs. HLI plans to unite genomic, microbiome and metabolome data to create profiles of healthy and unhealthy patients from all ages, including infants and supercentenarians. It will also investigate the associations between depleted stem cells and aging-related diseases, and will first address cancer before moving on to neurological, cardiovascular and liver disorders. – Paul Bonanos
+
+Best Of The Rest (Highlights Of Other Activity This Fortnight): Novel dermatology drug developer Thesan Pharmaceuticals has now raised close to $66M, thanks to a $49M Novo Ventures-led Series B round that closed on February 24…days after Endo completed its $1.5B buy of Paladin, Paladin spin-off Knight Therapeutics, which will own rights to the rare disease drug Impavido for leishmaniasis, grossed $Cdn71M by selling warrants to GMP Securities, Cormark Securities, and other investors…Pain treatment maker Recro Pharma priced its IPO, selling 3.8 milion shares at $8 each to raise $30 million...Ampio Pharma netted $64M in a follow-on public offering to complete clinical trials of Ampion and Optina (for osteoarthritis of the knee and diabetic macular edema, respectively) and submit regulatory filings…using momentum from its recently filed NDA for Alzheimer’s combination memantine ER/donepezil (partnered with Forest), Adamas Pharmaceuticals filed for its IPO…and Abingworth closed its tenth life sciences fund, worth $375M. --Amanda Micklus
+
+By Amanda Micklus at 2:54 PM 0 comments Links to this post
+
+
+Labels: financing, financings of the fortnight, IPO, mergers and acquisitions
+
+
+Tuesday, March 04, 2014
+
+
+Stakeholders in Consumer Genomics, Read This
+
+
+
+
+Noting a flurry of recent commentaries in peer-review journals, our February Science Matters column in START-UP (link here, free access) discussed how the personal genomics company 23andMe has accelerated the consumer genomics debate through its dust-up with FDA over the lack of evidence and documentation supporting its Personal Genome Service, which FDA warned falls under its definition of a medical device.
+
+The commentaries, in Nature, NEJM, and JAMA are a reminder that genomics is rapidly becoming incorporated not only into the clinic, but into everyday life. It is forcing FDA and other agencies to take a stand on critical technical, legal, and ethical issues, which will influence the strategies of medical diagnostics and pharmaceutical companies as well as labs performing tests directly for the consumer. As we wrote, those regulatory decisions should be made with the awareness that at some point, barriers to consumer access to these data will come down.
+
+In researching the column, we were directed towards a draft report by the Presidential Commission for the Study of Bioethical Issues, “Consuming Genomics: Regulating Direct-to-Consumer Genetic and Genomic Information.” Its authors call the 86-page document “one of the first to analyze the effect of the 23andMe Warning Letter on the industry, to focus on the bifurcation of genetic interpretation and information as an independent medical device, and to analyze future regulatory approaches available to FDA.” Forthcoming in the Nebraska Law Review, a draft is available here.
+
+The report provides a clear, detailed, up-to-the-moment summary of the the regulatory, ethical, and legal issues around DTC genetic testing. It also lays out what FDA considers a laboratory-developed test, what it considers a clinical device for commercialization, what it considers a research exemption, and why. It's a great read for those of us trying to keep straight FDA's thinking on LDTs, its jurisdiction, and the possible dividing lines between regulated and unregulated products, as well as the history of the consumer genomics field. -- Mark Ratner
+
+Note: This post originally stated that the report is from the Presidential Commission for the Study of Bioethical Issues. The authors, Kayte Spector-Bagdady and Elizabeth Pike, work for the Commission. However, the report was written in their personal capacities.
+
+
+By Mark Ratner at 10:00 AM 0 comments Links to this post
+
+
+Labels: 23andMe, consumer genoomics, DTC Advertising, FDA
+
+
+Friday, February 28, 2014
+
+
+DOTW Keeps Tabs As Tax Trimming Fuels Deals
+
+
+As an industry, biopharma actually fares pretty well when it comes to taxes. Among profitable companies, biotech and pharma have some of the lowest effective U.S. tax rates compared to companies in other sectors. But that doesn’t mean they have stopped working to push their tax rates even lower.
+
+
+Along with a recent ramp-up of the usual strategies, such as buying companies or assets based in low-tax locales or moving intellectual property there, the industry also is starting to take advantage of the newest twist on tax inversions – in which two companies in high tax locales, only one of them the U.S., merge and create a new company based in a low-tax country.
+
+The specialty pharma consolidation frenzy is driven in part by tax benefits derived from buying companies in lower tax jurisdictions like Ireland. The spec pharma with the lowest tax rate wins – or at the very least earns the right to leverage all that cash on their books to gobble up higher tax rate competitors, thereby making higher margins on the same products.
+
+Valeant is the obvious winner on this front; it will have an astonishing 2% tax rate in 2014, according to data from RBC Capital. But most recently, taxes were also a factor in the Actavis purchase of Forest Laboratories Inc. Actavis had already lowered its tax rate with the acquisition of Irish-headquartered company Warner Chilcott that completed last fall. Now Actavis can apply that reduced tax rate to a product portfolio that will encompass Forest. Prior to the deal announcement, RBC expected Forest would have a 24% effective tax rate in 2014 and that Actavis’ would be 17%.
+
+And, of course, Perrigo is also a newly Irish company, with its purchase last year of the floundering Elan. But there aren’t a lot of direct routes left to Ireland. The largest independent, public Irish therapeutics company is drug delivery company Alkermes; it’s only one of six remaining that also include another drug delivery play Merrion Pharmaceuticals as well as antibody company Prothena, according to the Strategic Transactions database.
+
+(In Ireland, all roads lead back to Elan. Alkermes garnered its Irish locale after a 2011 merger with the drug delivery unit of Elan, while Prothena is the 2012 spin-out of Elan’s drug discovery business. Merrion is also based on IP purchased from Elan.)
+
+Most biopharmas count themselves lucky to have an effective tax rate in the teens – or even the low 20s. The big biotechs with the highest anticipated 2014 effective tax rates are Biogen Idec Inc. at 27% and Gilead Sciences Inc. at 25%, according to RBC. Between them they’ve had two of the most successful launches in recent years for Biogen’s Tecfidera (dimethyl fumarate) and Gilead’s Sovaldi (sofosbuvir).
+
+Intellectual property for each of these products is domiciled in Ireland in an effort to curb tax expenditures. But that’s a long-term solution that could take years to work. Biogen had a 28.8% non-GAAP tax rate in the fourth quarter. Due to a larger percentage of its profits coming from the U.S. with the Tecfidera launch, the biotech expects the rate to remain at this level through 2014 but for it to subsequently decline in the following two years.
+
+
+Alexion beefed up its Irish and Singapore operations last year and in January bought an Irish vialing facility for its Soliris (eculizumab). These efforts resulted in tax benefits that are expected to give it a 2014 non-GAAP tax rate of 11% to 12% (GAAP tax rate of 20% to 25%). That’s down from a whopping 51.9% effective tax rate in 2013, which translated into an income tax provision of $273 million. Alexion’s non-GAAP rate is expected to rise to 13% to 14% in 2015 and 16% to 18% in 2016 and beyond, since some benefits are only short-term tax credits.
+
+The most creative tax tactic in the sector is the recent Endo-Paladin deal. The usual approach to tax inversion is for a U.S. company to become the subsidiary of a foreign company. The latest twist on this long-standing move, the third deal of its kind according to RBC, is exemplified by the Endo-Paladin merger, in which a U.S. and Canadian company are merging to form a new entity – in this case, an Irish company.
+
+One risk of being overly imaginative with corporate tax strategy is always bad publicity, as it can trigger allegations of being a ‘tax avoider’ or, even worse, attract the tender attentions of the IRS. Those issues make it difficult for the big multinationals to be very aggressive on the tax front, although becoming enormous hasn't slowed Valeant’s efforts on this front.
+
+The highest corporate income tax rate in the United States is around 40%, including federal, state and local taxes. But at $242 billion in 2012, corporate income taxes are a small percentage of U.S. federal receipts compared to the $1.1 trillion in individual income taxes and $845 billion in social insurance taxes during that year, according to a recent Government Accounting Office report. Since the 1980s, corporate taxes have ranged from roughly 6% to 15% of federal revenue.
+
+Ireland isn’t the only useful tax locality – the top four are the UK, Ireland, the Netherlands and Switzerland, according to RBC. These countries had a 2013 corporate tax rate of 23%, 12.5%, 25%, and 18%, respectively, according to data from KPMG.
+
+Ernst & Young’s Mitchell Cohen, the life sciences global tax leader at Ernst & Young, also includes Belgium (35%, with substantial patent and R&D related deductions and credits), Singapore (17%) and Puerto Rico (20% to 30%) among the ranks of countries with a significant life sciences presence that provide tax benefits.
+
+Among profitable companies overall, the average effective tax rate is 26.6%, according to a current dataset from Aswath Damodaran, a professor of finance at the Stern School of Business at New York University. The profitable pharma companies in his dataset had a 22% average effective tax rate, while the money-making biotechs were at an average of 17.4% That puts both groups in the bottom one-third of corporate tax paying sectors.
+
+And while DOTW can't promise that you'll personally enjoy an effective tax rate of 2% this season, we do want to send you off with this week's deal news. Please read on to discuva the latest, including a pair of preclinical deals and another two that were called off in this week's edition of. . . .
+
+
+Celgene/Abide: Celgene likes to keep all its options open – to acquire companies, to acquire programs and to license programs. In its latest R&D deal with the preclinical Abide Therapeutics, disclosed on Feb. 28, it included an option to purchase its biotech partner as well as an option to license the rest-of-the-world rights on the first two programs to reach the clinic. Abide’s most advanced compound, AB101131, is expected to enter the clinic in 2015. The biotech expects to get three or four additional candidates into the clinic under the collaboration. Its technology selectively targets serine hydrolases to develop new treatments for inflammation and immunological disorders. Founded in 2011, Abide was seeded by venture firm Cardinal Partners. Celgene and Cardinal Partners both participated in an undisclosed equity financing concurrent with the deal. Other terms of the deal, including the upfront, also remain undisclosed. Abide is headed by Alan Ezekowitz, an entrepreneur-in-residence at Cardinal Partners who became the biotech’s president, CEO and co-founder. Prior to that, he was at Merck Research Laboratories, the research division of Merck & Co. Inc., as SVP and franchise head of bone, respiratory, immunology and endocrine. Abide’s platform is based on work by Professors Ben Cravatt and Dale Boger of the Scripps Research Institute. The biotech secured its first big biopharma deal last May; it partnered with Ezekowitz’ former employer, Merck. In that deal, it garnered an undisclosed upfront and milestones of up to $430 million to discover, develop and commercialize small molecules against three novel targets to treat metabolic diseases with a focus on type II diabetes. In the last few years, Celgene has done at least three prior deals that included an option to purchase the company: an October 2013 deal with cancer and fibrotic disease company PharmAkea Therapeutics, a July 2013 partnership with toll-like receptor agonist developer VentiRx Pharmaceuticals, and an October 2012 deal with selective small molecule histone deacetylase (HDAC) inhibitor developer Acetylon Pharmaceuticals. - Stacy Lawrence
+
+Roche/ Discuva: Roche and U.K. biotech Discuva are collaborating on the discovery and development of new antibiotics to treat multi-drug resistant gram-negative infections using Discuva’s Selective Antibiotic Target Identification technology platform. SATI uses next-generation sequencing and bioinformatics to identify bacterial targets and select from among them promising drug development candidates. The deal, announced on Feb. 28, fits well with Roche’s revamped research strategy in infectious diseases, a field its R&D organization exited more than 20 years ago, but recently has re-entered. The new, narrower focus is on multi-drug resistant, pathogen-specific, hospital-directed therapies, rather than broad spectrum antibiotics that were Roche’s original focus. Companion diagnostics, an area of strength due to Roche’s long experience in molecular diagnostics, will be important in identifying pathogens. In an October 2013 meeting in New York, Roche’s head of research and early-stage development John Reed outlined his organization’s priorities, noting that the antibiotics field is attractive now in part because “the animal models are good in the clinical context” and the regulatory path is clearer, particularly for safety requirements, thanks to recent FDA guidance.” Discuva will receive an upfront payment of $16 million, as well as research fees and payments on multiple programs of up to $175 million per product upon achievement of certain development, commercial and sales milestones. It will also receive potentially double-digit royalties on product sales. Discuva uses proprietary methods built from recent genomic discoveries to identify targets that affect bacterial growth and viability, as well as related genes potentially associated with development of downstream resistance. The problem of multi-drug resistance to gram-negative infections is growing but has not received as much attention as gram-positive infections. Gram negative pathogens addressed by Discuva include Pseudomonas aeruginosa, Acinetobacter baumannii, Klebsiella pneumonia, Escherichia coli, and Neisseria gonorrhoeae. The company was founded in early 2012, with backing from New Wave Ventures. New Wave’s co-founder Tim Bullock is chairman of Discuva’s board; the amount his firm contributed to the start-up is not public. David Williams is an entrepreneur who founded Sareum, a U.K. oncology biotech that went public on AIM, and previously worked at Millennium Pharmaceuticals, Acambis, and Medivir. - Wendy Diller
+
+
+Merck/Ariad: The fate of Ariad Pharmaceuticals’ mTOR inhibitor ridaforolimus is uncertain now that pharma partner Merck & Co. has decided to return rights to the cancer drug. Ariad revealed in its year-end financial release Feb. 25 that Merck is terminating a licensing agreement for the development and commercialization of ridaforolimus effective in November. The move creates “a new clinical and business opportunity for Ariad,” the company said in a statement, but management didn’t even mention ridaforolimus during a same-day conference call. Ariad is focused on the re-launch of Iclusig (ponatinib), which re-entered the U.S. market in January for the treatment of leukemia after sales were temporarily halted last year due to safety concerns. The company is also running clinical trials to meet FDA’s post-marketing commitments for Iclusig and to expand its label to new indications. Merck’s decision to end the agreement shouldn’t surprise investors, especially now that the big pharma’s oncology focus has shifted to its PD-1 immunotherapy program. Ridaforolimus was rejected by FDA in 2012 as a maintenance treatment for sarcoma after it failed to demonstrate a benefit on survival in a Phase III trial and only a limited two-week progression-free survival advantage. Under the original 2007 collaboration between the two companies, Merck paid $75 million upfront for development and commercialization rights to ridaforolimus and agreed to pay up to $452 million in development milestones and $200 million in R&D payments; the deal was revised in 2010 to give Merck global rights rather than a U.S. profit split. Merck paid out some $222.5 million in upfront and milestone payments during the life of the deal, according to the Strategic Transactions database. - Jessica Merrill
+
+Teva/Andromeda: In a case of a “No-Deal” possibly leading to another deal – Andromeda Biotech reacquired rights to type 1 diabetes candidate DiaPep277, along with equity, from fellow Israeli company Teva. To undo the firms’ 2007 partnership around the human heat shock protein 60 (Hsp-60)-derived peptide, Andromeda will pay Teva total consideration of approximately $72 million in future installments based upon revenues or proceeds payable to its shareholders.That unraveling of a deal on Feb. 24 was followed by media reports Feb. 26 that Clal Biotechnology, another Israeli company which owns 96% of Andromeda, was working on selling Andromeda and the DiaPep277 program to an undisclosed U.S. biopharma for a price that might number in the hundreds of millions of dollars. At press time, however, a second transaction could not be confirmed. Andromeda said it will continue a 475-patient confirmatory Phase III trial for the candidate. The 24-month, double-blind, placebo-controlled trial is being conducted at more than 100 locations in North America, Europe, Israel and Argentina. Patient recruitment was completed in September 2012 and the trial is expected to produce data by the end of this year. The trial is studying DiaPep277’s ability to preserve the patient’s insulin secretion by the pancreas, with a primary endpoint of maintenance of glycemic control. - Joseph Haas
+
+Thanks to 401(K) 2013 from Flickr for the use of the image, which we find both alarming and strangely beautiful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By Stacy Lawrence at 6:24 PM 0 comments Links to this post
+
+
+Labels: actavis, Alexion, Alkermes, Biogen Idec, Celgene, corporate tax, Elan, Endo, Gilead, ireland, Merrion, Paladin, Perrigo, Prothena, Sovaldi, tax credits, Tecfidera
+
+
+Friday, February 21, 2014
+
+
+Deals Of The Week: Novartis Places Bid To Dominate In Cancer
+
+
+
+
+
+While the largest deal of the week, and certainly the one receiving the most attention, has been Actavis' expansion of its branded portfolio via its $25 billion purchase of Forest Laboratories, the deal that could have major implications for a hot target space in cancer is Novartis' pick-up of a small Massachusetts biotech.
+
+Novartis nabbed young start-up CoStim Pharmaceuticals at the beginning of the week for an undisclosed amount – a move that could make it a major force in the red hot area of cancer immunotherapy.
+
+The closely held biotech was founded in 2012 by MPM Capital and led by MPM managing directors Luke Evnin and Robert Millman. Atlas Ventures joined MPM in early 2013 to fund the company’s $10 million Series A round. While terms of the deal were not disclosed, Atlas partner Bruce Booth wrote in a recent blog post that “if the contingent milestones are paid, this deal will return a significant portion of the entire Life Science allocation in Atlas Fund VIII.”
+
+The Swiss pharma knows a thing or two about oncology – it’s been marketing Gleevec (imatinib), one of the earliest targeted cancer treatments and a multi-billion dollar drug annually, since 2003. And it boasts one of the richest oncology pipelines in the industry, spanning numerous solid- and liquid-tumor indications and many of the hottest biological targets. Its latest R&D foray into chimeric antigen receptor technology (CART) – and the programs it’s acquired from CoStim – has enriched the pharma’s immunotherapy platform and upped its commitment to being a dominant player in oncology.
+
+While Novartis has been cagey about revealing what CoStim actually has to offer, Bill Sellers, its global head of oncology, says the Cambridge biotech brings four to five late-stage programs to the table – programs the industry could start hearing about in early 2015.
+
+“One of our strengths is attacking cancer from its genetic base,” said Sellers. “But we have not done a lot of work in immunotherapy until two years ago,” he admitted.
+
+That’s when Novartis inked its deal with the University of Pennsylvania for its CART research. The deal is based on the work of Carl June, whose lab created T-cells that express the receptor CART 19, a synthetic fusion protein consisting of antibodies that attach to the CD-19 protein, commonly expressed in chronic lymphocytic (CLL) and other B-cell mediated leukemias. The genetically engineered T-cells are injected back into the patients, where they find their way to CD-19-expressing leukemia cells and kill them.
+
+Since pairing up with Penn, Novartis has been “building expertise internally,” said Sellers, as well as opening a large-scale manufacturing facility in Morristown, NJ. “CART has shown dramatic efficacy, but it doesn’t work in everybody,” said Sellers. “So there is room to augment that.”
+
+Sellers said Novartis has been looking for a way to get into checkpoint inhibitors and other immunotherapies for a couple of years, knowing it doesn’t have the expertise in-house. That’s where CoStim comes in – one of its late-stage assets targets the PD-1 pathway. The smokin’ hot PD-1 pathway – if you’ve paid any attention to, or even just glanced at, companies like Merck or Bristol-Myers Squibb in recent months, then you’ve heard about their anti-PD-1 drugs. Combination therapies with these checkpoint inhibitors are going to be huge - $35 billion huge, if some analysts are to be trusted.
+
+Merck already is jumping on the combo bandwagon – it’s inked three deals with Pfizer, Incyte and Amgen just this month to combine its anti-PD-1 checkpoint inhibitor MK-3475 with assets in their respective pipelines.
+
+Novartis is employing a different strategy – it’s hoping to move forward with a CART/PD-1 combo. “We are just starting to explore CART in solid tumors, which are thought to be more immunosuppressant,” said Sellers.
+
+CART programs may be just as revolutionary as PD-1. On Feb. 19, Memorial Sloan-Kettering Cancer Center announced results from a trial of adult B cell acute lymphoblastic leukemia that showed 88% of patients achieved complete remission after receiving the modified T-cells. (The technology is the basis for the founding of high-profile start-up Juno Therapeutics, which currently is locked in a patent dispute over the CAR technology with Novartis.)
+
+French biotech Servier also is getting in on the action, as you can read below in ...
+
+
+Actavis/Forest – Actavis is nearly unrecognizable from the little Icelandic company it was just three years ago. The company has merged with both Warner Chilcott PLC and Watson Pharmaceuticals during that time to become a generics behemoth with multinational presence. Now, it is continuing down the road of transformation with its $25 billion acquisition of Forest Laboratories. The stock-and-cash deal will turn Actavis into a developer of specialty brand name drugs, boosting specialty products to represent about 50% of combined company revenue. North American specialty pharmaceuticals currently comprise about 30% of Actavis’ standalone revenue. Forest shareholders will get $26.04 in cash and a portion of an Actavis share for each Forest share. The total, per-share price of $89.48 represents a premium of about 25% over Forest's closing price on Feb. 14, the last trading day before the deal was announced, of $71.39. For Forest this is an ideal exit for its shareholders; activist investor Carl Icahn has said in news reports that this acquisition is a good example of when activist measures work. Forest CEO Brent Saunders has been touted as having the magic touch – he flipped Forest in less than six months after taking over and was the architect behind the sale of Bausch + Lomb to Valeant Pharmaceuticals for $8.7 billion before that. - Lisa LaMotta
+
+Servier/Cellectis – Servier wants a piece of the CART action; the French biotech inked a collaboration with cell therapy company Cellectis on Feb. 17 for $10 million upfront and $840 million in potential milestones tied to the development, regulatory and commercial success of six potential products. The deal includes the development of UCART19, Cellectis’ lead product, a CD19-targeting compound that is in early stages, but could be a potential rival to Novartis’ lead CART program – which also targets the CD19 T-cells. “These original cell-based therapies will well complement Servier's innovative clinical oncology pipeline, which currently includes immunotherapeutic monoclonal antibodies, an HDAC inhibitor, kinase inhibitors, antiangiogenic and proapoptotic small molecules,” said Jean Pierre Abastado, head of oncology at Servier. The deal initially will focus on leukemias and lymphomas, with Servier having the option to license the products and take over development after Phase I has been completed. - L.L.
+
+Gilead/CURx - Gilead Sciences has had its hands full, what with plotting the domination of the market for all-oral HCV treatment. So busy, in fact, that the biotech has signed only one R&D deal in almost the last two years – a preclinical partnership with antibody company MacroGenics last January, according to the Strategic Transactions database. On Feb. 19, Gilead announced its latest R&D deal, but this time it has flipped the usual script and out-licensed a late-stage candidate for development. It’s calling upon CURx Pharmaceuticals develop non-core asset inhaled fosfomycin/tobramycin to treat Pseudomonas aeruginosa lung infection in cystic fibrosis (CF) patients. The candidate met the primary endpoint in a Phase II trial in 2010 in this indication, but Gilead subsequently discontinued development. There already are two treatments for this indication approved in the U.S.: Gilead’s own Cayston (inhaled aztreonam) and Novartis' Tobi (inhaled tobramycin). In preclinical studies, inhaled fosfomycin/tobramycin has shown activity against several other pathogenic bacteria, including methicillin-resistant Staphylococcus aureus (MRSA). About half of all CF patients become infected with Pseudomonas aeruginosa and about a quarter are infected with MRSA, according to CURx. The financial details of the transaction were not disclosed. - Stacy Lawrence
+
+Pfizer/ MIT’s Synthetic Biology Center - Pfizer and the Massachusetts Institute of Technology are collaborating on the use of novel synthetic biology tools to enhance drug discovery and development. The three-year deal, announced on Feb. 20, covers multiple therapeutic areas at Pfizer and involves several core investigators at MIT’s Synthetic Biology Center, according to the MIT press release. Scientists have different definitions for synthetic biology, but, essentially, it involves integrating current and new biotech tools, systems biology and bioinformatics to enable engineering of new biological parts, in short, making new genetic codes from scratch. The ultimate goal of using such techniques is to make design and construction of novel biological systems into a professional engineering discipline. Synthetic biology as an area of scientific focus has taken off in the past decade, with support from the National Science Foundation, which funded creation of the first synthetic biotech research center, Synberc, in 2006. Participants in Synberc were the University of California at Berkeley and University of California, San Francisco, Stanford University and MIT. Since then, NSF has awarded millions of dollars more to other academic organizations to set up centers of synthetic biology research, including the J. Craig Ventor Institute and New York University. Start-up activity also is climbing, with one of the most visible practitioners, Intrexon, netting $171 million in an initial public offering last year. The ability to use synthetic biology parts as “programmable entities” presents the opportunity to create new biological processes. The partners plan to use cellular genome engineering to support development of next-generation protein expression systems. Pfizer didn’t provide more details, except for comments by Jose Carlos Gutierrez-Ramos, the company’s group senior VP and head of Biotherapeutics R&D. He noted in a press release that “We are reaching a key inflection point where advances in synthetic biology have the potential to rapidly accelerate and improve biotherapeutic drug discovery and development, from early-stage candidate discovery through product supply.” - Wendy Diller
+
+Photo credit: Wikimedia Commons
+
+
+By Lisa LaMotta at 2:48 PM 0 comments Links to this post
+
+
+Labels: actavis, Atlas Venture, cancer, cancer immunotherapy, Forest Labs, generics, Gilead, mergers and acquisitions, Novartis, Pfizer, Servier, spec pharma
+
+
+Financings of the Fortnight And the Neverending Venture Round
+
+                                                                       
+Somewhere out there, perhaps, is the end of NovImmune's Series B round.
+
+More than a year ago, our friends at START-UP examined the fates of biotechs that had reeled in huge private financing rounds. Giant biotech venture rounds are back with a buzz in 2014 thanks to Juno Therapeutics, which launched in December with a $120 million Series A commitment. Last month it added on with cash from Venrock and Bezos Expeditions, aka Amazon.com chief Jeff Bezos' private money stash.
+
+
+But in raw coinage, Juno's A round doesn't hold a candle to what NovImmune has raised in its Series B. Novi-who? It's a Swiss antibody developer founded 16 years ago that in 2006 first notched CHF 58 million ($46 million at the time) for its Series B. Eight years and three extensions later, the Series B now stands at CHF 200.5 million, most recently boosted by a CHF 60 million ($67 million) tranche announced February 18 and led by London life science specialists Rosetta Capital, whose partner Jonathan Hepple is joining the NovImmune board.
+
+That makes NovImmune's Series B the largest biopharma venture round with at least one extension raised in the past decade, according to our Strategic Transactions database. FOTF reached CEO Jack Barbut via email, and he said NovImmune has kept the round open this long to create fairness for all shareholders. "This makes the share structure very easy," Barbut wrote. "For employees, common stock options (sweat equity), and for investors, preferred shares, all [have] the same liquidation rights and thus comply with Swiss statutes, which are very stringent on equal treatment for ALL shareholders."
+
+CEO since 2000, Barbut said when the Series B started, he didn't expect it to carry on this long. He doesn't know if this recent tranche will be the last.
+
+We went back a decade into our Strategic Transactions database to see what kind of precedent there might be for NovImmune. We found 59 private companies whose extended rounds reached at least $50 million. Here are the handful, other than NovImmune, that topped $100 million:
+
+
+Four of those companies have since gone public and one (Sangart) has gone under, shut down by its main investor, as first reported by Fierce Biotech. Meanwhile, Symphogen is in no hurry to go public, as its CEO told Start-Up in this feature last year.
+
+NovImmune is not only top of the charts for money raised, but it also has no peer in the length of time of the round. None of the companies with blockbuster rounds took more than two years to secure their extensions. A few smaller rounds took longer. For example, Theraclone Sciences began raising its Series B in 2007 as Spaltudaq (we applaud the name change) and brought the total to $50 million about a year ago. Endocyte took five years to raise a nearly $80 million Series C before going public in 2011. And Alvine Pharmaceuticals spent more than four years building its Series A and is now waiting to find out if AbbVie will exercise an option to buy its lead Phase II program in celiac disease or the entire company outright. (If AbbVie does, it would be one of the very few corporate investors to buy out one of its portfolio companies.)
+
+NovImmune's Barbut said his investors expect "some sort of liquidity event" too, of course, but in the nearer term he said the company is focused on finding a partner for NI-0101, its anti-TLR4 monoclonal antibody that has entered Phase I. It would also like to advance its NI-0501 program, an anti-interferon gamma antibody, and commercialize it solo. NI-0501 has orphan status in the US and EU in hemophagocytic lymphohistiocytosis, a deadly pediatric autoimmune disease, and has completed a Phase I study.
+
+NovImmune doesn't seem to have cushioned its cash with a lot of non-dilutive funding. Its biggest deal to date is the outlicensing of an anti-IL17 antibody to Genentech in 2010, no financials disclosed. The candidate completed Phase I in 2013.
+
+So we've got an orphan disease-focused biologics company with multiple, wholly owned clinical assets, a partnership with one top-tier biopharma, and the kind of cash runway that seems to attract more investment these days from the public markets. The IPO market has welcomed every stripe of biotech, from still-preclinical platforms to heavily capitalized specialty plays, in the past year, so NovImmune seems like an inevitable "ask." If its cards are well played -- keep in mind several banks are in NovImmune's investor pool -- an IPO could provide a nice bump for those who didn't have to ride the traditional valuation escalator (or be forced off of it) through later rounds.
+
+We offer a bump, too -- a fist bump to Maureen Riordan, who did much of the work behind the scenes for this column. Without her this week, there would be no...
+
+
+Melinta Therapeutics: Known as Rib-X Pharmaceuticals until last fall, antibiotic developer Melinta hasraised a $70 million Series 3 round led by existing investor Vatera Healthcare Partners. New investors included Falcon Flight, an affiliate of the Santo Domingo Group, and undisclosed backers. As Rib-X, the firm raised more traditionally named A, B and C rounds last decade. But a failed IPO try in 2011, and a set of new investors led by Vatera, have led to a housecleaning. In November 2012, the company disclosed a $67.5 million "Series 2" funding led by Vatera. Last fall, it unveiled its new name and new executive team, led by CEO Mary Szela. The Series 3 cash will help fund its Phase III study of antibiotic delafloxacin, a differentiated flouroquinolone in testing as an oral, single-dose therapy for uncomplicated gonorrhea. Melinta is aiming for an NDA filing in late 2014. In addition, the money will finance a two-trial Phase III program of delafloxacin in acute bacterial skin and skin structure infections, as well as lead-candidate selection from the firm’s RX-04 discovery program seeking to address serious and life-threatening Gram-negative infections via targeting of novel binding site on the bacterial ribosome. – Joseph Haas
+
+Argos Therapeutics: Immunotherapy is hot, right? Well, yes and no. While the likes of Juno can command above and beyond $100 million in a single financing, cancer and infectious disease immunotherapy play Argos raised a mere $45 million in its February 7 IPO, its second try at launching onto the public markets. And that’s only after it had to dramatically cut the price to $8 a share from a $14 mid-point of its proposed range. It also had to increase the dilution, selling 5.6 million shares rather than the 4.3 million it had proposed. Existing investors bought 1.4 million shares of the IPO, or roughly a fourth of the deal. No word yet if the underwriters will exercise the overallotment, but the share price has largely treaded water since the offering. Argos investors can take some solace knowing the bargain-priced IPOs of 2013 ended up as top performers of the year. What's discounted now might have legs later, as Argos is one of many biotechs with notable clinical milestones in reach this year, as START-UP explored in January. Argos might see a boost later this year when it reports Phase IIb data for AGS-004 for treatment interruption in HIV/AIDS patients, although data due in 2016 -- Phase III survival data in renal cell carcinoma -- is more likely to be game-changing for Argos. The firm also expects this year to start two Phase II HIV eradication studies, one in adults and another in pediatric patients. Argos aims in these trials are ambitious – to eliminate the HIV virus or to reduce it to negligible levels. – Stacy Lawrence
+
+Arrowhead Research: RNAi therapeutic developer Arrowhead said February 19 it grossed $104 million in a follow-on offering, selling 5.5 million shares at $18.95 a piece. Of the several public biotechs that sold $100 million-plus in stock this fortnight -- Ironwood Pharmaceuticals, Macrogenics, PTC Therapeutics and Puma Biotechnology were the others -- Arrowhead's inclusion would have been unthinkable this time last year, when it was bumping along in microcap land and had just a few million dollars in cash remaining. Arrowhead isn't strictly an RNAi developer; it has a peptide-drug conjugate in the clinic, too. But there's no doubt RNA interference, riding a revival of sorts highlighted by Alnylam Pharmaceuticals' giant deal last monthwith Sanofi/Genzyme, is driving the Arrowhead agenda. It's also worth noting that RA Capital, the hedge fund that helped propel the big Dicerna IPO, is also a key investor at Arrowhead as of last spring, having led a $35 million offering at $1.83 a share that recapped the company. With its stock now worth more than 10 times as much (it closed February 20 at $21.90) Arrowhead is pushing hard to get its lead RNAi compound, against Hepatitis B, into Phase II. While RA, now a 9.9% owner, led a turnover in the company's cap table, it wasn't a bloodbath. Arrowhead's longtime CEO Chris Anzalone is still at the helm, and the board remains the same. – Alex Lash
+
+Pronutria: Pronutria revealed February 13 a $12.5 million Series B round, with unnamed private investors participating alongside Flagship Ventures. CEO Robert Connelly told our colleagues at "The Pink Sheet" that Flagship provided less than half of the new round, while “business entities, individuals and family offices” supplied the remainder. Flagship created Pronutria within its VentureLabs program in 2011, quietly funding it with a $10.8 million Series A round over a two-year period before lifting the lid last October. Much of the Series B, which Connelly said is probably Pronutria's final venture round, will be used for clinical trials on two muscle-protecting candidates that preserve strength in frail, elderly people with sarcopenia, the loss of muscle mass that can occur during periods of hospitalization. The candidates, PN-107 and PN-365, are formulations of the amino acid leucine delivered as small “shot”-sized beverages similar to bottled energy products found on supermarket shelves. The specific pharmacokinetics and efficacy of each candidate, and the effects of their specific balances of amino acids, will be compared with each other in the trials. The company is still deciding on a regulatory pathway for each one, including possibly developing them as nutritional supplements, medical foods or pharmaceutical products, each of which has its own requirements. Initial clinical trials, now underway, are scheduled for completion by mid-year; Connelly said the company also is mulling parallel development of drug and non-drug formulations of similar product candidates. Further down the line, Pronutria is aiming for products addressing the metabolic, gastrointestinal, immune and renal disease areas, as well as beneficial products for patients with rare diseases and those going through chemotherapy. Whatever drug products Pronutria develops will reside in a separate business unit, which will help ease eventual sales or spin-outs. – Paul Bonanos
+
+Best of the Rest (Highlights of Other Activity This Fortnight): Endocrine disease-focused Versartis raised $55M in Series E financing, and concurrently filed for an IPO…to support the launch of opioid dependence drug Bunavail in the second half of this year, BioDelivery Sciences grossed $60M in a registered direct offering…PTC Therapeutics publicly sold $126M in a FOPO to complete Phase III development and gain regulatory approval of ataluren in Duchenne muscular dystrophy and cystic fibrosis caused by nonsense mutations, in the wake of last month’s EMA/CHMP negative opinion on that candidate’s MAA…Concert Pharma priced its IPO at $14, the top end of its range, to net $78 million...three Israeli biotechs – Galmed, Bio Blast, and MediWound – are all hedging their bets and trying to float on Nasdaq…and PDL BioPharma, which manages patents and royalty assets, completed a $261M convertible notes offering. – Amanda Micklus
+
+Photo courtesy of Mike Mantin on flickr, via a Creative Commons license.
+
+By Amanda Micklus at 11:18 AM 0 comments Links to this post
+
+
+Labels: anti-infectives, antibodies, financings of the fortnight, FOTF, immunotherapy, insane sums of venture capital, IPO, nutritionals, platform, RNAi, spin-outs
+
+
+Friday, February 14, 2014
+
+
+Deals Of The Week: UCSF Catalyzes R&D Tech-Transfer Deals With Private Sector
+
+
+
+
+
+
+
+Neither MedImmune, the biologics arm of AstraZeneca, nor the University of California, San Francisco, is a stranger to R&D collaboration between private industry and academia, but the agreement they signed on Feb. 11 is somewhat unique in that it will take advantage of a UCSF program that was intended to provide external expertise that might help to move basic research into more advanced stages.
+
+At UCSF’s Clinical and Translational Science Institute, the Catalyst Awards program benefits from the input of industry and academic advisors who review burgeoning science and help select which projects should advance further and be given increased resources. CTSI oversees UCSF researchers working on therapeutics, devices, diagnostics and digital health applications, explained June Lee, director of early translational research at CTSI.
+
+The Catalyst program started with about 120 advisors, and now has about 140 and is growing in numbers. “These folks are from all different disciplines, mostly from industry, and represent various different sectors and areas of expertise for product development in the life sciences,” Lee said. According to her, it’s more of a happy coincidence than a plan that the Catalyst Awards program spurred a broad-based partnership – considering both small- and large-molecule projects in cardiovascular and metabolic disease, oncology, respiratory, inflammation and autoimmune disorders, neuroscience and infectious disease – with MedImmune.
+
+The collaboration could end up bringing early-stage assets to MedImmune (or AstraZeneca) in any of those areas, Lee added, since UCSF has 2,400 faculty, of whom about 1,300 are doing research primarily. “Our people are working in all areas of research, and that’s not accounting for post-docs or graduate students,” she said.
+
+“Our primary goal was to enable and support of early-stage technology projects at UCSF,” she said. “For things that have product potential, we bring in the necessary expertise to help the faculty move projects along. Even though spurring deal-making may not have been our primary purpose, the program really is a very appropriate portal for people on the outside to look through to determine which university technologies are most ready to be licensed out.”
+
+Terms have not been disclosed for the MedImmune/UCSF tie-up but Senior VP and Head of the Respiratory, Inflammation and Autoimmune Innovative Medicines Unit (iMED) Bing Yao said that unlike the Johns Hopkins and University of Maryland, Baltimore arrangements signed last year, which feature an overall R&D funding allocation, funding for this partnership will be determined on a case-by-case basis.
+
+“Some of the programs, we will want to bring to the next stage – they could be preclinical or [we could want to move them] further into clinical development,” Yao noted. “This way, we can give a lot of input. As a company developing products for multiple therapeutic areas, we can bring our expertise to facilitate [the projects] but each program will be unique.”
+
+The agreement extends for three years, with an option to extend it. MedImmune and AstraZeneca personnel will join with the Catalyst Awards advisors and UCSF staff to determine which products move forward with MedImmune/AstraZeneca backing. And the company will have exclusive options rights to the programs it backs, Yao said.
+
+In the six months, Gaithersburg, Md.-based MedImmune has shored up its local base by signing a five-year, $6.5 million, broad-based R&D partnership with Johns Hopkins University in December and a five-year, $6 million pact with University of Maryland, Baltimore in September. It also has R&D relationships with academia in the U.K. and, now, with the UCSF partnership, gets better access to technological advances stemming from the biotechnology hub in the San Francisco bay area, Yao told Deals of the Week.
+
+UCSF, meanwhile, is one of five founding members of the Academic Drug Discovery Consortium, founded in 2012 to serve as a clearinghouse for both academia and industry on research underway within U.S. and international drug research programs. Since 2010, UCSF has negotiated research collaborations with Genentech, Pfizer, Sanofi and Bayer, while licensing a preclinical antibody for organ failure to Stromedix and genetic encoding intellectual property for Parkinson’s disease to uniQure.
+
+While that agreement was signed, other M&A and licensing activity was heating up the cold and snowy winter. Read on for the rest of ....
+
+
+
+Mallinckrodt/Cadence: Mallinckrodt will have a lot of work to do to make good on the $1.3 billion it’s paying for Cadence Pharmaceuticals, a price more than 10 times the projected 2013 sales for Cadence’s sole product, Ofirmev (intravenous acetaminophen). Mallinckrodt says the acquisition gives it a third therapeutics platform, in the hospital setting, in addition to its existing focus on generic drugs and pain medications. The specialty drug company plans to keep Cadence’s sales and marketing capabilities and acquire additional hospital products to sell through them. Mallinckrodt announced the acquisition Feb. 11, its first major transaction since it was spun-out from medical device and supply company Covidien in July. Ofirmev launched in January 2011 and is approved to treat mild-to-moderate pain, for the management of moderate-to-severe pain with adjunctive opioid analgesics, and for the reduction of fever. It has expected net product revenues of $110.5 million for 2013. That’s more than twice the $50.1 million posted in 2012, its first full year of sales. As of Sept. 30, Cadence shareholders included Fidelity Management (7.6 million shares), T. Rowe Price Associates (7.2 million), Capital Research (7.1 million), Wellington Management (6 million), The Vanguard Group (3.4 million), NEA (2.1 million) and BlackRock (1.9 million). Mallinckrodt will pay $14 per share for Cadence, a 32% premium to the trailing 30-trading-day volume weighted average price; in 2006, the company completed an IPO at $9 per share with a valuation of about $250 million. That gives shareholders who bought and held IPO shares a roughly 1.5x return. - Stacy Lawrence and Jessica Merrill
+
+Pierre Fabre/Aurigene: Pierre Fabre Group, the French pharmaceuticals and cosmetics firm whose sales are split almost equally between drugs and skincare cosmetics, has acquired worldwide development and commercialization rights (excluding India) to a novel immune checkpoint modulator, AUNP-12, from the Indian drug-discovery firm Aurigene Discovery Technologies. AUNP-12 is the only peptide under development as a PD-1 immune modulator, the companies say. The candidate could be associated with greater efficacy and fewer side effects when used as part of combination therapies, they announced Feb. 12. The peptide achieves effective levels in vivo after subcutaneous dosing, and has inhibited tumor growth and metastasis in preclinical models of cancer. Aurigene, the Bangalore-based biotech that has collaborated with six of the top 10 pharmaceutical companies since its inception in 2002, will receive an undisclosed upfront payment from Pierre Fabre, and milestone payments based on development, regulatory and commercial progress. The deal terms are in line with others in this space, the companies said. It’s also the first major deal the French company has signed since the death of its founder, Pierre Fabre, in the middle of last year. Pierre Fabre specializes in the development of anti-cancer drugs, either alone or with partners; with marketed drugs that include Javlor (vinflunine) and Navelbine (vinorelbine), while Aurigene is a profitable Indian biotech that generates lead compounds and progresses them to preclinical development in concert with collaborators, particularly in oncology and inflammation. - John Davis
+
+Retrophin/Manchester: Retrophin, which netted $37.4 million in an initial public offering in January, has arranged to purchase privately held Manchester Pharmaceuticals for $62.5 million, including $29.5 million upfront. Announced Feb. 12, the transaction is expected to close on March 1, Retrophin said. Like Retrophin, Manchester focuses on rare diseases. The Ft. Collins, Colo.-based firm has two FDA-approved drugs in its portfolio – Chenodal (chenodeoxycholic acid), which is indicated for patients suffering from gallstones in whom surgery poses an unacceptable health risk due to disease or advanced age, and Vecamyl (mecamylamine HCI tablets), indicated for the management of moderately severe to severe essential hypertension and uncomplicated cases of malignant hypertension. Retrophin said it also will seek quick FDA approval for Chenodal, the only FDA-approved chenodeoxycholic acid, for cerebrotendinous xanthomatosis (CTX), a rare metabolic disorder that can cause severe intellectual disability or even prove fatal in young patients. The New York firm also guided that it anticipates revenue of between $10 million and $12 million this year overall, and $19 million to $21 million in 2015. - Joseph Haas
+
+Debiopharm/Affinium: Swiss biopharma Debiopharm Group broadened its antibiotic portfolio by acquiring key assets from Toronto-based Affinium Pharmaceuticals on Feb. 11. The deal includes two narrow-spectrum anti-bacterial candidates, the Phase IIa FabI inhibitor AFN-1252 and its Phase I prodrug, AFN-1720. Debiopharm also acquired Affinium’s technology platform with which it created the two drugs. Terms of the arrangement weren’t disclosed. Affinium says its drugs represent a new class of antibiotics that inhibit the type-II fatty acid synthesis pathway, known as FAS-II, essential for bacterial growth. Its compounds have shown promise in combating staphylococcus infections, including methicillin-resistant Staphylococcus aureus and vancomycin-intermedia Staphylococcus aureus infections, while allowing intravenous-to-oral switching for patients leaving hospital care. Debiopharm expects to develop a companion diagnostic to select appropriate patients as AFN-1720 progresses through the clinic. Debiopharm entered the anti-bacterial field last fall, when it struck a deal with India’s TCG Life Sciences to develop new antibiotics. The company is aiming to develop drugs that preserve existing gut flora while overcoming resistance to broad-spectrum drugs. Affinium raised $33 million in two rounds of funding in 2007 and 2011, from investors including SV Life Sciences, Genesys Capital Partners, Forward Ventures, Oxford Bioscience Partners and Ontario Emerging Technologies Fund. - Paul Bonanos
+
+Aveo/Astellas: In our “No-Deal of the Week,” Aveo Pharmaceuticals and Astellas announced Feb. 14 that they have terminated a partnership around renal cell carcinoma candidate tivozanib. The Japanese pharma paid $125 million upfront, with $50 million pegged to cover Aveo’s R&D expenses, in 2011 for worldwide rights, except for Asia, to develop, manufacture and market the compound, a tyrosine kinase inhibitor of all vascular endothelial growth factor receptors. An NDA was filed in November 2012, but an FDA “complete response” letter and unenthusiastic reception at an advisory committee left the companies not expecting approval in advanced RCC. They terminated the trial program for that indication and decided to re-focus on developing tivozanib for breast and colorectal cancers. Now, Astellas has decided to exit the collaboration for what it calls “strategic” reasons, and the two companies are terminating a Phase II program studying the compound in CRC. All rights to tivozanib will return to Aveo as of Aug. 11. - J.A.H.
+
+Photo credit: Wikimedia Commons
+
+
+By Joseph Haas at 12:37 PM 0 comments Links to this post
+
+
+Labels: academia, AstraZeneca, cancer, cancer immunotherapy, drug discovery, Medimmune, mergers and acquisitions, pain, rare diseases, tech transfer, translational research
+
+
+Older Posts Home
+
+Subscribe to: Posts (Atom)
+
+About This Blog
+
+Welcome to The IN VIVO Blog, home of daily commentary on recent developments in biopharmaceutical business development, R&D, financing, marketing, and policy. Join us for discussion in the comments, or contact us via email.
+
+
+Click These Links!
+
+  * IN VIVO & Start-Up
+  * The RPM Report
+  * The Pink Sheet
+  * The Pink Sheet DAILY
+  * Medical Devices Today
+  * Conferences
+  * Strategic Transactions Database
+
+Blog Archive
+
+  * ▼ 2015 (1)
+      + ▼ April (1)
+          o IN VIVO Blog Is No More.
+  * ► 2014 (18)
+      + ► March (3)
+      + ► February (6)
+      + ► January (9)
+  * ► 2013 (108)
+      + ► December (26)
+      + ► November (7)
+      + ► October (6)
+      + ► September (9)
+      + ► August (9)
+      + ► July (6)
+      + ► June (8)
+      + ► May (8)
+      + ► April (7)
+      + ► March (8)
+      + ► February (6)
+      + ► January (8)
+  * ► 2012 (112)
+      + ► December (24)
+      + ► November (10)
+      + ► October (8)
+      + ► September (7)
+      + ► August (8)
+      + ► July (6)
+      + ► June (8)
+      + ► May (8)
+      + ► April (8)
+      + ► March (8)
+      + ► February (8)
+      + ► January (9)
+  * ► 2011 (193)
+      + ► December (25)
+      + ► November (20)
+      + ► October (13)
+      + ► September (14)
+      + ► August (9)
+      + ► July (12)
+      + ► June (8)
+      + ► May (13)
+      + ► April (18)
+      + ► March (21)
+      + ► February (19)
+      + ► January (21)
+  * ► 2010 (261)
+      + ► December (35)
+      + ► November (18)
+      + ► October (12)
+      + ► September (11)
+      + ► August (10)
+      + ► July (22)
+      + ► June (19)
+      + ► May (25)
+      + ► April (23)
+      + ► March (28)
+      + ► February (26)
+      + ► January (32)
+  * ► 2009 (436)
+      + ► December (38)
+      + ► November (26)
+      + ► October (25)
+      + ► September (27)
+      + ► August (24)
+      + ► July (30)
+      + ► June (39)
+      + ► May (53)
+      + ► April (35)
+      + ► March (51)
+      + ► February (40)
+      + ► January (48)
+  * ► 2008 (484)
+      + ► December (42)
+      + ► November (28)
+      + ► October (36)
+      + ► September (35)
+      + ► August (28)
+      + ► July (52)
+      + ► June (40)
+      + ► May (35)
+      + ► April (44)
+      + ► March (41)
+      + ► February (52)
+      + ► January (51)
+  * ► 2007 (329)
+      + ► December (32)
+      + ► November (42)
+      + ► October (37)
+      + ► September (33)
+      + ► August (29)
+      + ► July (39)
+      + ► June (39)
+      + ► May (43)
+      + ► April (16)
+      + ► March (13)
+      + ► February (5)
+      + ► January (1)
+  * ► 2006 (8)
+      + ► December (3)
+      + ► November (5)
+
+Footer
+
+IN VIVO: The Business & Medicine Report
+© Copyright 2014 Informa plc.
+
+
+Informa Business Information. All Rights Reserved.
+
+www.pharmamedtechbi.com

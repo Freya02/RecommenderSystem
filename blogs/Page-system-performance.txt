@@ -1,0 +1,401 @@
+HTC FinancingJoin Team HTC
+  * PRODUCTS
+      + __ HTC U12+ __ HTC U11 __ HTC U11 life __ HTC U Ultra __ HTC Bolt __ HTC Accessories
+        HTC U12+
+        HTC U11
+        HTC U11 life
+        HTC Accessories
+  * SHOP
+      + __ HTC U12+ __ HTC U11 __ HTC U11 life __ HTC Accessories __ Campus Store
+        HTC U12+
+        HTC U11
+  * VIVE
+      + __ VIVE Pro __ VIVE __ Accessories __ VIVE Business Edition __ VIVEPORT
+        VIVE Pro Headset
+        VIVE VR System
+  * SUPPORT
+      + __ Software+Apps
+        Devices & Accessories
+        Purchase & Order Questions
+        Video Tutorials
+0‎
+* Subtotal
+
+‎HTC U12+‎
+
+User guides
+  * Top articles
+  * FAQ
+      + Power and charging
+      + Security
+      + Storage
+      + Backup and transfer
+      + Audio and display
+      + Calls and SIM
+      + Camera
+      + Applications
+      + System performance
+      + Wireless and networks
+      + Settings and others
+  * Getting Started
+      + What's special with HTC U12+‍
+          o New experience when interacting with your phone
+          o Edge Sense 2
+          o Dual cameras
+          o Immersive sound
+      + Unboxing and setup
+          o HTC U12+‍ overview
+          o Inserting the nano SIM and microSD cards
+          o Using the protective case
+          o Charging the battery
+          o Switching the power on or off
+          o Setting up your phone for the first time
+          o Adding your social networks, email accounts, and more
+          o Setting up Face Unlock
+          o Fingerprint scanner
+          o Water and dust resistant
+      + Pressure-sensitive buttons and Edge Sense
+          o Do's and don'ts with pressure-sensitive buttons
+          o What is Edge Sense?
+          o Setting up Edge Sense for the first time
+          o Do's and don'ts with Edge Sense
+          o Taking camera shots using Edge Sense
+          o Enabling the squeeze and hold gesture
+          o Changing the actions assigned to squeeze gestures
+          o Typing with your voice with Edge Sense
+          o Assigning another voice assistant app to Edge Sense
+          o Adjusting the squeeze force level
+          o Squeezing to perform actions in your apps
+          o Squeezing to unlock your phone with Face Unlock
+          o Edge Sense double-tap gesture
+          o Edge Sense holding gesture
+          o Turning Edge Sense on or off
+          o Opening Edge Launcher
+          o Adding apps, quick settings, and contacts
+          o Adjusting the Edge Launcher position
+      + Your first week with your new phone
+          o Navigation Bar
+          o Using One-handed mode
+          o Ways to capture screenshots
+          o HTC Sense Home
+          o Sleep mode
+          o Lock screen
+          o Getting to know your settings
+          o Using Quick Settings
+          o Restarting HTC U12+‍ (Soft reset)
+          o Motion gestures
+          o Motion Launch
+          o Notifications
+          o Selecting, copying, and pasting text
+          o Entering text
+          o Getting help and troubleshooting
+      + Updates
+          o Software and app updates
+          o Installing a software update
+          o Installing an application update
+          o Installing app updates from Google Play Store
+  * Personalizing
+      + Home screen layout and fonts
+          o Adding or removing a widget panel
+          o Changing your main Home screen
+          o Setting your Home screen wallpaper
+          o Changing the default font size
+      + Widgets and shortcuts
+          o Launch bar
+          o Adding Home screen widgets
+          o Adding Home screen shortcuts
+          o Grouping apps on the widget panel and launch bar
+          o Moving a Home screen item
+          o Removing a Home screen item
+      + Sound
+          o Tuning your HTC USonic earphones
+          o HTC BoomSound for speakers
+          o Changing your ringtone
+          o Changing your notification sound
+          o Setting the default volume
+  * Camera
+      + Taking photos and videos
+          o HTC Camera
+          o Choosing a capture mode
+          o Zooming
+          o Quickly adjusting the exposure of your photos
+          o Taking a photo
+          o Taking continuous camera shots
+          o Taking photos with the self-timer
+          o Tips for capturing better photos
+          o Selfies
+          o Using HDR Boost
+          o Taking photos in Bokeh mode
+          o Recording video with Sonic Zoom
+          o Recording video in 3D Audio or high resolution audio
+          o Adding stickers to your shots
+      + Advanced camera features
+          o Choosing a scene
+          o Manually adjusting camera settings
+          o Taking a RAW photo
+          o How does the Camera app capture RAW photos?
+          o Taking a panoramic photo
+          o Taking a panoramic selfie
+          o Taking a super wide-angle panoramic selfie
+          o Recording videos in slow motion
+          o Recording a Hyperlapse video
+  * Applications
+      + Google Photos
+          o What you can do on Google Photos
+          o Viewing photos and videos
+          o Editing your photos
+          o Enhancing RAW photos
+          o Trimming a video
+          o Changing the playback speed of a slow motion video
+          o Editing a Hyperlapse video
+      + Installing and removing apps
+          o Getting apps from Google Play Store
+          o Downloading apps from the web
+          o Uninstalling an app
+      + Working with apps
+          o Accessing your apps
+          o Arranging apps
+          o App shortcuts
+          o Switching between recently opened apps
+          o Working with two apps at the same time
+          o Using picture-in-picture
+          o Controlling app permissions
+          o Setting default apps
+          o Setting up app links
+          o Disabling an app
+      + HTC apps
+          o Boost+
+          o HTC BlinkFeed
+          o HTC Themes
+          o HTC Sense Companion
+          o Mail
+          o Weather
+          o Clock
+          o Voice Recorder
+      + HTC Alexa
+          o What is HTC Alexa?
+          o Setting up HTC Alexa
+          o Using HTC Alexa
+  * Calls, Messages, and Contacts
+      + Phone calls
+          o Making a call with Smart dial
+          o Dialing an extension number
+          o Keeping your phone number private
+          o Speed dial
+          o Calling a number in a message, email, or calendar event
+          o Receiving calls
+          o Emergency call
+          o What can I do during a call?
+          o Setting up a conference call
+          o Call History
+          o Switching between silent, vibrate, and normal modes
+          o Home dialing
+      + SMS and MMS
+          o Sending a text message (SMS)
+          o How do I add a signature in my text messages?
+          o Sending a multimedia message (MMS)
+          o Sending a group message
+          o Forwarding a message
+          o Moving messages to the secure box
+          o Blocking unwanted messages
+          o Copying a text message to the nano SIM card
+          o Deleting messages and conversations
+      + Contacts
+          o Your contacts list
+          o Adding a new contact
+          o Editing a contact’s information
+          o Getting in touch with a contact
+          o Importing or copying contacts
+          o Merging contact information
+          o Sending contact information
+          o Contact groups
+          o Private contacts
+      + Activity Reader
+          o Want to hear voice notifications on your headset?
+          o Turning Activity Reader on
+          o When are notifications not read out by Activity Reader?
+  * Battery and Storage
+      + Battery
+          o Tips for extending battery life
+          o Using power saver mode
+          o Extreme power saving mode
+          o Displaying the battery percentage
+          o Checking battery usage
+          o Checking battery history
+          o Battery optimization for apps
+      + Storage
+          o Freeing up storage space
+          o Types of storage
+          o Should I use the storage card as removable or internal storage?
+          o Setting up your storage card as internal storage
+          o Moving apps and data between the phone storage and storage card
+          o Moving an app to or from the storage card
+          o Copying or moving files between the phone storage and storage card
+          o Copying files between HTC U12+‍ and your computer
+          o Unmounting the storage card
+  * Backup, Transfer, and Reset
+      + Transfer
+          o Ways of getting content from your previous phone
+          o Transferring content from an Android phone
+          o Other ways of getting contacts and other content
+          o Transferring photos, videos, and music between your phone and computer
+      + Backup and reset
+          o Backing up HTC U12+‍
+          o Backing up contacts and messages
+          o Resetting network settings
+          o Resetting HTC U12+‍ (Hard reset)
+  * Connectivity
+      + Internet connections
+          o Turning the data connection on or off
+          o Managing your data usage
+          o Wi‍-Fi connection
+          o Connecting to VPN
+          o Installing a digital certificate
+          o Using HTC U12+‍ as a Wi‍-Fi hotspot
+          o Sharing your phone's Internet connection by USB tethering
+      + Wireless sharing
+          o What is HTC Connect?
+          o Turning Bluetooth on or off
+          o Connecting a Bluetooth headset
+          o Unpairing from a Bluetooth device
+          o Receiving files using Bluetooth
+          o Using NFC
+  * Settings
+      + Common settings
+          o Do not disturb mode
+          o Location settings
+          o Smart display
+          o Screen rotate mode
+          o Airplane mode
+          o Setting when to turn off the screen
+          o Screen brightness
+          o Night mode
+          o Adjusting the display size
+          o Touch sounds and vibration
+          o Changing the display language
+          o Glove mode
+          o Travel mode
+      + Security settings
+          o Assigning a PIN to a nano SIM card
+          o Setting a screen lock
+          o Setting up Smart Lock
+          o Turning the lock screen off
+      + Accessibility settings
+          o What accessibility features are available on HTC U12+‍?
+          o Accessibility settings
+          o Turning magnification gestures on or off
+          o Navigating HTC U12+‍ with TalkBack
+          o Teletypewriter (TTY) mode
+
+< < Menu
+
+How do I restart my phone into Safe mode?
+
+Sometimes, a third-party app may cause your phone to lag, malfunction, or freeze. In Safe mode, all third-party app activities are temporarily deactivated. If your phone functions as it should while in Safe mode, then the problem is caused by a third-party app and is unlikely a hardware issue.
+ 1. Do any of these depending on your phone's operating system:
+      + Android 7 and later: Press and hold the POWER button, then tap and hold Power off.
+      + Android 6: Press and hold the POWER button, then tap and hold Power off until the Reboot to safe mode prompt appears. Tap OK.
+    Your phone will restart and you should see Safe mode at the lower portion of the screen.
+ 2. Test your phone to see if Safe mode resolves the issue.If yes, uninstall a recently-downloaded app that might be causing the problem.
+ 3. To switch back to Normal mode, turn off your phone, and then turn it back on again.
+
+You can also restart into Safe mode using the hardware buttons. Press the POWER button to turn the phone on. When you see the HTC logo on the screen, press and hold VOLUME DOWN until you see Safe mode at the lower portion of the screen.
+
+Was this information helpful?
+Yes
+No
+Thank you!
+
+Find topics about ‎HTC U12+‎
+
+
+Can’t find what you’re looking for?
+
+Get Help
+Support
+‎HTC U12+‎
+Choose your device version
+CHOOSE A MANUAL
+English - Quick start guideEnglish - User manualEspañol - Manual de inicio rápidoEspañol - Manual de usuario
+Join the conversation
+
+  * Smartphones
+
+      + HTC U12+
+      + HTC U11
+      + HTC U11 life
+
+  * More Products
+
+      + EXODUS
+      + Fitness
+      + VIVE
+      + VIVEPORT
+
+  * Accessories
+
+      + HTC U12+ Accessories
+      + HTC U11 Accessories
+      + HTC U11 llife Accessories
+      + HTC U Ultra Accessories
+      + HTC 10 Accessories
+      + HTC Bolt Accessories
+
+  * HTC Financing
+
+
+  * Team HTC Newsletter
+
+
+  * Software + Apps
+
+
+  * Innovations
+
+      + Edge Sense
+      + HTC Transfer Tools
+      + Power to Give
+
+  * Support
+
+      + Devices & Accessories
+      + Order Help
+      + Order Status
+      + Returns & Cancellations
+      + Shipping Information
+      + FAQs
+      + Warranty Policy
+
+  * Legal
+
+      + Privacy Policy
+      + Product Security
+      + Legal Terms
+
+  * About HTC
+
+      + Company Overview
+      + Press & Media Room
+      + Investor
+      + Device Security
+      + Working at HTC
+
+  * Sites
+
+      + HTC Partners
+      + HTC Dev
+      + HTC Research
+
+  * HTC Campus Store
+
+
+  * Privacy Policy
+
+
+  * Product Security
+
+
+Location:
+
+América Latina Australia Canada - English Canada - Français Danmark Deutschland España France Hong Kong Hrvatska India Ireland Italia Magyarország Malaysia Middle East Nederland New Zealand Norge Polska România Saudi Arabia Schweiz Singapore Suomi Sverige Türkiye UK USA Việt Nam Österreich Česká republika Казахстан Россия и СНГ Србија Україна الشرق الأوسط 中国 台灣 日本 香港
+@ 2011-2019 HTC Corporation Legal Terms

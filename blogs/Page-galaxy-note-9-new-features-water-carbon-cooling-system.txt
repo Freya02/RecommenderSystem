@@ -1,0 +1,127 @@
+* Tech
+  * Entertainment
+  * Deals
+  * Business
+  * Science
+  * Lifestyle
+  * About
+Mobile
+
+The Galaxy Note 9 has a component you won’t find on other phones – here’s how it works
+
+Chris Smith @chris_writes
+August 29th, 2018 at 2:56 PM
+Share Tweet
+
+Samsung’s Galaxy Note 9 is surely one of the best Android handsets you can buy right now, although it also happens to be one of the most expensive phones ever. Similar hardware is available for prices well below $400, although you won’t get the same high-end experience as you will with the $1,000 Note 9. The phone has plenty of neat tricks including a dual-lens camera with variable aperture, a smarter stylus, a beefy 4,000 mAh battery, up to 512GB of internal storage, a desktop mode that doesn’t require any accessories, and a heat dissipation system that’s not available on other phones.
+
+
+Don't Miss: $55 hub lets Alexa control all your home entertainment gear
+
+
+The Note 9 isn’t the first phone to come with a water-based heatsink supposed to improve cooling. We’ve seen it on previous Samsung flagships starting with the Galaxy S7. But Samsung has dramatically improved its Water Carbon Cooling System, which is what it calls the heatsink on the new Note 9.
+
+
+Samsung explained in a blog post how the cooling system works:
+
+
+When we launched the Galaxy S7, we introduced a new type of water-based cooling into our phones. It used a porous thermal spreader filled with water, which absorbed the heat and turned into steam and then carried the heat away through a pipe. Once the heat dissipated, the steam condensed into water again. This system was the blueprint for the Water Carbon Cooling system in the Galaxy Note9, but we wanted to make it bigger and more efficient.
+
+
+For the Note 9, Samsung added a layer of copper between the Thermal Interface Materials of previous designs, to “transfer more heat between the two materials for more efficient heat dissipation.”
+
+
+Image Source: Samsung
+
+
+As you may have seen in Galaxy Note 9 teardowns, (or the image above), the phone also has a wider thermal spreading pipe, measuring 350 cubic mm, more than three times larger than the Galaxy S9’s 95 cubic mm. The S9 packs the same processor as the Note 9, but the latter might offer better peak performance thanks to the improved cooling system.
+
+
+The only way to test whether it works is to go through extensive gaming sessions or use the Note 9 in PC mode by hooking it up to a monitor and using plenty of apps at the same time. The recently launched Poco F1 phone also features a liquid cooling system that may have helped the phone nearly beat one of its biggest rivals, the OnePlus 6, in real-life speed tests.
+
+Image Source: Zach Epstein, BGR
+Tags: Galaxy Note 9, Samsung
+Comments
+There’s no way I’m upgrading my iPhone X to a 2018 iPhone
+
+Trending
+
+ 1. 1
+    Entertainment
+
+    A Marvel star might’ve just confirmed her character is alive in ‘Avengers: Endgame’
+
+ 2. 2
+    Entertainment
+
+    Everything new coming to Netflix this week, and everything leaving (week of Jan. 27)
+
+ 3. 3
+    Tech
+
+    Oh great, Russian fighter pilots are going to start flying with scary AI wingmen
+
+ 4. 4
+    Deals
+
+    $55 hub lets Alexa control all your home entertainment gear
+
+ 5. 5
+    Deals
+
+    Sunday’s top deals: Fire TV Stick 4K for the price of a Fire TV Stick, Sonos sale, 4K TVs, more
+
+
+BGR Top Deals
+
+ 1. 1
+    Back By Popular Demand!
+
+    $55 hub lets Alexa control all your home entertainment gear
+
+ 2. 2
+    The Price Is Right
+
+    Sunday’s top deals: Fire TV Stick 4K for the price of a Fire TV Stick, Sonos sale, 4K TVs, more
+
+ 3. 3
+    Just Restocked
+
+    You can get 3 of these LED light strips for the price of one Philips Hue LightStrip Plus
+
+ 4. 4
+    Best Deal We've Found
+
+    Amazon’s Fire TV Stick 4K is down to the same price as the Fire TV Stick for Super Bowl 53
+
+ 5. 5
+    Hurry Before It's Gone!
+
+    Before you spend hundreds on an Apple Watch, check out this $80 smartwatch with 30-day battery life
+
+
+Picked For You
+
+
+Fried chicken could put you in an early grave, study finds
+
+By Mike Wehner 2 days ago
+
+Everything new coming to Netflix this week, and everything leaving (week of Jan. 27)
+
+By Jacob Siegal 18 hours ago
+
+Amazon’s Fire TV Stick 4K is down to the same price as the Fire TV Stick for Super Bowl 53
+
+By Maren Estrada 2 days ago
+  * Advertise
+  * About
+  * Contact
+
+* Copyright 2019 BGR Media, LLC
+
+
+Powered by WordPress.com VIP | Privacy Policy | Your Privacy Rights | Ad Choices | Privacy Preferences | Terms Of Use
+
+Post to
+Cancel

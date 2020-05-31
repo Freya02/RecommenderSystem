@@ -1,0 +1,314 @@
+Close Ad
+  * Subscribe
+    ▲
+    Learn more about PCWorld's Digital Editions
+   🔎
+Home
+  * News
+  * Reviews
+  * How-To
+  * Video
+  * Deals
+      + Deals
+      + Coupon Codes
+      + Shop
+  * Business
+  * Laptops
+  * Smartphones
+      + iPhone
+      + Windows Mobile
+      + Phone Accessories
+  * Hardware
+  * Security
+  * Software
+  * Gadgets
+  * Subscribe
+  * Resources
+  * PCs
+  * Smartphones
+  * Printers
+  * Ultrabooks
+  * Blogs
+  * Viruses
+  * Cameras
+  * Components
+  * Computer Accessories
+  * Consumer Advice
+  * Digital Assistants
+  * Displays
+  * E-readers
+  * Graphics Cards
+  * Hard Drives
+  * Home Theater
+  * Input Devices
+  * Keyboards
+  * Laptop Accessories
+  * Mobile
+  * Networking
+  * Operating Systems
+  * Optical Drives
+  * Processors
+  * Server Hardware
+  * Smartwatches
+  * Streaming Services
+  * Storage
+  * Tablets
+  * Windows
+  * iPhone
+  * Windows Mobile
+  * Phone Accessories
+  * Home
+  * Smartphones
+Review
+
+HTC U12+ review: One too many pressing problems
+
+
+Smart sides and dumb buttons are a terrible combination.
+
+
+* By Michael Simon
+
+
+Staff Writer, PCWorld | Jul 2, 2018 3:00 AM PT
+
+
+Mobile
+Three HTC U12+ features Google should borrow for the Pixel
+Three HTC U12+ features Google should borrow for the Pixel
+Closed captioning available on our YouTube channel
+More for you to like:
+Google Pixel Slate: Just an OK Android tablet Google Pixel Slate: Just an OK...
+Pixel 3 XL notch: Just how big is it?? Pixel 3 XL notch: Just how big is...
+3 Reasons Why You Should Buy a Cheap Android Phone This October 3 Reasons Why You Should Buy a...
+LG G7 ThinQ: 5 Cool hidden features LG G7 ThinQ: 5 Cool hidden features
+HTC U12+: New Edge Sense features HTC U12+: New Edge Sense features
+LG V30 Camera: Best Features LG V30 Camera: Best Features (3:19)
+The HTC U12+ isn't a great phone, but there are some intriguing features I'd like to see Google borrow for the next Pixel.
+
+More like this
+
+  * HTC U12+ hands-on: No notch, smarter edges, and real selfie portraits
+  * The most interesting feature in the Pixel 3 leak isn't Google's notch—it's...
+  * Samsung Galaxy S9 review: Incrementally better in all the right places
+  * Video
+    3 Radical ideas for Wear OS
+At a Glance
+
+  * HTC U12+
+
+    $799.99
+    See it
+    on Amazon
+
+With the U12+, HTC somehow manages to mess up the one thing that all other phones get right: the volume and power buttons. I don’t generally pay much mind to the buttons on my phone—the Bixby key on the Galaxy S9 notwithstanding—but the U12+’s are so finicky, I actively tried to avoid them.
+
+
+Christopher Hebert/IDG
+
+The buttons on the U11 (bottom) were fine, HTC, so why’d you have to change them?
+
+
+The U12+’s buttons notwithstanding, I’d still have a hard time recommending this phone. Yes, it improves on the U11 in some key areas—most notably, the camera—but it’s also a stark reminder of just how frustrating HTC’s phones have become. Ever since the glorious One changed our perception of what a high-end Android phone should be, HTC has consistently taken one step forward and two steps back with each new flagship phone.
+
+
+I was hoping the U12+’s fresh design and mesmerizing transparent blue case would break that trend, but the phone’s quest to be different ultimately proves to be too much to bear. While there are some aspects of the U12+ that stack up to the Pixel 2 XL and Galaxy S9+ (its intended targets), HTC seems to have abandoned the basic rule of design: If it ain’t broke, don’t fix it.
+
+[ Further reading: The best Android phones for every budget. ]
+
+A new design... that feels too familiar
+
+
+HTC gave us a glimpse of the future of the flagship U phone with last year’s international-only U11+, so the 18:9, slim-bezel design in the U12+ is hardly a surprise. Even if you’ve never seen that handset in the flesh, HTC’s moves here are mostly predictable, dumping the home button, bumping the display from 5.5 inches to 6 inches, and upping the screen-to-body ratio from a paltry 71 percent to more than 80 percent. It’s definitely more holdable than the U11, but the bezels are still thicker than on most other phones in its class, and I found its weight to be a bit top-heavy.
+
+
+Christopher Hebert/IDG
+
+HTC has updated the HTC U12+ with a 6-inch, 18:9 display.
+
+
+While the new dimensions certainly put the U12+ on a par with the other phones in its class, HTC doesn’t really bring anything new to the table. The bezels are still pretty chunky (likely due to new Edge Sense features that add tapping and holding to its squeezing repertoire), and the liquid surface aesthetic is just as slippery and fingerprint-y as it was on the U11. The back is a bit busier due to the extra camera and fingerprint sensor, but it still looks stunning in the right light, particularly the translucent blue and fire red colors. Even though it’s made of glass, HTC still hasn’t added wireless charging, and like the HTC’s U phone’s of 2017, it also doesn’t have a headphone jack or a USB-C-to-3.5mm adapter (though a pair of USB-C U-Sonic earbuds are included in the box).
+
+
+On the front, the Quad HD+ 2880x1440 display is still LCD rather than OLED. Even though it’s HDR 10-compatible, I found the colors to be somewhat dark and muted, even when using the optimized DPI-P3 color profile.
+
+
+Compounding things is a surprisingly dim display. With the brightness slider pushed to the max, the U12+ Super LCD 6 can’t hold a candle to the Galaxy S9 OLED screen and pales in comparison to the LG G7’s Super Bright LCD display. I also had weird issues with force-touching the screen to bring up options. Either I didn’t press hard enough or I pressed too hard and the menu quickly disappeared. I eventually just stopped trying.
+
+
+Pushing the wrong buttons
+
+
+And then we have the buttons. There are just three of them—volume up, volume down, and power—and they look unassuming clustered on the right side. But then you touch them and discover they’re not traditional buttons. They’re pressure-sensitive buttons that don’t actually move when you press them. In theory that might be helpful for water resistance and durability, but in practice it’s just awful. Haptic feedback is supposed to mimic the act of pressing, but it rarely synced and never helped.
+
+
+Christopher Hebert/IDG
+
+The U12+ has the worst buttons I’ve ever used on a phone.
+
+
+It gets worse: Making the three buttons the same size is just plain cruel. I lost track of how many times I pressed the volume down button expecting the phone to turn on. And because the button is touch-sensitive (so it does nothing when the phone is off), it took me several hard presses before I realized my fingers were askew.
+
+
+Think I’m exaggerating? HTC has a U12+ support article titled “Do’s and don’ts with pressure-sensitive buttons” which includes this line: “If there’s no response after you’ve pressed a button, try pressing it repeatedly until you get the right pressure.” Seriously, it says that.
+
+
+Because the buttons need power, they won’t do anything if the phone is dead. That’s not a major issue—after all, you’ll need to plug it in your phone at that point anyway—but it speaks to the larger issue here: What’s the point? What was HTC trying to accomplish with these touch-sensitive buttons? Even if they worked as advertised, they’d still require a relearning of simple commands like restarting and taking screenshots. I might have been able to understand the thought process if HTC ditched the buttons altogether and relied strictly on Edge Sense, but as it stands, it might be the most confounding decision an Android phone maker has ever made (including that one time when Samsung decided to put the fingerprint sensor right next to the camera).
+
+
+Performance and battery life fail to impress
+
+
+The U12+ has a top-of-the-line Snapdragon 845 processor, 6GB of RAM, and a 3,500mAh battery, so it should be one of the best performers of the current crop of Android phones. Unfortunately, however, for a phone with the best possible components, the U12+ is surprisingly inconsistent.
+
+
+Christopher Hebert/IDG
+
+The dual camera is the U12+’s best feature.
+
+
+The issues likely stem from HTC’s heavy-handed Sense UI. While other Android phone makers have taken to using lighter brushes when painting their skins, HTC’s is thicker and sludgier than ever, with loads of extra apps, oodles of customization options, and bogged-down settings. Even the stock keyboard bucks the muscle-memory layout. Along with a bunch of screens imploring you to install apps you don’t want, HTC continues to install the awful News Republic app and push notifications without asking. I’ve already written at length about why all Android phones should just switch to Android One, and the U12+ is a prime example of how handsets could benefit from it.
+
+
+After less than a week of use, signs of lag and stutter began to creep in. It's a shame, because HTC does have a few good ideas here. The best is Edge Sense, a feature that was introduced on the U11 and adopted by the Pixel 2. It does a few new tricks on the U12+, including a double-tap action and holding gesture. You can watch the video above for my impressions, but basically HTC has added touch sensitivity to the sides of the phone. It’s a much more intuitive implementation than the dreadful buttons, but it frequently required several attempts to activate. Nonetheless, Edge Sense on the U12+ is still the most clever and creative way to make a large-screened phone more manageable.
+
+
+A more-than-capable camera
+
+
+I was already impressed with the camera in the U11, and HTC has upgraded the system in the U12+. The new phone pairs an existing 12MP, f/1.7 main camera with a 16MP secondary camera with 2x optical zoom. The U12+’s camera system is by far its best attribute, and it more than holds its own against Android’s 2018 heavyweights. Its app is great too, with a front-and-center shortcut to its zoom and excellent pro controls.
+
+
+Michael Simon/IDG
+
+While the Galaxy S9 (center) and the Pixel 2 XL (right) both showed accurate color when shooting these flowers, the U12+ (left) captured finer and clearer details.
+
+
+In optimal lighting, the U12+ produced crisp, accurate images with vivid colors and deep shadows, and in some cases more detail than the Pixel 2 XL. The optical zoom performed as well as the iPhone X's, and optical image stabilization in the main lens helps greatly with capturing low-light and moving images, but it still struggles with extreme darkness. I also experienced some focus and processing lag, but overall, the U12+ is nothing short of a fantastic camera.
+
+
+Michael Simon/IDG
+
+While all three phones captured the orange hues of this flower, the U12+ (left) was most accurate, while the Galaxy S9 (center) was a touch oversaturated and the Pixel 2XL a bit too dark.
+
+
+As good as the rear camera is on the U12+, however, the front camera might actually be better. HTC has added a dual lens for selfies, too, and the results are pretty great. Not only can you take true portraits, there’s also a Bokeh Mode Editor that lets you adjust the background blur and change the focal point. (It’s available for rear-camera portraits too, but it’ll get the most use with Instagram selfies.)
+
+
+Michael Simon/IDG
+
+The U12+’s front camera takes great selfie portraits, but its best trick is its ability to switch focal points in the bokeh mode editor.
+
+
+Watching it work is quite impressive, giving the U12+ a level of depth-of-field control that you won't find on the iPhone X or the Galaxy S9+. It might end up being a party trick for most people, but it's not a cheap one—on-the-fly adjustments like this are generally reserved for cameras costing thousand of dollars. It's another feature I'd sure like to see turn up in the Pixel 3.
+
+
+Should you buy an HTC U12+?
+
+
+Two kinds of people will buy an HTC U12+: unabashed HTC fans who still think the company makes better phones than Samsung, and Verizon or T-Mobile customers who get an offer they can’t refuse. For everyone else, the U12+ is a conundrum. On one hand, it’s tantalizingly close in some areas to being one of the year’s best phones, but on the other, its flaws make it seem like it was designed by someone who had never actually used a smartphone before. The decision to use touch-sensitive buttons might have seemed like a good one in theory, but how it advanced past the prototype stage is beyond me.
+
+
+Christopher Hebert/IDG
+
+There’s no denying the U12+’s beauty, but its flaw are pretty ugly.
+
+
+Even if the U12+’s buttons weren’t its death knell, a 2018 phone with an LCD screen and an overweight OS is a tough sell at $650, let alone $800. Even though its name suggests there should be a cheaper model with a smaller screen available, there isn’t. Nor will there be. The U12+ will likely be the only U.S. flagship from HTC until the U13 next year, assuming there even is an HTC flagship in 2019. Now that HTC’s smartphone division has been ravaged by Google, it could be only a matter of time before the company simply stops making flagships.
+
+
+Until then, HTC might want to spend a little less time thinking about what it can do and more about what it should do.
+
+To comment on this article and other PCWorld content, visit our Facebook page or our Twitter feed.
+At a Glance
+
+  * HTC U12+
+
+    $799.99
+    See it
+    on Amazon
+
+    The HTC U12+ has the price and specs of a flagship phones, but its awful buttons and bloated UI are a deal-breaker.
+
+
+    Pros
+
+      + The slim-bezel design is a big improvement over the U11.
+      + The front and rear cameras are very good.
+
+    Cons
+
+      + The buttons, my god, the buttons.
+      + The bloated Sense UI makes the phone feel slower than it should.
+      + The glass back, while pretty, is slippery and doesn't support wireless charging.
+Related:
+  * Smartphones
+  * Android
+  * Mobile
+
+Michael Simon covers all things mobile for PCWorld and Macworld. You can usually find him with his nose buried in a screen. The best way to yell at him is on Twitter.
+
+Follow
+* Shop Tech Products at Amazon
+PCWorld
+PCWorld helps you navigate the PC ecosystem to find the products you want and the advice you need to get the job done.
+
+  * About Us
+  * Contact Us
+  * Digital Magazine
+  * Gift Subscription
+  * Ad Choices
+  * Member Preferences
+  * Cookie Policy
+  * Newsletters
+  * Terms of Service Agreement
+  * RSS
+  * Privacy Policy
+  * Shop
+  * Coupon Codes
+      + Aliexpress
+      + Ebay
+      + Home Depot
+      + HP
+      + jcpenney
+      + OnePlus
+      + Walmart
+      + Target
+      + 6PM
+  * E-commerce Affiliate Relationships
+
+PCWorld Categories
+
+  * Business
+  * Laptops
+  * Mobile
+  * PC Hardware
+  * Deals
+  * Printers
+  * Security
+  * Software
+  * Videos
+  * Windows
+
+IDG Network Sites
+
+  * Advertise
+  * Permissions
+  * Macworld
+  * Tech Advisor
+  * TechHive
+  * IDG TechNetwork
+  * IDG
+  * IDG Blog
+  * Careers at IDG
+
+Get PCWorld's Digital Editions
+
+Subscribe Now
+Follow us   
+
+Visit other IDG sites:
+
+Select One CIO CIO Asia Computerworld CSO Gamestar Greenbot IDG Connect IDG.tv InfoWorld IT News ITworld JavaWorld Macworld Network World PCWorld TechHive The Full Nerd
+
+Copyright © 2019 IDG Communications, Inc.

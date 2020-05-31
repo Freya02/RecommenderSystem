@@ -1,0 +1,780 @@
+GSMArena.com Blog GSMArena.com
+  * Blog Home
+  * Mobile version
+  * Battery tests
+  * Featured
+  * About us
+  * Tip us
+  * Contact us
+Tip us Facebook Twitter Google+ RSS
+
+Posted in: Android, Battery tests, Featured, Mobile phones
+
+
+LG G2 battery tests are done, here are the results
+
+
+September 6th, 2013, 21:55 by Peter 38 comments
+
+
+LG made a lot of fuss with the “learning from you” campaign, saying how much the company listened to its customers when designing the LG G2. Well, one of the most common wishes among users is a decent battery life, let’s see if LG delivered.
+
+
+The relatively thin (8.9mm) body of the G2 with a curved back must not have made it easy – the battery has a stepped design to make the most of the internal volume and it worked, the phone packs a beefy 3,000mAh battery.
+
+
+An important note before we go on – we’re testing the international LG G2 with a sealed battery, the South Korean G2 has a smaller, removable battery, 2,610mAh.
+
+
+The first test – calling on a 3G network – is easy for modern smartphones with their big screens off and their powerful chipsets idle. Still, when the LG G2 passed the one day mark and went on to do 25 hours of calling on a single charge, we were impressed. The Xperia Z Ultra has a 3,050mAh battery and the same Snapdragon 800 chipset and managed less. Only the Huawei Ascend Mate is above the Z Ultra, but that’s with 1,000mAh more battery juice.
+
+
+
+Talk time
+
+  * Huawei Ascend Mate
+    25:12
+  * LG G2
+    25:01
+  * Sony Xperia Z Ultra
+    24:23
+  * Huawei MediaPad 7 Vogue
+    22:16
+  * Motorola RAZR MAXX (ICS)
+    21:18
+  * LG Optimus G Pro
+    20:45
+  * Motorola DROID RAZR MAXX
+    20:24
+  * Motorola RAZR i
+    20:07
+  * BlackBerry Q10
+    20:00
+  * Samsung Galaxy Mega 6.3
+    19:54
+  * Sony Xperia SP
+    19:49
+  * Samsung Galaxy S4 (S600)
+    18:03
+  * Sony Xperia ZR
+    17:48
+  * Samsung Galaxy S4 mini duos
+    17:33
+  * Samsung Galaxy Note II N7100
+    16:57
+  * Samsung Galaxy S4 Active
+    16:40
+  * Sony Xperia Z
+    16:03
+  * Samsung Galaxy S4 zoom
+    15:32
+  * LG Optimus G
+    15:30
+  * Sony Xperia ZL
+    15:22
+  * Nokia Lumia 720
+    15:17
+  * BlackBerry Q5
+    14:31
+  * Huawei Ascend P6
+    14:17
+  * Oppo Find 5
+    14:17
+  * Google Nexus 4
+    14:17
+  * Moto X
+    14:06
+  * HTC One
+    13:38
+  * HTC One X+
+    13:31
+  * Nokia Lumia 520
+    13:33
+  * Samsung Galaxy S4 mini
+    13:10
+  * Samsung Galaxy Grand Duos
+    12:45
+  * LG Optimus GJ
+    12:39
+  * Samsung Galaxy S4 GPE
+    12:37
+  * Huawei Ascend P1
+    12:30
+  * Sony Xperia L
+    12:30
+  * HTC Butterfly
+    12:18
+  * Samsung Galaxy Note
+    12:14
+  * HTC One mini
+    12:04
+  * HTC Desire 600 dual sim
+    11:58
+  * Samsung I8530 Galaxy Beam
+    11:58
+  * Samsung I8262 Galaxy Core
+    11:52
+  * Samsung Galaxy Premier
+    11:30
+  * Asus Padfone 2
+    11:20
+  * HTC Droid DNA
+    11:07
+  * HTC Windows Phone 8X
+    11:07
+  * Samsung Wave 3 S8600
+    11:07
+  * Samsung I9105 Galaxy S II Plus
+    11:06
+  * HTC Desire X
+    11:03
+  * Samsung Galaxy S4 (Octa)
+    11:01
+  * HTC One X (AT&T, LTE)
+    10:35
+  * Samsung I9300 Galaxy S III
+    10:20
+  * Samsung I9300 Galaxy S III (JB)
+    10:15
+  * Samsung Galaxy Xcover 2
+    10:03
+  * HTC One V
+    10:00
+  * Meizu MX 4-core
+    10:00
+  * Samsung Galaxy Express
+    10:00
+  * HTC One X
+    9:57
+  * HTC One S
+    9:42
+  * Samsung I9103 Galaxy R
+    9:40
+  * HTC Sensation XL
+    9:30
+  * Nokia Lumia 810
+    9:05
+  * Nokia Lumia 710
+    9:05
+  * Acer CloudMobile S500
+    9:05
+  * Motorola Atrix HD
+    9:04
+  * HTC Vivid
+    9:02
+  * Nokia Lumia 920
+    8:56
+  * Nokia Lumia 610
+    8:51
+  * HTC Rhyme
+    8:48
+  * Apple iPhone 5
+    8:42
+  * LG Optimus 3D Max P720
+    8:42
+  * Sony Ericsson Xperia neo V
+    8:41
+  * Meizu MX
+    8:39
+  * Samsung Galaxy S II
+    8:35
+  * Samsung Galaxy S Duos
+    8:28
+  * Nokia Lumia 800
+    8:25
+  * Samsung Galaxy Nexus
+    8:23
+  * Nokia Lumia 510
+    8:22
+  * Samsung Galaxy Fame
+    8:21
+  * BlackBerry Z10
+    8:20
+  * HTC Desire V
+    8:20
+  * Samsung Captivate Glide
+    8:20
+  * Sony Xperia T
+    8:15
+  * HTC Rezound (LTE)
+    8:10
+  * Samsung Galaxy Note (LTE)
+    8:02
+  * LG Optimus Vu
+    7:57
+  * Gigabyte GSmart Maya M1 v2
+    7:42
+  * LG Optimus 4X HD
+    7:41
+  * Apple iPhone 4S
+    7:41
+  * Samsung i937 Focus S
+    7:25
+  * HTC Evo 4G LTE (LTE)
+    7:21
+  * Samsung Galaxy S Blaze 4G
+    7:14
+  * Nokia Lumia 820
+    7:09
+  * Sony Xperia acro S
+    7:09
+  * Samsung Rugby Smart I847
+    7:09
+  * Sony Ericsson Xperia Pro
+    6:57
+  * Nokia N9
+    6:57
+  * HTC Radar
+    6:53
+  * Samsung Galaxy Ace Duos
+    6:53
+  * BlackBerry Curve 9380
+    6:52
+  * Sony Xperia E dual
+    6:42
+  * Samsung Galaxy S III mini
+    6:22
+  * Samsung Galaxy Pocket
+    5:54
+  * Nokia Lumia 900 for AT&T (LTE)
+    5:53
+  * Sony Xperia ion LTE
+    5:52
+  * Sony Xperia P
+    5:33
+  * Nokia 808 PureView
+    5:16
+  * LG Nitro HD (LTE)
+    5:16
+  * HTC Titan II (LTE)
+    5:10
+  * BlackBerry Bold 9790
+    5:00
+  * Pantech Burst
+    4:46
+
+The Xperia Z Ultra tumbled in the web browsing test, but the LG G2 stole the crown from the Xperia ZR by just a couple of minutes and placed first. The Samsung Galaxy S4 (Snapdragon 600 edition) with a 2,600mAh battery (and perhaps the fiercest rival of the G2), managed 4 hours less than the G2 on this test. Even the HTC One with a screen that’s half an inch smaller (and a 2,300mAh battery) is an hour and a half behind. A great score for the G2.
+
+
+Web browsing
+
+  * LG G2
+    11:22
+  * Sony Xperia ZR
+    11:20
+  * Samsung Galaxy S4 mini duos
+    10:10
+  * BlackBerry Q5
+    10:04
+  * HTC One
+    9:58
+  * Apple iPhone 5
+    9:56
+  * Samsung Galaxy S4 mini
+    9:47
+  * Motorola RAZR MAXX (ICS)
+    9:12
+  * Apple iPad mini
+    9:05
+  * ASUS Nexus 7 (2013)
+    9:03
+  * Samsung Galaxy S4 zoom
+    8:51
+  * Samsung Galaxy Note II N7100
+    8:48
+  * BlackBerry Q10
+    8:42
+  * Nokia Lumia 810
+    8:20
+  * Asus Padfone 2
+    8:20
+  * Moto X
+    8:17
+  * Huawei Ascend Mate
+    8:17
+  * Samsung Galaxy Mega 6.3
+    8:17
+  * HTC One mini
+    8:12
+  * Nokia Lumia 610
+    8:01
+  * HTC One X+
+    7:56
+  * Sony Xperia E dual
+    7:42
+  * Samsung Galaxy S III mini
+    7:38
+  * Nokia Lumia 720
+    7:37
+  * Samsung Galaxy S4 Active
+    7:35
+  * Samsung Galaxy S4 (S600)
+    7:24
+  * Huawei MediaPad 7 Vogue
+    7:23
+  * Motorola DROID RAZR MAXX
+    7:23
+  * HTC Radar
+    7:17
+  * Nokia Lumia 520
+    7:15
+  * Samsung Galaxy S4 GPE
+    7:13
+  * LG Optimus GJ
+    7:11
+  * Gigabyte GSmart Maya M1 v2
+    7:10
+  * Samsung Galaxy Grand Duos
+    7:09
+  * Samsung Galaxy Express
+    7:09
+  * Motorola RAZR i
+    7:06
+  * Samsung Galaxy S4 (Octa)
+    6:58
+  * Apple iPhone 4S
+    6:56
+  * Samsung I8262 Galaxy Core
+    6:54
+  * HTC One V
+    6:49
+  * LG Optimus G Pro
+    6:40
+  * Samsung I9105 Galaxy S II Plus
+    6:40
+  * Sony Xperia L
+    6:40
+  * HTC Droid DNA
+    6:40
+  * Samsung Galaxy Premier
+    6:40
+  * Motorola Atrix HD
+    6:40
+  * BlackBerry Curve 9380
+    6:40
+  * Sony Xperia Z
+    6:37
+  * Samsung Galaxy Xcover 2
+    6:35
+  * HTC Desire 600 dual sim
+    6:34
+  * Huawei Ascend P6
+    6:30
+  * BlackBerry Z10
+    6:27
+  * Samsung I9300 Galaxy S III (JB)
+    6:27
+  * HTC Butterfly
+    6:24
+  * Sony Xperia SP
+    6:18
+  * Samsung i937 Focus S
+    6:15
+  * Nokia Lumia 510
+    6:13
+  * Sony Xperia ZL
+    6:04
+  * HTC Windows Phone 8X
+    6:01
+  * Sony Xperia ion LTE
+    5:56
+  * Samsung Galaxy Fame
+    5:55
+  * Samsung Rugby Smart I847
+    5:53
+  * Pantech Burst
+    5:51
+  * Samsung Galaxy S Blaze 4G
+    5:45
+  * HTC Desire V
+    5:44
+  * HTC Evo 4G LTE
+    5:41
+  * Nokia Lumia 920
+    5:40
+  * Samsung Wave 3 S8600
+    5:34
+  * Oppo Find 5
+    5:33
+  * Sony Xperia T
+    5:33
+  * Samsung Captivate Glide
+    5:33
+  * Samsung I8530 Galaxy Beam
+    5:28
+  * Samsung Galaxy Note LTE
+    5:24
+  * Sony Xperia Z Ultra
+    5:23
+  * Samsung Galaxy S Duos
+    5:23
+  * HTC Sensation XL
+    5:20
+  * Meizu MX 4-core
+    5:19
+  * Samsung I9300 Galaxy S III
+    5:17
+  * Sony Xperia acro S
+    5:16
+  * HTC Rezound
+    5:16
+  * HTC Desire X
+    5:16
+  * LG Optimus G
+    5:15
+  * HTC Rhyme
+    5:08
+  * Samsung I9103 Galaxy R
+    5:07
+  * HTC One X (AT&T)
+    5:03
+  * Sony Ericsson Xperia Pro
+    4:50
+  * LG Optimus Vu
+    4:49
+  * HTC Vivid
+    4:46
+  * Samsung Galaxy Ace Duos
+    4:45
+  * Meizu MX
+    4:35
+  * Google Nexus 4
+    4:34
+  * Nokia N9
+    4:33
+  * Acer CloudMobile S500
+    4:32
+  * Nokia Lumia 820
+    4:24
+  * Samsung Galaxy S II
+    4:24
+  * Sony Ericsson Xperia neo V
+    4:20
+  * HTC One X
+    4:18
+  * Nokia 808 PureView
+    4:14
+  * LG Optimus 3D Max P720
+    4:10
+  * Nokia Lumia 900 for AT&T
+    4:10
+  * Nokia Lumia 800
+    4:07
+  * HTC Titan II (LTE)
+    4:05
+  * HTC One S
+    4:03
+  * BlackBerry Bold 9790
+    4:02
+  * LG Nitro HD
+    4:00
+  * LG Optimus 4X HD
+    3:59
+  * Sony Xperia P
+    3:59
+  * Nokia Lumia 710
+    3:51
+  * Nokia Lumia 620
+    3:50
+  * Samsung Galaxy Pocket
+    3:47
+  * Samsung Galaxy Note
+    3:35
+  * Huawei Ascend P1
+    3:23
+  * Samsung Galaxy Nexus
+    3:01
+
+After two spectacular results, the video playback tests didn’t feel as impressive – but it’s still a very good result at almost 12 hours. The Galaxy S4 edged out the LG G2 by 40 minutes here (but the Exynos 5 Octa version of the S4 is 20 minutes behind). Still, even half that time is more than you’re likely to ever spend watching movies on your phone.
+
+
+Video playback
+
+  * Motorola RAZR MAXX (ICS)
+    16:35
+  * Motorola DROID RAZR MAXX
+    14:17
+  * Samsung Galaxy S4 mini
+    13:12
+  * Samsung Galaxy S4 mini duos
+    12:52
+  * Apple iPad mini
+    12:51
+  * Samsung Galaxy Premier
+    12:51
+  * Samsung Galaxy S4 GPE
+    12:32
+  * Samsung Galaxy S4 (S600)
+    12:30
+  * BlackBerry Q5
+    12:28
+  * Huawei Ascend Mate
+    12:18
+  * LG G2
+    11:51
+  * Samsung Galaxy S4 (Octa)
+    11:29
+  * Samsung Galaxy Note II N7100
+    11:27
+  * BlackBerry Q10
+    11:15
+  * Apple iPhone 5
+    10:12
+  * HTC One
+    10:02
+  * Moto X
+    10:01
+  * Samsung Galaxy Express
+    10:00
+  * Samsung I9105 Galaxy S II Plus
+    10:00
+  * Nokia 808 PureView
+    9:53
+  * Samsung I8530 Galaxy Beam
+    9:42
+  * Samsung Rugby Smart I847
+    9:34
+  * Samsung Galaxy S4 zoom
+    9:30
+  * HTC One S
+    9:28
+  * Samsung I9300 Galaxy S III (JB)
+    9:27
+  * Apple iPhone 4S
+    9:24
+  * HTC Evo 4G LTE
+    9:07
+  * Sony Xperia Z Ultra
+    8:45
+  * BlackBerry Z10
+    8:44
+  * LG Optimus G Pro
+    8:40
+  * Nokia N9
+    8:40
+  * Samsung Galaxy Mega 6.3
+    8:34
+  * HTC Butterfly
+    8:28
+  * Samsung Galaxy Note
+    8:25
+  * LG Optimus GJ
+    8:15
+  * Samsung Galaxy Grand Duos
+    8:11
+  * HTC One X+
+    8:11
+  * Motorola RAZR i
+    8:11
+  * Samsung Galaxy S II
+    8:00
+  * Samsung i937 Focus S
+    7:55
+  * Samsung Wave 3 S8600
+    7:52
+  * Samsung Galaxy S III mini
+    7:46
+  * Sony Ericsson Xperia neo V
+    7:45
+  * Asus Padfone 2
+    7:38
+  * Huawei Ascend P1
+    7:38
+  * Samsung Galaxy S Blaze 4G
+    7:33
+  * Samsung I8262 Galaxy Core
+    7:30
+  * Sony Xperia ZR
+    7:30
+  * HTC Droid DNA
+    7:30
+  * Samsung Galaxy Note LTE
+    7:30
+  * Samsung Galaxy Xcover 2
+    7:30
+  * Sony Xperia SP
+    7:27
+  * HTC One mini
+    7:23
+  * Nokia Lumia 610
+    7:23
+  * LG Optimus G
+    7:16
+  * Samsung Galaxy S4 Active
+    7:03
+  * ASUS Nexus 7 (2013)
+    7:03
+  * Huawei Ascend P6
+    6:55
+  * HTC Desire 600 dual sim
+    6:49
+  * Nokia Lumia 720
+    6:43
+  * Huawei MediaPad 7 Vogue
+    6:40
+  * Meizu MX 4-core
+    6:33
+  * Nokia Lumia 620
+    6:32
+  * HTC Windows Phone 8X
+    6:27
+  * Sony Xperia E dual
+    6:27
+  * Nokia Lumia 810
+    6:27
+  * HTC Desire V
+    6:26
+  * HTC One X (AT&T)
+    6:26
+  * Nokia Lumia 820
+    6:25
+  * Samsung Galaxy Ace Duos
+    6:25
+  * Gigabyte GSmart Maya M1 v2
+    6:24
+  * Nokia Lumia 510
+    6:23
+  * LG Optimus Vu
+    6:23
+  * Samsung I9103 Galaxy R
+    6:21
+  * Nokia Lumia 920
+    6:19
+  * HTC Sensation XL
+    6:12
+  * Samsung Galaxy Pocket
+    6:06
+  * Samsung Captivate Glide
+    6:04
+  * Sony Xperia ion LTE
+    6:03
+  * Samsung Galaxy Nexus
+    6:02
+  * Sony Xperia T
+    6:01
+  * Motorola Atrix HD
+    6:01
+  * HTC Vivid
+    6:00
+  * HTC Radar
+    5:54
+  * Nokia Lumia 800
+    5:52
+  * Nokia Lumia 520
+    5:50
+  * HTC Titan II
+    5:50
+  * BlackBerry Bold 9790
+    5:47
+  * HTC One X
+    5:45
+  * Sony Ericsson Xperia Pro
+    5:44
+  * Sony Xperia Z
+    5:39
+  * Sony Xperia acro S
+    5:38
+  * HTC Desire X
+    5:38
+  * Pantech Burst
+    5:38
+  * Sony Xperia ZL
+    5:28
+  * Meizu MX
+    5:27
+  * HTC Rhyme
+    5:23
+  * HTC One V
+    5:20
+  * Acer CloudMobile S500
+    5:18
+  * Oppo Find 5
+    5:18
+  * Nokia Lumia 900 for AT&T
+    5:18
+  * BlackBerry Curve 9380
+    5:09
+  * HTC Rezound
+    5:03
+  * Samsung Galaxy Fame
+    5:02
+  * Google Nexus 4
+    4:55
+  * Sony Xperia L
+    4:44
+  * Samsung Galaxy S Duos
+    4:30
+  * Sony Xperia P
+    4:30
+  * LG Nitro HD
+    4:17
+  * LG Optimus 4X HD
+    4:14
+  * LG Optimus 3D Max P720
+    3:28
+  * Nokia Lumia 710
+    3:27
+
+And if you do spend 6 hours of watching movies – or talking or browsing the web – the LG G2 will have plenty of juice to get you through the rest of the day and even the next. The endurance rating is a very good 62 hours – the standby battery draw was a little higher than we would have expected, but it’s still a great result.
+
+
+We have to hand it to LG, the G2 is a winner – it’s relatively small and thin (about the same size as the Galaxy S4 or HTC One), but packs a larger 5.2″ screen and a maassive 3,000mAh battery, which combined with the power efficient screen and chipset make for a great battery life. Having seeing these scores, we no longer mind as much that the battery is sealed and not replaceable.
+
+
+Comments
+
+Rules for posting
+
+Featured
+
+  * Your verdict on Android M, iOS 9 and Watch OS 2.0
+  * Benchmarking Asus ZenFone 2 ZE551ML with Intel Atom Z3580 SoC and 4GB of RAM
+  * Oppo R1x battery life test
+  * HTC One E9+ performance benchmarks
+  * Xiaomi Mi 4i battery life test
+
+Categories
+
+  * Mobile phones
+  * Mobile software
+  * Mobile computers
+  * Rumors
+  * Fun stuff
+  * Various
+  * Android
+  * Desktop software
+  * Featured
+  * Misc gadgets
+  * Gaming
+  * Digital cameras
+  * Tablets
+  * iOS
+  * Desktop computers
+  * Windows Phone
+  * GSMArena
+    com
+  * Online Services
+  * Mobile Services
+  * Smart Watches
+  * Battery tests
+  * BlackBerry
+  * Social Networks
+  * Web Browsers
+  * Portable Players
+  * Network Operators
+  * CDMA
+  * Windows
+  * Headphones
+  * Hands-on
+
+GSMArena weekly poll
+
+
+Our readers recommend
+
+
+
+Home News Reviews Blog Compare Coverage Glossary FAQ Links RSS feed Facebook Twitter
+
+
+© 2000-2015 GSMArena.com Mobile version Contact us Advertising Privacy Terms of Use

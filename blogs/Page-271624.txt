@@ -1,0 +1,254 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+ASUS Zenfone Max Pro M2 Review
+
+
+
+ASUS launched the Zenfone Max Pro M2, a mid-range smartphone and the successor of Max Pro M1 in India earlier this month. It has notch design, has improved dual rear cameras, is powered by Snapdragon 660 SoC with support and retains the same 5000mAh battery as the predecessor. On-paper specifications look good for the starting price of Rs. 12,999, but how good is the phone? Let us dive into the review to find out.
+
+
+Unboxing
+
+
+We recently unboxed the smartphone, check out the video below.
+
+
+Box Contents
+
+
+  * ASUS Zenfone Max Pro M2 smartphone in Blue color
+
+  * 2-pin charger (5V-2A)
+  * Micro USB cable
+  * Clear Protective case
+  * SIM Ejector tool
+  * User manual and warranty information
+
+Display, Design, and Hardware
+
+
+Unlike the 5.99-inch Full HD+ 18:9 aspect ratio display on the predecessor, the Zenfone Max Pro M2 features a larger 6.26-inch Full HD+ LCD 2.5D curved glass display with a resolution of 1080 x 2280 pixels, pixel density of 403 PPI, 19:9 aspect ratio with a notch and a screen-to-body ratio of about 82%. It is also the first smartphone in the price range to feature Corning Gorilla Glass 6 protection.
+
+
+The display is bright, offers good color reproduction, thanks to 94% NTSC color gamut, has good viewing angles and the sunlight legibility is good as well, but the screen automatically dims the display when displaying darker content and increases it when displaying brighter content that is a bit irritating when watching videos.
+
+
+The small notch houses the 13-megapixel front camera, LED flash, usual set of proximity and ambient light sensors as well as notification LED that glows in green and red colors. The earpiece is present on the edge of the bezel. It has gyroscope and magnetic sensor otherwise known as magnetometer for VR headsets.
+
+
+It has ambient display option that wakes up the screen, night light that filters the blue light so the screen has a yellowish tint and smart screen that extends the screen on time while you are looking at it and holding the device upright. There is also an option to adjust the screen color to warm or cool, but it doesn’t have option to choose different color modes. It doesn’t have an option to hide the notch manually in the apps, so it is annoying to see the notch in some apps. Issues with Instagram, YouTube and several apps have been fixed in the latest update.
+
+
+Even though the phone uses on-screen buttons, there is a small chin below the display.
+
+
+Coming to the button and port placements, the power button and the volume rockers are present on the right, dedicated Dual SIM and microSD slots, arranged in a single tray is present on the left, 3.5mm audio jack, primary microphone, micro USB port and the loudspeaker grill are present on the bottom, while the secondary microphone is present on the top.
+
+
+Even though the phone has a plastic back compared to metal back on the Max Pro M1, the 3D glass-like finish with wave design that reflects light when hit at different angles give it a premium look, if not the feel when holding the phone. Under the hood there is a huge 5000mAh battery, yet it weighs just 175 grams, about 5 grams lighter than the predecessor mainly to the plastic body.
+
+
+Camera
+
+
+Coming to the camera, the phone packs a 12-megapixel rear camera with LED Flash, Sony IMX486 sensor, PDAF, 1.25μm pixel size, f/1.8 aperture along with a secondary 5-megapixel camera to capture the depth information for portrait shots. It has a 13-megapixel front-facing camera with soft LED flash and f/2.0 aperture. The company at the launch event said that it will push an update to add AI scene detection.
+
+
+The camera UI has a slight improvement compared to the predecessor. It has shutter button on the right, option to switch to video camera, option to toggle between the camera, preview window and different scene modes (Mono, Sepia, Negative, Solarize, Poserize, Aqua, Emoss, Sketch and Neon). On the left you see settings menu, option to enable portrait mode, Beautify, flash toggle and option to choose different camera modes (Auto, Pro, HDR, Sports and Night). The front camera also has
+
+
+Coming to the image quality, the daylight shots are good, and macro shots are decent. HDR shots were pretty good with improved contrast and saturation. Dual camera portraits are decent, but not the best. Also, the portrait shots are not sharp and the edges are not detected perfectly. Low-light shots had noise but images were not that bad. Images with flash were good as well, and flash was not overpowering. The front camera is decent, but the images are dull most of the times since the exposure is very low.
+
+
+Check out the camera samples below (click the image to view full resolution sample).
+
+
+Dual Camera Portrait
+
+
+HDR OFF
+
+
+HDR ON
+
+
+HDR ON
+
+
+Front Camera Portrait
+
+
+The phone can record up to 4K videos at up to 30fps, but EIS is only available for 1080p videos. Video quality is good, and the audio is crisp since it has a secondary microphone. It doesn’t have slow-motion video recording. Check out the video samples below.
+
+
+Here is a comparison between the Zenfone Max Pro M2 and the Redmi Note 6 Pro, Honor 8X and Nokia 7.1
+
+
+Software, UI and Apps
+
+
+The phone runs on stock Android 8.1 (Oreo) with Android Security patch for November, 2018 update. At the launch the company promised that it will roll out Android 9.0 (Pie) update for the phone next month. It has ZenMotion gestures that lets you enable double-tap to turn off or wake up the screen. There is nothing to mention regarding the software in specific since it offers stock Android Oreo experience with auto fill, improvements by limiting tasks that run in the background when not in use, Picture-in-picture mode, additional Bluetooth audio codecs and more.
+
+
+It packs 4GB of RAM and 64GB of storage. Out of 4GB RAM, you get 3.7GB of usable RAM, out of which 2.4GB of RAM is free on boot with just the default apps running in the background. Out of 64GB of internal storage you get 53GB of usable storage. Apart from the usual set of utility apps and Google apps, the phone comes with Facebook, Instagram and Facebook Messenger apps that cannot be uninstalled.
+
+
+Fingerprint Sensor and Face Unlock
+
+
+The fingerprint sensor is present on the back. It is quick to unlock the phone most of the times as soon as you place your finger on the sensor and offers haptic feedback as well if detects a wrong fingerprint. It unlocks the phone even when the screen is off, so you don’t need to unlock the phone for the fingerprint recognition to work. You can add up to 5 fingerprints and you can also use your fingerprint to authorize Google Play purchases. It also has Face unlock which is quick to unlock the phone.
+
+
+Music Player and FM Radio
+
+
+Google Play Music is the default music player for playback, but it doesn’t support equalizer. It also has support for FM Radio. The 5-magnet speaker is present on the bottom which is pretty loud, same as the predecessor. It also has NXP Smart Amp. Audio through the headset it good as well.
+
+
+Connectivity, Calling and Messaging
+
+
+It supports 4G VoLTE as well as support Dual 4G VoLTE that offers 4G in both the SIM cards at a time. Other connectivity options include Wi-Fi 802.11 b/g/n, Bluetooth 5 LE and GPS. It also has USB OTG support that lets you connect USB drives. Moving on, the call quality is good, and we did not face any call drops and earpiece volume was loud as well.
+
+
+Performance and Benchmarks
+
+
+The phone is powered by Octa Core Snapdragon 660 14nm Mobile Platform (Quad 2.2GHz Kryo 260 + Quad 1.8GHz Kryo 260 CPUs) with Adreno 512 GPU under the hood. On a day to day usage, the performance was smooth and commendable, since we didn’t find any lag or hang. The SoC is powerful enough to play some graphics demanding games including PUBG, Asphalt, and others. We did not face any heating issues. Check out the synthetic benchmark scores below.
+
+
+Battery life
+
+
+It is powered by 5000mAh (typical) battery under the hood, same as the predecessor. It can last for 1.5 days even with heavy use, and it should last more than 2 days with casual use. Sadly, the phone doesn’t have fast charging and uses micro USB, same as the predecessor.
+
+
+In our One Charge rating, the Zenfone Max Pro M2 scored 18 hours 51 minutes, which is better than 18 hours and 6 minutes in the predecessor. Since doesn’t have support for fast charging it takes about 3 hours to charge the phone from 0 to 100% with the bundled 5V/2A charger, and 0 to 50% takes over 1 hour. We will bring you the complete set of battery life test results soon.
+
+
+Conclusion
+
+
+Overall, the ASUS Zenfone Max Pro M2 is a good upgrade to the Max Pro M1 when is comes to performance and camera at an additional cost of Rs. 2000 compared to the predecessor. Even though this doesn’t have the same metal build, the design looks attractive. However, it misses out on the USB Type-C port and fast charging once again. If you are looking for a smartphone with good battery life and performance in the price range, the Zenfone Max Pro M2 at a starting price of Rs. 12999 is definitely a good choice. The phone is available exclusively from Flipkart.
+
+
+Pros
+
+  * Brilliant battery life
+  * Good performance
+  * Decent rear cameras
+  * Dual 4G VoLTE, Dedicated dual SIM and microSD card slots
+
+Cons
+
+  * Micro USB port and No fast charging
+  * Average front camera
+
+Photography by Siraj
+
+
+
+Author: Srivatsan Sridhar
+
+
+Srivatsan Sridhar is a Mobile Technology Enthusiast who is passionate about Mobile phones and Mobile apps. He uses the phones he reviews as his main phone. You can follow him on Twitter, Instagram and on Google+ View all posts by Srivatsan Sridhar
+
+Author Srivatsan SridharPosted on December 28, 2018Categories Asus, Reviews
+
+Post navigation
+
+Previous Previous post: Disney Classics, Pixar animation, movies from Marvel and Star Wars now available on JioCinema
+Next Next post: Instagram accidentally rolled out horizontal feed widely and reverts back; company says it was a bug
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * Here’s how you can install OxygenOS 9.0 on Poco F1
+  * Coolpad Cool 3 with Dewdrop notch display, dual rear cameras launching in India on Feb 5 for under Rs. 6000
+  * Samsung Galaxy S9+ gets Rs. 7000 price cut in India, now starts at Rs. 57900
+  * OPPO patents Find Z, could feature 10X optical zoom, in-display fingerprint sensor
+  * Xiaomi Mi 9 with triple rear cameras spotted in the wild as the company confirms Snapdragon 855-powered flagship
+  * Xiaomi teases launch of Mi Shoes in India soon
+  * NTT DOCOMO introduces first 360-degree 8K 3D VR system for live video streaming and viewing at 60fps
+  * Intex Wireless M-100, M110, M250, M200, M210 mice launched starting at Rs. 360
+  * Xbox Live SDK for Android, iOS, Nintendo Switch and Windows PC cross-platform gaming to be announced at GDC 2019
+  * How to switch between multiple eSIMs on iPhone XS and XS Max with iOS 12.1
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

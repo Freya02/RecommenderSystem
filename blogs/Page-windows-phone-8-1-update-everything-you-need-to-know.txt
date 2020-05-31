@@ -1,0 +1,257 @@
+Skip to Content Skip to Footer
+This site uses cookies for analytics, personalized content and ads. By continuing to browse this site, you agree to this use. Learn more
+Microsoft
+Windows Blogs
+Windows Blogs
+Windows Blogs
+  * Home
+  * Windows 10
+  * Devices
+  * Windows Developer
+  * Microsoft Edge
+  * Microsoft 365
+  * More
+  * All Microsoft
+          o Office
+          o Windows
+          o Surface
+          o Xbox
+          o Deals
+          o Support
+      + Software
+          o Windows apps
+          o OneDrive
+          o Outlook
+          o Skype
+          o OneNote
+      + PCs & Devices
+          o PCs & tablets
+          o Accessories
+      + Entertainment
+          o Xbox games
+          o PC games
+          o Windows digital games
+          o Movies & TV
+          o Books
+      + Business
+          o Microsoft Azure
+          o Microsoft Dynamics 365
+          o Microsoft 365
+          o Enterprise
+          o Data platform
+          o Microsoft Advertising
+      + Developer & IT
+          o .NET
+          o Visual Studio
+          o Windows Server
+          o Windows Dev Center
+          o Docs
+      + Other
+          o Microsoft Store
+          o Microsoft Rewards
+          o Free downloads & security
+          o Education
+          o Store locations
+          o Gift cards
+      + View Sitemap
+Search
+Cancel
+  * Surface
+  * Microsoft HoloLens
+  * Mixed Reality
+  * Xbox
+April 2, 2014 7:05 pm
+Windows Phone 8.1 update: everything you need to know
+
+By Microsoft Devices Team
+Share Tweet Share Share Skype
+
+Today, at Build 2014, we had an initial glimpse of the new Windows Phone 8.1 OS. It looks stunning and it’s coming to all Lumia smartphones running Windows Phone 8.
+
+
+Starting this summer, any Lumia device currently running Windows Phone 8 will receive an over-the-air update, receiving these great new features:
+
+
+Action stations for Action Center
+
+
+If you’ve missed a phone call, been mentioned in a Tweet, or received an SMS, you’ll now find all of these things in one place – the new Action Center.
+
+
+Alongside your notifications, Action Center contains four quick settings (which are customisable) to enable you quicker access to switch on Flight Mode, and Wi-Fi, for example, even when your phone is locked.
+
+
+Word Flow brings faster typing
+
+
+Introducing the most intuitive smartphone keyboard yet, Word Flow.
+
+
+Instead of typing out each letter when you type, now glide your finger over the screen and let your Nokia Lumia accurately predict what you’re going to type.
+
+
+The more you use Word Flow, the more it learns from you, predicting your most frequent expressions. Word Flow supports 16 languages.
+
+
+Greater Start screen personalisation
+
+
+The Start screen has been refreshed to include an extra column of Live Tiles.
+
+
+Now, there’s much more room to pin your favourite apps, games, bookmarks and people, all within easy reach.
+
+
+Additionally, the Start screen background now has the ability to display pictures, rather than just black or white. These photos can also be seen through system tiles.
+
+
+Cortana says it all
+
+
+Your Nokia Lumia will become a personal, pro-active assistant; capable of answering many of those burning questions you ask yourself everyday.
+
+
+Cortana will be rolled out in stages starting in the US and later to other regions.
+
+
+Individual volume settings
+
+
+The various tasks you perform every day each require different volume settings. Rather than having one volume to control everything, you can now set levels independently; ringtones or music playback, for example.
+
+
+On top of these great features provided by Windows Phone 8.1 update, Nokia continues to innovate and enhance the experience you get on your Lumia. Here’s what else is being added as part of the remix.
+
+
+Enhanced Lumia imaging experience
+
+
+A renewed Camera Roll gives you faster access to your images, image-editing tools and sharing options, right from Nokia Camera.
+
+
+Your Smart Shots, Cinemagraphs, and Refocus photos now come alive directly in the Camera Roll.
+
+
+An enhanced Creative Studio is easily accessible from the Camera Roll, where you can make use of five new filters.
+
+
+Nokia Storyteller has also become a lot more social, thanks to the new video slideshow feature that can be shared via Facebook or Twitter.
+
+
+Right to the SensorCore
+
+
+While the Nokia Lumia 630 and Lumia 635 will be the first new Nokia phones with Windows Phone 8.1, it’ll also include some new internal hardware capable of taking advantage of the Nokia SensorCore SDK.
+
+
+Packed with sensors that will accurately read more of your day-to-day activities, you’ll be able to find out how many steps you take, how fast you run and where you mostly spend your time (if you didn’t already know). Not only this, but it uses a smidgeon of power doing so, thus preserving your battery.
+
+
+More details of SensorCore SDK.
+
+
+Special enhancements to Lumia 930, Lumia 1520 and Lumia Icon
+
+
+Finally, we have some great news. With Windows Phone 8.1, both the Lumia 1520 and Nokia Lumia Icon are capable of capturing better sound, thanks to Dolby Surround Sound support. A feature that can also be found on the new Lumia 930.
+
+
+Combining Dolby Surround Sound Capturing with Nokia Rich Recording, all of your videos will document exactly what you hear. Play it back and you’ll experience true surround sound in 5.1 Dolby Digital Plus format.
+
+
+The Nokia Lumia 1520, Lumia Icon and the new Lumia 930 will also be able to project content wirelessly to Miracast-enabled screens, TVs, and projectors.
+
+
+All of this will come to your Lumia smartphone running on Windows Phone 8 in an update package called Lumia Cyan-starting this summer.
+
+
+Updated September 30, 2015 11:17 pm
+
+
+Tags Featured nokia lumia 630 Nokia Lumia 635 nokia lumia 930 Windows Phone 8.1
+
+Share Tweet Share Share Skype
+
+Related Posts
+
+
+Surface Go with LTE Advanced available now
+
+Read more
+Surface Pro 6 and Surface Laptop 2 available today
+
+Read more
+Meet Surface Pro 6, Surface Laptop 2, Surface Studio 2 and Surface Headphones
+
+Read more
+
+What's new
+
+  * NEW Surface Pro 6
+  * NEW Surface Laptop 2
+  * NEW Surface Go
+  * Xbox One X
+  * Xbox One S
+  * VR & mixed reality
+  * Windows 10 apps
+  * Office apps
+
+Store & Support
+
+  * Account profile
+  * Download Center
+  * Sales & support
+  * Returns
+  * Order tracking
+  * Store locations
+  * Support
+  * Buy online, pick up in store
+
+Education
+
+  * Microsoft in education
+  * Office for students
+  * Office 365 for schools
+  * Deals for students & parents
+  * Microsoft Azure in education
+
+Enterprise
+
+  * Microsoft Azure
+  * Enterprise
+  * Data platform
+  * Find a solution provider
+  * Microsoft partner resources
+  * Microsoft AppSource
+  * Manufacturing & resources
+  * Financial services
+
+Developer
+
+  * Microsoft Visual Studio
+  * Windows Dev Center
+  * Developer Network
+  * TechNet
+  * Microsoft developer program
+  * Channel 9
+  * Office Dev Center
+  * Microsoft Garage
+
+Company
+
+  * Careers
+  * About Microsoft
+  * Company news
+  * Privacy at Microsoft
+  * Investors
+  * Diversity and inclusion
+  * Accessibility
+  * Security
+  * Sitemap
+  * Contact Microsoft
+  * Privacy & cookies
+  * Terms of use
+  * Trademarks
+  * Safety & eco
+  * About our ads
+  * © Microsoft 2019

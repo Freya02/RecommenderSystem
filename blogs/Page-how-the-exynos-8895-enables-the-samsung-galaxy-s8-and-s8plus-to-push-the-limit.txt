@@ -1,0 +1,143 @@
+Skip to content
+Samsung Exynos Samsung Semiconductor Chinese Site
+Samsung
+  * PRODUCTS
+  * technology
+  * applications
+  * SHOWCASE
+  * NEWSROOM
+  * ABOUT US
+  * SEMICONDUCTOR
+  * CHINESE SITE
+Back to top
+
+BLOG
+
+
+How the Exynos 8895 enables the Samsung Galaxy S8 and S8+ to push the limit
+
+
+April 6, 2017
+
+
+It’s finally here. Samsung Electronics unveiled its latest and the most innovative flagship device to date, the Galaxy S8 and S8+ at Unpacked 2017. The Galaxy S8 and S8+ push the boundaries of the traditional smartphones with its seamless hardware design and by offering variety of services. For users to fully enjoy the benefits and the features, the Galaxy S8 and S8+ are powered by the industry’s first 10nm processor, the Exynos 9 Series (8895), that offers powerful performance and helps to elongate the battery life.
+
+
+So why is the technology industry calling the Exynos 9 Series a new standard for premium devices? Let’s look closely at how the Exynos 8895 makes the Galaxy S8 and S8+ the best performing devices currently available.
+
+
+10nm FinFET Process
+Do you know how small a nanometer is? It’s equal to a billionth of a meter. Way too small for human eyes to recognize. For example, a human hair is approximately 80,000 to 100,000 nanometers wide and a strand of human DNA is 2.5 nanometers in diameter. With that said, can you guess how small a 10nm used in the Exynos 8895 processor is?
+
+
+The 10nm, in 10nm FinFET process, basically means that the gate length, a path which electrons move within the transistor, is approximately 10nm. When compared to previous 14nm or 28nm process, electrons only need to travel shorter distance to get the job done. In addition, the FinFET 3D structure allows the electrons to move though not one but three surfaces on a transistor, allowing more electrons to cross at the same time. Simply put, if the surface is a road and a process size is the length needed to travel, more cars will arrive at the destination in much shorter time due to shorter driving distance and more number of lanes which the 10nm FinFET structure offer. So with more electrons move faster within the transistors, the Exynos 8895 built on the 10nm FinFET Process delivers improved performance with faster computing speed.
+
+
+Samsung Exynos Processor was the first in the mobile industry to adopt the FinFET Technology. The Exynos 7 Octa (7420) processorwas the industry’s first 14nm FinFET mobile processor which powered the Samsung Galaxy S6 series and Galaxy Note 5. The Galaxy S7’s Exynos 8 Octa (8890) processor was also built on the 14nm FinFET process.
+
+
+* From the 8 innovative features of Galaxy S8 and S8+
+
+The Exynos 8895 processor, built on the 10nm FinFET process technology, is one step ahead of the industry. The 10nm FinFET process offers 27% higher performance or 40% lower power consumption when compared to the 14nm FinFET process. This means the Exynos-powered Galaxy S8 and S8+ offers faster performance and better efficiency to support not only the new smartphone features but also the premium services like the Samsung DeX for a desktop experience, and the Samsung Connect for controlling smart home service.
+
+
+Custom CPU
+The CPU in the mobile processor is the key component for running performance intensive app or seamless multitasking experience. The Exynos 8895 at the heart of the Galaxy S8 and S8+ features an octa-core CPU which includes Samsung’s second generation custom designed CPU cores. This CPU core is an upgraded version of the one in the Exynos 8 Octa (8890) of the Galaxy S7 series. The 2nd generation custom CPU offers faster speed and better power efficiency through improved IP and architecture design.
+
+
+The Exynos 8895 features octa-core CPU that consists of four custom CPUs and four Cortex-A53 CPUs. This structure, with the SCI(Samsung Coherent Interconnect), enables the big.LITTLE HMP(Heterogeneous Multi-Processing) technology for perfect balance of performance and efficiency.
+
+
+In the big.LITTLE processing, the optimal number of custom CPUs and Cortex-A53 cores are used to deliver the right amount of processing power for given tasks thus minimizing the power consumption for longer battery life.
+
+
+GPU
+The Exynos 8895 in the Galaxy S8 and S8+ features the Mali-G71 MP20 GPU, the advanced and the latest graphic processing unit from ARM, which elevates the gaming experience to the new level.
+
+
+The GPU is designed based on the new generation of GPU architecture, Bifrost, to provide enhanced graphic capability with lower power consumption. For sharper and more realistic graphics, the GPU utilizes advanced graphic features such as MSAA, Mipmaps and Tessellation and supports the latest graphics APIs including the Vulkan. Furthermore, the advanced architecture design of the GPU combined with the advantages of 10nm FinFET process delivers enormous gains in performance and efficiency.
+
+
+With the latest GPU on board, 3D games will look truly amazing on an Infinity Display of the Exynos 8895-powered Galaxy S8 and S8+. With shortened latency and finely detailed graphics, the Exynos 8895’s graphic performance definitely shines when using Galaxy S8 and S8+ on Gear VR with highly immersive experience.
+
+
+Gigabit Modem
+For the best mobile experience, the Galaxy S8 and S8+ supports the fastest Gigabit LTE right out of the box. What makes this possible? the Exynos 8895 of course. The Exynos 8895 integrates a gigabit class LTE modem which supports LTE category 16 for downlink and category 13 for uplink for that incredibly fast 1Gbps download speeds and 150Mbps upload speeds. In addition, the modem is the first of its kind to support up to 5CA(Carrier Aggregation) for downlink resulting in fast yet stable mobile communication.
+
+
+MFC(Multi-Format Codec)
+With the stunning Infinity Display, the multimedia experiences on the Galaxy S8 and S8+ is more immersive and realistic than ever before. The powerful MFC in the Exynos 8895 allows users to not only play 4K contents but also record creative videos in 4K resolution using efficient video codec such as H.265(HEVC).
+
+
+ISP(Image Signal Processor)
+The Galaxy S8 and S8+ are equipped with an advanced 8MP f1.7 smart autofocus front camera and a 12MP f1.7 Dual Pixel rear camera for capturing amazing photographs even in best low-light. ISP(Image Signal Processor) of the Exynos 8895 processes the light information captured by the camera sensors and turns the RAW image information into a beautiful photo.
+
+
+With advanced algorithms for numerous image processing and camera control techniques such as color, exposure, auto focus, noise reduction and more, the Exynos 8895 turns the Galaxy S8 and S8+ into a professional grade camera that takes vivid and clear photos in any given circumstances. Notably, the Exynos 8895 features dual ISP with one ISP dedicated to high quality and the other dedicated to low power, for achieving both goals of image quality and power efficiency.
+
+
+Enhanced Security
+The Galaxy S8 and S8+ comes with highly secure Samsung Knox, a defense-grade security platform, and supports a wide selection of secure biometric authentication technologies including a fingerprint scanner, an iris scanner and a facial recognition. The Exynos 8895 has an enhanced security sub-system with a separate unit solely for security processing purposes allowing the Galaxy S8 and S8+ to protect user’s private information more securely.
+
+
+The Galaxy S8 and S8+ open up a galaxy of possibilities with numerous innovative features. By now you probably understand what makes the Galaxy S8 and Galaxy S8+ to go further and push the limit. The Exynos 9 Series (8895), the outcome of dauntless engineering efforts, enables the smartphone to offer the next level of mobile experience.
+
+
+For more information about the Exynos-powered Galaxy S8 and S8+, please visit official Galaxy website and the Exynos 8895 webpage. And head over to Exynos Facebook and Twitter for more news and stories.
+
+
+RELATED TAG
+
+
+Exynos 9 Series (8895) FinFET Process Custom CPU Advanced ISP Galaxy S8 Galaxy S8+
+
+LIST
+
+Back to top
+
+PRODUCTS PRODUCTS
+  * Mobile Processor
+  * Modem & RF
+  * IoT
+Technology Technology
+  * FinFET Process
+  * Custom CPU
+  * Advanced ISP
+Applications Applications
+  * Smartphone
+  * Smartwatch
+  * Automotive
+Showcase Showcase
+  * Latest Showcase
+  * Smartphone
+  * Tablet
+  * Smartwatch
+  * Others
+Newsroom Newsroom
+  * All News
+  * Press Release
+  * Blog
+ABOUT US ABOUT US
+  * President Message
+  * Company Information
+  * Partners
+MORE SITES MORE SITES
+
+  * Samsung.com
+
+
+  * Samsung Semiconductor
+
+FOLLOW US
+
+
+
+* Follow us
+
+CopyrightⒸ 2011-2018 SAMSUNG All Rights Reserved.
+
+
+Back to top
+
+
+PRIVACY LEGAL

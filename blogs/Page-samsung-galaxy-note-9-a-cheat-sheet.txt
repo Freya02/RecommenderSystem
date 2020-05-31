@@ -1,0 +1,502 @@
+Search
+GO
+  * Cloud
+  * Big Data
+  * AI
+  * IoT
+  * Cybersecurity
+  * More
+      + Digital Transformation
+      + CXO
+      + Smart Cities
+      + TechRepublic Academy
+      + Best VPN Services
+      + All Topics
+      + Sections:
+      + Photos
+      + Videos
+      + All Writers
+          o Newsletters
+          o Forums
+          o Resource Library
+          o Tech Pro Free Trial
+      + Editions: US
+          o United States
+          o Australia
+          o United Kingdom
+          o Japan
+      + Newsletters
+      + Forums
+      + Resource Library
+      + Tech Pro Free Trial
+  * Join TechRepublic
+      + Log In
+
+    My Profile
+
+      + Preferences
+      + Community
+      + Newsletters
+      + Log Out
+  * Search
+    GO
+          o Topics:
+          o Cloud
+          o Big Data
+          o AI
+          o IoT
+          o Cybersecurity
+          o Digital Transformation
+          o CXO
+          o Smart Cities
+          o TechRepublic Academy
+          o Best VPN Services
+          o All Topics
+      + Sections:
+      + Photos
+      + Videos
+      + All Writers
+          o Newsletters
+          o Forums
+          o Resource Library
+          o Tech Pro Free Trial
+      + Editions: US
+          o United States
+          o Australia
+          o United Kingdom
+          o Japan
+
+      + My Profile
+
+          o Preferences
+          o Community
+          o Newsletters
+          o Log Out
+
+Mobility
+
+
+Samsung Galaxy Note 9: A cheat sheet
+
+
+Samsung's new flagship phone, the Galaxy Note 9, targets business productivity users with more than a terabyte of memory, DeX functionality, and a revamped S Pen.
+
+
+By Teena Maddox | August 9, 2018, 8:32 AM PST
+
+      + Email
+      + Print
+      + Reddit
+      + Instagram
+
+Samsung wants you to use your smartphone for everything—at least, that's the mindset driving the creation of its newest flagship smartphone, the Samsung Galaxy Note 9.
+
+
+The Galaxy Note 9, which was announced on August 9, 2018 at Samsung Unpacked in Brooklyn, NY, is the first smartphone to include a Bluetooth-powered S Pen and the ability to use it in DeX mode with only a small dongle to connect it to a monitor.
+
+
+Curious about the Galaxy Note 9's features and specs and who Samsung expects to buy this smartphone? Read on.
+
+
+SEE: BYOD policy (Tech Pro Research)
+
+
+What is the Samsung Galaxy Note 9?
+
+
+The Galaxy Note 9 is the latest flagship phone from Samsung. It replaces the Galaxy Note 8, which was released in September 2017.
+
+
+Samsung's Galaxy Note 9 has a 6.4-inch display and comes with an S Pen stylus and productivity features to make it appealing to business users. The S Pen is now powered with Bluetooth to give it additional functionality as a remote device.
+
+
+The operating system is Android 8 Oreo.
+
+
+SEE: The Samsung Galaxy Note 9 is a bargain at $1250. Here's why (ZDNet)
+
+
+This Galaxy Note 9 comes with more than a terabyte of memory and storage options, a first for any smartphone. And the smartphone has a 4,000mAh battery, far larger than previous devices in the Galaxy Note lineup.
+
+
+The Galaxy Note 9 also has a top-of-the-line dual rear camera with features that will appeal to amateur photographers.
+
+
+It's a definite contender for business users and places one more device in between the disaster of the recalled Galaxy Note 7 with its batteries catching fire and a total cost to Samsung of $1 billion, according to Bloomberg.
+
+
+Additional resources
+
+  * Samsung releases Galaxy Note 9: World's first terabyte phone for business pros (TechRepublic)
+  * The specs: Galaxy Note 9 vs. S9 vs. iPhone X vs. Pixel 2 XL (TechRepublic)
+  * Samsung Note 9 needs to go more mainstream, leverage S Pen to win vs. Apple, Android rivals (ZDNet)
+
+Who is the target audience for the Galaxy Note 9?
+
+
+Samsung's Galaxy Note 9 and S Pen
+
+Image: Larry Dignan
+
+The Galaxy Note 9 is perfect for a mobile workforce.
+
+
+The smartphone is for customers who would "like to have one device that can do just about everything," said Eric McCarty, vice president of mobile product marketing at Samsung Electronics America.
+
+
+"We know that employees are spending more and more time away from their desk, and it's increased about 50 percent to the time that they're not at their desk," McCarty said. "And there's this growing number of employees who talk about things like using the same device for work and personal usage."
+
+
+Samsung's new flagship mobile device is also for anyone who wants a headphone jack, which is included on the Galaxy Note 9.
+
+
+Additional resources
+
+  * The 4 features of the Samsung Galaxy Note 9 that business users need most (TechRepublic)
+  * 10 reasons the Samsung Galaxy Note 8 is best for business (ZDNet)
+
+How is the Galaxy Note 9 different from the Galaxy Note 8?
+
+
+The first and most obvious difference between the Galaxy Note 9 and the Galaxy Note 8 is that the Note 9 is the first smartphone to top 1 terabyte of storage. Even the smallest amount of storage available has doubled to 128 GB. The Galaxy Note 9 is available in two sizes: 6 GB RAM with 128 GB of internal storage with up to 512 GB of external storage available through a MicroSD, or 8 GB RAM with 512 GB of internal storage with up to 512 GB of external storage available through a MicroSD.
+
+
+In addition, the S Pen on the Galaxy Note 8 does not have Bluetooth, while the Note 9's S Pen provides Bluetooth for remote capabilities.
+
+
+The Galaxy Note 9 allows the user to access DeX mode with just a dongle, as opposed to the docking station required with the Galaxy Note 8.
+
+
+Samsung Galaxy Note 9 accessing DeX mode with a dongle.
+
+Image: Larry Dignan
+
+The camera is also improved. The Galaxy Note 8 introduced a dual camera, and now the dual camera has an intelligent camera with scene optimizer.
+
+
+The battery on the Galaxy Note 9 is much larger—it's 4,000mAh compared to 3,300mAh on the Galaxy Note 8.
+
+
+The Galaxy Note 9 offers fast network speeds with enhanced 4X4 MIMO and Giga LTE support. And Samsung said the CPU has a 33% improved performance over the Galaxy Note 8, and the GPU has a 23% improved performance.
+
+
+Additional resources
+
+  * Samsung launches DeX dongle: Here's how it stacks up to the original (TechRepublic)
+  * Photos: Galaxy Note 9 shows every detail (CNET)
+  * Will the Samsung Note 9 suffer the same fate as the Galaxy S9? (CNET)
+
+What is DeX?
+
+
+DeX mode is an Android-based interface that allows the smartphone to be used with an external monitor for a PC-like experience. Using a dongle or a multi-port adapter makes it easy to connect to an external monitor with HDMI. Previously, a docking station was needed to use DeX with Samsung's smartphones, but now it only takes a dongle or a multi-port HDMI adapter.
+
+
+Additional resources
+
+  * How Samsung's DeX could transform workplace productivity (TechRepublic)
+  * Samsung DeX 101: Turn a Galaxy phone into your primary computer (ZDNet)
+
+DeX demo at Samsung Unpacked event for the Galaxy Note 9
+
+Image: Larry Dignan
+
+What is the S Pen, and why does it matter?
+
+
+The Galaxy Note 9 includes a completely updated S Pen stylus with Bluetooth. The S Pen has been the cornerstone of the Galaxy Note line of smartphones, and the new version is intended to add functionality for business users.
+
+
+This is the first time the S Pen has included a Bluetooth low-energy module and antenna and supercapacitor. The supercapacitor allows the user to place the S Pen into the holder on the Galaxy Note 9 for 40 seconds to give it a full charge; this provides enough power for 30 minutes of use or clicking the S Pen's button up to 200 times.
+
+
+The S Pen can serve as a remote control for PowerPoint presentations or slideshows, whether directly on the phone or with the Galaxy Note 9 running DeX and connected by a dongle or a multi-port adapter to an external monitor with HDMI. The dongle and the multi-port adapter will be sold separately as accessories.
+
+
+Samsung S Pen in lavender
+
+Image: Larry Dignan
+
+The S Pen functions can be customized by simply pressing and holding the button on the side of the stylus to load an application. The chosen default could be the phone's camera, and the user can present a slideshow by pressing the S Pen's button once each time they want to advance to the next image.
+
+
+The remote control option using the S Pen for the camera could come in handy in business settings where group photos are taken, Adam Kuhn, national product manager, Samsung Electronics America, said.
+
+
+The software development kit (SDK) will be released in September 2018 so developers can customize the experience with apps.
+
+
+SEE: Job description: Android developer (Tech Pro Research)
+
+
+The S Pen is still useable even without Bluetooth connectivity, such as when the phone is in airplane mode.
+
+
+Delivery companies can use the S Pen and Galaxy Note 9 for signature capture, and it has functionality for retailers processing orders, too.
+
+
+The S Pen also allows users to take notes on the fly through the Screen-Off Memo feature, as well as navigate, translate, and organize notes through Samsung Notes, and send personalized texts through Samsung Live Message, which was first introduced in the Samsung Galaxy Note 8.
+
+
+Samsung includes the S Pen with the Galaxy Note 9 at no additional charge.
+
+
+Additional resources
+
+  * How to use the updated S Pen with Bluetooth in Samsung's Galaxy Note 9 (TechRepublic)
+  * Samsung S Pen reflections: A differentiator in a saturated smartphone market (ZDNet)
+
+What features come with the Galaxy Note 9's camera?
+
+
+The camera on the Galaxy Note 9 is targeted for amateur photographers who want to improve the quality of their photos. There's a 12MP rear dual camera with optical image stabilization, and it includes sensors that identify 20 pre-defined commonplace scenes such as a photo of a flower, plant, pet, or person. The sensor optimizes the photo for that recognized scene.
+
+
+SEE: 4 secrets: How to take professional photos with your smartphone (TechRepublic)
+
+
+Flaw Detection alerts the user if an image has an eye blink, a blur, a lens smudge, or back light. The alert gives the user a chance to retake the photo before leaving the scene.
+
+
+There's also an 8MP front-facing camera, and a super slow-mo mode.
+
+
+Samsung Galaxy Note 9's camera
+
+Image: Larry Dignan
+
+What are the storage and memory capabilities of the Galaxy Note 9?
+
+
+Samsung's Galaxy Note 9 will be available in two sizes: 6 GB RAM with 128 GB of internal storage with up to 512 GB of external storage available through a MicroSD, or 8 GB RAM with 512 GB of internal storage with up to 512GB of external storage available through a MicroSD.
+
+
+This much memory is needed for functions such as DeX.
+
+
+SEE: All of TechRepublic's cheat sheets and smart person's guides
+
+
+What is the battery size of the Galaxy Note 9?
+
+
+The Galaxy Note 9's battery is aimed for all-day life, with 4,000mAh. This is a significant increase from the 3,300mAh available on the Galaxy Note 8.
+
+
+What security platform comes with the Galaxy Note 9?
+
+
+The Galaxy Note 9 uses Samsung Knox 3.2, which is Samsung's defense-grade mobile security platform. This is important because mobile devices are an ever-increasing security risk for organizations.
+
+
+SEE: Cybersecurity in an IoT and mobile world (ZDNet special report) | Download the report as a PDF (TechRepublic)
+
+
+"Millennials are this new category of workers where 70% admit to breaching IT policies, whether that's forwarding a corporate email to a Gmail account or doing something potentially on the device that might go against corporate policies," McCarty said.
+
+
+Additional resources
+
+  * How Samsung's Knox keeps business data private and secure (TechRepublic)
+  * Google Project Zero: How we cracked Samsung's DoD- and NSA-certified Knox (ZDNet)
+  * The risks of BYOD in the enterprise (PDF) (TechRepublic)
+
+What are the color options for the Galaxy Note 9?
+
+
+In the US, the Galaxy Note 9 will be available in two colors: Blue or lavender. The blue smartphone comes with a yellow S Pen, and the standard writing color is yellow. The lavender smartphone will come with a lavender S Pen, and the writing will be in lavender.
+
+
+Additional colors will be available in markets outside of the US.
+
+
+What accessories are available for the Galaxy Note 9?
+
+
+There's a new dual-charger pad that lets users charge two devices at once, such as a phone and a watch. The dongle and multi-port adapter are also available to purchase separately.
+
+
+Additional resources
+
+  * Photos: Samsung Galaxy Note 9 smartphone cases for professionals (TechRepublic)
+  * Samsung Galaxy Note 9 cases already on sale (CNET)
+
+What should gamers know about the Galaxy Note 9?
+
+
+Samsung hasn't overlooked gamers with the Galaxy Note 9. With stereo speakers and a 6.4-inch Infinity Display, Samsung is keeping this audience as an option with a water-carbon cooling system to allow the device to run cool throughout heavy gaming.
+
+
+And the game that seemingly every kid is playing has attracted the attention of Samsung. Samsung is offering a Fortnite promotion so that users can purchase a special, limited-time only skin in the Android app store. Perhaps it's enough to encourage you to do a Fortnite dance.
+
+
+Additional resources
+
+  * Fortnite for Android lands alongside Samsung's Note 9 in most anticipated app event of the year (Download.com)
+  * Fortnite on Android may still require a Samsung phone, at least at first (Download.com)
+  * How to play Fortnite Mobile and win: A Battle Royale guide for beginners (Download.com)
+  * How Fortnite approaches analytics, cloud to analyze petabytes of game data (ZDNet)
+
+Where and when can I buy the Galaxy Note 9?
+
+
+The Galaxy Note 9 will be available for pre-order on August 10, 2018, and it will arrive in stores on August 24, 2018. All US carriers will receive the device at the same time. An unlocked version will also be available.
+
+
+The 128 GB Galaxy Note 9 will retail for $999.99 USD. The 512 GB Galaxy Note 9 will sell for $1,249.99 USD.
+
+
+Additional resources
+
+  * Galaxy Note 9 starts at $1,000 with new Bluetooth S Pen, AI camera, giant battery, 128GB storage (CNET)
+  * These are the best Samsung Note 9 preorder deals (ZDNet)
+  * Samsung begins taking reservations for the Note 9, will arrive by August 24 (ZDNet)
+  * Samsung Galaxy Note 9 pricing in Australia (ZDNet)
+  * The best Samsung Galaxy Note 9 alternatives for under $600 (TechRepublic)
+  * Why iPhone and Android phone prices will get even higher (CNET)
+  * Hardware purchasing task list (Tech Pro Research)
+
+What are the specifications of the Galaxy Note 9?
+
+  * AP: Snapdragon 845: 10nm 64-bit Octa-core processor
+  * Display: 6.4-inch Quad HD+ Super AMOLED, 2960x1440 (516ppi)
+  * Network: Enhanced 4x4 MIMO/CA, LAA, LTE Cat. 18
+  * Camera:
+    Rear:
+    * Dual camera with Dual OIS (Optical Image Stabilization)
+    * Wide-angle: Super speed dual pixel 12MP, AF, F1.5/F2.4, OIS
+    * Telephoto: 12MP AF, F2.4, OIS 2X optical zoom, up to 10x digital zoom
+    Front: 8MP AF, F1.7
+  * Memory:
+    6 GB RAM, 128 GB + MicroSD slot (up to 512 GB)
+    8 GB RAM, 512 GB + MicroSD slot (up to 512 GB)
+  * Battery: 4,000mAh
+  * Dimension and weight: 161.9 x 76.4 x 8.8 mm, 201g, IP68
+  * OS: Android 8 Oreo
+  * Wi-Fi: 802.11 a/b/g/n/ac, VHT80 MU-MIMO, 1024QAM
+  * Connectivity: Bluetooth v 5.0 (LE up to 2Mbps), ANT+, USB Type-C, NFC, Location (GPS, Galileo, Glonass, BeiDou)
+
+Mobile Enterprise Newsletter
+
+
+BYOD, wearables, IoT, mobile security, remote support, and the latest phones, tablets, and apps IT pros need to know about are some of the topics we'll address. Delivered Tuesdays and Fridays
+
+Sign up today
+
+
+Samsung Galaxy Note 9
+
+Image: Sarah Tew/CNET
+
+Related Topics:
+
+Mobility Samsung Security Hardware Software Apple Android
+      + Email
+      + Print
+      + Reddit
+      + Instagram
+
+About Teena Maddox
+
+
+Teena Maddox is a Senior Writer at TechRepublic, covering hardware devices, IoT, smart cities and wearables. She ties together the style and substance of tech. Teena has spent 20-plus years writing business and features for publications including Peo...
+
+  * Full Bio
+  * Contact
+  * See all of Teena's content
+  * teena_maddox
+×
+Full Bio
+
+
+Teena Maddox is a Senior Writer at TechRepublic, covering hardware devices, IoT, smart cities and wearables. She ties together the style and substance of tech. Teena has spent 20-plus years writing business and features for publications including People, W and Women's Wear Daily.
+
+LOG IN TO COMMENT
+  * My Profile
+  * Log Out
+| Commenting FAQs | Community Guidelines
+
+Join Discussion
+
+Add your Comment
+Add your Comment
+
+Editor's Picks
+
+
+Inside the Raspberry Pi: The story of the $35 computer that changed the world
+
+
+How self-driving tractors, AI, and precision agriculture will save us from the impending food crisis
+
+
+Smart farming: How IoT, robotics, and AI are tackling one of the biggest problems of the century
+
+
+Agriculture 4.0: How digital farming is revolutionizing the future of food
+
+
+Free Newsletters, In your Inbox
+
+
+  * Tech News You Can Use
+
+
+    We deliver the top business tech news stories about the companies, the people, and the products revolutionizing the planet.
+
+
+    Delivered Daily
+
+    Subscribe
+
+  * Best of the Week
+
+
+    Our editors highlight the TechRepublic articles, galleries, and videos that you absolutely cannot miss to stay current on the latest IT news, innovations, and tips.
+
+
+    Delivered Fridays
+
+    Subscribe
+
+Latest From Tech Pro Research
+
+
+Feature comparison: CRM software and services
+
+
+Resource and data recovery policy
+
+
+Cost comparison calculator: G Suite vs. Office 365
+
+
+Accomplishment tracker
+
+
+Services
+
+  * About Us
+  * Manage Profile
+  * Membership
+  * Newsletters
+  * RSS Feeds
+  * Site Map
+  * Site Help & Feedback
+  * FAQ
+  * Advertise
+  * Reprint Policy
+
+Explore
+
+  * Blogs
+  * Downloads
+  * TechRepublic Forums
+  * Meet the Team
+  * TechRepublic Academy
+  * Tech Pro Research
+  * Resource Library
+  * Photos
+  * Videos
+© 2019 CBS Interactive. All rights reserved. Privacy Policy | Cookies | Ad Choice | Terms of Use | Mobile User Agreement
+A ZDNet site | Visit other CBS Interactive sites: Select SiteCBS CaresCBS FilmsCBS RadioCBS.comCBS InteractiveCBSNews.comCBSSports.comChowhoundClickerCNETCollege NetworkGameSpotLast.fmMaxPrepsMetacritic.comMoneywatchmySimonRadio.comSearch.comShopper.comShowtimeTech Pro ResearchTechRepublicThe InsiderTV.comUrbanBaby.comZDNet

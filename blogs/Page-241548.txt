@@ -1,0 +1,209 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+OPPO A83 Review
+
+
+
+OPPO has built a large following for itself using a combination of extensive offline marketing, television ads and most importantly, devices that seemingly cater to exactly what the consumers want. Through focussed marketing and a slew of products, the company has been trying to take on Xiaomi and others, head on. The A83 competes with the likes of the Moto G5S and the Xiaomi Mi A1. With OPPO’s big offline play, it is bound to get a lot of eyeballs from customers, but is it worth your consideration? Let’s find out.
+
+
+OPPO A83 specifications
+
+  * 5.7-inch (1440 × 720 pixels) 18:9 HD+ full-screen 2.5D curved glass display
+  * 2.5GHz Octa-Core MediaTek Helio P23 16nm processor with 800MHz ARM Mali G71 MP2 GPU
+  * 3GB RAM, 32GB internal storage, expandable memory up to 128GB with microSD
+  * Android 7.1 (Nougat) with ColorOS 3.2
+  * Dual SIM
+  * 13MP rear camera with LED flash, f/2.2 aperture
+  * 8MP front-facing camera, f/2.2 aperture
+  * Dimensions:150.5 × 73.1 × 7.7mm; Weight: 143g
+  * 3.5mm audio jack, FM Radio
+  * 4G VoLTE, Wi-Fi 802.11 a/b/g/n (2.4GHz + 5GHz), Bluetooth 4.2, GPS + GLONASS
+  * 3180mAh (typical) / 3090mAh (minimum) battery
+
+Design
+
+
+Minimalism is the key design element here. The front is absolutely clean and bereft of physical controls. The bezels are tiny though not entirely absent. At this price point though, these are some of the slimmest bezels you’re going to find and simply put, the design brings the attention on content instead of the hardware.
+
+
+18:9 has hit the mainstream and even mid-range phones like the OPPO A83 come equipped with minimal bezels and ultra wide displays. The 18:9 panel has allowed OPPO to install a larger 5.7-inch display into the footprint of a much smaller screen. The entire phone for that matter has a small footprint that fits comfortably in your hand and feels fantastic at it.
+
+
+The right side of the phone has a slot for dual SIM cards as well as a microSD card slot. Below it is the power key. The left-hand side has a volume rocker. The buttons are one of the few hardware points where OPPO could’ve done better. There’s significant wobble to the keys and we’re concerned about how they’ll age over years of use. Additionally, the phone retains a micro USB port at the bottom which is positively antiquated by now. We expect all new phones to ship with USB Type C and it is disappointing to see the old connecting standard here. Thankfully, OPPO hasn’t got rid of the 3.5mm audio jack.
+
+
+Over at the back, the OPPO A83 exudes a premium look. Despite being made of plastic, the phone looks and feels great. At the top left corner is 13MP camera that sits proud of the body. The sides of the phone gently curve over to the front and end in a ridged edge. This makes the phone sit comfortably in the palm while making it easy to get a grip with your fingers.
+
+
+Software
+
+
+The OPPO A83 runs ColorOS v 3.2 on Android 7.1.1. The interface takes more than a little inspiration from iOS and has done so for years. ColorOS is a pretty good approximation of how iOS deals with the interface and is a big break from stock behavior.
+
+
+First things first, there is no fingerprint scanner on the hardware here. OPPO has implemented a form of face unlock that employs the front camera. This works fairly well in good light and is predictably hit or miss in low light. You’ll also need to be looking straight on at the camera. When it works, it is pretty seamless and drops you straight into the home screen. When it doesn’t, well you’re back to using the plain old passcode. The interface has no app drawer and all the icons are laid out in a grid-like pattern.
+
+
+OPPO has gone ahead and changed the notification hub as well which is really unfortunate. Toggles have been torn out from the pull-down hub and are now placed in a hub that is pulled up by swiping from the bottom. Swiping down from the top just shows you the notifications. Of course, there are third-party apps like UC News, Amazon and Facebook preloaded on the phone. There are apps for weather and a boost mode that claims to improve performance by clearing out the RAM. All in all, if you’ve used Color OS before, there’s not too much new here. The interface is functional and gets the job done.
+
+
+Performance
+
+
+The OPPO A83 is powered by a 2.5Ghz Octa Core MediaTek Helio P23 chipset. This is paired with a Mali G71 GPU and 3GB of RAM. The performance of the phone is about on par with the Snapdragon 625 toting competition. Day to day usability is smooth. On occasion, there’s a slight hint of latency that we feel might also be because of the overzealous use of animations throughout the interface. Generally, the phone performs well and we were able to run almost everything we threw at it. We’re at a point where even mid-range specifications are sufficient for most people. The biggest differences are mostly around the speed at which apps and games start up and there too, the difference is usually a second or two at worst. We’ve included some benchmarks below to give you an idea of comparative performance.
+
+
+The OPPO A83 scores 66729 points in the AnTuTu Benchmark which places it near the top of the test bench.
+
+
+In the Basemark OS II benchmark, the phone doesn’t do quite as well and scores 1373 points.
+
+
+In the graphics-centric GFXBench benchmark, the phone scores 2007 points and ranks at the top of our test bench.
+
+
+Display
+
+
+The OPPO A83 has a 5.7 inch Full HD+ display. This gives the screen a resolution of 1440 x 720 pixels. With an 18:9 aspect ratio, this is just a little lesser screen area than a regular 5.5-inch display. The 18:9 aspect ratio makes the screen taller and the phone slimmer to hold. OPPO has also obviously managed to reduce bezels all around. There is still a forehead and chin on the hardware but we’ll take that over a notch.
+
+
+The screen itself isn’t quite the highest resolution around. At 5.7 inches, the screen looks just very slightly soft. Color reproduction is acceptable but not quite the best. Even the brightness levels leave a bit to be desired. What we didn’t like was the level of color shift. Any more than a 45-degree angle and you’ll observe a very obvious purple tinge. As high-quality panels become more and more prevalent, it is hard to excuse a panel that exhibits such obvious color shift.
+
+
+Camera
+
+
+A good camera is a pre-requisite for any mid-range smartphone. The OPPO A83 delivers and while it might not be the absolute best in its category, it does a good enough job to capture your day-to-day moments.
+
+
+The 13MP unit at the rear of the phone is paired with a single LED flash. The phone manages to take reliably decent shots with accurate white balance. Autofocus is fast enough in good light but can be hit or miss in low light. For that matter, image quality itself goes south once the light starts dipping. Then again, this is the case for most mid-range phones.
+
+
+The phone finds it hard to handle bright highlights and tends to wash out the image if the sun is behind the subject by trying to compensate for it. HDR mode isn’t particularly effective here. On the other hand, the A83 can easily focus even on very close up objects. The front camera here is an 8MP unit and as you can see in the photo sample above, it takes very good selfies.
+
+
+Connectivity & Battery Life
+
+
+The OPPO A83 has the full suite of connectivity options you’d expect from a mid range smartphone. The phone supports 4G VoLTE connectivity. There are dual SIM card slots but you can have 4G only on one at a time. There’s Wi-Fi 802.11 a/b/g/n (2.4GHz + 5GHz), Bluetooth 4.2 and GPS + GLONASS onboard. The phone also supports FM Radio but you’ll have to plug-in your 3.5mm headset.
+
+
+The battery on the phone is a 3180 mAh unit which proved to be just about sufficient for a full day of use. We’d have liked a larger battery here which would let us push the phone for a night of use without having to hunt for a charger. The majority of the competition like the Mi A1 and the Moto G5S Plus all have similarly sized batteries so it’s not really a loss here.
+
+
+Conclusion
+
+
+The OPPO A83 is a well-balanced smartphone that offers a good enough balance between price and performance. OPPO has focused on some gimmicks like Face Unlock but it works well enough. We quite dislike the fact that the company has gotten rid of the fingerprint reader since users should have the option to select their preferred security method.
+
+
+Priced at Rs. 13,990, the OPPO A83 is an interesting and stylish competitor to the Mi A1 and the Moto G5s Plus. Definitely worth a second glance before investing in a smartphone in the sub Rs. 15,000 category. It is available from Flipkart and Amazon.in online as well as offline stores.
+
+
+
+Author: Dhruv Bhutani
+
+
+Your friendly neighborhood techie. Currently using a Pixel 2 XL. Catch him on Twitter (@DhruvBhutani) / Facebook . View all posts by Dhruv Bhutani
+
+Author Dhruv BhutaniPosted on January 30, 2018January 30, 2018Categories Oppo, Reviews
+
+Post navigation
+
+Previous Previous post: LG G6 Moroccan Blue, Lavender Violet, Raspberry Rose and LG Q6 Moroccan Blue, Lavender Violet color variants announced
+Next Next post: OnePlus launches OnePlus 5T Buyback program in India
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * Honor View 20 Camera Samples
+  * Nokia 5.1 Plus 4GB and 6GB RAM variants with 64GB storage launched in India
+  * ASUS OMG Days Sale from Feb 6 to 9 on Flipkart – ZenFone 5Z at Rs. 21999, Rs. 1000 off on ZenFone Max Pro M2 and more
+  * Coolpad Cool 3 with 5.71-inch HD+ dewdrop notch display, dual rear cameras, Android Pie launched in India for Rs. 5999
+  * Picooc Mini smart weighing scale launched for Rs. 2999
+  * Skullcandy SET sweat-proof in-ear sport earbuds launched in India for Rs. 2999
+  * Acer Chromebase 24I2 and Chromebase for Meetings 24V2 with 8th Gen Intel Core processor announced
+  * Instagram said to be working on ‘Main Account’ feature to manage multiple logins easier
+  * Google Live Transcribe and Sound Amplifier apps released to help hearing-impaired users communicate
+  * Google expands Instant Tethering to more Chromebooks and smartphones
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

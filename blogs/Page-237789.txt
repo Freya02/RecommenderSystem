@@ -1,0 +1,279 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+Xiaomi Redmi 5A Review
+
+
+
+In an attempt to disrupt the entry-level smartphone market Xiaomi launched the Redmi 5A smartphone last month at an aggressive price tag of Rs. 4999. The smartphone’s specifications are almost similar to the Redmi 4A that was launched earlier this year, but this gets a dedicated dual SIM slot and also comes with a higher end 3GB RAM with 32GB storage version. How Let us find out in the review.
+
+
+Unboxing
+
+
+We recently unboxed the Redmi 5A, check out the video below.
+
+
+Box Contents
+
+
+  * Xiaomi Redmi 5A in Gold color
+
+  * 2-pin charger (5V-1A)
+  * Micro USB Cable
+  * SIM ejector tool
+  * Quick start guide and warranty information
+
+Display, Hardware and Design
+
+
+The Redmi 4A has a 5-inch HD display with a resolution of 1280 by 720 pixels and a pixel density of about 296 PPI. It has 1000:1 contrast ratio a 72% (typical) / 68% (minimum) color gamut, same as the Redmi 4A. The display is bright, colors are vibrant and the sunlight legibility is good as well. The display is good for the price. The company doesn’t say if it has any type of scratch-resistant glass for protection.
+
+
+There is a black border around the display, which might look weird for some, but you can get the dark grey variant that hides it. It is 140.4 mm tall, 70.1 mm wide and has a screen-to-body ratio of about 70%, similar to most phones with a 5-inch screen. It is slightly taller than the Redmi 4A, but it is thinner than that at 8.35mm.
+
+
+Under the display options there are different options to adjust colors and contrast based on your preference. There is also reading mode that lets you reduce the display’s blue light emission so it doesn’t cause eye strain when you are reading at night. It also has double tap to wake option so you don’t have to press the power button to wake the phone.
+
+
+It has a 5-megapixel camera above the display, next to the earpiece. It has the usual set of ambient light and proximity sensors on the left side of the earpiece. It also has a gyroscope and a magnetic sensor, otherwise known as a magnetometer for VR headsets.
+
+
+The usual menu, home, and back buttons are present below the display. These are not backlit but offers haptic feedback when pressed. It also has a small notification LED that is hardly visible when it’s off.
+
+
+Even though it is a budget smartphone Xiaomi doesn’t miss out the Infrared sensor on the top for Remote function. The 3.5mm audio jack and a secondary microphone are present on the top. Micro USB slot and the primary microphone are present on the bottom. Volume rockers and the power button are present on the right side and SIM and microSD slots are present on the left.
+
+
+Unlike the Redmi 4A that came with a hybrid SIM slot, this comes with dedicated dual SIM slots. There is a primary slot for nano SIM and microSD that accepts cards up to 128GB and another secondary nano SIM slot.
+
+
+It has a 13-megapixel camera on the back with a single LED flash and f/2.2 aperture. There is a speaker grill on the bottom part of the back. In addition to Champagne Gold, the phone also comes in Platinum Silver and Rose Gold colors.
+
+
+This has a polycarbonate body with metal-like finish that offers a nice feel and the phone is solid to hold. The phone is just 137 grams, even though is packs a huge 3000mAh battery.
+
+
+Camera
+
+
+It has a 13-megapixel rear camera with LED flash, 5-element lens and f/2.2 aperture and a 5-megapixel front-facing camera with f/2.0 aperture.
+
+
+The camera UI is familiar with other Xiaomi smartphones with flash and HDR toggles on the top, front camera toggle on the bottom along with option to select modes (Panorama, Timer (3 to 10 seconds), Audio trigger, manual mode to adjust white balance and ISO (100 to 3200), Straighten, Beautify, HHT (Hand held twilight), Scene and Tilt-shift to blur a part of an image. It has image preview window, camera and video buttons on the right side. For the front camera, it has beautify mode, pro mode and smart mode that guesses your age using facing recognition algorithm.
+
+
+Coming to the image quality, daylight shots are good, HDR shots are better, macro shots are good as well, but it is not very quick to focus small objects even though it has PDAF. Low-light shots have noise as usual. Images with flash are decent and the flash is not overpowering. The front-facing camera has been improved compared to the Redmi 4A, which is good for selfies and video chats. For the price, the camera is decent.
+
+
+Check out some camera samples (Click the image for the full resolution sample).
+
+
+HDR OFF
+
+
+HDR ON
+
+
+HHT (Hand held twilight) mode
+
+
+It can record videos at maximum 1080p resolution at 30 fps. Video quality is decent and the audio is crisp, thanks to the secondary microphone. It has time-lapse, but doesn’t have slow-motion video recording. Check out the sample below.
+
+
+Software, UI and Apps
+
+
+Unlike most of the budget Redmi smartphones that run Android 6.0 (Marshmallow), this runs Android 7.1.2 (Nougat) out of the box with MIUI 9 on top.
+
+
+MIUI 9 adds a lot of features including improved notifications, split screen, improved apps like Mi Drop to transfer of files between any Android device without requiring an internet connection. It doesn’t have the new App Vault feature yet and quick reply and few other MIUI 9 features yet, but it could be pushed in a future update. There is also dual apps feature lets you run app like WhatsApp with two different accounts at the same time and the second space feature lets you create a separate space on your phone.
+
+
+Out of 2GB RAM, you get 1.85GB of usable RAM, and 1GB of RAM is free when default apps are running in the background. Out of 16GB, you get 9.55GB of free storage. The built-in Cleaner inside the storage lets free up space by clearing cache and obsolete files.
+
+
+Apart from the usual set of utility apps, Google apps and Xiaomi’s own set of apps, it comes pre-loaded with Amazon Shopping and UC News apps. You can easily uninstall these apps.
+
+
+Since the phone has an infrared sensor for remote function, it comes with Mi Remote that lets you control your home appliances easily. It worked flawlessly with Airtel Set-top box, Samsung TV and AC. It also supports A/V receiver, DVD Player, Projector, Camera and more.
+
+
+Music Player and FM Radio
+
+
+The Mi Music Player is the default music player. There is also equalizer, Mi Sound Enhancer and option to tune the audio based on different type of Mi headphones. It also has FM Radio with recording. Audio through the speaker is decent. Since the speaker is present on the back of the phone, audio gets muffled when the phone is on a flat surface. Audio through earphones is good.
+
+
+Dual SIM and Connectivity
+
+
+It has the usual set of connectivity features such as Wi-Fi 802.11 b/g/n, Bluetooth 4.1 and GPS. It also has USB OTG support that lets you connect external drives. It has 4G connectivity and also has Voice-over-LTE (VoLTE) support for Reliance Jio. Both the SIMs support 4G, but you can enable 4G only in one SIM at a time, while the other goes to 3G. You can set preferred SIM for a voice call, text and data from the SIM card manager. It also has LTE band 1 (2100MHz) for Vodafone 4G in some circles, that was absent Redmi 4A.
+
+
+Calling and Messaging
+
+
+The dialer and messaging UI are similar to other Xiaomi smartphones running MIUI 9. Since this is a dual SIM phone, you get the option to select either SIMs when calling or sending a text message. There are no call drops and the earpiece volume is good.
+
+
+Performance and Benchmarks
+
+
+Coming to the performance, the phone is powered by a quad-core Snapdragon 425 Mobile Platform with four ARM Cortex A53 cores clocked at 1.4GHz per core and has 2GB /3GB of RAM depending on the version. At the launch the company said that similar to the Mi A1, this has dual pyrolytic graphite sheets that will help to diffuse and radiate heat quickly. That said, gets a bit warm on prolonged 4G usage and gaming, but it doesn’t get too hot to handle.
+
+
+The performance is good without any lags. It also has a 500MHz Adreno 308 GPU. Since this is not a powerful SoC the GPU is just average, so the gaming performance is not on par with the Redmi Y1 or Redmi 4 that have an Octa-Core Snapdragon 435 SoC with Adreno 505 GPU. That said, check out some synthetic benchmark scores below.
+
+
+It scored 36476 points topping the AnTuTu Benchmark charts, slightly better than the Redmi 4A.
+
+
+It topped the Geekbench 3 Single-Core benchmark by scoring 688 points.
+
+
+It topped the Geekbench 3 Multi-Core benchmark by as well scoring 2100 points.
+
+
+It scored 6104 points in the 3D Mark Ice Storm Unlimited benchmark, almost similar to the Redmi 4A.
+
+
+Battery life
+
+
+Coming to the battery life the 3000mAh (typical) / 2910mAh (minimum) built-in battery offers decent battery life. It lasts for a whole day with average use and lasts more than that with minimal use. It also has battery saver that monitors background process and turns off sync to save battery. Sadly, the phone doesn’t have fast charging so it takes close to 3 hours to charge the phone. It comes with a power charger to handle power spikes up to 380 volts.
+
+
+It achieved a One Charge Rating of 12 hours and 38 minutes, slightly less than 12 hours and 53 minutes rating for the Redmi 4A since this has a smaller battery. Check out the complete set of battery life test results here.
+
+
+Conclusion
+
+
+Overall, the Redmi 5A is another value-for-money (VFM) smartphone from Xiaomi. It has all the required sensors, including an infrared sensor for remote control and also comes with dedicated dual SIM and microSD slots. The camera is decent for the price, but it could have been better and the battery life is not impressive.
+
+
+Even though the phone has the same starting price of Rs. 5999 for the 2GB RAM and 16GB storage version, the company is selling first five million units for Rs. 4,999, making it the best entry-level Android smartphone you can get in the market currently. Xiaomi believes that this pricing would accelerate the adoption of smartphones in the country. The 3GB RAM with 32GB storage version costs Rs. 6,999, which is recommended if you need more storage.
+
+
+Wonder who would go for the recently-launched Redmi Y1 Lite since it is same as the Redmi 5A with just a larger 5.5-inch screen at a higher price tag of Rs. 6999 for the 2GB RAM with 16GB storage version.
+
+
+The phone goes on sale every week exclusively on Flipkart as well as Mi.com online and is also available from Mi Home Stores and partner stores. To summarize, here are the pros and cons of the smartphone.
+
+
+Pros
+
+  * Dedicated Dual SIM and microSD slots
+  * Good build quality
+  * Competitive pricing
+
+Cons
+
+  * Average camera performance
+  * Not a major upgrade to the Redmi 4A
+
+
+Author: Srivatsan Sridhar
+
+
+Srivatsan Sridhar is a Mobile Technology Enthusiast who is passionate about Mobile phones and Mobile apps. He uses the phones he reviews as his main phone. You can follow him on Twitter, Instagram and on Google+ View all posts by Srivatsan Sridhar
+
+Author Srivatsan SridharPosted on December 16, 2017April 4, 2018Categories Reviews, Xiaomi
+
+Post navigation
+
+Previous Previous post: Facebook adds Snooze button to mute updates from a person, page or group for 30 days
+Next Next post: BlackBerry extends support for BB10 and BBOS to 2019, ends support for BlackBerry Priv
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * XOLO Era 4X 2GB Unboxing and First Impressions
+  * LG to introduce Snapdragon 855-powered 5G smartphone with vapor chamber at MWC 2019
+  * Apple dismisses over 200 employees from its Project Titan autonomous vehicle group
+  * Microsoft Office 365 now available via the Apple Mac App Store
+  * Gmail v8.12 starts testing Dynamic Email support
+  * Apple iOS 12.2 beta brings new ‘Hey Siri’ setup for the rumored AirPods 2
+  * Twitter confirms it is testing “Original Tweeter” tag to distinguish who started a thread
+  * Facebook is shutting down Moments app on February 25th
+  * Samsung Galaxy A9 Pro (2019) with 6.4-inch FHD+ Infinity-O display, 6GB RAM, triple rear cameras announced
+  * Get Android 9.0 Pie on Redmi Note 5 Pro with OxygenOS 9.0 port
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

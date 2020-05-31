@@ -1,0 +1,90 @@
+* Android Sync
+  * Google Sync
+  * iPhone Sync
+  * iPad Sync
+  * DejaCloud
+  * Mac Sync
+  * Support
+  * Downloads
+    Free 14-day trial Software Updates
+  * Buy Now(current)
+CompanionLink Blog
+
+Mobile CRM, mobile productivity, and mobile business
+
+
+Post navigation
+
+← Previous Next →
+
+How to synchronize Outlook to Nokia 7.1 without using Exchange
+
+Posted on October 7, 2018 by Wayland
+
+Nokia has announced the Nokia 7.1 with Android Pie. At $350 this is a strong mid-range phone with a good feature set. This price point is ideal for people who mean business, but can’t afford the $1000 flagships offered by Samsung and Apple.
+
+
+This phone has a dual SIM capabillity. One of the SIM card takes up the Micros SD slot, so you cannot have both SD and a second SIM card.
+
+
+Exchange is great if you want to pay for it. But many people use Outlook IMAP folders, and also older version like Outlook 2010 and Outlook 2007. CompanionLink provides the ideal solution by providing sync without using Exchange. When you sync using CompanionLink’s system you get many features that Exchange Sync lacks; Color Categories, Task sync, Notes Sync, and Calendar Events linked to a Contact.
+
+
+To sync Outlook to Nokia 7.1 without Exchange
+
+ 1. From Google Play Store, install DejaOffice on your Nokia 7.1 phone
+ 2. On your PC, download CompanionLink for Outlook on your PC.
+ 3. Configure both for DejaCloud Sync
+ 4. Watch your Outlook Contacts and Calendar appear on your phone.
+
+DejaOffice is Free. CompanionLink runs on a two-week trial.
+
+
+Click here for more information on Using Microsoft Office without a Subscription.
+
+
+The most Powerful part of the CompanionLink system is having Widgets on the Android Desktop.
+
+
+What is a widget? A widget shows App information on the phone desktop. A widget allows me to quickly see my day view, and my contact list – without opening an app. I can quickly tap on the location and get to my next appointment. No search, no scroll. Just one tap and I’m in maps. One tap and I can call or sms. Automatically updated all day.
+
+
+Special features of DejaOffice:
+
+  * Time zone management, so when you land your Calendar doesn’t go wonky
+  * Calendar Colors that match Outlook
+  * Templates that save time entering new Appointments and Tasks
+  * Persistent alarms to be sure I don’t miss anything.
+  * Recurring tasks compatible with Outlook
+  * Optional: Franklin Covey task priorities A1, B2, C99
+  * Works same on Android and iPhone, Phones and Tablets.
+
+Check out https://www.dejaoffice.com for more information.
+
+CompanionLink for Outlook
+Average User Rating:
+Average rating: 4.8 out of 5 based on 245 reviews.
+Free 14 day trial. Price $14.95 3-Mo Subs - $49.95 One-time License.
+How to synchronize Outlook to Nokia 7.1 without using Exchange was last updated November 20th, 2018 by Wayland
+This entry was posted in Uncategorized by Wayland. Bookmark the permalink.
+
+Leave a Reply
+
+
+You must be logged in to post a comment.
+
+
+Tags
+
+4g act! android android apps android contacts android sync android usb sync apple apps blackberry bug fix companionlink data dejaoffice droid google google sync HTC iOS ipad iphone iphone apps iphone sync mobile mobile productivity motorola news outlook outlook 2010 sync outlook sync productivity rim salesforce samsung support sync tablet tablets tasks tips update updates verizon windows phone windows phone 7
+Proudly powered by WordPress
+
+Proudly in business since 1987
+
+
+© Copyright 1996-2018 by CompanionLink Software, Inc.
+838 SW First Avenue Suite 530, Portland, OR 97204
+
+Contact Us / OEM Cloud Sync / About Us / Blog / Terms / Privacy / Press
+
+Site Page Views:

@@ -1,0 +1,259 @@
+* News
+  * Forums
+    Forum Home
+
+    Top Devices
+
+
+    New Devices
+
+
+    Topics
+
+  * Devices
+    More
+  * Topics
+
+    Features
+
+
+    Customize
+
+  * Best Posts
+close
+close
+Remember me Forgot password?
+Log In
+Register or Login with Google
+
+
+Notifications
+
+
+My Devices (edit)
+
+  * Log Out
+  * Settings
+  * Reported Posts
+
+XDA’s Apps
+
+
+  * Nav Gestures
+
+
+    Add swipe gestures to any Android, no root
+
+
+  * One handed mode
+
+
+    Make your phone easier to use with one hand, no root
+
+
+  * XDA Forum App
+
+
+    The best way to access XDA on your phone
+
+
+  * XDA Labs
+
+
+    An app store for independent developers
+
+
+  * Hyperion Launcher
+
+
+    A sweet, feature-filled launcher with a beautiful UX.
+
+
+Sites we like
+
+
+  * Swappa
+
+
+    XDA’s official marketplace for buying and selling tech
+
+
+  * Pocketnow
+
+
+    Premium videos
+
+
+Social
+
+
+* Resources
+
+  * Subscribe to our Newsletter
+  * Contact
+  * About
+  * Tip Us
+August 23, 2018 1:06am 0 Comments Joe Fedewa
+
+Xiaomi Poco F1 forums are now open
+
+
+The Xiaomi Poco F1 recently launched in India and the XDA Forums are ready for its potential users. This is an exciting device that kicks off Xiaomi’s new “Poco” line. It has some really nice specifications at a competitive price which pits it against the likes of the Asus ZenFone 5Z, Honor Play, and the OnePlus 6. Let’s take a quick look at what this phone has to offer.
+
+
+The Xiaomi Poco F1 (known as the Pocophone F1 outside of India) is powered by a Qualcomm Snapdragon 845 SoC, has 6/8GB of RAM, 64/128/256GB of storage, and runs MIUI 9 on top of Android 8.1 with an official Android 9 Pie update coming in a few months. The display is 6.18-inches with 2246×1080 resolution and 19:9 aspect ratio, meaning it does have a display notch that thankfully can be hidden in software. The battery is 4,000 mAh and it has dual 12+5MP cameras on the back and a single 20MP camera on the front. Other features include infrared face unlock, headphone jack, fingerprint scanner, and Dirac HD sound. Starting at Rs. 20,999, this is a great phone for the Indian market.
+
+
+For XDA in particular, this phone is exciting because Poco will honor the warranties of users who unlock their bootloaders. Poco will also release the phone’s kernel source code much faster than typical Xiaomi flagships. They promise an August 29th kernel source code release, the same day the phone goes on sale in India.
+
+
+If you plan to pick up the Xiaomi Pocophone F1, or are interested in learning more from owners, head on over to the official XDA Forum now!
+
+
+Visit the Xiaomi Poco F1 (Pocophone F1) Forums
+
+
+* Discuss This Story
+
+Tags qualcomm snapdragon 845xiaomiXiaomi PocophoneXiaomi Pocophone F1
+
+Want more posts like this delivered to your inbox? Enter your email to be subscribed to our newsletter.
+
+Email Address
+Frequency - Select -XDA News DailyXDA News Weekly
+Subscribe
+
+READ THIS NEXT
+
+0 Comments
+
+LG V40 ThinQ Display Review: The Underdog Has Finally Caught Up
+
+0 Comments
+
+Xiaomi’s UK launch has been sullied by growing pains, but the company is still looking forward
+
+0 Comments
+
+Android Q’s Dark Mode: How Google’s next Android OS will tackle blindingly light themes
+
+Please enable JavaScript to view comments.
+
+About Author
+
+* Joe Fedewa 514 posts see posts >
+Managing Editor at XDA-Developers. Lover of all things with displays.
+
+
+Subscribe to XDA
+
+
+Receive the freshest Android & development news right in your inbox!
+
+Email Address
+Consent
+I give xda-developers permission to collect and use my data submitted in this form.
+
+Give consent that we may collect and use your data.
+
+Subscribe Now
+
+Latest XDA News
+
+
+LG V40 ThinQ Display Review: The Underdog Has Finally Caught Up
+
+February 5, 2019
+
+The Alcatel 1S and ZTE Blade A5 2019 are upcoming budget smartphones that run Android Pie
+
+February 5, 2019
+
+Motorola Moto Z4 Play leak suggests 48MP rear camera and in-display fingerprint sensor
+
+February 5, 2019
+
+Become a Professional Graphic Designer with This Adobe Training Bundle
+
+February 5, 2019
+
+[Update: New Renders] The Samsung Galaxy Sport may launch soon as a fitness-oriented Galaxy Watch
+
+February 5, 2019
+
+From the Forums
+
+
+Xiaomi Mi Play’s kernel source code is now available
+
+February 1, 2019
+
+Simple Mobile Tools – A Collection of Open Source, Ad-Free apps
+
+February 1, 2019
+
+FWUL, the Linux distro designed for Android debugging and modding, hits version 3.0
+
+January 31, 2019
+
+SALT is a third-party alternative to LG UP
+
+January 31, 2019
+
+OPPO Find X’s kernel source code is now available
+
+January 30, 2019
+
+Binary Watch Face brings the 1s and 0s to your Wear OS smartwatch because why not
+
+January 30, 2019
+
+Widget Timeline shows your calendar events on the Amazfit Pace/Stratos/Verge
+
+January 30, 2019
+More Forum Links
+
+Suggested Apps
+
+
+Official XDA Forum App
+
+The XDA App is the fastest way to access the forums on mobile.
+
+Navigation Gestures
+
+Customizable gesture control for any Android device.
+
+XDA Labs
+
+Labs is an independent app store that gives developers full control over their work.
+
+Substratum
+
+The ultimate, most complete theming solution for Android.
+
+Hyperion Launcher
+
+A sweet, feature-filled launcher with a beautiful UX.
+
+XDA Developers was founded by developers, for developers. It is now a valuable resource for people who want to make the most of their mobile devices, from customizing the look and feel to adding new functionality.
+Are you a developer? | Terms of Service
+
+More info
+  * Contact
+  * Advertise
+  * Rules
+  * Suggest Content
+  * Security
+  * Privacy Policy
+  * XDA App
+  * Remove ads on XDA
+    
+  * Root Any Device
+  * How To Guides
+  * XDA's Best
+
+
+Copyright © xda-developers. Hosted by Leaseweb
+
+We're Social

@@ -1,0 +1,207 @@
+The Keyword
+Skip to Main Content
+The Keyword
+  * Latest Stories
+  * Product Updates
+  * Company News
+      + Outreach & Initiatives
+      + Technology
+      + Inside Google
+      + Around the Globe
+      + Perspectives
+
+{[ result.headline ]}
+
+
+      + About
+
+      + Press Corner
+      + RSS Feed
+    ×
+The Keyword
+The Keyword
+
+{[ result.headline ]}
+
+  * Latest Stories
+  * Product Updates
+  * Company News
+      + Outreach & Initiatives
+      + Technology
+      + Inside Google
+      + Around the Globe
+      + Perspectives
+  * About
+  * Press Corner
+  * RSS Feed
+Pixel
+Google Pixel 3: Make every day more extraordinary
+
+Copy link
+×
+
+Pixel 3GEN_2018_hero.jpg
+Mario Queiroz
+
+GM & VP, Pixel
+Published Oct 9, 2018
+Copy link
+×
+  * {[drawerToggle.open ? 'Hide Related Articles' : 'Show Related Articles']}
+
+    Related Articles
+
+
+      + Childish Gambino dances into Playground on Pixel
+
+
+      + Find more balance in your life this year, with help from Google
+
+
+      + Get more shut-eye in 2019 with help from Google
+
+
+      + On the year's darkest day, wake up gradually with Pixel 3 and Pixel Stand
+
+
+      + Most likely to win the creativity contest: meet Jake, Pixel's biggest fan
+
+
+      + On the 12th day of holiday shopping, Made by Google gave to me...
+
+
+Today we’re introducing Pixel 3 and Pixel 3XL, the new smartphones from Google. Pixel brings you the best of Google in a phone, powered by AI to deliver more helpful, thoughtful and enjoyable experiences. That means a phone that answers for you when a telemarketer calls, a camera that uses AI to make sure you never miss the shot, and a more helpful visual and audio experience while charging, powered by the Google Assistant.
+
+
+Brilliant photos every time and super-charged selfies
+
+
+We’re taking more photos on our phones than ever before, but we still often miss the perfect moment. Pixel 3 helps you get that perfect shot on the first try.
+
+
+  * Pixel3_Photo_1.jpg
+
+  * Pixel3_Photo_2.jpg
+
+
+  * Pixel3_Photo_3.jpg
+
+
+  * Pixel3_Photo_4.jpg
+
+
+  * Pixel3_Photo_5.jpg
+
+
+  * Pixel3_Photo_6.jpg
+
+
+Here’s how the best camera gets even better with Pixel 3:
+
+
+
+  * Capture smiles, not blinks: A feature we call Top Shot uses AI to help you capture the perfect photo every time. When you take a motion photo, it captures alternate shots in HDR+, then recommends the best one—even if it’s not exactly when you hit the shutter—looking for those where everyone is smiling, with eyes open, and facing the camera.
+
+
+  * Get better zoom: When you zoom in on a phone camera, the image looks grainy. Super Res Zoom is a computational photography technique, traditionally used for astronomy and scientific imaging, that produces sharp details when you zoom.
+
+
+  * No light; no problem: Pixel 3 lets you take natural-looking photos in dark surroundings, all without a flash. With Night Sight, coming soon to Pixel 3, you can take bright, detailed, colorful shots around the campfire, in a moonlit forest, or after you close out the bar.
+
+
+  * No selfie stick required: Get everyone in the picture with Group Selfie, which gives you 184 percent more room in your photo for friends and scenery.
+
+
+  * Look … no hands! Photobooth mode uses AI to recognize that when you’re smiling or making a funny expression, you’re ready for a selfie. It snaps the photo on its own so you don’t need to reach for the shutter button—a good option for candids.
+
+
+  * Even more stunning portraits, front and back: When you take photos in Portrait Mode, you can change the blurriness of the background, or change the part of the picture in focus, after the fact. Google Photos can also make the subject of your photo pop by leaving them in color, while changing the background to black and white.
+
+
+  * Create and play: In Playground, you can make photos, selfies and videos come to life by adding your favorite superheroes, animated stickers and fun captions. In celebration of Marvel Studios’ 10 Year Anniversary, you’ll enjoy seeing the characters from the Marvel Cinematic Universe (exclusively on Pixel) react to each other and to you. New packs for Weather, Pets, Sports and Signs let you have everyday fun, and coming later this year, you'll be able to sharpen your dance skills with moves from Childish Gambino.
+
+
+  * Super smooth video: When you want to capture something that won’t stop moving—think an adorable toddler or your new puppy—Motion Auto Focus will make sure your Pixel 3 camera stays in sharp focus automatically, as you record. And if you happen to be taking a selfie video while walking or moving around, Pixel 3 brings you front-facing video stabilization.
+
+
+Unlimited storage for all of your photos and videos
+
+With Pixel 3, you can save all your favorite moments with free, unlimited photo and video storage in original resolution*. It’s hassle-free, you don’t have to think about back-ups. Come back to Google Photos later and search for the beach photos you took on your Pixel 3, and they’ll pop right up.
+
+Your AI-powered sidekick
+
+
+AI in Pixel 3 enables new features that make your day-to-day actions simpler and easier.
+
+
+If you want to know more about something you’re looking at, use Google Lens, built right into the Pixel 3 camera. To scan and translate text, find similar styles of clothing, or identify popular plants and animals, you can now long press in the Pixel 3 camera to easily open Lens. When you point your camera at information you want to remember or don’t feel like typing in—like a URL or QR code on a flyer or an email address on a business card—Google Lens suggests what to do next, like creating a new contact.
+
+
+You can count on even more help across other apps too, including Gmail’s Smart Compose, now available for mobile on Pixel 3. Smart Compose suggests phrases in your emails so that you can draft them faster, on the go. Gboard, the keyboard built into your Pixel 3, will recommend GIFs, stickers and more, to make your conversations fun and engaging. Both are available first in English.
+
+
+The Google Assistant is also baked into Pixel 3 to help you find answers and control your phone and compatible smart home devices—all with a simple squeeze or by using your voice. This year we have two new Assistant features coming to Pixel.
+
+
+First, starting out in English in the U.S., Pixel 3’s on-device AI helps you screen phone calls and avoid spam calls. Imagine you’re at dinner with family or in a meeting at work and a call from an unknown caller comes in. Just tap on “Screen call” to find out who's calling and why, as well as other information (as prompted by you). You'll immediately see a transcript of the caller's responses so that you can then decide whether to pick up, respond by tapping a quick reply (e.g., “I’ll call you back later”), or mark the call as spam and dismiss. Processing the call details on-device means these experiences are fast, private to you, and use up less battery.
+
+
+Second, Pixel users in the U.S. will be the first to get access to an experimental new Google Assistant feature, powered by Duplex technology, which helps you complete real-world tasks over the phone, like calling a restaurant to book a table. This feature will initially be available later this year in New York, Atlanta, Phoenix and the San Francisco Bay Area to help people book restaurant reservations and will roll out to other U.S. cities in the future.
+
+
+As we develop new calling technologies, we believe it’s critical that we help people understand the context of the conversation. We’ll disclose to businesses receiving the call that they're speaking to an automated system, and we have developed controls to protect against spam and abuse, as well as the ability for a business to opt out of receiving calls. For Call Screen, we will also let the caller know that a screening service is being used.
+
+
+Digital Wellbeing
+
+
+Our phones, while probably the most important tech in our lives, shouldn’t control our lives. So Digital Wellbeing, a suite of tools to help you find your own balance with technology, is built into Pixel 3. It includes a dashboard to help you understand how you spend time on your phone, the ability to set time limits on specific apps, and a new Wind Down mode to help you get to sleep at night by gently transitioning your display to a grayscale screen. When you don’t want to be bothered by rings or notifications, just flip to Shhh—an easy gesture that turns on Do Not Disturb and minimizes distractions.
+
+
+Fast and wireless charging
+
+
+Pixel 3 comes with an 18 Watt fast charger in the box, which can give you seven hours of use in 15 minutes of charging. With our AI-powered Adaptive Battery technique, Pixel 3 prioritizes battery power for your most important apps to make your phone last all day.
+
+
+Alongside Pixel 3, we’re also introducing Pixel Stand, our new, Qi compliant wireless charger (sold separately). While charging in the Pixel Stand, your phone turns into a smart visual and audio experience powered by the Google Assistant, similar to Google Home Hub. It answers your questions, plays music, helps you control smart home devices, transitions into a photo frame when idle, and much more. If you set an alarm, your screen will gently brighten over 15 minutes before your alarm goes off, mimicking the sunrise and helping you wake up naturally. Pixel 3 also comes with dual front-firing speakers tuned by a GRAMMY®-winning music producer to turn your phone into a powerful speaker. Customers who activate a Pixel 3 or Pixel 3 XL by December 31, 2018 can get six months of free YouTube Music Premium.
+
+
+Pixel 3 is IP68 water- and dust-resistant and has a security chip custom-designed by Google called Titan M, making it the most secure phone we've built yet. Titan M enhances mobile security by protecting your unlock credentials, disk encryption, app data, and the integrity of the operating system code itself. Powered by Android 9 Pie, Pixel 3 comes with the latest Android operating system.
+
+Pixel 3 is available for pre-order now from Verizon, Project Fi, and Google Store unlocked.
+
+
+*Free, unlimited online original-quality storage for photos/videos uploaded from Pixel 3 to Google Photos through 1/31/2022, and those photos/videos will remain free at original quality. g.co/help/photostorage
+Posted in:
+
+  * Pixel
+
+Related Articles
+
+
+  * Childish Gambino dances into Playground on Pixel
+
+
+  * Find more balance in your life this year, with help from Google
+
+
+  * Get more shut-eye in 2019 with help from Google
+
+
+  * On the year's darkest day, wake up gradually with Pixel 3 and Pixel Stand
+
+
+  * Most likely to win the creativity contest: meet Jake, Pixel's biggest fan
+
+
+  * On the 12th day of holiday shopping, Made by Google gave to me...
+
+
+Follow Us
+
+  * Privacy
+  * Terms
+  * About Google
+  * Google Products
+  * Help

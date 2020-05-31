@@ -1,0 +1,318 @@
+* News
+  * Forums
+    Forum Home
+
+    Top Devices
+
+
+    New Devices
+
+
+    Topics
+
+  * Devices
+    More
+  * Topics
+
+    Features
+
+
+    Customize
+
+  * Best Posts
+close
+close
+Remember me Forgot password?
+Log In
+Register or Login with Google
+
+
+Notifications
+
+
+My Devices (edit)
+
+  * Log Out
+  * Settings
+  * Reported Posts
+
+XDA’s Apps
+
+
+  * Nav Gestures
+
+
+    Add swipe gestures to any Android, no root
+
+
+  * One handed mode
+
+
+    Make your phone easier to use with one hand, no root
+
+
+  * XDA Forum App
+
+
+    The best way to access XDA on your phone
+
+
+  * XDA Labs
+
+
+    An app store for independent developers
+
+
+  * Hyperion Launcher
+
+
+    A sweet, feature-filled launcher with a beautiful UX.
+
+
+Sites we like
+
+
+  * Swappa
+
+
+    XDA’s official marketplace for buying and selling tech
+
+
+  * Pocketnow
+
+
+    Premium videos
+
+
+Social
+
+
+* Resources
+
+  * Subscribe to our Newsletter
+  * Contact
+  * About
+  * Tip Us
+June 25, 2018 8:30am 0 Comments Idrees Patel
+
+Xiaomi Redmi 6 Pro is the first Redmi phone with a display notch
+
+
+Xiaomi hopped on the 18:9 display wave with the release of the Xiaomi Redmi 5 and the Xiaomi Redmi 5 Plus in China back in December. Since then, the company has also released the Xiaomi Redmi Note 5 Pro (which is known as the Xiaomi Redmi Note 5 in China), along with the Xiaomi Redmi S2/Redmi Y2. All of these phones have 18:9 displays without a display notch, and they provide more screen area than their predecessors.
+
+
+The launch of the flagship Xiaomi Mi 8 (as well as the mid-range Xiaomi Mi 8 SE) signified that it would not be long before Xiaomi released a Redmi phone with a display notch, to keep up with the 2018 smartphone trends. Only a few days after announcing the Redmi 6 and the Redmi 6A in China, Xiaomi has now officially launched the Redmi 6 Pro in the country. Its specifications are noted below.
+
+
+Xiaomi Redmi 6 Pro – Specifications at a glance
+
+Xiaomi Redmi 6 Pro    Specifications                                                                                                                                                  
+Dimensions and weight 149.3 x 71.7 x 8.8 mm, 178g                                                                                                                                     
+Software              MIUI 9 on top of Android 8.1 Oreo                                                                                                                               
+CPU                   Octa-core Qualcomm Snapdragon 625 (8x ARM Cortex-A53 cores clocked at 2.0GHz)                                                                                   
+GPU                   Adreno 506                                                                                                                                                      
+RAM and storage       3GB of RAM with 32GB of storage / 4GB of RAM with 32GB of storage / 4GB of RAM with 64GB of storage; dedicated microSD card slot                                
+Battery               4000mAh, 5V/2A charging)                                                                                                                                        
+Display               5.84-inch Full HD+ (2280×1080) IPS LCD with a 19:9 aspect ratio                                                                                                 
+Wi-Fi                 802.11b/g/n                                                                                                                                                     
+Bluetooth             Bluetooth 4.2                                                                                                                                                   
+Ports                 microUSB port, dual nano SIM slots, 3.5mm headphone jack                                                                                                        
+Bands                 GSM: 850/900/1800/1900MHz CDMA 800 and TD-SCDMA WCDMA: 850/900/1900/2100MHz FDD-LTE: Bands 1/3/5/7/8 TDD-LTE: Bands 34/38/39/40/41                              
+Rear camera           12MP camera with 1.25μm pixels, f/2.2 aperture, phase detection autofocus, EIS 5MP depth sensing camera with f/2.2 aperture Video recording up to 1080p at 30fps
+Front-facing camera   5MP front-facing camera                                                                                                                                         
+
+The Redmi 6 Pro’s design is very similar to previous Redmi phones such as the Redmi Note 5 Pro, Redmi 5, and the Redmi 6. It features metal construction with plastic caps on the rear top and bottom. The dual camera module is placed at the top left on the back, along with the LED flash.
+
+
+The change in design comes on the front, as the Redmi 6 Pro is the first Xiaomi budget phone to feature a notch. Unfortunately, Xiaomi’s implementation of the notch has led to the worst of both worlds in the Redmi 6 Pro. Despite the presence of a notch, there is still a sizable chin at the bottom of the front that is not occupied by navigation buttons or a fingerprint sensor. The phone uses onscreen buttons, and the fingerprint sensor is placed on the back below the dual camera module. The presence of the thick chin is understandable because of its nature as a budget phone, though.
+
+
+Performance: The Qualcomm Snapdragon 625
+
+
+The Redmi 6 Pro is powered by the Qualcomm Snapdragon 625 system-on-chip. Xiaomi’s use of the Snapdragon 625 is starting to become legendary now, as this is yet another phone to use the now outdated chip (it’s worth noting that the first Xiaomi phone to feature the SoC was the Redmi Note 4, launched back in January 2017). The Snapdragon 625 has long since been succeeded by the Snapdragon 630, which was itself succeeded by the newer Snapdragon 636. Xiaomi itself uses the Snapdragon 636 in the Redmi Note 5 Pro, so it’s perplexing to see the inclusion of the Snapdragon 625 in another Xiaomi budget phone.
+
+
+The phone comes with either 3GB or 4GB of RAM. The 3GB RAM variant is paired with 32GB of storage, while there are two 4GB RAM variants that have 32GB or 64GB of storage. The Redmi 6 Pro also has a dedicated microSD card slot, which means that users can use two SIMs and a microSD card at the same time.
+
+
+Display
+
+
+The Redmi 6 Pro has a 5.84-inch Full HD+ (2280×1080) IPS LCD with a 19:9 aspect ratio. The display size is the same as the Huawei P20 Lite, for example. Despite its “Pro” name, the Redmi 6 Pro has a smaller display than the Redmi 5 Plus/Indian Redmi Note 5 as well as the Redmi Note 5 Pro, both of which feature 6-inch 18:9 notchless Full HD+ displays.
+
+
+Camera
+
+
+The Redmi 6 Pro’s dual camera setup is the same as the one found on the Redmi Note 5 Pro, as well as the Redmi S2/Redmi Y2. It has a 12MP primary camera with 1.25μm pixels, f/2.2 aperture and EIS, which is augmented by a 5MP depth sensing camera with f/2.2 aperture. The primary camera has phase detection autofocus (PDAF). It can record video up to 108op resolution at 30fps.
+
+
+Connectivity
+
+
+The phone is powered by a 4000mAh battery, with 5V/2A charging. It has dual-band Wi-Fi 802.11b/g/n, Bluetooth 4.2, a microUSB port, dual nano SIM slots, and a 3.5mm headphone jack.
+
+
+Software
+
+
+The Xiaomi Redmi 6 Pro is powered by MIUI 9 on top of Android 8.1 Oreo. The phone has support for AI-based face unlock, just like newer Xiaomi devices.
+
+
+Xiaomi Redmi 6 Pro – Pricing and availability
+
+
+The Redmi 6 Pro will be available in Stone Black, Sand Gold, Cherry Blossom Powder, Bali Blue, and Flame Red colors. The 3GB RAM/32GB storage variant will be available for CNY 999 ($153). The 4GB RAM/32GB storage variant will cost CNY 1199 ($185), while the 4GB RAM/64GB storage variant will be available for CNY 1299 ($200).
+
+
+Pre-orders have gone live in China, and sales will begin from June 26. Xiaomi hasn’t stated whether the phone will launch in international markets.
+
+
+Let us know your opinion about the Xiaomi Redmi 6 Pro in the comments below.
+
+
+* Discuss This Story
+
+Tags MIUIQualcomm Snapdragon 625Snapdragon 625xiaomiXiaomi Redmi 6
+
+Want more posts like this delivered to your inbox? Enter your email to be subscribed to our newsletter.
+
+Email Address
+Frequency - Select -XDA News DailyXDA News Weekly
+Subscribe
+
+READ THIS NEXT
+
+0 Comments
+
+Xiaomi’s UK launch has been sullied by growing pains, but the company is still looking forward
+
+0 Comments
+
+Android Q’s Dark Mode: How Google’s next Android OS will tackle blindingly light themes
+
+0 Comments
+
+Xiaomi Redmi Note 6 Pro Review: A great phone, but wait for the Redmi Note 7
+
+Please enable JavaScript to view comments.
+
+About Author
+
+Idrees Patel 677 posts see posts >
+Idrees Patel is a smartphone enthusiast from India. He has been an Android user since the time he got the LG Optimus One in 2011. He has a bachelor's degree in Management Studies. The subjects in which he is interested are mobile processors, real-world UI performance, in-depth camera quality analysis, and many more. Contact: [email protected]
+
+
+Subscribe to XDA
+
+
+Receive the freshest Android & development news right in your inbox!
+
+Email Address
+Consent
+I give xda-developers permission to collect and use my data submitted in this form.
+
+Give consent that we may collect and use your data.
+
+Subscribe Now
+
+Latest XDA News
+
+
+The Alcatel 1S and ZTE Blade A5 2019 are upcoming budget smartphones that run Android Pie
+
+February 5, 2019
+
+Motorola Moto Z4 Play leak suggests 48MP rear camera and in-display fingerprint sensor
+
+February 5, 2019
+
+Become a Professional Graphic Designer with This Adobe Training Bundle
+
+February 5, 2019
+
+[Update: New Renders] The Samsung Galaxy Sport may launch soon as a fitness-oriented Galaxy Watch
+
+February 5, 2019
+
+Live Transcribe and Sound Amplifier are new Google apps to help the hearing impaired
+
+February 5, 2019
+
+From the Forums
+
+
+Xiaomi Mi Play’s kernel source code is now available
+
+February 1, 2019
+
+Simple Mobile Tools – A Collection of Open Source, Ad-Free apps
+
+February 1, 2019
+
+FWUL, the Linux distro designed for Android debugging and modding, hits version 3.0
+
+January 31, 2019
+
+SALT is a third-party alternative to LG UP
+
+January 31, 2019
+
+OPPO Find X’s kernel source code is now available
+
+January 30, 2019
+
+Binary Watch Face brings the 1s and 0s to your Wear OS smartwatch because why not
+
+January 30, 2019
+
+Widget Timeline shows your calendar events on the Amazfit Pace/Stratos/Verge
+
+January 30, 2019
+More Forum Links
+
+Suggested Apps
+
+
+Official XDA Forum App
+
+The XDA App is the fastest way to access the forums on mobile.
+
+Navigation Gestures
+
+Customizable gesture control for any Android device.
+
+XDA Labs
+
+Labs is an independent app store that gives developers full control over their work.
+
+Substratum
+
+The ultimate, most complete theming solution for Android.
+
+Hyperion Launcher
+
+A sweet, feature-filled launcher with a beautiful UX.
+
+XDA Developers was founded by developers, for developers. It is now a valuable resource for people who want to make the most of their mobile devices, from customizing the look and feel to adding new functionality.
+Are you a developer? | Terms of Service
+
+More info
+  * Contact
+  * Advertise
+  * Rules
+  * Suggest Content
+  * Security
+  * Privacy Policy
+  * XDA App
+  * Remove ads on XDA
+    
+  * Root Any Device
+  * How To Guides
+  * XDA's Best
+
+
+Copyright © xda-developers. Hosted by Leaseweb
+
+We're Social

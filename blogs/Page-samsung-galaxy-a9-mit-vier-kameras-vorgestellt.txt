@@ -1,0 +1,340 @@
+* Beratung & Verkauf am Telefon
+      + Sie möchten 1&1 Kunde werden
+      + Telefonische Beratung und Bestellung
+      + 1&1 persönliche Beratung vor Ort
+      + 1&1 Beratung rund um DSL
+  * DE
+      + Frankreich
+      + Großbritannien
+      + Italien
+      + Kanada
+      + Mexiko
+      + Österreich
+      + Spanien
+      + Vereinigte Staaten von Amerika
+  * Partnerprogramme
+  * Hilfe & Kontakt
+      + DSL / Mobilfunk
+      + Hosting
+  * Themenportal
+  * Webmailer
+  * Kundenshop & Login
+  * DSL
+      + 1&1 DSL
+      + DSL-Angebote
+        Highspeed Internet-Flatrate zum Top-Preis
+      + Jetzt zu 1&1 wechseln
+        In 3 Schritten zum passenden DSL-Tarif
+      + DSL Young Angebot
+        Exklusiv für alle bis 28 Jahre
+      + DSL-Anschlüsse ohne Mindestlaufzeit
+        Unbegrenzt surfen und telefonieren
+      + DSL-Verfügbarkeit
+        Testen Sie die DSL-Verfügbarkeit in Ihrem Ort
+      + Highspeed-DSL
+        Bis zu 100 MBit/s - Jetzt in immer mehr Regionen verfügbar
+      + 1&1 DSL-Features
+      + Fernsehen mit 1&1
+        Rund 90 der beliebtesten TV-Sender
+      + Online-Videothek
+        Über 50.000 Filme und Serien
+      + DSL-Option Sofort-Start
+        Schon morgen online sein
+      + 1&1 Handy-Flat-Internet
+        Unterwegs telefonieren und surfen
+      + Heimvernetzung
+        Vernetzt im ganzen Haus und kabelloses surfen
+      + 1&1 HomeServer Speed+
+        WLAN-Router, Telefonanlage, Heimnetzwerk
+      + 1&1 DSL Geschäftskunden
+      + 1&1 DSL Business-Angebote
+        DSL und Telefonie für Profis
+      + 1&1 Business-Service
+        Individueller Service für Geschäftskunden
+      + Business-DSL
+        Intelligent vernetzt mit modernster WLAN-Technologie
+      + Glasfaser
+        Direktanschluss mit 1 GBit/s für Firmen
+  * Handy & Tarife
+      + 1&1 Handy-Flatrates
+      + Tarifübersicht
+        1&1 All-Net-Flat mit LTEmax
+      + Junge Leute Extra-Vorteil
+        All-Net-Flat mit Vorteil für alle bis 28 Jahre
+      + Smartphones
+      + Smartphones
+        Top-Smartphones super günstig
+      + ERSTER SEIN! Smartphone Neuheiten bei 1&1
+        Jetzt registrieren und einer der Ersten sein
+      + NEU iPhone X ab 0,-€
+        Jetzt das neue iPhone X bei 1&1 bestellen
+      + SAMSUNG Galaxy S8 ab 0,-€
+        Jetzt SAMSUNG Galaxy S8 bei 1&1 bestellen
+      + HUAWEI Smartphones
+        Jetzt HUAWEI Smartphones bei 1&1 bestellen
+      + 1&1 All-Net-Flat Business
+      + 1&1 All-Net-Flat Business
+        Smartphone-Tarife für Geschäftskunden
+      + 1&1 Business-Smartphones
+        Die neuesten Smartphones - auf Wunsch bereits am nächsten Tag
+  * Tablet & Tarife
+      + 1&1 Tablet-Flatrates & Tablets
+      + Tablet-Flat Tarifübersicht
+        Flatrates, ideal für Tablets & iPad
+      + Tablets
+        Neueste Tablets super günstig
+      + SAMSUNG Galaxy Tablets
+        Samsung Galaxy Tablets mit Vertrag
+      + 1&1 Notebook-Flatrates
+      + Notebook-Flat Tarifübersicht
+        Günstig mobil im Internet surfen
+      + WLAN zum Mitnehmen
+        Router & Surf-Sticks für Ihren mobilen WLAN-Hotspot
+  * Glasfaser
+      + 1&1 Glasfaser Business
+      + Glasfaser-Anschluss
+        Glasfaser-Direktanschluss mit 1 GBit/s für Firmen
+      + Verfügbarkeit
+        Prüfen Sie die Glasfaser-Verfügbarkeit an Ihrem Firmen-Standort
+      + Gigabit-Internet
+        Modernste WLAN-Technologie und komfortable Telefonanlage
+      + 1&1 Business-Service
+        Individueller Service und Vor-Ort-Einrichtung
+  * Homepage
+      + 1&1 Homepage-Lösungen
+      + Homepage erstellen mit MyWebsite
+        Gestalten Sie Ihre eigene Website
+      + Homepage Vorlagen
+        Flexible und anpassbare Website Templates
+      + Webhosting
+        Perfekte Entwicklungsumgebung für Profis
+      + WordPress Hosting
+        Professionelles WordPress-Hosting
+      + 1&1 eCommerce-Lösungen
+      + Online Shop erstellen
+        Eigenen Webshop erstellen und online verkaufen
+      + ipayment
+        Sichere Abwicklung von Online-Zahlungen
+      + 1&1 Homepage Ratgeber
+      + 1&1 Digital Guide - Websites
+        Ihr Ratgeber rund um Websites
+  * Webhosting
+      + Webhosting-Pakete
+      + MyWebsite
+        Erfolgreiche Website ohne Vorkenntnisse erstellen
+      + Webhosting
+        Perfekte Entwicklungsumgebung für Profis
+      + Linux Hosting
+        Ideale Wahl für Apache, PHP und MySQL
+      + WordPress Hosting
+        Professionelles WordPress-Hosting
+      + Managed Cloud Hosting
+        Individueller Stack und dedizierte Ressourcen für Ihr Projekt
+      + 1&1 eCommerce-Lösungen
+      + Online Shop erstellen
+        Eigenen Webshop erstellen und online verkaufen
+      + ipayment
+        Sichere Abwicklung von Online-Zahlungen
+      + Webhosting-Ratgeber
+      + 1&1 Community
+        Anleitungen, Beispiele und Infos zu WordPress
+      + 1&1 Digital Guide - Hosting
+        Ihr Ratgeber rund um Hosting
+  * Server
+      + 1&1 Server-Lösungen
+      + Cloud Server
+        Top-Performance, Flexibilität & Kostenkontrolle
+      + Virtual Server
+        Viele Konfigurationsmöglichkeiten zum Sparpreis
+      + Dedicated Server
+        Dedizierte Hardware mit Root-Zugriff
+      + Infrastructure as a Service
+        Flexible Ressourcen mit IaaS
+      + Extras
+      + Cloud App Center
+        Mehr als 100 Cloud Apps
+      + 1&1 Server Ratgeber
+      + 1&1 Digital Guide - Server
+        Ihr Ratgeber rund um Server
+      + 1&1 Cloud Community
+        Learn, Develop, Ask . Connect to powerful cloud projects (in English)
+  * E-Mail & Office
+      + 1&1 E-Mail
+      + Eigene E-Mail Adresse erstellen
+        E-Mail-Adressen mit eigener .de Domain
+      + Webmailer Login
+        Anmeldung zu Ihrem Webmailer
+      + 1&1 Digital Guide - E-Mail
+        Ihr Ratgeber rund um E-Mail
+      + Microsoft Office
+      + Microsoft® Office 365
+        Produktiver arbeiten, im Büro und unterwegs.
+      + Office 365 Login
+        Anmeldung für KMicrosoft Office 365
+      + Outlook Web App Login
+        Anmeldung für Exchange 2013 by 1&1
+      + 1&1 De-Mail
+      + De-Mail
+        Vertrauliche Dokumente rechtssicher versenden
+      + De-Mail Login
+        Anmeldung zu Ihrem De-Mail Konto
+  * Domain
+      + 1&1 Domains
+      + Freie Domains registrieren
+        .de, .com, .at, .net, .info…
+      + Neue Top Level Domainendungen
+        .web, .shop, .online, .gmbh, .mail…
+      + Domain-Transfer
+        Domains zu 1&1 umziehen
+      + Domain-Preise - Kosten im Vergleich
+        Preise für über 700 Domain-Endungen
+      + Domain Check
+        Freie Domains suchen und finden
+      + SSL Zertfikate
+        Schutz durch https Verschlüsselung
+      + Private Domainregistrierung
+        Schützen Sie Ihre Daten mit der kostenlosen privaten Domainregistrierung
+      + Whois Domain Abfrage
+        Whois Informationen für Domains (.com, .net, .org)
+      + 1&1 Domain Ratgeber
+      + 1&1 Digital Guide - Domains
+        Ihr Ratgeber rund um Domains
+  * Online Marketing
+      + 1&1 Standort Marketing
+      + List Local
+        Neukundengewinnung mit Online Branchenbüchern
+      + 1&1 Website Marketing
+      + rankingCoach
+        SEO für mehr Besucher auf Ihrer Website
+      + Suchmaschinen-Werbung
+        Neukunden gewinnen mit Google AdWords
+      + Website-Check
+        Kostenlose Analyse Ihrer Homepage
+      + 1&1 Digital Guide - Online Marketing
+        Ihr Ratgeber rund um Online Marketing
+      + 1&1 Website Marketing
+      + Newsletter Tool
+        Erfolgreiche Newsletter erstellen
+Blog
+  * Startseite
+  * Unternehmen
+  * Produkte
+  * Netzwelt
+  * E-Business
+  * Suche
+  * To 1&1 Website
+Menu
+
+1&1 BLOG
+
+  * ...
+    Fans
+  * 21.275
+    Followers
+  * 3.637
+    Followers
+  * 39.134
+    Abonnenten
+  * 156
+    Fotos
+  * 14.658
+    Followers
+  * RSS-Feed abonnieren
+Marcel Schreiter
+
+weitere Beiträge von Marcel Schreiter
+  * 1
+  * 2
+  * 3
+  * 4
+  * 5
+  * (5,0)
+19. Oktober 2018
+
+Samsung Galaxy A9 mit vier Kameras vorgestellt
+
+
+Bei Smartphones lassen sich aktuell drei Trends erkennen: Die Bildschirme werden größer, deren Ränder schmaler und die Zahl der Kameras nimmt stetig zu. Das Samsung Galaxy A9 folgt diesen Trends und besitzt allein auf der Rückseite vier Kameras. Wir verraten Ihnen, wozu die verschiedenen Kameras genutzt werden können.
+
+
+Großer OLED-Bildschirm trifft auf Mittelklasse-Prozessor
+
+
+Das Samsung Galaxy A9 bietet einen 6,3 Zoll großen OLED-Bildschirm (Organic Light Emitting Diode) mit Full HD+ Auflösung (2.220 x 1.080 Pixel). Beim Prozessor setzt Samsung auf einen Qualcomm Snapdragon 660, der über acht Rechenkerne verfügt und mit bis zu 2,2 Gigahertz taktet. Direkt mit an Bord sind eine Adreno 512 Grafikeinheit zur Berechnung grafischer Inhalte sowie sechs Gigabyte Arbeitsspeicher. Der interne Speicher beläuft sich auf 128 Gigabyte und kann durch eine microSD-Karte um bis zu 512 Gigabyte erweitert werden. Das Galaxy A9 kann zusätzlich zu einer microSD-Karte auch zwei Nano-SIM-Karten aufnehmen.
+
+
+Quad-Kamera mit vier Linsen
+
+
+Die neue Quad-Kamera soll die erste ihrer Art sein und kommt mit vier Linsen daher. Samsung verbaut dafür ein 24-Megapixel-Kameramodul mit Phasen-Autofokus. Dazu gesellt sich eine 8-Megapixel-Kamera mit 120-Grad-Ultraweitwinkellinse, die beispielsweise in Innenräumen ein deutlich breiteres Sichtfeld abdeckt. Die 10-Megapixel-Kamera kann einen zweifachen optischen Zoom vorweisen, damit Objekte in der Ferne eingefangen werden können. Die vierte Kamera löst mit fünf Megapixeln auf und sammelt Tiefeninformationen, um beispielsweise Portraitaufnahmen mit unscharfem Hintergrund zu ermöglichen. Neben einer Szenenerkennung, beispielsweise Essen, Blumen oder Himmel, gibt es auch eine sogenannte Mängelerkennung. Diese soll auf unscharfe Gesichter, Blinzeln oder eine zu starke Hintergrundbeleuchtung hinweisen. Für Selfies steht eine 24-Megapixel-Kamera zur Verfügung.
+
+
+Starker Akku mit Schnellladefunktion
+
+
+Der Akku bietet eine Kapazität von 3.720 mAh und kann über den USB Typ-C Anschluss per Schnellladefunktion aufgeladen werden. Darüber hinaus verfügt das Samsung Galaxy A9 über einen 3,5-mm-Klinkenanschluss für analoge Kopfhörer. Kabellose Kopfhörer können die Bluetooth 5.0-Schnittstelle nutzen. Das Smartphone funkt in das LTE-Netz und kann abseits von diesem per WLAN ac in das Internet gelangen. Als Betriebssystem kommt Android 8.0 Oreo zum Einsatz.
+
+
+In drei Farben erhältlich
+
+
+Das Samsung Galaxy A9 soll ab November 2018 zu einem Preis von 599 Euro verfügbar sein. Als Farben stehen Caviar Black, Lemonade Blue sowie Bubblegum Pink zur Auswahl.
+
+Like 0
+Tag: Android | Samsung | Samsung Galaxy A9 | Smartphone | Smartphone-Kamera
+0 Kommentare0
+  * Teilen via
+  * Facebook
+  * Twitter
+  * Google+
+
+
+Vielleicht interessiert dich auch das:
+
+  * 27. Januar 2019Samsung stellt neuen Kamerasensor Isocell Slim 3T2 für randlose Smartphones vor
+  * 20. Januar 2019LG V40 ThinQ und LG Watch W7
+  * Unternehmen
+  * Blog
+  * Forum
+  * Jobs
+  * Presse
+  * Partnerprogramme
+  * Hilfe-Center
+  * AGB
+  * Entsorgung
+  * Datenschutz
+  * Impressum
+  * 
+    
+    © 2019 1&1 Internet SE
+  * iPhone X
+  * Smartphone
+  * Flatrate
+  * Surfstick
+  * Samsung Tablet
+  * iPhone 8
+  * Handyvergleich
+  * Handyvertrag
+  * Tablet kaufen
+  * Apple iPad
+  * SAMSUNG Galaxy S8
+  * Handyshop
+  * All-Net-Flat
+  * DSL
+  * Mobiles Internet
+  * SAMSUNG Galaxy S7
+  * Handytarife
+  * Tablet
+  * Internet
+  * Internet-Stick
+  * Samsung Galaxy Note 8
+  * Smartphone Tarife
+  * Homepage Baukasten
+  * Webspace
+  * Kostenlose Homepage erstellen
+  * Facebook
+  * Twitter
+  * Google+
+  * YouTube
+  * LinkedIn
+  * XING

@@ -1,0 +1,178 @@
+Skip to content
+
+Witrigs Blog
+
+  * News
+  * Phone Repair Guide
+      + Samsung Repair Guides
+      + Sony Repair Guides
+      + Huawei Repair Guides
+      + HTC Repair Guides
+      + OnePlus Repair Guides
+      + LG Repair Guides
+      + Motorola Repair Guides
+      + Xiaomi Repair Guides
+      + Google Repair Guides
+      + Fix Solutions
+      + Replacement Tutorials
+      + Teardown
+  * Hot-deals
+  * Promotions
+      + Coupons
+      + Discount
+  * Shopping
+
+How to repair broken Mi A2 Display?
+
+October 18, 2018 Chris Zhao Uncategorized, Xiaomi Mi 6X
+
+The XIAOM Mi A2 is a mobile phone released in July 2018. It has a metal back cover and a rear dual camera. It does not use the popular shaped screens, which may be one of its points. But in daily use, we accidentally break the screen of the phone. The topic we are discussing today is the Mi A2 display replacement.
+
+
+Information of Mi A2 Display
+
+
+Type : LTPS IPS LCD capacitive touchscreen
+
+
+Size: 5.99 inches, 92.6 cm2 (~77.4% screen-to-body ratio)
+
+
+Resolution: 1080 x 2160 pixels, 18:9 ratio (~403 ppi density)
+
+
+Mi A2 screen issue
+
+
+1. The display looks dull and washed out
+
+
+Mi A2 owners may find out their handset screen does not show saturate color but gave colors a somewhat dull appearance.
+
+
+2. The Mi A2 screen got black spot
+
+
+This happens when the screen transmit from black page to colored page, such as when you are on a page with black objects. The “black spot” effect is that the black parts of onscreen image tend to linger when changing to the colored parts.
+
+
+3. The Mi A2 screen crack
+
+
+For physical damage, some people may find the glass is crack but the touch and Mi A2 display is still work. It’s okay to keep use the phone if the screen damage is not that serious, but you will take the risk of hurting yourself by the glass shatters.
+
+
+How to repair the Mi A2 display broken problem?
+
+
+XIAOMI Mi A2 Display
+
+
+Witrigs Tweezers
+
+
+Witrigs Phillips Screwdriver PH000 1.3*25mm
+
+
+Super TPU Suction Cup
+
+
+0.1mm Plastic Opening Card
+
+
+Plastic Spudger
+
+
+Opening Tools Spudger
+
+
+How to install a new MI A2 screen replacement?
+
+
+Step 1 Remove the damaged screen
+
+
+First, remove the two Torx Screws.
+
+
+Use the plastic Spudger to separate the MI A2 display from the back cover.
+
+
+Lift the screen and remove the three screws from the screen flex bracket.
+
+
+Then use the tweezers, remove the screen bracket, and use the spudger to open the screen flex cable and take the damaged screen away.
+
+
+Use tweezers to remove the earpiece and flashlight from the used screen. Then remove 8 screws.
+
+
+Take the screen bracket off the screen.
+
+
+Step 2 Test and install a new MI A2 display
+
+
+Install the screen bracket on a new MI A2 display and then put back 8 screws.
+
+
+Put the flashlight back on the screen, pay attention to the position of the hole position, put it back and press it with your finger.
+
+
+Apply E8000 to the earpiece, then put the earpiece back and press it for 10 seconds to hold it.
+
+
+Install the new MI A2 display on the phone, pay attention to the screen flex cable, and then check to see if the new MI A2 screen can be used normally.
+
+
+Power off, put the screen flex bracket back, and then put back 3 screws.
+
+
+Put the screen back and put back 2 screws.
+
+
+Problems may occur after the XIAOMI MI A2 screen replacement
+
+
+1.Touch does not work / the screen goes black but touch work
+
+
+– Make sure the flexible cable is well connected.
+
+
+– Do not press hard on the bend.
+
+
+2. Screen bleeding/screen leak
+
+
+– Do not press hard on the digitizer.
+
+
+– Make sure the screen and support frame are properly bonded together.
+
+
+Also, the screen replacement video repair guide is available on our Youtube channel.
+
+
+Post Views: 291
+
+
+Post navigation
+
+Previous Post:How to repair broken Sony Xperia XZ2 Premium screen
+Next Post:iPhone X Screen Replacements: Not the Same! AMOLEDs, OLEDs, LCDs…
+Search for: Search
+
+Related Post
+
+  * Samsung Galaxy S9 Screen Replacement | S9 Display Repair Guide
+  * How to Replace Broken Samsung Galaxy A6 Plus Display?
+  * Moto Z2 Play Screen Replacement
+  * Xiaomi Mi 6X (Mi A2) Unboxing丨Fingerprint Unlock Speed Test
+  * Huawei Honor View 10 Signal Cable Replacement
+© 2011-2018 Witrigs Blog All Rights Reserved
+
+Enjoy this blog? Please spread the word :)
+
+  * https://www.witrigs.com/blog/how-to-repair-broken-mi-a2-display">

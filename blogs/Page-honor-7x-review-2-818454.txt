@@ -1,0 +1,257 @@
+* News
+  * Deals
+  * Reviews
+  * Apps & Games
+  * VPN
+  * The Best
+  * more
+      + Giveaways
+      + Features
+      + How To
+      + Android Development
+  * Reviews
+  * The Best
+  * Apps & Games
+  * News
+  * Android Development
+  * Features
+  * How To
+  * Deals
+      + About
+      + Contact
+      + Jobs
+      + Advertise
+      + Privacy Policy
+Search
+          o About
+          o Contact
+          o Jobs
+          o Advertise
+          o Privacy Policy
+Trending
+  * Galaxy s10
+  * Pixel 3
+  * Note 9
+  * OnePlus 6T
+  * Best of Android
+Buy now!
+Name:    
+Subject: 
+Message: 
+
+… this isn't the forums?
+
+Unfortunately, the forums have been discontinued. All discussion has been moved to the comments section of our articles, so start clicking on the topics you're interested in to dive back into the conversation!
+
+Honor 7X review
+
+Reviews
+by Adam SinickiLanh NguyenDecember 5, 2017
+583
+8.3
+Arguably the best value Android device ever made
+Positives
+
+Low price
+82.9% screen-to-body ratio
+Lots of camera features, including dual lens
+Solid battery life
+
+Negatives
+
+Camera not the best quality
+Portrait mode hit-and-miss
+No USB Type-C
+Ships with Android Nougat
+
+Rating
+Battery
+8.5
+Display
+7.7
+Camera
+7.4
+Performance
+7.5
+Software
+8.0
+Design
+8.2
+Bottom Line
+8.3
+8.3
+7X
+by Honor
+
+For its price point, it's impressive just how few compromises are involved with the Honor 7X.
+
+Buy it now!
+
+The Honor 7X is a lot of phone for a very reasonable price. If you don’t want to join the 1K flagship club but still want to benefit from modern trends and features such as narrow bezels and dual lenses, then it’s a fantastic choice.
+
+
+Read Next: Honor 7S review: Your grandma deserves better
+
+
+When I learned I’d be writing reviews for Android Authority, I was super excited at the prospect of being sent technology to test. As a tech nerd, this seemed like the perfect scenario. What I didn’t quite realize is that it would often mean having to ditch the device I chose to buy for a while, in order to live with something that may perhaps be more of a budget choice.
+
+
+The Honor 7X is a lot of phone for a very reasonable price.
+
+
+But that turns out to be quite a good yard stick to judge a new device by – especially one that is poised as a more budget-friendly option: how much does this phone make me miss my Galaxy S8?
+
+
+The Honor 7X passes this test pretty darn well for a phone that’s only going to set you back $200 USD (£189.99 in the UK). It’s significantly more affordable than a high-end flagship from Samsung or Google. But actually, the gulf in terms of the quality and experience doesn’t seem all that big. In fact, it almost seems too narrow. It almost makes me wonder why I spent as much as I did!
+
+
+Without further ado, here’s our Honor 7X review!
+
+
+Design
+
+
+To look at the Honor 7X it’s nice and functional, if not exactly jaw dropping. The biggest selling point in terms of aesthetics is definitely the 82.9% screen-to-body ratio. It’s not quite as impressive as something like the S8 or the iPhone X but it definitely makes it feel like a 2017 phone and puts it ahead of the Pixel 2XL even which can only claim 76.4%.
+
+
+That screen is quite square with sharp edges, which can look a little out-of-place on the rounded body, but it’s not a big deal. The design comes in black, blue and gold and I was given the blue version to play with. As is often the case, the coloring makes itself known around the sides and across the back which almost gives the impression of it being a very slim case (a minimal case, even!). The matte finish is understated and metal construction feels premium. It’s not particularly prone to picking up finger prints, which is something I haven’t been able to say for a phone for a while! The rounded edges and weighty metal also make this a phone that feels good to hold in the hand.
+
+
+There are no physical buttons and the lenses are only slightly raised on the back. All in all, I’d describe the looks of this phone as ‘no fireworks, no disasters’. But it wins points for keeping up with 2017 design trends and for that nice big screen.
+
+
+Screen
+
+
+Speaking of the screen, this is an LCD with a 1080p resolution filling 5.93”. If you’re looking for a device that really pushes pixels for the crispest and most beautiful experience possible, then obviously this may not be the phone for you. However, I’m firmly in the camp of people who find they can’t obviously see the difference unless I’m looking for it and for the most part the resolution is just fine.
+
+
+The only reason I’d like a few more pixels is to perhaps fit a few more elements on the screen to make use of its phablet-dimensions. The colors are once again just fine and while it’s not going to be winning awards, it’s certainly perfectly serviceable and not half bad for enjoying media.
+
+
+Sound and features
+
+
+The sound is also very acceptable and the Honor 7X sticks with the tried and tested headphone jack, an increasingly hard to comeby feature these days. There’s only one speaker down the bottom of the device, in just the right place for blocking with a finger while playing games, but it’s loud enough that you can watch YouTube while cooking in the kitchen without issue. Likewise, call quality seems just fine and friends and relatives told me that I came out clearly enough, even if the isolation could have been better. Connectivity has been fine too, with no dropped calls or lost signal.
+
+
+I’m also particularly fond of the fingerprint sensor. This is may even be my favorite experience with a fingerprint sensor thus far. While it’s around the back rather than on the home button (the cost of that screen ratio), it’s also highly responsive and very easy to find thanks to a big indentation. In short, it has worked for me instantly, nearly every time. So that’s a win!
+
+                      Honor 7x                                                                                                                                       
+Display               5.93-inch IPS LCD 18:9 aspect ratio 2160 x 1080 resolution 407 ppi                                                                             
+Processor             Octa-core HiSilicon Kirin 659                                                                                                                  
+GPU                   Mali-T830-MP2                                                                                                                                  
+RAM                   3/4 GB                                                                                                                                         
+Storage               32/64 GB                                                                                                                                       
+MicroSD               Yes, up to 256 GB                                                                                                                              
+Cameras               Rear: Dual 16 and 2 MP sensors with phase detection autofocus, LED flash, 1.2 µm pixel size, wide aperture range from f/0.95 - f/16 Front: 8 MP
+Connectivity          Wi-Fi 802.11b/g/n, 2.4 GHz Bluetooth 4.1 Micro USB GPS/AGPS/Glonass/BeiDou Navigation Satellite System                                         
+Sensors               Hall effect sensor Fingerprint sensor Proximity sensor Ambient light sensor Compass Accelerometer Phone status indicator                       
+Battery               3,340 mAh Non-removable                                                                                                                        
+Software              Android 7.1.1 Nougat Emotion UI 5.1                                                                                                            
+Dimensions and weight 156.5 x 75.3 x 7.6 mm 165 g                                                                                                                    
+Colors                Black, Gold, Blue                                                                                                                              
+
+Battery
+
+
+The battery is 3,340 mAh, which doesn’t sound like an awful lot but as we know, optimizations can make all the difference. And I am happy to report that the Honor 7X performs admirably in this department, lasting a whole day even if you’re a power user like moi. I spent a typical day watching YouTube, using Google Maps to navigate, taking calls and shooting photos. Despite all of that, I only very rarely needed to top up the juice. More specifically, I’m getting around 5 hours and 31 minutes of screen-on. But we must take this metric with a little grain of salt, seeing as this very much depends on what you’re doing during those hours.
+
+
+Unfortunately, one cost-saving choice Huawei made was opting to use a microUSB port for charging. This decision does feel a little backwards thinking at this point and you’ll also unfortunately be making do with slower transfer speeds and charging. That said, you will get around 54% charge in an hour, which is not bad for a mid-range device and certainly liveable!
+
+
+Camera
+
+
+Another area where the budget nature of the device starts to show is in the camera, though it’s not entirely a fail here either. On the plus side, the Honor 7X manages to keep up with yet another current trend by featuring dual lenses. The primary shooter is 16 MP, which is backed up by a secondary 2 MP lens. The purpose of this second lens is to pull off the currently-ubiquitous ‘portrait mode’ shots that apply fake Bokeh. What’s interesting though is that the 8 MP front-facing selfie camera is also capable of the same effect, despite having just the one lens. This is obviously achieved through software trickery, which is impressive – especially as there is no discernible difference between the effects produced by either side.
+
+
+Applying fake Bokeh means that the background gets blurred out, bringing the subject matter into stark focus. It’s a nice effect when done correctly but unfortunately, the 7X misses as often as it hits: blurring out the wrong elements or sometimes neglecting to work at all. When I first got the device for some reason the rear camera refused to do the trick at all. It’s working now, so maybe it did some quick machine learning. That is a joke just FYI. And you can tell it’s funny because I felt compelled to point it out.
+
+
+Occasionally, applying the depth effect can produce a really nice-looking photo that looks like it was taken by a much more expensive DSLR camera. But that is definitely the exception rather than the rule. 90% of the time, you’d be better off applying the effect by hand just using Photoshop. The best that can be said for it is that it’s fun to play around with.
+
+
+This definitely isn’t perfect
+
+
+As for the general qualities of the camera, it’s something of a mixed bag. On default settings, photos lack color and punch and they feature a very square 4:3 resolution. In order to enjoy a more palatable 18:9, you need to drop the megapixels from 16 down to 11. There’s also a lack of sharpness in some shots. So, I was initially assuming I’d write the camera off as being a typical budget camera but then I started playing in the settings and I was gradually won over (somewhat!). There are a ton of features and settings here. Turning up the saturation on the photos and switching resolution helped a great deal, as did turning on HDR. There’s a pro mode for both photos and video. There’s a ‘light painting’ option for tracking the lights of cars or the movement of stars even. And there are a whole bunch of filters and other settings for getting better performance out of the shooter. Granted, a lot of these same things could be accomplished via a 3rd party app but it’s still nice to have the options built-in so that you can enjoy playing with the camera out of the box.
+
+
+Filters can make a big difference and are fun to play around with
+
+
+With a little work, you can take some pretty good photos then. And the sheer number of options and settings is praise-worthy. It’s not up there with the cameras on more expensive flagships – it’s not one you can just point and shoot and trust to capture a great image. Low light photos leave something to be desired and the auto focus can be finicky. But Huawei has gone above and beyond the call of duty to make the most of the hardware and I really enjoyed playing with it.
+
+
+Performance
+
+
+In terms of power, the Honor 7X is sporting a Kirin 659 octa-core processor, running four cores at 2.36GHz and four at 1.7GHz and with a Mali T830 GPU. The US is only getting 32 GB of storage with 3 GB RAM, but the rest of the world will also have the option of a 64 GB model with 4 GB RAM. Being a Brit, I’m enjoying that extra gigabyte of RAM, so take that into account when considering my experiences and how your mileage may vary. For those looking for extra storage, the Honor 7X will take an SD card up to 256GB.
+
+Editor's Pick
+
+Best budget phones with (near) bezel-less displays
+
+You don’t have to spend a $1,000 to get a phone with a bezel-less display. Although this design trend was more or less exclusive to flagship phones at first, it has since trickled down to …
+
+With those specs, this definitely isn’t going to compete with the top players in terms of raw performance. But as with most handsets, the power here is ample for pretty much any conceivable use-case. It will play pretty much any game on the Play Store and navigation around the UI is plenty nippy. It only gets very slightly warm when running benchmarks or 3D titles but it’s not enough to be that noticeable, even with the metal construction.
+
+
+Software
+
+
+Some of that UI nippiness may be a result of the software. The Honor 7X is running Android 7.0 Nougat with the EMUI 5.1 running on top. For the most part, it’s pretty close to stock, but the tweaks that have been introduced are okay on the whole. I’m personally not a big fan of the notification tray, which overlaps the software navigation buttons when fully extended. There are a few other UI missteps – I had to switch to Nova launcher on the double to get my apps drawer back – but otherwise it stays pretty much out-of-the-way and there are actually a couple of welcome customizations here. I like the option to capture scrollable screenshots for instance, and apparently some machine-learning magic is going on in the background to improve resource management. Huawei calls this ‘Huawei Ultra Memory’ and I must say that I have been impressed on numerous occasions when I’ve switched back to apps I last used days ago and found them still open. Remember though, that is probably going to be helped by the 4 GB of RAM in my UK version. Likewise, an ‘Ultra Response’ feature claims to be able to register touches faster to allow for more silky-smooth swiping and scrolling.
+
+
+An ‘Ultra Response’ feature claims to be able to register touches faster to allow for more silky-smooth swiping and scrolling.
+
+
+On the whole, I’d probably rather have stock or TouchWiz (gasp!) but actually, this is a pretty good software experience. And of course, all of the modern features of Android are very welcome, including multitasking and Google Assistant.
+
+
+Closing thoughts
+
+
+In conclusion then, the Honor 7X is not a perfect phone and in some ways, its low price does show. The camera is not the most reliable or impressive, the design is decent but not outstanding, and the screen is definitely middle-of-the-road as are the specs. But those are really the only major compromises, which is pretty impressive really when you consider the asking price.
+
+
+The last phone I reviewed at a similar price was the Nokia 5. I liked that phone and thought it had a great build-quality for its low cost. But the Honor 7X frankly blows it out the water with a higher resolution display, better fingerprint sensor, more exciting camera set-up, better specs and more storage.
+
+
+From now on, this is the phone I will be recommending for those that have a little less to spend and still want the best possible experience.
+
+
+From now on, this is the phone I will be recommending for those that have a little less to spend and still want the best possible experience. At a cost of $199, it offers a stellar experience and its shortcomings are not as large given the affordable price.
+
+
+I will be glad to go back to my S8, but I could certainly happily last a bit longer if I had to!
+
+
+Buy it now!
+
+
+Best Huawei Honor phones
+
+  * Honor 10 review
+  * Honor 8 review
+  * Honor 9 review
+  * Honor 9 Lite review: four lenses on a budget
+
+Reviews
+
+HonorHonor 7X
+Honor, Honor 7X
+Adam Sinicki
+Lanh Nguyen
+Adam SinickiLanh Nguyen
+583
+Please enable JavaScript to view the comments powered by Disqus.
+Your source for all things Android!
+  * About
+  * Contact
+  * Jobs
+  * Advertise
+  * Privacy Policy
+* ©2019 Android Authority | All Rights Reserved.

@@ -1,0 +1,218 @@
+* News
+  * Review
+  * Phones
+      + Xiaomi
+      + Huawei
+      + Meizu
+      + nubia
+      + OnePlus
+      + OPPO
+      + vivo
+      + ZTE
+      + All
+  * Giveaway
+  * Deals
+  * Shop
+
+Honor V20 vs Huawei Nova 4 vs Samsung Galaxy A8s: Specs Comparison
+
+HonorHuaweiNewsSamsung
+
+by Michele Ingelido 1 month ago0
+
+
+Punch hole displays may become the future of borderless phones. In order to get rid of bezels and notches, Huawei and Samsung decided to opt for a hole in-display which only contains the front camera. The new solution debuted with Huawei Nova 4 and Samsung Galaxy A8s, while yesterday Huawei’s sub-brand released another device with a punch hole display: the Honor V20 (View 20). That is why now we got all the perfect candidates for a specs comparison between punch hole displays.
+
+
+Huawei Honor V20 vs Huawei Nova 4 vs Samsung Galaxy A8s
+
+                      Huawei Honor V20                                                                 Huawei Nova 4                                                             Samsung Galaxy A8s                                            
+DIMENSIONS AND WEIGHT 156.9 x 75.4 x 8.1 mm, 180 g                                                     157 x 75.1 x 7.8 mm, 172 g                                                158.4 x 74.9 x 7.4 mm, 173 grams                              
+DISPLAY               6.4 inches, 1080 x 2310p (Full HD+), IPS LCD                                     6.4 inches, 1080 x 2310p (Full HD+), IPS LCD                              6.4 inches, 1080 x 2340p (Full HD+), 402 ppi, IPS LCD         
+PROCESSOR             Huawei HiSilicon Kirin 980, octa-core 2.6 GHz                                    Huawei HiSilicon Kirin 970, octa-core 2.4 GHz                             Qualcomm Snapdragon 710, octa-core 2.2 GHz                    
+MEMORY                6 GB RAM, 128 GB – 8 GB RAM, 128 GB – 8 GB RAM, 256 GB – micro SD dedicated slot 8 GB RAM, 128 GB – micro SD slot                                          6 GB RAM, 128 GB – 8 GB RAM, 128 GB – micro SD slot           
+SOFTWARE              Android 9 Pie, EMUI                                                              Android 9 Pie, EMUI                                                       Android 9 Pie, Samsung UI                                     
+CONNECTIVITY          Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0, GPS                                      Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 4.2, GPS                               Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0, GPS                   
+CAMERA                Dual 48 MP + TOF 3D Camera, f/1.8 25 MP f/2.0 front camera                       Triple 48 + 16 + 2 MP, f/1.8 and f/2.2 and f/2.4 25 MP f/2.0 front camera Triple 24 + 10 + 5 MP f/1.7 and f/2.2 24 MP f/2.0 front camera
+BATTERY               4000 mAh, fast charging 22.5W                                                    3750 mAh, fast charging 18W                                               3400 mAh, Fast Charging                                       
+ADDITIONAL FEATURES   Dual SIM slot, in-display camera                                                 Hybrid Dual SIM slot, in-display camera                                   Hybrid Dual SIM slot, in-display camera                       
+
+Design
+
+
+Besides having one of the highest screen-to-body ratio and a tri-borderless design without a notch, Honor V20 has one of the most impressive back covers ever seen. Indeed, not only it comes in gradient colors, but it also has a V on its rear panel changing its color and position depending on the viewing angle from which you look at it. If you want a soberer design, then you should go for the Huawei Nova 4 which comes with a beautiful look and gradient colors without that light effect, while Samsung Galaxy A8s is the thinnest one but also the tallest one due to its slightly thicker bezels.
+
+
+Display
+
+
+If you want the best display quality, you should not choose any of these handsets. They come with typical midrange displays: IPS panels with a Full HD+ resolution just like most of the devices with price tags above $200. The only amazing thing of these displays are their incredibly narrow bezels and, as said above, the display hole housing the front camera which allows them to sport a tri-borderless design without a notch, a slider and so on. Even Samsung Galaxy A8s has an IPS panel, despite the whole Galaxy A series being equipped with AMOLED displays.
+
+
+Hardware/Software
+
+
+Huawei Honor V20 has the most powerful processor, so also the best performance. We are talking about the new Kirin 980 that is the same found on the Huawei Mate 20 series, made with a 7 nm production process. Together with the Kirin 980, you can also get up to 8 GB of RAM and up to 256 GB of internal storage with a micro SD slot separated from the dual SIM slot, so you can use both at the same time. Honor V20 still comes with a high-end processor, but it is the older and less impressive Kirin 970 which is inferior to the Snapdragon 845. At last, Samsung Galaxy A8s has just an upper-midrange SoC: the Snapdragon 710. Android Pie is pre-installed in each case.
+
+
+Camera
+
+
+At least on the paper, the most amazing camera department belongs to Huawei Nova 4. It is the first phone to sport the new 48 MP Sony sensor with the highest resolution ever seen in the smartphones market. A sensor offering no loss of detail even while zooming, paired with a secondary 16 MP sensor and a third 2 MP depth sensor. Honor V20 has a 48 MP camera too, but it is a dual camera setup and it only includes a TOF 3D camera besides the main sensor. While on the paper Huawei Nova 4 seems the most impressive camera phone, we will have to try each of these devices to give a final verdict on their cameras.
+
+
+Battery
+
+
+Huawei Nova 4 is a bit thicker than its rivals, but it has the biggest battery and it is able to last more on a single charge. With 4000 mAh, you should be able to cover a full day of battery life even in intensive scenarios. Further, it comes with a faster-charging technology. Huawei Nova 4 takes the second place with a smaller battery than Honor V20 but much bigger than Galaxy A8s’ 3400 mAh unit.
+
+
+Price
+
+
+The listing price of Huawei Honor V20 is about €460/$526, Huawei Nova 4 costs about €480/$548 and Samsung Galaxy A8s carries a €393/$450 price tag. These prices are referred to the Chinese market as these devices are still not in the global market. I like more the Honor V20 because of its higher performance, magnetic design, and bigger battery, so I would personally choose it.
+
+
+  * Read More: Huawei Nova 4 first sale reveals Pearl White variant is more popular
+
+
+Huawei Honor V20 vs Huawei Nova 4 vs Samsung Galaxy A8s: PRO and CONS
+
+
+Huawei Nova 4
+
+
+PROS
+
+  * More variants
+  * Big battery
+  * Good price
+  * Amazing cameras
+
+CONS
+
+  * Worse connectivity
+
+Huawei Honor V20
+
+
+PROS
+
+  * Micro SD dedicated slot
+  * Unique design
+  * Outstanding hardware
+  * Bigger battery
+
+CONS
+
+  * Nothing particular
+
+Samsung Galaxy A8s
+
+
+PROS
+
+  * FM radio
+  * Micro SD dedicated slot
+  * Sleek design
+
+CONS
+
+  * Less attractive look
+  * Tags:
+  * Honor V20
+  * Huawei Nova 4
+  * samsung galaxy a8s
+
+Michele Ingelido
+
+
+Italian blogger and tech-addict, I'm magnetically attracted to everything that implies innovation... And Rock 'N Roll!
+
+Previous post
+Nokia 9 PureView may launch in January last week
+Next post
+Nokia 9 case renders reaffirm penta-lens camera setup
+
+Related posts
+
+
+Samsung Galaxy A9 Pro 2019 with Infinity-O display and SD710 SoC announced
+
+
+2 days ago
+
+
+Honor grew 170% YoY internationally, ranked 1st E-Brand in China for 9 consecutive quarters
+
+
+3 days ago
+
+
+Honor View 20 price for India leaked with color variants
+
+
+3 days ago
+
+
+Phone Finder
+
+
+  * Latest
+
+
+The Xiaomi Redmi Note 7 Is Now Accepting Pre-Order On Giztop
+
+
+2 weeks ago
+
+
+MWC 2019: Nokia 9 PureView launches February 24, brings along punch-hole Nokia 6.2/Nokia 8.1 Plus
+
+
+35 mins ago
+
+
+Vivo V15 Pro could launch soon with pop-up selfie camera and triple rear cameras
+
+
+3 hours ago
+
+
+HydrogenOS 9.0.1 brings Android Pie to the OnePlus 5T
+
+
+18 hours ago
+
+
+Gizmochina is a technical blog about products in China and subculture which includes smartphones, electronical gadgets, and everything else that comes under the genre.
+
+
+* About
+
+  * About us
+  * Join the team
+  * Privacy policy
+  * Terms of use
+
+Service
+
+  * Adverts
+  * Post a deal
+  * Send us a tip!
+  * Contact us
+
+Subscribe to Our Daily Newsletter.
+
+
+Leave this field empty if you're human:
+
+Copyright Gizmochina © 2018. All Rights Reserved
+  * News
+  * Review
+  * Phones
+  * Giveaway
+  * Deals
+  * Shop
+  * Forums
+Search for:

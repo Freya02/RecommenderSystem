@@ -1,0 +1,155 @@
+@ Contact Email Newsletter
+
+  * Camera Reviews
+  * Best Cameras Best Cameras
+  * Lens Reviews & More
+      + Lenses
+      + Sample Images
+      + Accessories
+      + Software
+      + Printers
+  * News
+  * How-To
+
+* Google Pixel 3 Review
+
+November 19, 2018 | Amy Davies |
+More Pages
+ 1. Ease
+    of Use
+ 2. Image
+    Quality
+ 3. Sample
+    Images
+ 4. Product
+    Images
+ 5. Product
+    Specs
+ 6. Rating &
+    Conclusion
+ 7. Main
+    Rivals
+ 8. Review
+    Roundup
+ 9. Comment
+10. News
+11. Hands-On
+12. Preview
+    Images
+
+Latest Reviews Popular Reviews
+
+Nikon Coolpix A1000 Review
+Leica M10-D Review
+Leica D-Lux 7 Review
+Canon PowerShot SX70 HS Review
+Fujifilm GFX 50R Review
+Canon PowerShot SX620 HS Review
+Sony Cyber-shot HX99 Review
+Nikon Coolpix B500 Review
+Leica D-Lux 7 Review
+Huawei Mate 20 Pro Review
+
+Google Pixel 3 Introduction
+
+
+The Pixel 3 is the latest smartphone from Google, following on from the success of last year’s Pixel 2. There are a number of new features, many of which are of particular interest to photographers.
+
+Like the previous versions of the phone, the camera is at the heart of much of Google’s marketing. However, the rear camera has seen more of an incremental upgrade than a complete overhaul. A new addition is “Night Sight” mode, which is particularly useful when shooting in low light situations.
+
+Otherwise, the Google Pixel 3's camera itself is a 12.2 megapixel dual-pixel unit, with an f/1.8 aperture and a 28mm equivalent focal length. On the front of the phone, there are now two cameras – the additional one offers a wider angle of view to enable better group selfies.
+
+As we’ve seen before, the Pixel is available in two sizes – standard and XL. The standard Pixel 3 has a 5.5-inch screen – a 0.5-inch increase on the Pixel 2 model, while the Pixel 3 XL has a 6.3-inch screen, which is an increase from the 6.0-inches of the previous version.
+
+Other improvements include a larger battery (on the standard Pixel 3 only), and the addition of wireless charging.
+
+
+Ease of Use
+
+
+Using the Pixel 3 is not too dissimilar from its predecessor, or indeed many other Android phones. As it is a Google phone, you can be sure that you will always have the latest version of Android, which at the moment is Android 9 (Pie).
+
+
+Again, as the Pixel 3 is a Google phone, it runs a “clean” version of Android – which in essence means it hasn’t been modified or adapted to suit the needs of a particular company, such as you would see on other Android phones from manufacturers like Samsung or Huawei. What that means in real terms is that it’s a very clean, simple and straightforward layout.
+     
+Front
+
+As we saw on the Pixel 2, the Pixel 3 can be unlocked via a fingerprint sensor on the rear of the device. This is a very natural way to unlock the phone when picking it up, and you soon get used to holding it so your finger automatically rests in the relevant place.
+
+
+If you just need to take a photo, you don’t need to completely unlock the phone. You can double press the power button in quick succession to open the native camera app. If you access the camera in this way, you’ll only be able to see photos you’ve taken in your current shooting session, and not older pictures.
+
+    
+Rear
+
+Unlike many other Android phones, the Google Pixel 3’s native camera app is relatively simple. It affords a little more control than what we’ve seen on the iPhone XS, but it’s not as comprehensive as those you’ll see on Huawei or Samsung phones. That’s great news for those who want something more akin to a point and shoot camera, but is less helpful for enthusiast photographers.
+
+
+As standard, the camera app opens in the default “Camera” mode. With this, you will see there are options along the top of the screen to turn on a timer (3 seconds or 10 seconds), switch on RAW (images will be saved as both JPEG and raw format files), enable “Motion” (which records a very short video clip with your still images), and switch on flash. Although you can’t change any other settings, white balance control is available – giving you the option to choose between “Auto”, cloudy, sunny, fluorescent and tungsten options.
+
+          
+Camera App
+
+You’ll notice along the bottom of the camera app, there are a number of other different photo modes. This includes Portrait mode, which is something which the Pixel 2 particularly excelled at. Despite the fact that the Pixel 3 has only one lens, it uses machine learning to recreate shallow depth of field effects, working particularly well with human subjects.
+
+
+In this mode, you won’t see the results previewed live. Instead you’ll be instructed to tap on whatever it is you want to be the main subject. When you view the image in playback, you’ll see that it takes a couple of seconds to process, after which you’ll have your shallow depth of field shot. You’ll also be able to revert back to a standard shot, which can be useful it hasn’t worked out altogether well. Occasionally, the phone will refuse to produce a shallow depth of field effect. This seems to be if it suspects there is no separation between the subject and foreground, or perhaps if you weren’t close enough to it. You won’t get a warning that this is the case, though.
+
+       
+In-hand
+
+Unlike some other current high-end smartphone models, such as the iPhone XS or the Mate 20 Pro, you won’t be able to alter focus point after you’ve taken the shot for your shallow depth of field effect. This is slightly strange when you consider the effect is entirely the result of machine learning.
+
+
+Other modes on the Google Pixel 3 include a Panorama – which is fairly self-explanatory, requiring you to sweep the phone across the scene to create an ultra-wide-angle shot. There’s also a Video mode, as well as a couple of options under the “More” tab, such as Photo Sphere and Slow Motion. It’s also under this “More” tab that you’ll find the option to select certain camera settings – although it’s worth noting that you’ll need the phone to be fully unlocked to do so.
+
+    
+Rear
+
+In the settings menu, you’ve got the option to save location, enable camera sounds, switch on a grid and so on. A particularly useful feature is the option to display a “dirty lens warning”, which can help save your shots from the dreaded fingerprint smear. You’ll also be able to choose different resolutions and aspect for your stills, as well as different video resolutions – 4K at 30fps is the best available.
+
+
+Head to the “advanced” section of the menu, and you’ll be able to switch on “HDR+ control”. If you leave this switched off, all photos will be automatically taken with the HDR setting automatically applied. Meanwhile if you set the option to on, you’ll be able to switch between HDR and non-HDR directly from the camera screen.
+
+        
+Settings
+
+Back in the camera app itself, you can adjust brightness by tapping around the screen and then sliding your finger up and down when a sun icon appears. You can also engage an AF/AE lock by tapping the lock icon, meaning that exposure and focus will be locked to wherever you set it, allowing you to recompose your image if necessary.
+
+
+As with the Pixel 2, the Pixel 3 uses dual pixel autofocusing. It’s very quick and rapid, locking on to the subject with relative ease in most situations. It also performs well in low-light, with very few occasions where it gets it wrong.
+
+Next Page Image Quality »
+ 1. Ease
+    of Use
+ 2. Image
+    Quality
+ 3. Sample
+    Images
+ 4. Product
+    Images
+ 5. Product
+    Specs
+ 6. Rating &
+    Conclusion
+ 7. Main
+    Rivals
+ 8. Review
+    Roundup
+ 9. Comment
+10. News
+11. Hands-On
+12. Preview
+    Images
+Share Tweet Comment
+
+Home · Camera Reviews · Lens Reviews · Photography News · How-To
+
+
+Best Digital Cameras Best Digital Cameras · Best DSLRs Best DSLRs · Best Compact Cameras Best Compact Cameras
+
+
+Search · Advertise · About · Privacy · Contact Us
+
+
+© Copyright 2003-2019 Photo 360 Limited

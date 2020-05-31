@@ -1,0 +1,149 @@
+* Tips & Tricks
+
+  * Photography 101
+  * Reviews
+  * Videos
+  * Gallery
+      + Food
+      + Fashion & Fitness
+      + Monuments
+      + Mobile Clicks
+      + Product
+      + Street
+      + Wildlife
+      + Wedding
+  * PHOTOGRAPHY CLASSES
+  * Shop
+  * Contact
+
+Redmi Note 5 Pro Camera Tips and Tricks
+
+
+Kunal Malhotra February 24, 2018 0 Comments
+
+
+Tips & Tricks
+
+
+redmi note 5 camera, redmi note 5 pro, redmi note 5 pro camera, redmi note 5 pro camera modes, redmi note 5 pro camera tips
+
+
+The recently launched Redmi Note 5 Pro by Xiaomi is a smartphone which offers great camera performance. The dual-rear camera setup features a 12 Megapixel camera sensor at f/2.2 and a 5 Megapixel camera sensor at f/2.0. Apart from these exciting camera specs, the Redmi Note 5 Pro is loaded with some amazing camera modes and features which you might not be aware of.
+
+
+In this post, I shall be taking about 5 camera tips and tricks of Redmi Note 5 Pro which will help you click sharp and creative photos in various conditions. These are some amazing camera modes and settings which I found to be helpful while reviewing the smartphone, so I thought of sharing it with you all.
+
+
+1. Redmi Note 5 Pro: Save Previous Mode
+
+
+Whenever you open the camera app, be it on Redmi Note 5 Pro or any other smartphone, the photo mode opens by default. What if you shoot video most of the times, or if you want the app to always open in portrait mode by default?
+
+
+Redmi Note 5 Pro allows you to change the default mode in the camera app by navigating to the settings and turning on the ‘Save Previous Mode’ option. I personally found this option to be really helpful as mostly I am shooting photos in the manual mode. and now I get that camera mode by default as I open the camera app.
+
+
+2. Redmi Note 5 Pro: Camera Scenes
+
+
+Most of us are not professional photographers and might struggle while clicking photos in tricky situations. There might be situations when you are clicking a fast moving car, a night portrait or a light trail and struggle to click a good photo.
+
+
+By simply navigation to the top right corner of the camera app and by tapping on the modes icon, you can find a variety of camera scenes under the ‘Scenes’ mode. Camera scenes such as portrait, landscape, sports, night, sunset, etc allows you to click sharp and correctly exposed photos in the respective scene.
+
+
+It is better to click photos using one of these scenes (if the scene suits the nature of the subject) instead of the auto mode, to capture comparatively well exposed and clear photo.
+
+
+3. Redmi Note 5 Pro: Camera Auto Exposure Modes
+
+
+The exposure of a photo is decided by the camera on the basis of the camera metering mode you select. The Redmi Note 5 Pro camera app allows you to choose between Frame average, Center-weighted, and Spot metering exposure metering modes. By default, the Center-weighted mode is selected and you can switch between the three modes by going to the camera app setting panel.
+
+
+The ‘Frame average’ exposure mode taken an average of the light reflected by all the subjects in the frame. The ‘Center-weighted’ exposure mode allows the camera to take exposure reading based on the subject/s placed at the center of the frame. The ‘Spot metering’ mode makes the camera read the exposure from a specific portion of the frame, depending on where you tap on the screen.
+
+
+In a majority of situations, it is better to use the Frame average exposure mode to get a balanced and properly exposed photo. You should switch between three modes depending on the nature of the subject you are clicking.
+
+
+4. Redmi Note 5 Pro: Straighten Mode
+
+
+One of the challenges you might have been facing while clicking photos using a mobile camera is the orientation of the frame. If you click a photo while walking or in a hurry, you would have noticed tilt especially when there are vertical or horizontal lines in the frame. To rectify that you must have been using various editing apps, but with Redmi Note 5 Pro you can skip this step.
+
+
+The camera app in this phone features the Straighten mode which enables you to click straight photos even if you are holding the phone with s slight tilt. Once you enable this mode, the camera app automatically detects the straight position of the phone and it maintains the position even if you tilt the phone.
+
+
+But one thing you need to consider while using this mode is that it crops the frame depending on how much you tilt the phone. For a detailed explanation, watch the video.
+
+
+5. Redmi Note 5 Pro: Tilt Shift Mode
+
+
+If you are not happy with the results from the portrait mode or if you want to capture something different, Tilt Shift is an interesting camera mode on this phone. It allows you to add the artificial blur effect, both circular and liner depending on your choice.
+
+
+The best thing about this mode is that you can manually move the position of the area that you want to be in focus, and let the camera software blur the rest of the frame. In linear tilt-shift mode, you can also change the selection area between vertical and horizontal shape.
+
+
+I hope you find these 5 camera tips and tricks of Redmi Note 5 Pro useful and interesting. Feel free to comment below your favorite camera mode/trick.
+
+
+If you plan to but Redmi Note 5 Pro, visit Flipkart.
+
+
+What’s Trending:
+
+
+VIVO V5 PLUS MANUAL MODE
+
+
+INTRODUCTION TO HUAWEI P9 MANUAL MODE
+
+
+HOW TO USE APERTURE EFFECT IN HUAWEI P9
+
+
+ALL YOU NEED TO KNOW ABOUT COOLPAD COOL 1 DUAL CAMERA
+
+
+HONOR 8 CAMERA PRO MODE EXPLAINED
+
+
+5 TIPS FOR LOW-LIGHT PHOTOGRAPHY USING MANUAL MODE ON SMARTPHONE
+
+
+MOBILE PHOTOGRAPHY – ALL YOU NEED TO KNOW ABOUT MANUAL MODE
+
+
+UNDERSTANDING CAMERA METERING AND METERING MODES
+
+(Visited 75,493 times, 2,644 visits today)
+
+← Previous post
+
+
+Next post →
+
+
+About Author
+
+
+Kunal Malhotra
+Kunal Malhotra, a photography enthusiast whose passion for photography started 6 years back during his college days. Kunal is also a photography blogger, based out of Delhi. He loves sharing his knowledge about photography with fellow aspiring photographers by writing regular posts on his blog: The Photography Blogger. Some of his favourite genres of photography are Product, Street, Fitness and Architecture.
+
+
+Subscribe Now!
+
+Email
+
+Recent Posts
+
+  * FREE Adobe Lightroom Mobile Preset
+  * Massive 18x Lens for Your Smartphone
+  * Pre-wedding Photoshoot at Lodhi Garden 2018
+  * Five Accessory Ideas to Take Your Photography Skills to the Next Level
+  * 5 Smartphones Features that are changing the World of Photography
+For Advertising or Marketing related queries, drop a mail at: kunal.malhotra2604@gmail.com

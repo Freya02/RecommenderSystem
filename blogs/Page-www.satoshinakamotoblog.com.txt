@@ -1,0 +1,434 @@
+February 7, 2019
+  * Sign in / Join
+
+Login
+
+
+Username or email
+
+
+Password
+
+
+Keep me signed in until I sign out
+
+
+Forgot your password?
+
+Do not have an account ? Register here
+X
+
+Register
+
+Have an account? Login here
+X
+Trending now
+
+Why Voice Network Security Must …
+
+
+Google open-sources ClusterFuzz, a tool that has…
+
+
+Moaning parents could see other users’ privates…
+
+
+Arduino Enters the Cloud | Hackaday
+
+
+Ethereum Price May Be Falling But Number…
+
+
+Tron Price Analysis: Book 550,000+ hotels worldwide…
+
+
+COSS Exchange Review | 2019 Guide
+
+
+Learn Brave To Earn Basic Attention Token…
+
+
+Harvard Professor Thinks Blockchain Is Overhyped
+
+
+Top 2 Chocolate Magazines And Ezines To…
+
+
+  * HOME
+
+  * NEWS
+      + BITCOIN NEWS
+      + ETHEREUM NEWS
+      + BLOCKCHAIN NEWS
+      + WORLD NEWS
+      + ALTCOIN NEWS
+      + ARTIFICIAL INTELLIGENCE NEWS
+      + SCAM NEWS
+      + REGULATION NEWS
+      + SCIENCE NEWS
+      + LEGAL & REGULATION NEWS
+      + LITECOIN NEWS
+      + RIPPLE NEWS
+      + BIG DATA NEWS
+      + BUSINESS NEWS
+      + MINNING NEWS
+      + PRICE ANALYSIS CHARTS
+      + CROWDFUNDING
+      + COIN UPDATES
+  * CRYPTOPEDIA
+      + EXPLAINED
+      + CRYPTO GUIDES
+      + BITCOIN 101
+      + ETHEREUM 101
+      + BITCOIN CASH 101
+      + ICO 101
+      + RIPPLE 101
+      + LIGHTNING NETWORK 101
+      + What Is An ICO Token And How Does It work?
+      + How To Choose An ICO To Invest In
+      + ICO Vs IPO: Key Differences
+      + ICO Vs Venture Capital
+      + Top 10 ICOs With The Biggest ROI
+      + How To Buy ICO Tokens: Beginner’s Guide
+      + How To Launch An ICO, A Detailed Guide
+      + How To Cash Out Your ICO Proceeds
+      + What Is A White Paper And How To Write It
+      + Where To Issue ICO Tokens: Platforms Review
+      + What is Bitcoin Cash?
+      + What is cryptocurrency?
+  * UNCATEGORIZED
+      + STRANGE NEWS
+      + HACKING NEWS
+      + RASPBERRY PI
+      + UNCATEGORIZED
+  * TECH
+      + APPS & SOFTWARE
+      + MACHINE LEARNING
+      + ANDROID
+      + HACKING
+      + VULNERABILITY
+      + SECURITY
+      + INTERNET
+      + SOFTWARE
+      + GOOGLE
+      + AUGMENTED REALITY
+      + INTERNET OF THINGS
+      + COMPUTING
+      + APPLE
+      + MICROSOFT
+      + INNOVATION
+      + IBM
+      + APPLE CAR
+  * PRESS RELEASE
+  * INTERVIEW
+  * ICO
+      + HOT & TRENDING ICO’s
+      + COIN MARKET CAP
+      + ICO ADVERTISING
+  * CRYPTO TOOLS
+      + CRYPTO EXCHANGE
+      + CRYPTO PRICES
+      + SNB COIN MARKET CAP
+      + CRYPTO CONVERTER
+      + CRYPTO CHARTS
+  * ADVERTISE
+Search for: Search
+FacebookTwitterInstagramEmailRssTelegram
+Primary Menu
+Search for: Search
+  * Home
+  * NEWS
+  * HTC Finally Launches its Blockchain Smartphone Exodus 1
+NEWS
+
+HTC Finally Launches its Blockchain Smartphone Exodus 1
+
+by satoshiOctober 24, 2018
+Share0
+
+
+
+HTC launched its blockchain smartphone. It can be pre-ordered through the official website, but buyers can pay with cryptocurrency only.
+
+
+Taiwanese phone maker HTC finally revealed its blockchain-based smartphone called Exodus 1. It has a cryptocurrency wallet that is stored separately from its Android operating system to ensure the total security of the crypto funds. HTC said that the new model is part of the company’s broader plan to focus on software and intellectual property. The phone can be pre-ordered at a price of about 0.15 Bitcoin or 4.78 Ether, which is the equivalent of approximately $960. However, one can buy it exclusively with cryptocurrency. The smartphone is expected to be shipped by the end of this year.
+
+
+The Exodus’ website lists the main specs of the phone. The device has a 6-inch HD+ display with 18:9 aspect ratio, 6GB of RAM, and 128GB of storage space. The smartphone is powered by a Qualcomm Snapdragon 845 processor. It comes with a 12MP + 16MP dual rear camera with high-quality zoom and an 8MP+8MP dual front camera for selfies. The applications are run on Android Oreo, and the phone is resistant against dust and water.
+
+
+Image: HTC
+
+
+If those specs are more or less comparable with ordinary smartphones, then Exodus 1 has a unique feature that sets it apart – it’s the built-in cryptocurrency wallet called Zion. The wallet was developed based on the technology provided by SoftBank’s Arm Holdings.
+
+
+Phil Chen, HTC’s decentralized chief officer, told CNBC by phone:
+
+
+“Think of it as a micro OS that runs in parallel with Android. It basically is a wallet, but the wallet, what it does is hold your private keys.”
+
+
+The decision to keep the wallet separately from its Android system is based on the fact that Google’s operating system is “fundamentally insecure with a centralized system.”
+
+
+However, the phone is not labeled a “blockchain-based smartphone” only because of its crypto wallet. Exodus 1 can also run decentralized applications (dApps) and programs that operate on the blockchain.
+
+
+Chen explained why the phone could be purchased exclusively with cryptocurrency:
+
+
+“Selling it in crypto only and being the first to do so means we are bringing this directly to the core audience and those who will want this device — the blockchain community.”
+
+
+Last week, we reported on HTC’s teaser pre-announcing the launch of Exodus 1. The clip published on Instagram hinted that the phone would be launched on Monday, October 22, but the pre-order actually started one day later.
+
+
+
+
+Source link
+
+Share0
+previous post
+
+HTC Opens Pre-Orders for Blockchain Phone, Payable Only in CryptoHTC Opens Pre-Orders for Blockchain Phone, Payable Only in Crypto
+
+next post
+
+Ethereum (ETH) Price Watch: Currency Continues to Hover Around the $205 Mark as Bearish Market Conditions Prevade
+
+
+satoshi
+
+
+Related posts
+
+
+Klipsch’s first true wireless earbuds arrive at CES 2019
+
+satoshiJanuary 10, 2019
+
+Temasek Holdings Sets To Capitalize On The Blockchain And AI Craze
+
+satoshiNovember 23, 2018
+
+Is The IOTA Cryptocurrency Project Built To Last And Be Here For The Long Haul?
+
+satoshiDecember 1, 2018
+
+Stratis (STRAT) Price Booms on Partnership with MediConnect
+
+satoshiDecember 20, 2018
+
+Bitcoin Mining Company Bitmain is Divesting Off Their BCH holdings: An Inside Look Study
+
+satoshiDecember 28, 2018
+
+History May Signal That Bitcoin is Nearing a New Bull CycleHistory May Signal That Bitcoin is Nearing a New Bull Cycle
+
+satoshiJanuary 15, 2019
+
+NEWS
+
+
+BITCOIN NEWS
+ETHEREUM NEWS
+BLOCKCHAIN NEWS
+EXCLUSIVE INTERVIEWS
+WORLD NEWS
+ALTCOIN NEWS
+SCAM NEWS
+ACTIVE ICO
+THE SATOSHI REVOLUTION – BOOK
+
+
+ICO 101
+
+
+WHAT IS ICO ?
+WHAT IS AN ICO TOKEN AND HOW DOES IT WORK ?
+ICO VS IPO: KEV DIFFERENCES
+ICO VS VENTURE CAPITAL
+HOW TO BUY ICO TOKEN: BEGINNER’s GUIDE
+HOW TO CHOOSE AN ICO TO INVEST IN ?
+TOP 10 ICOs WITH THE BIGGEST ROI
+HOW TO LAUNCH AN ICO ? A DETAILED GUIDE
+WHAT IS A WHITE PAPER AND HOW TO WRITE IT ?
+WHERE TO ISSUE ICO TOKENS: PLATFORMS REVIEW
+HOW TO CASH OUT YOUR ICO PROCEEDS
+
+
+POPULAR CATEGORIES
+
+  * Uncategorized
+  * NEWS
+  * Bitcoin
+  * Blockchain
+  * Cryptocurrency
+  * Article
+
+CRYPTOPEDIA
+
+
+EXPLAINED
+CRYPTO GUIDES
+BITCOIN 101
+ETHEREUM 101
+BITCOIN CASH 101
+ICO 101
+RIPPLE 101
+LIGHTING NETWORK 101
+WALLET
+
+
+ETHEREUM GUIDE TO BEGINNERS
+
+
+WHAT IS DAO ?
+HOW TO BUY ETHEREUM
+HOW TO SELL ETHEREUM: GUIDE FOR BEGINNERS
+WHAT ARE SMART CONTRACT? GUIDE FOR BEGINNERS
+WHAT IS ETHEREUM? GUIDE FOR BEGINNERS
+WHO IS VITALIK BUTERIN
+HOW TO MINE ETHEREUM? GUIDE FOR BEGINNERS
+GUIDE ON ETHEREUM WALLETS: MOBILE, WEB, DESKTOP, HARDWARE
+
+
+BITCOIN CASH FOR BEGINNERS
+
+
+WHAT IS BITCOIN CASH ?
+WHAT IS HARD FORK?
+DIFFERENCE BERWEEN BITCOIN AND BITCOIN CASH
+HOW TO MINE BITCOIN CASH? BEGINNER’s GUIDE
+BITCOIN CASH WALLETS. BEGINNER’s GUIDE
+HOW TO BUY BITCOIN CASH? BEGINNER’s GUIDE
+HOW TO SELL BITCOIN CASH? BEGINNER’s GUIDE
+
+
+TECH
+
+
+ARTIFICIAL INTELLIGENCE
+MACHINE LEARNING
+HACKING
+SECURITY
+APPLE
+INTERNET
+AUGMENTED REALITY
+ANDROID
+COMPUTING
+
+
+BITCOIN FOR BEGINNERS
+
+
+WHAT IS CRYPTOCURRENCY? GUIDE FOR BEGINNERS
+WHAT IS BITCOIN? HISTORY, CHARACTERISTICS, PROS AND CONS
+HOW TO BUY BITCOIN: BEST PRACTICES, WHERE TO BUY, TIPS
+HOW TO SELL BITCOIN?
+WHAT TO BUY WITH BITCOINS ?
+IS BITCOIN LEGAL?
+WHAT IS BITCOIN MINING?
+HOW TO ACCEPT BITCOINS IN MY STORE ?
+BITCOIN WALLETS FOR BEGINNERS: EVERYTHING YOU NEED TO KNOW
+HOW BLOCKCHAIN TECHNOLOGY WORKS ? GUIDE FOR BEGINNERS
+WHERE TO DISCUSS BITCOIN?
+HOW TO MINE BITCOIN: EVERYTHING YOU NEED TO KNOW
+
+
+About US
+
+SatoshiNakamotoBlog.com is the first home-grown and independent news aggregation service. Fully-automated, and on a continuous basis, SatoshiNakamotoBlog displays breaking news linking to news websites all around the world.
+Contact us: info@satoshinakamotoblog.com
+Follow us
+FacebookTwitterInstagramEmailRssTelegram
+@2018 - satoshinakamotoblog.com. All Right Reserved. Designed and Developed by SatoshiNakamotoBlog
+FacebookTwitterInstagramEmailRssTelegram
+  * HOME
+  * NEWS
+      + BITCOIN NEWS
+      + ETHEREUM NEWS
+      + BLOCKCHAIN NEWS
+      + WORLD NEWS
+      + ALTCOIN NEWS
+      + ARTIFICIAL INTELLIGENCE NEWS
+      + SCAM NEWS
+      + REGULATION NEWS
+      + SCIENCE NEWS
+      + LEGAL & REGULATION NEWS
+      + LITECOIN NEWS
+      + RIPPLE NEWS
+      + BIG DATA NEWS
+      + BUSINESS NEWS
+      + MINNING NEWS
+      + PRICE ANALYSIS CHARTS
+      + CROWDFUNDING
+      + COIN UPDATES
+  * CRYPTOPEDIA
+      + EXPLAINED
+      + CRYPTO GUIDES
+      + BITCOIN 101
+      + ETHEREUM 101
+      + BITCOIN CASH 101
+      + ICO 101
+      + RIPPLE 101
+      + LIGHTNING NETWORK 101
+      + What Is An ICO Token And How Does It work?
+      + How To Choose An ICO To Invest In
+      + ICO Vs IPO: Key Differences
+      + ICO Vs Venture Capital
+      + Top 10 ICOs With The Biggest ROI
+      + How To Buy ICO Tokens: Beginner’s Guide
+      + How To Launch An ICO, A Detailed Guide
+      + How To Cash Out Your ICO Proceeds
+      + What Is A White Paper And How To Write It
+      + Where To Issue ICO Tokens: Platforms Review
+      + What is Bitcoin Cash?
+      + What is cryptocurrency?
+  * UNCATEGORIZED
+      + STRANGE NEWS
+      + HACKING NEWS
+      + RASPBERRY PI
+      + UNCATEGORIZED
+  * TECH
+      + APPS & SOFTWARE
+      + MACHINE LEARNING
+      + ANDROID
+      + HACKING
+      + VULNERABILITY
+      + SECURITY
+      + INTERNET
+      + SOFTWARE
+      + GOOGLE
+      + AUGMENTED REALITY
+      + INTERNET OF THINGS
+      + COMPUTING
+      + APPLE
+      + MICROSOFT
+      + INNOVATION
+      + IBM
+      + APPLE CAR
+  * PRESS RELEASE
+  * INTERVIEW
+  * ICO
+      + HOT & TRENDING ICO’s
+      + COIN MARKET CAP
+      + ICO ADVERTISING
+  * CRYPTO TOOLS
+      + CRYPTO EXCHANGE
+      + CRYPTO PRICES
+      + SNB COIN MARKET CAP
+      + CRYPTO CONVERTER
+      + CRYPTO CHARTS
+  * ADVERTISE
+Bitcoin (BTC) $ 3,399.95
+XRP (XRP) $ 0.291677
+Ethereum (ETH) $ 104.30
+EOS (EOS) $ 2.35
+Tether (USDT) $ 0.999501
+Bitcoin Cash (BCH) $ 114.82
+Litecoin (LTC) $ 33.09
+TRON (TRX) $ 0.025693
+Stellar (XLM) $ 0.074389
+Binance Coin (BNB) $ 7.92

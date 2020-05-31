@@ -1,0 +1,69 @@
+* zum TIB|Open Science lab
+
+VIVO-Workshop 2015: „VIVO als Forschungsinformationssystem in der Praxis“
+
+
+Mittwoch, 9. September 2015 von 11-17 Uhr
+
+
+im Leibnizhaus, Holzmarkt 4, 30159 Hannover
+Anfahrt Leibnizhaus
+
+
+Das auf freier Open Source Software und Linked Open Data beruhende Forschungsinformationssystem VIVO verbreitet sich zunehmend auch im deutschsprachigen Raum. Dieser Workshop bietet VIVO-Anwendern und -Interessierten die Gelegenheit zu Information und Austausch.
+
+  * Programm
+  * Teilnehmerinnen und Teilnehmer
+  * Warum VIVO als Forschungsinformationssystem?
+
+Workshop der DINI AG Forschungsinformationssysteme mit Gästen
+
+
+Donnerstag, 10. September 2015 von 11 – 16 Uhr
+
+
+in der TIB Hannover, Welfengarten 1B, 30167 Hannover
+
+
+Die Teilnahme ist kostenlos, für die Mittags-Verpflegung wird es eine kleine Umlage geben.
+
+
+Informationen zu DINI AG Forschungsinformationssysteme: http://dini.de/ag/fis/
+
+
+Themen:
+
+  * Berichte aus den Communities
+  * Nachlese: Empfehlungen der AG FIS zum Kerndatensatz, DFN-Papier
+  * Bericht zur Auswertung des Workshops Datenschutz
+  * Arbeitsthema: „Modulare Forschungsinformationssysteme“, mit Kurzvorträgen von AG-Mitgliedern
+  * und anderes…
+
+Wer hilft weiter?
+
+Lambert Heller
+Tel.: 0511 762-5348
+
+Ina Blümel
+Tel: 0511 762-14223
+
+Links zum Thema
+
+  * Warum VIVO als Forschungsinformationssystem?
+  * Prototyp "Open Science VIVO beta"
+  * VIVO - official website
+  * What will the scholarly profile page of the future look like?
+  * DINI AG Forschungsinformationssysteme (FIS)
+
+VIVO im TIB|Blog
+
+  * Neues Jahr, neues VIVO! 4. Januar 2019 Christian Hauschke
+  * ROSI – eine Referenzimplementierung für offene szientometrische Indikatoren 21. November 2018 Christian Hauschke
+  * Verwendung von ORCID in Forschungsinformationssystemen 28. Juni 2017 Tatiana Walther
+  * Die TIB unterstützt VIVO durch Mitgliedschaft 17. Mai 2017 Christian Hauschke
+  * Welche Bedeutung haben Forschungsinformationssysteme im chinesischen Raum? – Mit dem Open Science Lab über den Tellerrand geschaut 23. April 2014 Miriam Seeger
+  * What role do current research information systems play in the Greater China Region? – Broadening horizons with the Open Science Lab 23. April 2014 Miriam Seeger
+  * VivoCamp13, das Barcamp über Linked Open Data für Forschungsinformationen, findet am 25.11.2013 in Hamburg statt 17. September 2013 Lambert Heller
+  * TIB’s Open Science Lab experiments with VIVO — to elucidate networks in expert scientific communities 13. August 2013 Lambert Heller
+  * TIB Open Science Lab experimentiert mit VIVO — Ziel ist ein freier Blick auf die Netzwerke in wissenschaftlichen Fachcommunities 15. Juli 2013 Lambert Heller
+This site uses cookies: Find out more.Okay, thanks

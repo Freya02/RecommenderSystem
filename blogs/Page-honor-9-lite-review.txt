@@ -1,0 +1,150 @@
+Skip to content
+
+Technology Personalized
+
+
+Tech Blog with a focus on personal and consumer technology. The best place for meaningful tech news, analysis, views and reviews.
+
+  * Featured
+  * News
+  * Tiny Tip
+  * Downloads
+  * Gadgets
+  * iPhone
+  * Android
+  * Reviews
+  * Tutorials
+  * TimePass
+  * Search for:
+  * Home
+  * About
+  * Contact Us
+  * Follow us on
+  * FB
+  * TW
+  * G+
+review
+
+Honor 9 Lite Review: Anything But a Budget Lite-weight
+
+
+Quad cameras, 18:9 display, budget price.
+
+
+There’s a new Honor in tech town. Well, that line has been repeated rather often of late, with Huawei’s sister brand upping the ante significantly in launch terms in the Indian market. After most of the year that saw only the Honor 6X and the Honor 8 Pro as major launches, the last couple of months of 2017 saw the Honor 9i, the Honor 7X and the View 10 being launched. And as 2018 gets underway, a fourth Honor joins them – the Honor 9 Lite. Our local gossip has spent enough time trying to figure out where this newcomer fits into the Honor pantheon (check the post), the big question is: where does it fit into the battlefield that is the Indian smartphone market?
+
+
+Honor-able specs and spectacular looks
+
+
+We have spent enough times gushing about the appearance of the Honor 9 Lite (check our First Cut here), so will restrict ourselves to stating that thanks to its glass back with mirror-like finish (on the grey and blue models), it is one of the most distinct looking handsets out there. Whatever it looks like, it definitely is not like a relatively affordable, mid-segment smartphone. It is sleek, slim (7.6 mm) light (149 grams) and well, while the glass back does pick up smudges, it sure does shine and dazzle. Honor has thrown some serious design effort at this device, and the result is that it actually looks more premium than even the higher priced 9i and 7X.
+
+
+And in terms of hardware too, it is not far off those two worthies. Yes, it has the smallest display of the three – a 5.65″ one – but it is similarly endowed in resolution terms (2160 x 1080px) and comes with the 18:9 aspect ratio that seems set to become a trend, with narrow bezels on the sides and slightly wider ones on the top and base. It is powered by the HiSilicon Kirin 659 processor, with 3 GB RAM and 32 GB storage, and 4 GB RAM and 64 GB storage (the unit we received), with memory being expandable provided one can give up one of the dual SIM card slots for a memory card. Like the 9i, it sports four cameras, albeit of a slightly lower megapixel count – two at the back, two at the front, each being a 13.0-megapixel and 2.0-megapixel combination. Connectivity options include Bluetooth, 4G, Wi-Fi, and GPS. A big differentiator from its brethren (and indeed from many other devices in this segment), is the fact that it comes with Android Oreo out o the book, with Huawei’s rather elaborate EMUI (the latest version – 8.0, in keeping with the version of Android we are told) over it. The battery, at 3000 mAh, however, is smaller than those seen in both the 9i and 7X. There is a fingerprint scanner at the back to round off what is a very respectable spec sheet.`
+
+
+Not a speed merchant, but not a paper tiger either
+
+
+And the Honor 9 Lite’s performance is eminently respectable too. There are those who feel that all Android skins are evil and Android should never be anything but stock, but we like the feature rich EMUI that we have seen on Honor devices, and EMUI 8.0 is generally smooth. You can opt for an app drawer-less UI or one with a drawer if you so wish. And there are some handy options in there, including the three finger screenshot, flip to mute, reduce the display size for one-handed use, and well, a very elaborate camera app. No, it is not every geek’s cup of tea but as we never tire of pointing out, there are more mainstream consumers out there than geeks, and we have a suspicion that many will not mind the bells and whistles that EMUI brings to them.
+
+
+And EMUI 8 does work well. The Kirin 659 is not a benchmark buster by any standards but for the most part, handled routine tasks like social networks and web browsing without any major stutters, although some of our colleagues did complain of slowdowns while using TrueCaller. We would also recommend not going into heavy duty gaming (do not expect butter smooth Asphalt performance) but casual titles are handled well enough. The display is a good one for its price point, being bright and rendering colours well, although not all apps are optimised for the 18:9 display and the presence of the navigation buttons at the base of the display does detract from the ‘fullness’ of the display – these are the times when one wished for a single navigation button below the display, a la the Moto X4 and Honor’s own View 10, but then again, for this price point, this is not bad at all.
+
+
+Riding high on bokeh!
+
+
+The stars of the show and the most distinctive feature of the device, however, are the quad cameras. Honor has always managed to get a little more out of dual cameras, and here it delivers again. For the starting price of Rs 10,999, we would go out on a limb and say that these are among the better cameras we have seen on phones out there, and do enough to challenge the favourite of most people in the sub-Rs 15,000 range, the Xiaomi Mi A1 (yes, we are working on a comparison, stay tuned). Snaps taken in normal daylight had good colors and details, although some might find the colors a bit on the oversaturated side. Yes, things did tend to fade out (literally) in the night, but general image quality was quite good in most light conditions.
+
+
+But for us, the real charm of the device was in the bokeh it delivered on the rear camera. Yes, there is a Portrait Mode too, but we would advise you to instead just head to the wide aperture mode for getting some serious bokeh. One of the trademarks of Honor’s camera app is that it lets you play around with the aperture of the camera – you can move it from f/0.95 to f/4.0, and while the camera did struggle with handling edges of the objects in focus, the bokeh it delivered was staggering at times (almost perfect spheres of light). If you are the type that likes to blur backgrounds and are on a tight budget, this is definitely the phone to go for. We would even rate it slightly higher than the Mi A1 in this regard because of the control it gives you over the bokeh – you can move the point of focus around after a snap has been taken if you wish, and vary the levels of bokeh. There are also some effects that you can place on the blurred out region of the image, such as making it appear part of an illustration or make it black and white (something we have seen in the Moto and Lenovo devices as well). Round that off with the plethora of shooting options that EMUI brings (light painting, time lapse, pro mode, food and so on), and you have a very good point and shooter at your disposal, although we would recommend using it in good light conditions for best results.
+
+
+The selfie camera duo is a little uninspiring in comparison – even with the beauty mode turned off, we got selfies that were not the sharpest and colors also seemed a little dull in comparison. Bokeh, however, again worked a treat, if one did not obsess too much over the edges – you cannot adjust the aperture size at the time of taking the snap, but can do so afterwards and again, you can choose what part of the photograph to keep in focus even after the picture has been taken. The rear cameras can shoot full HD video (sorry, no 4K video, folks) while the front ones can chip in with 720p video. Neither is exceptional, but will more than pass for social media usage. The camera app can get a bit laggy at times, though, especially when we wanted to view shots we had taken in wide aperture mode.
+
+
+Call quality on the Honor 9 Lite was good over our Airtel 4G connection, although some of our colleagues using Reliance Jio faced issues. The loudspeaker is a little tinny but is loud enough, when you factor in the budget. We would advise music lovers to stick to using earphones, though (none in the pack, alas). Battery life really depends on how much you use those cameras – heavy usage would mean struggling to see out a day, but if you stick to relatively routine usage, you would see out a day without too many problems. You can also change the resolution of the display to 1440 x 720p to squeeze out some more hours.
+
+
+The best in its class?
+
+
+It has the looks and the innards. And at Rs 10,999 for the 3 GB/ 32 GB edition, a heck of a starting price, although the 4 GB/ 64 GB variant costs a stiffer Rs 14,999. So should you be going for the Honor 9 Lite? Well, if you want a decent performing smartphone that still turns heads on a relatively tight budget, the answer is yes. And it is yes again if you want a good cameraphone without spending too much – the Mi A1 costs Rs 2,000 more, remember. In fact, if you are looking for a phone that is in the Rs 11,000 vicinity, the 9 Lite will take some beating. Move to the higher price variant and things get interesting with the likes of the Moto G5s Plus, the Mi A1 and even the massive Mi Max 2 coming into the picture, not to mention Honor’s own 7X sibling. But the Honor 9 Lite does bring the cocktail of quad cameras, eye-catching design and an 18:9 ratio display at a surprisingly affordable price. Which is quite an achievement in the highly competitive Indian phone market.
+
+
+So much so that we can accuse the Honor 9 Lite of not living up to its name. It is many things, but a Lite-weight, it ain’t!
+
+
+Honor 9 Lite
+
+Rs 10,999
+8.6
+
+Build and Design
+
+9.0/10
+
+* Performance
+
+8.5/10
+
+* Camera
+
+8.5/10
+
+* Software
+
+8.5/10
+
+* Price
+
+8.5/10
+
+* Pros
+
+  * Eye Catching Design
+  * Great bokeh from cameras
+  * Generally steady performance
+
+Cons
+
+  * Cameras struggle in low light
+  * Sound on loudspeakers not the greatest
+  * Back can - will - pick up smudges
+Buy from Flipkart
+Last updated by Nimish Dubey, on 25-Jan-18
+  * SHARE
+  * TWEET
+  * SHARE
+  * EMAIL
+  * LinkedIn
+  * Print
+  * Reddit
+  * Pocket
+  * 8shares
+Nimish Dubey Editor-at-large Nimish Dubey has been writing for more than a decade now (well, Windows 3.1 was around and Apple was on the verge of being finished when he started). He has been published in a number of publications including The Times of India, Mint, The Economic Times, Mid-Day and Femina on subjects that vary from tech write -ups to book reviews to music album round ups. He managed to interview Michael Schumacher once and write two books for young adults along the way.
+VIEW COMMENTS
+Review View All
+review
+
+Asus Zenfone Max M2 Review: In the shadow of the…
+
+review
+
+Mivi Octave Bluetooth Speaker Review: Heavy on Bass, Not on…
+
+review
+
+Nokia 8.1 Review: Where does it fit, Nokia?
+
+review
+
+Micromax Infinity N12 Review: Return of the Budget King
+
+© Copyrights 2019. Technology Personalized. All rights reserved.
+
+Send this to a friend
+
+Your emailRecipient email
+SendCancel

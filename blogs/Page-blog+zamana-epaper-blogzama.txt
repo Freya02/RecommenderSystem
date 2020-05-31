@@ -1,0 +1,101 @@
+* news
+English News >> BLOGZAMANA >> home
+Friday, 05 Oct, 8.33 am
+BLOGZAMANA
+
+  * A
+  * A
+  * A
+
+* Home
+How to flash Android 9.0 LineageOS 16.0 Unofficial ROM on Xiaomi Pocophone Poco F1
+
+
+If you are one among those Android freaks who love to tweak their handsets, then we have a good news for you. But this time specially for the Xiaomi Pocophone Poco F1 users. The Smartphone with model number M1805E10A can now be upgraded to the unofficial and powerful Android 9.0 Pie Custom ROM which will bring a number of changelogs in your device. It will make your User Interface classy and will add some extravagant features that are completely new to Android.
+
+
+But to enjoy all these features on your Xiaomi Pocophone Poco F1, you need to upgrade your Smartphone to the latest Android OS and it's Android 9.0 LineageOS 16.0 Unofficial ROM. In this article we will guide you through the steps to flash this Custom ROM on your Smartphone promptly and quickly. Let's first have a look on the pre-requirements.
+
+Private your searches on YouTube using Google Chrome Incognito
+
+
+Caution: You are warned that the said Custom ROM is meant only for the advanced Android users and newbies are suggested not to play with their Xiaomi Pocophone Poco F1. We will not be blamed if anything wrong happened to your Smartphone because of the installation.
+
+
+Pre-Requirements: You must have a Nandroid backup for your Xiaomi Pocophone Poco F1, must unlock the bootloader, need to install the TWRP Recovery on your device, enable USB Debugging and disable any Antivirus program if you run on both your Smartphone and PC to carry on smooth flashing. You must root your device.
+
+
+Download
+
+  * Android 9.0 LineageOS 16.0 Unofficial ROM and Gapps
+
+Steps to Update
+
+  * First of all Download the above mentioned two files and after connect your Xiaomi Pocophone Poco F1 to your PC via USB. After move both the files to the SD Card of your Smartphone and detach the USB cable.
+  * Enable USB Debugging from the Developer Section of your Xiaomi Pocophone Poco F1. You must disable USB Debugging post update.
+  * Next you need to switch off your device and move it into recovery mode.
+  * In Recovery mode select "wipe data/factory reset", "wipe cache partition" and "wipe dalvick cache" options from recovery mode menu to wipe data and clear cache from your device.
+  * Now you have to flash the Android 9.0 LineageOS 16.0 Unofficial ROM on your Xiaomi Pocophone Poco F1. To do that click on install zip from SD card, select the files one after another (first Custom ROM, then Gapps) that you moved to your SD Card in step 1 and flash respectively.
+  * Wait still the update is finished. Once finished, return to the Recovery mode menu and click "Reboot System Now".
+
+How to flash Android 9.0 Pie Eragon v2.0 ROM on Elephone U Pro RW-GBT-253964602
+
+
+If your Smartphone rebooted properly devoid of any issues or lag, know that you are done with the update. It's time to mark the bug fixes, new UI and the newly added features on your Smartphone. In case you face any problems, feel free to get back to us. We shall try to find out a solution for you.
+
+Dailyhunt
+
+  * Latest
+    Weather forecast for Feb 6: Rain in Jammu and Kashmir, Himachal...
+
+    21 min ago
+
+  * Home
+
+    Off The Cuff with K.J. Alphons
+
+    23 min ago
+
+  * National
+
+    Mamata ends 3-day protest over CBI action against...
+
+    27 min ago
+
+  * Top News
+
+    Anna Hazare ends fast after meeting Devendra...
+
+    33 min ago
+
+  * Home
+
+    Poll strategist Prashant Kishor could guide Shiv Sena strategy in Lok Sabha...
+
+    43 min ago
+
+browse by topics
+
+  * BJP vs NCP
+  * Sahi Ayurveda
+  * Indian Football League
+  * Natural Beauty Secrets
+  * Budget 2019
+view all topics
+
+Newspapers
+
+* view all newspapers
+  * Blog
+  * FAQs
+  * News
+  * Books
+  * Business
+  * Work With Us
+  * Contact Us
+
+
+© 2015 DailyHunt Privacy Policy
+
+* 
+Top

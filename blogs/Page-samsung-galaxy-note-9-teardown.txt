@@ -1,0 +1,165 @@
+SUBSCRIBER LOGIN
+TechInsights Application Inside Technology IRIS Teardown Reports / Bundles New Teardown.com Report Library (Process/Circuit)
+ENGLISH
+ENGLISH CHINESE, SIMPLIFIED CHINESE, TRADITIONAL JAPANESE KOREAN
+CONTACT US |
+  * Technology Intelligence Technology Analysis Structural/Process Analysis Circuit Analysis Systems Technology Reports Technology Roadmaps Featured Reports Subscriptions IC Analysis Logic Image Sensors Internet of Things Memory Power Semiconductor Teardown Mobile Devices Wearables SSDs Notebooks & Tablets IoT Home Emerging Technologies Costing & Design Win Database (IRIS)
+  * IP Solutions IP Solutions Know Your Competition Build Better Patents Optimize Your Portfolio Assert Your IP Defend Your Business Acquire or Divest Patents For Lawyers and Law Firms Conflict of Interest and Confidential Information IP Services Evidence of Use Portfolio Assessment Patent Strengthening Patent Landscaping Prior Art Search Patent Mining Patent Transaction Services Subscriptions TechInsights Library Prior Art Library Semiconductor Library Design Wins Library Capabilities Structural/Process Analysis Circuit Analysis Systems Software
+  * About Us Overview Careers News & Events Blog Contact Us Worldwide Locations
+  * Show Menu
+  * Technology Intelligence
+      + Overview
+          o Custom Analysis
+          o Technology Reports
+      + Products
+          o ChipSelect
+              - ChipSelect ACMOS
+              - ChipSelect Image Sensors
+              - ChipSelect Design Architecture
+              - ChipSelect Internet of Things
+          o Teardown.com
+      + Technology Analysis
+          o Structural/Process Analysis
+          o Circuit Analysis
+          o Systems
+          o Software
+  * IP Solutions
+      + IP Solutions
+          o Know Your Competition
+          o Build Better Patents
+          o Optimize Your Portfolio
+          o Assert Your IP
+          o Defend Your Business
+          o Acquire or Divest Patents
+      + IP Services
+          o Patent Landscaping
+          o Patent Strengthening
+          o Patent Mining
+          o Prior Art Search
+          o Evidence of Use
+          o Portfolio Assessment
+          o Patent Transaction Services
+      + IP Products
+          o Inside Technology
+          o Prior Art Library
+          o Teardown.com
+      + Capabilities
+          o Structural/Process Analysis
+          o Circuit Analysis
+          o Systems
+          o Software
+  * Reports
+      + Search Reports
+      + Search Devices
+      + Search Images
+      + Latest Reports
+  * About Us
+      + Overview
+          o Leadership Team
+          o Careers
+          o News & Events
+          o Blog
+          o Media Resources
+      + Contact Us
+          o Worldwide Locations
+  * Customer Login
+  * 1.877.826.4447
+
+  * Samsung Galaxy Note9 Teardown
+
+ 1. Home > About TechInsights > Blog > Technology Blogs
+ 2. Subscribe to the latest TechInsights news
+
+  * 
+
+    Posted: August 14, 2018
+
+    Contributing Author: Daniel Yang
+
+
+    
+
+    Samsung officially released its latest Galaxy Note9 on August 9th. Our procurement team did an amazing job in getting the phone into our labs the very next day! The model of our Note9 is AT&T SM-N960U, 128GB.
+
+
+    Many thanks to our lab colleagues’ quick teardown which allows us an early look at what’s inside the new Note9.
+
+
+    Key Silicon Contents
+
+
+    Our AT&T Note9 model has the Qualcomm Snapdragon 845 Application Processor, along with the Samsung K3UH6H60AM-AGCJ 6GB LPDDR4X SDRAM, in a Package-on-Package (PoP). At present, the Snapdragon 845 is Qualcomm’s most advanced - and popular - Application Processor, and we have noted its design-wins in Samsung Galaxy S9/S9+ and many other flagship smartphones. We were hoping to find Samsung’s second generation 10 nm-class (1y nm) LPDDR4X mobile DRAM, but we will have to continue our search.
+
+
+    Since the Application Processor is Qualcomm’s Snapdragon 845 chipset solution, the RF Transceiver, PMIC and other components are also all from Qualcomm: RF Transceiver SDR845, PMIC PM845, and Envelope Tracking QET4100. Qualcomm also supplies the phone’s Display PMIC PM8005 and Audio Codec WCD9341.
+
+
+    In our 128GB phone, we found the NAND Flash is supplied by Samsung itself - KLUDG4U1EA-B0C1 - a 128GB UFS 2.1 flash memory.
+
+
+    Maxim wins the sockets for the PMIC MAX77705 and Audio Amplifier MAX98512. The Power Amplifier and Front-Ends are supplied by Avago (Broadcom) AFEM-9096 FEM, Skyworks SKY78160-51 FEM, and Skyworks SKY77365-11 PAM.
+
+
+    The NFC Controller 80T17 is from NXP.
+
+
+    The Wi-Fi/Bluetooth module KM8509176 is from Murata.
+
+
+    For other identified wins in the Samsung Galaxy Note9, please see the board shot images below.
+
+    
+    Samsung Galaxy Note9 Board Shot
+    
+    Samsung Galaxy Note9 Board Shot
+
+    Available Reports
+
+Manufacturer         Report Title                                                                              Device Type      Report Code 
+Samsung              Samsung K3UH6H60AM-AGCJ LPDDR4X SDRAM Memory Functional Analysis                          SDRAM            MFR-1803-801
+Qualcomm             Qualcomm QET4100 Envelope Tracker CircuitVision Analysis                                  Envelope Tracker CAR-1708-201
+NXP                  NXP Semiconductors 80T17 NFC Controller Security MCU Basic Functional Analysis            Microcontroller  FAR-1706-807
+Dialog Semiconductor Dialog Semiconductor DA14580 Low Power Bluetooth Smart SoC Analog Circuit Analysis Report Bluetooth        CAR-1502-901
+
+    A look into the Samsung Galaxy Note9 Teardown
+
+    
+    
+
+    
+
+  * About TechInsights
+
+    Leadership Team
+    Careers at TechInsights
+    News and Events
+    Blogs
+    Media Resources
+    Worldwide Office Locations
+
+  * Popular Technology Blogs
+  * Latest News and Reports
+
+      Stay up to date with the latest news and updates from TechInsights, sign up here.
+
+
+* Revealing the innovation others can't
+
+
+inside advanced technology
+
+
+Contact TechInsights
+
+
+1891 Robertson Road, Suite 500, Ottawa, ON K2H 5B7 Canada (map and directions)
+Tel: +1.613.599.6500 | Fax: +1.613.599.6501 | info@techinsights.com
+View our International Locations
+
+
+© TechInsights Inc. 2019 all rights reserved. TechInsights and the Chipworks logos are registered trademarks of TechInsights Inc.
+
+  * Sitemap
+  * Media Resources
+  * Privacy Statement
+  * Accessibility

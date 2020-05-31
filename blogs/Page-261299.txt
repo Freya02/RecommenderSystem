@@ -1,0 +1,283 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+Huawei Nova 3i Review
+
+
+
+Huawei launched the Nova 3i, along with the Nova 3 in India last month, soon after it was introduced in China. Even though this doesn’t have top-end specifications as the Nova 3, this has a similar notch design, glass-like finish on the back, a 24-megapixel front camera and it is the first smartphone to be powered by Huawei’s latest Kirin 710 Octa-Core 12nm SoC with support for GPU Turbo feature and AI features. Is the smartphone worth the price of Rs. 20,999? Let us dive into the review to find out.
+
+
+Box Contents
+
+  * Huawei Nova 3i smartphone in Iris Purple color
+  * 2-pin charger (5V-2A)
+  * Micro USB Cable
+  * Headset
+  * SIM Ejector tool
+  * Clear protective case
+  * User manual and warranty information
+
+Display, Design, and Hardware
+
+
+The Nova 3i comes with a 6.3-inch Full HD+ LCD 2.5D curved glass display with a resolution of 1080 x 2340 pixels, pixel density of 409 PPI, 19:5:9 aspect ratio with a notch and a screen-to-body ratio of about 82%. The display is bright, offers good color reproduction, thanks to 85% NTSC color gamut, has good viewing angles and the sunlight legibility is good as well.
+
+
+Like the P20 series of smartphone, this has an option to hide the notch at the top of the display that darkens the surrounding areas. Since this has a 19:9 aspect ratio screen, you can pinch to zoom to fill the screen when you use apps like YouTube, but the content gets cropped. You can also select apps to enable full screen display, but it might not work for all apps.
+
+
+You can also select the screen resolution to HD+ or select the smart resolution that automatically lowers the screen resolution to help save power. You can also change the color temperature from Default to Warm or Cold. You can also set your preferred color temperate using the color circle. The Eye comfort mode filters the blue light so the screen has a yellowish tint when the mode is enabled. This is more useful when you are reading at night as it avoids eye strain.
+
+
+On the top inside the notch, there is an earpiece with a tiny multi-color notification LED embedded into it, 24-megapixel camera along with a secondary 2-megapixel camera, and the usual set of proximity and ambient light sensors. It has gyroscope and magnetic sensor otherwise known as magnetometer for VR headsets.
+
+
+Even though the phone uses on-screen navigation, it has a small bezel below the screen, but it doesn’t have any branding like the P20 Lite.
+
+
+Coming to hardware buttons and the ports, the phone has a volume rocker and the power button on the right side, hybrid dual SIM slot on the left, secondary microphone on the top, and the 3.5mm audio jack, Micro USB port, primary microphone and the loudspeaker grill on the bottom. Like the P20 Lite, this has a Hybrid dual SIM slot that accepts two nano SIM cards or a nano SIM and a microSD. Separate slot for microSD doesn’t matter since the phone packs a huge 128GB storage.
+
+
+The back incorporates a nanometer-level light dazzle texture. The build quality is good, but the back prone to smudges easily. Under the back there is a 3,340mAh battery. The phone has a metal frame, measures 157.6×75.2×7.6mm and weighs 169 grams. Even though the phone is huge, it is easy for single-handed usage. It is recommended to use the bundled clear cover to protect the back. Overall the build quality of the phone is good, and the phone has a premium design.
+
+
+Camera
+
+
+Coming to the camera, the phone a has a 16-megapixel rear camera with 5P lens and f/2.2, PDAF along with a 2-megapixel secondary camera with f/2.2 for portrait shots, similar to the Huawei P20 Lite. On the front there is a 24-megapixel camera with 1.0 μm pixel size, f/2.0 aperture and a 78° wide-angle lens along with a 2-megapixel secondary camera with f/2.0 aperture for portrait selfies.
+
+
+The Camera UI is similar with a smart shopping feature that lets you just scan the object to ind that item on Amazon, toggle for flash, AI, moving picture mode on the top, while the bottom bar houses mini-gallery, shutter button, and video mode. It has Aperture, Portrait, AR lens that also comes with 3D animoji that can animate your facial expressions, movements and voice to generate personalized Qmoji GIFs or videos as well as AR effects using 3D objects. Other options include Pro photo, Pro Video, Slow-mo, Night, Panorama, Light painting, HDR, Time-lapse, Filter, 3D panorama, Watermark, Document scan and Artist mode.
+
+
+When AI mode is enabled, the phone can recognize 22 categories of 500+ scenes and provides optimized shooting result. Some of them include, Flower, Ancient building, Group Photo, Food, Panda, Beach, Snow, Waterfall, Text, Portrait, Night, Sunrise/ Sunset. Blue sky, Plant, Fireworks, Autumn leaves, Overcast, Auto, Bike, Cat, Dog and Stage performance. AI looks artificial since it boosts colors, but some might like it.
+
+
+Coming to the image quality, daylight images are good, macro shots are fine, but it is hard to focus and the HDR shots were better. Portrait shots are good with good amount of blur. Low-light shots have noise, but the night shot mode is better in capturing perfect image even in poor lighting since the phone has adjustable exposure of up to 32 seconds in the mode. The Night shot mode and requires a tripod since the phone needs to be steady. The front camera is pretty good at capturing details, especially in portrait mode, and the bokeh mode is good as well since it uses a separate camera instead of using software to blur the background in the P20 Lite. HDR Pro for the front camera uses AI offering balanced photographs and videos even in direct sunlight.
+
+
+Check out the camera samples below (Click the image to view the full-resolution samples).
+
+
+Without AI
+
+With AI
+
+
+Without AI
+
+
+With AI
+
+
+AI
+
+
+AI
+
+
+AI
+
+
+Dual Camera Portrait
+
+
+Dual Camera — Wide Aperture — f/4.0
+
+
+AI
+
+
+AI
+
+
+Front camera portrait with AI
+
+
+Front camera — HDR Pro
+
+
+The phone can record 1080p videos at up to 60fps, and there is also an option to choose H.265 codec in addition to H.264. With the powerful SoC, the company could have offered 4k recording. Video quality is good, and the audio is crisp since it has a secondary microphone. There is also 16x Super Slow Motion mode offering 480 frames per second video recording at 720p for 10 seconds, but the quality is not up to mark. It also has Automatic Motion Detection, which allows users to capture any fleeting moment easily. You can set and motion-detection area on the camera screen that can be adjusted, similar to the Samsung Galaxy S9 and few other high-end phones. Check out the samples below.
+
+
+Software, UI and Apps
+
+
+The phone runs on Android 8.1 Oreo with Android security update for July 2018 and has Treble support. The phone runs EMUI 8.2 out of the box. The UI gives users an option to choose the home screen style — Standard (shows all apps on the home screen) and Drawer (shows all app on drawer screen).
+
+
+Like other smartphones, it also has a one-handed mode. There is also a scheduled power on and off option so you can turn off the phone during the night and turn it on in the morning to save battery. It has Flip to mute, pickup to reduce ring and three-finger screenshot gestures. There is also ride mode. Once enabled, callers will be notified that the user is currently riding, and cannot answer calls. The feature essentially functions as a Do-Not-Disturb option that sends a message to the caller saying that the user will not be able to attend the call since they are riding. However, the caller will also get an option to call the rider in case of an emergency. App Twin feature that allows users to log-in and use two different accounts at the same time on the same phone.
+
+
+This option is used to send automatic text messages containing your estimated journey time to selected contacts when they call you while you are on a bike ride. But this option must be enabled on your device if you want to use it while riding a bike. At max, you can add upto 4 contacts to whom you can send the message while you are on a ride.
+
+
+Out of 128GB storage, you get 112GB free storage, out of 4GB RAM, 3.65GB is usable, out of which 1.83GB is free on boot, when default apps are running in the background.
+
+
+Apart from the usual set of utility apps and Google apps, the phone comes with Facebook, Instagram, Facebook and some games preinstalled, however these can be uninstalled.
+
+
+Fingerprint Sensor and Face Unlock
+
+
+The phone comes equipped with a fingerprint scanner on the back, which is comfortable to unlock when you are holding the phone. It unlocks the phone quickly. In this phone, you can add up to 5 fingerprints. And then there is a Fingerprint recognition option, which helps users to find out which fingerprint belongs which ID. You can also take photos or video, answer call, stop alarm, bring down the notification panel and browse photos with it. There is also has Face unlock the can unlock the phone quickly, but it requires a good amount of lighting to work, and is less secure compared to fingerprint.
+
+
+Music Player and FM Radio
+
+
+It has a separate music player with support for Huawei Histen sound effects as well as equalizer when you use headphones. Audio through third-party headset is good, and the loudspeaker is good as well. It also has FM Radio support.
+
+
+Connectivity, Calling and Messaging
+
+
+It supports 4G VoLTE for Reliance Jio and Airtel as well as support Dual 4G VoLTE that offers 4G in both the SIM cards at a time. This is one of the few smartphones with the feature. Other connectivity options include Wi-Fi 802.11 b/g/n, Bluetooth 4.2 LE and GPS. It also has USB OTG support that lets you connect USB drives. Moving on, the call quality is good, and we did not face any call drops and earpiece volume was loud as well.
+
+
+Performance and Benchmarks
+
+
+The phone is the first to be powered by Huawei’s own Octa-Core Kirin 710 Octa-Core 12nm processor with Mali-G51 MP4 GPUas GPU and AI photo features under the hood. 4GB RAM compliments the hardware in making multi-tasking easier than ever. Talking about the real world experience, the performance is smooth and snappy as we experienced no lag or hang. It is good even for graphic-intensive games like PUBG, but the Qualcomm counterpart, Snapdragon 660 does a better job, even though the company promises better performance with the GPU Turbo technology. Check out the synthetic benchmark score below.
+
+
+Battery life
+
+
+It is powered by 3340mAh (typical) / 3240mAh (minimum) battery under the hood, slightly bigger than the 3,000mAh battery on the P20 Lite. It can last for the whole day even with heavy use, thanks to the optimization, and it should last more than a day with casual use. It also has power saving mode and ultra-power saving mode to increase the battery life. Sadly, the phone doesn’t have fast charging and uses micro USB, which is disappointing.
+
+
+In our One Charge rating, Huawei Nova 3i scored 15 hours 41 minutes, which is good. Since doesn’t have support for fast charging it takes about 2 hours and 24 minutes to charge the phone from 0 to 100% with the bundled charger, and 0 to 50% took about 1 hour. We will bring you the complete set of battery life test results soon.
+
+
+Conclusion
+
+
+At a price tag of Rs. 20,999, the Huawei Nova 3i is just another average smartphone with a good display, attractive design, good performance and worthy cameras with AI. It lacks fast charging and 4K video recording. Hope Huawei the price of the smartphone comes down in coming months to compete with other players. The company’s own Honor Play that is Rs. 1000 cheaper offers better value for money, and there are other new contenders in the market like the POCO F1 by Xiaomi that offers a better package at the same price, if you can get one in its weekly sales.
+
+
+The Huawei Nova 3i is available exclusively from Amazon.in. The Iris Purple version went on sale earlier this week. To summarize, here are the pros and cons of the smartphone.
+
+
+Pros
+
+  * Good display
+  * Good design
+  * Brilliant front camera and decent dual rear cameras
+  * Good battery life
+
+Cons
+
+  * No 4K video recording
+  * Micro USB port and no fast charging
+  * Priced slightly on the higher side
+
+Photography by Siraj
+
+
+
+Author: Srivatsan Sridhar
+
+
+Srivatsan Sridhar is a Mobile Technology Enthusiast who is passionate about Mobile phones and Mobile apps. He uses the phones he reviews as his main phone. You can follow him on Twitter, Instagram and on Google+ View all posts by Srivatsan Sridhar
+
+Author Srivatsan SridharPosted on August 25, 2018November 15, 2018Categories Huawei, Reviews
+
+Post navigation
+
+Previous Previous post: Flipkart Superr Sale: Best deals on smartphones, TVs, accessories and more
+Next Next post: OnePlus 6T gets certified in Russia ahead of launch later this year
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * Huawei View 20 Camera Samples
+  * Nokia 5.1 Plus 4GB and 6GB RAM variants with 64GB storage launched in India
+  * ASUS OMG Days Sale from Feb 6 to 9 on Flipkart – ZenFone 5Z at Rs. 21999, Rs. 1000 off on ZenFone Max Pro M2 and more
+  * Coolpad Cool 3 with 5.71-inch HD+ dewdrop notch display, dual rear cameras, Android Pie launched in India for Rs. 5999
+  * Picooc Mini smart weighing scale launched for Rs. 2999
+  * Skullcandy SET sweat-proof in-ear sport earbuds launched in India for Rs. 2999
+  * Acer Chromebase 24I2 and Chromebase for Meetings 24V2 with 8th Gen Intel Core processor announced
+  * Instagram said to be working on ‘Main Account’ feature to manage multiple logins easier
+  * Google Live Transcribe and Sound Amplifier apps released to help hearing-impaired users communicate
+  * Google expands Instant Tethering to more Chromebooks and smartphones
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

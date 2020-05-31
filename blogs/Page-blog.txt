@@ -1,0 +1,295 @@
+English
+  * Products
+      + Mobile
+          o Overview
+          o MediaTek Helio X
+          o MediaTek Helio P
+          o MediaTek Helio A
+          o Mid-Range 4G
+          o Entry 4G
+          o 3G
+          o GMS Express
+      + Tablet
+          o Overview
+          o Tablet Products
+      + Home
+          o Overview
+          o Audio
+          o BLU-RAY, DVD, STB
+          o Digital TV
+          o Optical Disc Drive
+      + Connectivity & Networking
+          o Overview
+          o Home Networking
+          o Broadband Wi-Fi
+          o Legacy Products
+      + Automotive
+          o Overview
+          o Infotainment
+          o mmWave
+          o Telematics
+          o V-ADAS
+      + Internet of Things
+          o Overview
+          o Azure Sphere
+          o Location Intelligence
+          o M2M
+          o NB-IoT
+          o Smart Home
+          o Wearables
+  * Technology
+      + NB-IOT
+      + AI
+      + 4G LTE
+      + Fabrication
+      + White Papers
+      + Patents
+  * Features
+      + Camera
+          o Overview
+          o Mobile Photo Tips
+          o Imagiq Everyday Photography
+          o Imagiq Low Light
+          o Imagiq for Recording Video
+          o Imagiq Dual Camera
+      + Biosensor
+      + Dual 4G VoLTE
+      + Display
+          o Overview
+          o Mobile MiraVision
+      + Quick Charging
+      + CorePilot
+  * Corporate Social Responsibility
+      + Overview
+      + Overview
+          o Chairman’s Remarks
+          o Management Philosophy
+          o MediaTek Overview
+          o Goals and Performance
+          o Featured Stories in 2017
+          o Stakeholder Engagement
+          o Corporate Governance
+      + Global Operations & Perspectives
+          o Thinking on a Global Scale
+          o Global Customer Service
+          o Sustainable Supply Chain
+          o Green Operations
+      + Talent
+          o Multinational Distribution
+          o Training & Development
+          o Communication & Engagement
+          o Friendly Work Environment, Compensation & Benefits
+      + Innovation
+          o All for Our Customers
+          o Technological Innovations
+          o Coopetition with the Giants
+      + Community Engagement
+          o Caring for Taiwan
+          o Making Science Accessible
+          o Social Innovation
+          o Nurturing Advanced Talents
+          o Community Involvement
+  * About
+      + About MediaTek
+      + Everyday Genius
+      + Awards & Recognition
+      + MediaTek Ventures
+      + MediaTek Foundation
+      + Office Locations
+          o Overview
+          o China Offices
+          o Dubai Offices
+          o Finland Offices
+          o India Offices
+          o Japan Offices
+          o Korea Offices
+          o Singapore Offices
+          o Sweden Offices
+          o Taiwan Offices
+          o United Kingdom Offices
+          o United States Offices
+      + Subsidiary Information
+      + Contact Us
+  * News
+      + Press Room
+      + Media Assets
+      + Events
+  * Careers
+      + Opportunities
+      + Search for Jobs
+      + Internships
+          o Overview
+          o China
+              - Overview
+              - Gan Tang, Wireless Communications Intern
+              - Han-bin, Wireless Communications Intern
+              - 王琦
+              - 黄帅凯
+              - 李先驰, Wireless Communications Technology Intern
+              - 王俊, HTD Intern
+              - 吴波, HTD Intern
+              - Shangjie, IOT Intern
+              - Xiye, MB Intern
+          o Europe
+              - Overview
+              - Adamos, Digital Design Verification Intern, Cambourne (Cambridge), UK
+              - Alex, Communications Software Automation Intern, Cambourne (Cambridge), UK
+              - Jacob, Communications Software Automation Intern, Cambourne (Cambridge), UK
+              - Kip, Design Verification Intern, Kent, UK
+              - Moji, Advanced Digital Communication Systems Modelling intern, Cambourne (Cambridge), UK
+              - Sisi, Compute Platform Modelling Intern, Cambourne (Cambridge), UK
+              - Sophie, Communications Software Automation Intern, Cambourne (Cambridge), UK
+          o India
+              - Overview
+              - Subhalaxmi Sahoo, SOC Verification Intern
+              - Manjunatha, DT Intern
+          o Korea​
+          o Singapore
+              - Overview
+              - Meng Yuan, RF Design Intern
+              - Skandkumar Sharma, RF Design Intern
+              - Raahgini Chandrasegaran, Innovation Center Singapore
+              - Jesslyn, ADCT Department Intern
+          o Taiwan
+              - Overview
+              - Arthur, CSD Intern
+              - Jia-Jen, RF Design IO Intern
+              - Jieng-Wuen, Corporate Strategy Intern
+              - Wen-Wei, Wireless Communications Department Intern
+          o United States
+              - Overview
+              - Ahmad, RF Systems Design Intern
+              - Thomas, High Performance Technology Intern
+              - Hsin-Hui, Design Technology Intern
+              - Michael, WCT Intern
+              - Tzu-Chien, WCT Intern
+              - Samuel, SPE Team Intern
+              - Cho-Hsin, CSD Department Intern
+  * Investor Relations
+      + Financial Information
+          o Overview
+          o Monthly Revenue
+          o Quarterly Earnings Release
+          o Financial Reports
+          o Annual Reports
+              - Overview
+                  * Overview
+                  * 1. Financial Status
+                  * 2. Operating Results
+                  * 3. Cash Flow Analysis
+                  * 4. Major Capital Expenditure
+                  * 5. Investment Policies
+                  * 6. Risk Management
+                  * 7. Other Material Events
+                  * 1. Condensed Balance Sheet
+                  * 2. Condensed Statements of Comprehensive Income / Statements of Income
+                  * 3. Auditors’ Opinions from 2012 to 2016
+                  * 4. Five Year Financial Analysis
+                  * 1. Financial Status
+                  * 2. Operating Results
+                  * 3. Cash Flow Analysis
+                  * 4. Major Capital Expenditure
+                  * 5. Investment Policies
+                  * 6. Risk Management
+                  * 7. Other Material Events
+                  * 1. Condensed Balance Sheet
+                  * 2. Condensed Statements of Comprehensive Income / Statements of Income
+                  * 3. Auditors’ Opinions from 2011 to 2015
+                  * 4. Five-Year Financial Analysis
+                  * 1. Financial Status
+                  * 2. Operating Results
+                  * 3. Cash Flow Analysis
+                  * 4. Major Capital Expenditure
+                  * 5. Investment Policies
+                  * 6. Risk Management
+                  * 7. Other Material Events
+                  * 1. Condensed Balance Sheets
+                  * 2. Condensed Statements of Comprehensive Income / Statements of Income
+                  * 3. Auditors’ Opinions from 2010 to 2014
+                  * 4. Five-Year Financial Analysis
+                  * 1. Financial Status
+                  * 2. Operating Results
+                  * 3. Cash Flow Analysis
+                  * 4. Major Capital Expenditure
+                  * 5. Investment Policies
+                  * 6. Risk Management
+                  * 7. Other Material Events
+                  * 1. Condensed Balance Sheets
+                  * 2. Condensed Income Statement
+                  * 3. Independent Auditors’ Opinions
+                  * 4. Financial Statements for the Past 5 Years
+  * Shareholder Services
+      + Shareholder Meetings
+      + Dividend History
+      + Analyst Coverage
+      + Transfer Agent Contact
+      + Stock Quote
+      + Material Information
+      + M.O.P.S (2454)
+  * Corporate Governance
+      + Overview
+      + Board of Directors
+      + Audit Committee
+      + Renumeration Committee
+      + Corporate Management
+      + Internal Auditing
+  * FAQ
+  * Investor News
+  * Events Calendar
+  * Contact Investor Relations
+* Blog
+  * Language
+  * Home
+      + Products
+      + Technology
+      + Features
+      + Corporate Social Responsibility
+      + About
+      + News
+      + Careers
+      + Investor Relations
+      + Blog
+  * Tek Talk
+  * Oppo F9 powered by MediaTek Helio P60
+  * Categories
+      + All
+      + Careers
+      + Corporate
+      + Partners
+      + Products
+      + Technology
+      + Helio
+
+Oppo F9 powered by MediaTek Helio P60
+
+
+
+
+Aug 17, 2018 - 8:30 AM - Partners
+
+The OPPO F9 is the latest designer smartphone to be powered by the MediaTek Helio P60. This 6.3-inch device features a huge 90.9% coverage display with tall 19.5:9 ratio and pin-sharp FullHD+ (2340 x 1080 pixel) resolution. The 'waterdrop' screen nestles an elegantly designed front-facing camera that can shoot 25MP selfies. Its sensor is packed with HDR and AI selfie enhancements, which are backed by the P60's multi-core AI processor.
+
+As usual, OPPO's color and style is trend-setting, with a hue-changing gradient-effect and 'petal patterned' Sunrise Red, Twilight Blue and Starry Purple to choose from on the F9.
+
+
+At the back, OPPO includes a dual-camera array - a first for its F series - with 16+2MP sensors that can capture beautiful photos with depth of field (bokeh) effects. The MediaTek Helio P60 silicon includes a triple-core ISP that's optimized for power efficiency plus other in-hardware engines such as the EIS, anti-blooming, RSC, CCU, Instant AE and much more. HDR specific handling enhancements include real-time HDR recording and viewing capacity, RAW-domain multi-frame HDR and Zig-Zag HDR.
+
+
+The octa-core MediaTek Helio P60 features four powerful Arm Cortex-A73 plus four efficiency-focused Arm Cortex-A53 processors, and a fast Arm Mali-G73-based graphics engine. OPPO pairs this powerhouse to 4-6GB of fast LPDDR4x and 64GB of storage. The Android 8.1 OS has OPPO's popular ColorOS 5.2 atop, offering enhancements such as screen off music listening, AR camera object identification or the ability to specifically handle incoming social media messaging while gaming.
+
+
+Meanwhile, OPPO's VOOC Flash Charge means a quick 5-minute battery boost gives 2 hours of talk-time. Its large 3,500mAh battery and smart management system actively learns your usage patterns, enabling you to be more productive.
+
+ABOUT MEDIATEK
+
+Careers Contact Us
+NEWS & EVENTS
+Press Room Events Blog
+INVESTOR RELATIONS
+Financial Information Shareholder Meetings Corporate Governance Investor News Investor Calendar
+DISCOVER
+MediaTek Labs MediaTek Security MediaTek Foundation MediaTek Ventures
+JOIN OUR NEWSLETTER
+SUBMIT
+Cookie Statement Legal Notice Privacy Policy
+© 2019 MediaTek Inc. All Rights Reserved

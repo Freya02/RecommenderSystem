@@ -1,0 +1,278 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+Huawei P20 Lite Review
+
+
+
+Huawei introduced the Nova 3e back in March, which was launched in India as P20 Lite along with the P20 Pro last month. Even though this might not have top-end specifications as the P20 or the P20 Pro, this has a similar notch design, glass-like finish on the back and a 24-megapixel front camera. Is the smartphone worth the price of Rs. 19,999? Let us dive into the review to find out.
+
+
+Box Contents
+
+
+  * Huawei P20 Lite smartphone in Klein Blue color
+
+  * 2-pin charger (5V-2A)
+  * USB Type-C Cable
+  * Headset
+  * SIM Ejector tool
+  * Clear protective case
+  * User manual and warranty information
+
+Display, Design, and Hardware
+
+
+The Huawei P20 Lite comes with a 5.84-inch Full HD+ LCD 2.5D curved glass display with a resolution of 1080 x 2280 pixels, pixel density of 432 PPI, 19:9 aspect ratio with a notch and a screen-to-body ratio of about 80%. The display is bright, offers good color reproduction, thanks to 96% NTSC super high-colour gamut, has good viewing angles and the sunlight legibility is good as well. It also has toughened glass for protection says the company with revealing which one it is.
+
+
+Similar to the P20 and the P20 pro, this has an option to hide the notch at the top of the display that darkens the surrounding areas. Since this has a 19:9 aspect ratio screen, you can pinch to zoom to fill the screen when you use apps like YouTube, but the content is cropped. You can also select apps to enable full screen display, but it might not work for all apps. You can also select the screen resolution to HD+ or select the smart resolution that automatically lowers the screen resolution to help save power.
+
+
+You can also change the colour temperature from Default to Warm or Cold. You can also set your preferred colour temperate using the colour circle. The Eye comfort mode filters the blue light so the screen has a yellowish tint when the mode is enabled. This is more useful when you are reading at night as it avoids eye strain.
+
+
+On the top inside the notch, there is an earpiece, 24-megapixel camera along with the usual set of proximity and ambient light sensors and a tiny notification LED that glows in different colors. It has gyroscope and magnetic sensor otherwise known as magnetometer for VR headsets.
+
+
+Even though the phone uses on-screen navigation, it has a small bezel below the screen that has Huawei branding.
+
+
+Coming to hardware buttons and the ports, the phone has a volume rocker and the power button on the right side, hybrid dual SIM slot on the left, secondary microphone on the top, and the 3.5mm audio jack, USB Type-C port, primary microphone and the loudspeaker grill on the bottom.
+
+
+Similar to the Honor 7X and the 9i, this has a Hybrid dual SIM slot that accepts two nano SIM cards or a nano SIM and a microSD.
+
+
+The back incorporates a nanometer-level light dazzle texture. The build quality is good, but the back prone to smudges easily. Under the back there is a 3,000 mAh battery. The phone has a metal frame, measures 71.2 x 148.6 x 7.4mm and weighs 145 grams, making it comfortably hold the phone.
+
+
+It is recommended to use the bundled clear cover to protect the back. Overall the build quality of the phone is good, and the phone has a premium design.
+
+
+Camera
+
+
+Coming to the camera, the phone a has a 16-megapixel rear camera with 5P lens, 1.12 μm pixel size and f/2.2 along with a 2-megapixel secondary camera with 3P lens for portrait shots. On the front there is a 24-megapixel camera with 1.0 μm pixel size, f/2.0 aperture and a 78° wide-angle lens.
+
+
+The Camera UI is similar to other Huawei and Honor phones that has a toggle for flash, wide aperture mode, portrait mode, moving picture mode and camera option, while the bottom bar houses mini-gallery, shutter button, and video mode. It has Pro photo, Pro Video, HDR, Time Lapse, Night shot, Good Food, Panorama, Light paint, Filter and more. You also get beautify mode that removes any blemishes and marks on your skin to provide a perfect selfie. The front camera also offers the same amount of features except for the Night shot and Light painting. There is also AR lens option to add live AR effects.
+
+
+Coming to the image quality, daylight images are good, macro shots are fine, but it is hard to focus and the HDR shots were better. Portrait shots are good, but the background blur is not perfect. Low-light shots have a lot of noise, but the night shot mode is better in capturing perfect image even in poor lighting since the phone has adjustable exposure of up to 32 seconds in the mode. The Night shot mode and requires a tripod since the phone needs to be steady. The front camera is pretty good in capturing details, especially in portrait mode, however the bokeh mode is uneven and looks artificial since it uses software to blur the background. Check out the camera samples below (Click the image to view the full-resolution samples).
+
+
+Dual Camera – Wide Aperture – f/4.0
+
+
+Dual Camera Bokeh
+
+
+Dual Rear Camera Portrait
+
+
+HDR OFF
+
+
+HDR ON
+
+
+Low-light Normal
+
+
+Night mode – Shutter speed 19s
+
+
+Front Camera Portrait
+
+
+Front camera Bokeh
+
+
+The phone can record 1080p videos at 30fps, which is a restriction due to the processor. Video quality is good, and the audio is crisp since it has a secondary microphone. Check out the sample below.
+
+
+Software, UI and Apps
+
+
+The phone runs on Android 8.0 Oreo with Android security update for April 2018 and has Treble support. The phone runs EMUI 8.0 out of the box. This UI gives users an option to choose the home screen style — Standard (shows all apps on the home screen) and Drawer (shows all app on drawer screen).
+
+
+Like other smartphones, it also has a one-handed mode. There is also a scheduled power on and off option so you can turn off the phone during the night and turn it on in the morning to save battery. It has Flip to mute, pickup to reduce ring and three-finger screenshot gestures. There is also ride mode. Once enabled, callers will be notified that the user is currently riding, and cannot answer calls. The feature essentially functions as a Do-Not-Disturb option that sends a message to the caller saying that the user will not be able to attend the call since they are riding. However, the caller will also get an option to call the rider in case of an emergency. App Twin feature that allows users to log-in and use two different accounts at the same time on the same phone.
+
+
+This option is used to send automatic text messages containing your estimated journey time to selected contacts when they call you while you are on a bike ride. But this option must be enabled on your device if you want to use it while riding a bike. At max, you can add upto 4 contacts to whom you can send the message while you are on a ride.
+
+
+Out of 64GB storage, you get 52.12GB free storage, out of 4GB RAM, 3.7GB is usable, out of which 2.05GB is free on boot, when default apps are running in the background.
+
+
+Apart from the usual set of utility apps and Google apps, the phone comes with Facebook, Instagram, Facebook Messenger, UC Browser, Truecaller, Netflix and several games pre-installed, however these can be uninstalled.
+
+
+Fingerprint Sensor and Face Unlock
+
+
+The phone comes equipped with a fingerprint scanner on the back, which is comfortable to unlock when you are holding the phone. It unlocks the phone quickly. In this phone, you can add up to 5 fingerprints. And then there is a Fingerprint recognition option, which helps users to find out which fingerprint belongs which ID. You can also take photos or video, answer call, stop alarm, bring down the notification panel and browse photos with it.
+
+
+It also has Face unlock the can unlock the phone quickly, but it requires a good amount of lighting to work, and is less secure compared to fingerprint.
+
+
+Music Player and FM Radio
+
+
+It has a separate music player with support for Huawei Histen sound effects as well as equalizer when you use headphones. Audio through third-party headset is good, and the loudspeaker is good as well. It also has FM Radio support.
+
+
+Connectivity, Calling and Messaging
+
+
+It supports connectivity options including 4G VoLTE for Reliance Jio and Airtel, WiFi 802.11 b/g/n, Bluetooth 4.2 LE, GPS and USB Type-C. The phone has option for call forwarding between SIMs when one SIM is busy. It has 4G support on both the SIMs, but only one SIM supports 4G and the other goes to 2G. It also has USB OTG support that lets you connect USB drives. Moving on, the call quality is good and we did not face any call drops and earpiece volume was loud as well.
+
+
+Performance and Benchmarks
+
+
+The phone is powered by Octa-Core Kirin 659 processor with Mali T830-MP2 as GPU under the hood, same as Honor 7X, 9i and the 9 Lite. Talking about the real world experience, the performance is smooth and snappy as we experienced no lag or hang. The 4GB RAM compliments the hardware in making multi-tasking easier than ever. It is good for casual games, but not for graphic-intensive games like PUBG which struggles. Check out the synthetic benchmark of the below, in which it scores average in CPU-based benchmark, but struggles in GPU benchmarks.
+
+
+Battery life
+
+
+The P20 Lite is powered by 3,000mAh battery under the hood, same as the Honor 9 Lite. It can last for the whole day even with heavy use, thanks to the optimization, and it should last more than a day with casual use. It also has power saving mode and ultra power saving mode to increase the battery life.
+
+
+In our One Charge rating, Huawei P20 Lite scored 15 hours 16 minutes, which is decent, but it could have been better since the Honor 9i scores slightly more. Even though it has a USB Type-C port, it doesn’t have support for fast charging so it takes about 3 hours to charge the phone from 0 to 100% with the bundled charger, even 0 to 50% charging took about 1 and half hours, which is really frustrating when you forget to charge the phone in the morning. We will bring you the complete set of battery life test results soon.
+
+
+Conclusion
+
+
+At a price tag of Rs. 19,999, the Huawei P20 Lite is just an average smartphone with a good display, attractive design and a worthy selfie camera, otherwise there is nothing unique about the device since this uses the same under-powered Kirin 659 SoC when we get smartphones with better SoCs at even less price. It also lacks fast charging which is disappointing. Hope Huawei will reduce the price of the smartphone in coming months to compete with other players since the mid-range smartphone war is heating up.
+
+
+The Huawei P20 Lite is available exclusively from Amazon.in. To summarize, here are the pros and cons of the smartphone.
+
+
+Pros
+
+  * Good display
+  * Good design
+  * Good selfie camera and decent dual rear cameras
+  * Decent battery life
+
+Cons
+
+  * Under-powered SoC for the price
+  * Priced slightly on the higher side
+  * No fast charging
+  * Hybrid Dual SIM might not be preferred by everyone
+
+Photography by Siraj
+
+
+
+Author: Srivatsan Sridhar
+
+
+Srivatsan Sridhar is a Mobile Technology Enthusiast who is passionate about Mobile phones and Mobile apps. He uses the phones he reviews as his main phone. You can follow him on Twitter, Instagram and on Google+ View all posts by Srivatsan Sridhar
+
+Author Srivatsan SridharPosted on June 8, 2018August 25, 2018Categories Huawei, Reviews
+
+Post navigation
+
+Previous Previous post: Sony Xperia Ear Duo wireless headphones with Google Assistant and Siri integration starts rolling out globally
+Next Next post: Yahoo Messenger will shut down on July 17 after 20 years
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * Microsoft Office 365 now available via the Apple Mac App Store
+  * Gmail v8.12 starts testing Dynamic Email support
+  * Apple iOS 12.2 beta brings new ‘Hey Siri’ setup for the rumored AirPods 2
+  * Twitter confirms it is testing “Original Tweeter” tag to distinguish who started a thread
+  * Facebook is shutting down Moments app on February 25th
+  * Samsung Galaxy A9 Pro (2019) with 6.4-inch FHD+ Infinity-O display, 6GB RAM, triple rear cameras announced
+  * Get Android 9.0 Pie on Redmi Note 5 Pro with OxygenOS 9.0 port
+  * Nokia 2 users will get Android Oreo update option soon, but there’s a catch
+  * Xiaomi Redmi Go Android Oreo (Go Edition) smartphone with 5-inch HD display surfaces
+  * WhatsApp Business clocks 5 million active users; gets web and desktop support, new features
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

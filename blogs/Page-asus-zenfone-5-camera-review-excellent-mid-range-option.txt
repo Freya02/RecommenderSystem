@@ -1,0 +1,295 @@
+Skip to content
+  * Smartphones
+  * Lenses
+  * Cameras
+  * Articles
+  * About
+      + English
+      + 中文
+      + English
+      + 中文
+
+We are hiring!
+
+
+Mobile Review, Smartphone Review
+
+
+Asus ZenFone 5 camera review: Excellent mid-range option
+
+Posted on May 16, 2018January 22, 2019 by Lars Rehm
+Mobile
+90
+
+The Asus ZenFone 5 is the Taiwanese manufacturer’s contribution to the upper mid-range segment of the smartphone market. Featuring a Qualcomm Snapdragon 636 chipset, 4GB of RAM, and an almost bezel-less 6.2-inch LCD display in a sleek body, the device offers plenty of processing power and a large screen for general use. There’s also a lot on offer in the imaging department: the ZenFone 5 comes with a dual camera that combines a 12Mp main camera with a 24mm-equivalent focal length lens and a secondary 8Mp camera with a super-wide-angle lens. The main camera also features optical image stabilization and a Dual-Pixel AF system.
+
+
+Key camera specifications:
+
+  * Dual camera
+  * 12Mp main camera with 1/2.55″ sensor, f/1.8-aperture lens (24mm-equivalent focal length)
+  * 8Mp secondary camera with 1/4″ sensor, f/2.2-aperture lens (12mm equivalent focal length)
+  * Optical image stabilization on main camera
+  * Dual-Pixel autofocus on main camera
+  * LED flash
+
+About DxOMark Mobile tests: For scoring and analysis in our smartphone camera reviews, DxOMark engineers capture and evaluate over 1500 test images and more than 2 hours of video both in controlled lab environments and in natural indoor and outdoor scenes, using the camera’s default settings. This article is designed to highlight the most important results of our testing. For more information about the DxOMark Mobile test protocol, click here. More details on how we score smartphone cameras are available here.
+
+
+Test summary
+
+
+With an overall DxOMark score of 90 points, the Asus ZenFone 5 does very well for a device in its class. In still image mode, the camera delivers a balanced performance across all shooting situations, with generally good color and exposure, earning itself a good Photo score of 93 points. Drawbacks include some luminance noise in blue skies, even in very bright light, as well as a cyan-shift effect and occasional ghosting artifacts on moving subjects in high-contrast scenes. We have also occasionally seen a slight pink cast in some outdoor scenes.
+
+
+Mainly due to low levels of detail, the Video score is a little lower at 86 points, but overall, the Asus has a lot to offer for mobile photographers and video shooters alike.
+
+
+Bright light
+
+Bright light images show good color and decent detail, but there is some luminance noise in blue skies.
+
+The ZenFone’s performance in bright light leaves little reason to complain. Image detail is not quite on the same level as the very best high-end devices, but it’s close: colors are vivid and pleasant in almost all situations, and target exposure tends to be spot on. The Asus does especially well in high-contrast scenes, where it’s capable of capturing images with a very wide dynamic range, showing good shadow detail and keeping highlight clipping in bright areas of the frame to a minimum. The autofocus performance is one of the best we have seen, with the system providing fast and accurate focus in all situations.
+
+
+On the downside, some luminance noise is visible in blue skies, even in very bright light; in high-contrast scenes, ghosting artifacts can be visible on moving subjects; and occasionally there is a slight pink cast in some outdoor scenes. None of those issues are deal breakers, though, and overall the ZenFone 5 does a very good job in bright conditions.
+
+
+Low light and Flash
+
+
+Although in bright light the Asus comes quite close to the best devices in our ranking, the difference between it and the top end becomes more obvious in dimmer conditions, with the ZenFone 5 images showing more noise and lower levels of detail than such devices as the Google Pixel 2 and the Huawei P20. Color and exposure are still good down to very low light levels, however, and the autofocus system performs just as well as in bright conditions, making the Asus a more than suitable option for indoor shooting.
+
+The ZenFone 5 delivers good dynamic range in this scene, but noise and a loss of detail become more obvious in indoor and low-light conditions.
+
+The ZenFone 5’s flash images show some of the same problems we’ve seen on many other devices. Flash images tend to show vignetting, and depending on illumination, slight color casts. There is also a lack of detail and texture, but portraits don’t usually show any red-eye effect, and the ZenFone’s dual-LED flash can be a useful “get out of jail” option in very difficult lighting conditions.
+
+
+Zoom and Bokeh
+
+
+Without a secondary tele-lens or high-resolution sensor for enhanced digital zoom, zooming is not the ZenFone 5’s strongest point. There is a noticeable loss of detail as soon as you start zooming in, and coarse luminance noise and aliasing artifacts make an appearance as well. It’s best to leave the zoom function untouched and get closer to the subject whenever possible when shooting with the Asus.
+
+
+Bokeh mode does quite a decent job, however. Under closer inspection, some background segmentation artifacts will be visible around the subject, but blur strength and transitions are very pleasant. Further, the mode blurs the foreground in addition to the background, making for an overall quite natural-looking effect. Just keep in mind that dynamic range is reduced in bokeh mode compared to standard shooting, so you can end up with clipped skin tones, as seen in the sample below, or a cyan-shift effect in the sky.
+
+The Asus ZenFone 5 bokeh produces natural-looking results, but offers a narrower dynamic range than standard shooting mode.
+
+Photo scores explained
+
+
+With a total 93 points, the Asus ZenFone 5 achieves a good Photo score for a mid-range device. The overall Photo score is calculated from sub-scores in tests that examine different aspects of its performance under different lighting conditions. In this section, we’ll take a closer look at these image quality sub-scores.
+
+
+Exposure and Contrast (92)
+
+
+At 92 points, the Asus ZenFone 5 achieves a very good score for exposure, and dynamic range plays an important part in this. The Asus camera is capable of capturing a very wide range of tones, and images show very good shadow detail, while at the same time keeping highlight clipping very well under control. In fact, dynamic range is so wide that some HDR scenes can have a slightly unnatural look. (Whether or not you like this look comes down to personal taste.)
+
+
+In the comparison below you can see that in our HDR scene the Asus brightens the shadows noticeably more than the Huawei P20 and Google Pixel 2. On the downside, a cyan-shift is visible in the sky.
+
+Asus ZenFone 5
+Huawei P20
+Google Pixel 2
+
+The Asus also deals well with difficult high-contrast portraits, such as the backlit scene below. It sacrifices some highlight details in the background, but exposure on the image’s main subject is excellent.
+
+In this backlit portrait scene, the subject is very well-exposed, but some highlight details are clipped in the brighter background.
+
+We very occasionally saw slight underexposure in our test samples in indoor light conditions, but in general, target exposure is spot on, from bright outdoor scenes down to very low light levels, such as in the 5 Lux studio shot below. This means the camera is still capable of getting you a usable exposure even when shooting in very dim conditions.
+
+Our test chart is well-exposed at a light level of 5 Lux.
+
+Color (86)
+
+
+The ZenFone 5’s color performance is excellent, with a score on the same level as the Google Pixel 2 and other high-end devices. As you can see in the samples below, color rendering is generally very pleasant in all situations. Images are nicely saturated and vivid, but still natural-looking. In the comparison below there are some differences in terms of contrast and tonality, but overall, all three devices produce nice-looking images.
+
+Asus ZenFone 5
+Huawei P20
+Google Pixel 2
+
+We deducted some points for an occasional slight pink white balance cast and some color shading in lower light. That said, you’ll have to look very closely to spot these imperfections.
+
+A slight pinkish cast is occasionally noticeable (under close inspection) in outdoor images.
+Slight color shading (pink at the center, greenish at the edges of the frame) is just about visible in this studio shot captured under 20 Lux tungsten light.
+
+Autofocus (98)
+
+
+Autofocus performance is one of the ZenFone 5’s strengths, and at 98 points, the score is on the same level as the Google Pixel 2 and the Huawei P20. The camera delivers well-focused images in pretty much all situations and light levels. Even in low light and with a short delay between defocusing and pulling the trigger, focus is quick and reliable, as you can see in the chart below.
+
+Defocusing between each shot and then requesting focus, the ZenFone 5 delivered in-focus images both with a 500ms and 2000ms delay before triggering the shutter.
+
+Texture (68) and Noise (55)
+
+
+Texture and noise are heavily interlinked, which is why it makes sense to look at the two test criteria in conjunction. In good light conditions, the ZenFone 5 delivers a good trade-off between detail and noise, but is not quite on the same level as the Huawei P20 and Google Pixel 2 in the comparison below.
+
+Crop of image from Asus ZenFone 5 at 1000 Lux.
+Crop of image from Huawei P20 at 1000 Lux.
+Crop of image from Google Pixel 2 at 1000 Lux.
+
+The difference becomes more obvious in lower light. In the 20 Lux crops below, we can see that the Asus camera can’t quite provide the same levels of detail as its best competitors, and is also noticeably noisier in these dimmer light conditions.
+
+Crop of image from Asus ZenFone 5 at 20 Lux.
+Crop of image from Huawei P20 at 20 Lux.
+Crop of image from Google Pixel 2 at 20 Lux.
+
+Noise can also be quite intrusive in bright light images, however, with luminance noise grain usually quite visible in dark blue skies in particular. The best-in-class devices deliver smoother results in these situations.
+
+Noise can be quite visible in blue skies.
+Crop
+
+Here is another look at noise on skin tones. As in the samples above, the difference between the Asus and its rivals in bright light is small but noticeable. Things become much more obvious in lower light, where the ZenFone 5 produces visibly grainier skin tones than the Pixel 2 and the P20.
+
+Crop of image from Asus ZenFone 5 at 1000 Lux.
+Crop of image from Huawei P20 at 1000 Lux.
+Crop of image from Google Pixel 2 at 1000 Lux.
+Crop of image from Asus ZenFone 5 at 5 Lux.
+Crop of image from Huawei P20 at 5 Lux.
+Crop of image from Google Pixel 2 at 5 Lux.
+
+Artifacts (62)
+
+
+Image artifacts are generally well-controlled on the ZenFone 5. The camera’s main issue is ghosting-like fusion artifacts that can sometimes be visible in high-contrast scenes. They won’t necessarily be noticed by the casual observer, but they’re pretty easy to spot if you’re looking for them, as you can see in the sample shot of the moving hand below.
+
+Fringing along high-contrast edges and some ringing are fairly noticeable under close inspection.
+This crop shows the ghosting effect on the white background to the left of the hand.
+
+On some rare occasions we have also spotted something that looks like image corruption. The lady bugs on the wall in the image below are partly desaturated, and red color appears on the wall, which is in reality white. That said, we’d expect this issue to be fixed with a software update in the near future. We also deducted points for ringing and a cyan-shift effect that can be visible in some skies close to saturation. Those are quite minor problems on the Asus, however.
+
+The image is partly corrupted, showing red to the right of the lady bugs on the white wall.
+
+Flash (79)
+
+
+With a score of 79, the ZenFone 5’s flash performance is only average. When shooting flash images in complete darkness, the subject in our test scene is slightly underexposed, and vignetting is quite noticeable in the corners. There is also a visible loss of detail, with the subject’s facial features rendered quite softly. Exposure is visibly better when shooting at ambient light levels of 5 Lux, but detail is still quite poor. The image also shows some chroma noise and a pinkish color cast towards the edges of the frame. As with many smartphones, you’re usually best off shooting without flash even in low-light situations, but it’s good to have the option on board, just in case the lighting doesn’t leave a choice.
+
+Flash exposure without any additional light sources.
+Flash exposure along with 5 Lux tungsten illumination.
+
+Zoom (27)
+
+
+Zooming is one of the ZenFone 5’s weaknesses. This is partly due to Asus’s decision to include a super-wide-angle lens instead of a tele-lens in the ZenFone 5’s dual camera, but image processing leaves room for improvement as well. Both our comparison devices, the Google Pixel 2 and the Huawei P20, come with single-lens cameras, but achieve better results than the Asus at a 2x short zoom range.
+
+
+When using the ZenFone 5’s zoom function, there is a strong loss of detail, and both aliasing artifacts and luminance noise are quite intrusive. The Huawei and Google comparison images are far from perfect, but visibly better than the Asus. It’s also worth mentioning that dynamic range is reduced when zooming, presumably because multi-frame image fusion is deactivated with the zoom engaged.
+
+Asus ZenFone 5 zoom at short range.
+Huawei P20 zoom at short range.
+Google Pixel 2 zoom at short range.
+Crop of Asus ZenFone 5 zoom.
+Crop of Huawei P20 zoom.
+Crop of Google Pixel 2 zoom.
+
+Bokeh (40)
+
+
+The ZenFone 5 camera is capable of capturing images that simulate the “DSLR-look” quite well, but some depth estimation imperfections are usually noticeable around the main subject. On the plus side, blur transitions are smooth and the bokeh mode blurs objects in the foreground, not just behind the subject. The overall bokeh effect has quite a natural look to it, with just the right amount of blur applied.
+
+
+It’s worth noting that like in zoom mode, dynamic range is reduced when shooting bokeh images. This can lead to clipping on skin tones and other bright areas of the image. We can often see the cyan-shift effect in blue skies that is caused by clipping one or two color channels.
+
+The ZenFone 5 produces a quite natural bokeh effect, with blur not only applied to the background but also to the foreground.
+
+Video scores explained
+
+
+At 86 points, the Asus ZenFone 5 achieves a slightly lower score for its video performance than for still image quality. The overall Video score is calculated using a range of sub-scores to give us some indication of the device’s pros and cons for shooting moving images: Exposure (79), Color (86), Autofocus (90), Texture (44), Noise (64), Artifacts (83), and Stabilization (76).
+
+
+In many respects, the ZenFone 5’s video output looks quite similar to its still images, with generally good target exposure, and good color and white balance performance. In addition, the Asus stabilization system works quite well, keeping things pretty steady when holding the camera still and while walking. On the downside, orange casts are visible under lower tungsten lighting, and the autofocus, while generally quite fast and accurate, has a tendency to frequently refocus, which can lead to noticeable differences in sharpness between frames.
+
+
+Our video samples also often show a cyan-shift effect in the sky (see sample frame grab below), but the ZenFone 5’s main drawback in video mode is a lack of detail. Fine detail and textures are not rendered as nicely across all light levels as on the best-in-class devices, the Google Pixel 2 and the Huawei P20, making the Asus a less preferable option for video shooting.
+
+A cyan-shift effect is often visible in video clips that show blue skies.
+
+Conclusion: Good camera performance in the mid-range segment
+
+
+To most users, Asus might not be the first brand that springs to mind when thinking about smartphones, but the Taiwanese manufacturer has been showing for a long time that it’s more than capable of designing devices that can compete with the big smartphone brands. The new ZenFone 5 mid-ranger is no exception. It might not be for you if you rely on good-quality zoom images, but it comes with an excellent autofocus system, and delivers good image quality with excellent dynamic range in bright light across all shooting situations.
+
+
+There is a noticeable drop-off in detail and an increase in image noise once the light gets dimmer, but the autofocus system works just as well as in bright light, and exposure and color are nice down to very low light levels. The video mode’s main drawback is slightly low levels of detail across all light levels, but otherwise the Asus is capable of recording decent moving images as well, making it a very good option for anyone who values camera performance but doesn’t want to spend top-end money.
+
+
+It is also important to keep in mind that, as with the LG V30, the ZenFone 5’s wide-angle lens does not have an impact on the scores in our test protocol. Nonetheless, it is an important feature and differentiator that many users might find useful.
+
+90
+mobile
+Asus ZenFone 5
+93
+photo
+Asus ZenFone 5
+86
+video
+Asus ZenFone 5
+
+Pros
+
+  * Good dynamic range in bright light
+  * Fast, accurate, and repeatable autofocus
+  * Nicely rendered detail and textures in bright light
+  * Accurate white balance in most situations
+
+Pros
+
+  * Generally accurate target exposure
+  * Fairly good white balance in bright light and indoor conditions
+  * Decent stabilization in static outdoor scenes
+
+Cons
+
+  * Fusion artifacts in HDR scenes
+  * Image corruption (orange blocks) on some rare occasions
+  * Quite noticeable noise in the sky, even in bright light
+  * Loss of detail and chroma noise in flash images
+  * Depth artifacts, color casts, and exposure inaccuracies in bokeh mode
+
+Cons
+
+  * Quite noticeable levels of luminance noise, especially in low light
+  * Loss of detail in all light conditions
+  * Frequent refocusing while panning or walking during recording
+  * Cyan shift in the sky in high-contrast scenes
+About
+  * Our Company
+  * Editorial Team
+  * Join Us
+  * Legal
+Latest Posts
+  * 29
+    Jan
+    Xiaomi Pocophone F1 camera review
+  * 22
+    Jan
+    First-ever DxOMark Selfie scores revealed!
+  * 22
+    Jan
+    Interview: Saverio Lombardi Vallauri
+  * 22
+    Jan
+    Google Pixel 3 front camera review
+  * 22
+    Jan
+    Samsung Galaxy Note 9 front camera review
+Tags
+apple aps-c Bokeh canon entry-level-phone full-frame google high-end-phone huawei intex lens mid-range-phone mirrorless mobile nokia pentax roundup samsung science selfie sensor sony testing xiaomi Zoom
+Newsletter
+
+Enter your email to sign up for our monthly newsletter!
+
+
+Leave this field empty if you're human:
+
+Copyright © 2008-2019 DxOMark Image Labs. All rights reserved.
+  * Smartphones
+  * Lenses
+  * Cameras
+  * Articles
+  * About

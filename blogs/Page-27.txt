@@ -1,0 +1,120 @@
+ProductsSolutionsSupportCompany
+
+OnQ Blog
+
+OnQ Blog
+
+On-device AI acceleration debuts on Motorola smartphones with the Snapdragon Neural Processing Engine
+
+
+Nov 27, 2017
+
+
+Qualcomm products mentioned within this post are offered by Qualcomm Technologies, Inc. and/or its subsidiaries.
+
+
+Motorola’s Moto X is back, and the fourth-generation phone, the Moto X4, powered by the Qualcomm Snapdragon 630 Mobile Platform won’t disappoint. This mid-range phone packs in impressive features like dual rear cameras, an ultra-low light selfie camera, a precision-crafted glass and metal exterior, and an IP-68 water resistance rating. Along with Motorola’s flagship Moto Z2 Force, on the Snapdragon 835, it’s also the first commercially available phone to feature the Qualcomm Snapdragon Neural Processing Engine (NPE) for acceleration of on-device artificial intelligence (AI) user experiences.
+
+
+Learn more about the Moto X4
+
+
+Moto X4 site
+
+
+Gaining insights with Landmark Detection
+
+
+Using the Snapdragon NPE, the Motorola original deep learning model uses on-device processing to identify landmarks in near real-time, then provides users with additional information about them.
+
+
+To activate the Landmark Detection feature, simply point the smartphone at an object of interest, (click on the ‘x’ icon) and the phone is engineered to recognize the landmark using a neural network trained to identify more than 1,200 landmarks from around the world. Compact and efficient Motorola deep learning model is running on Qualcomm NPE which helps accelerate the speed of identification by distributing processing to Qualcomm Adreno 510 GPU (on the Snapdragon 630) and Adreno 540 (on the Snapdragon 835), For additional context, the Landmark Detection feature links to the relevant Wikipedia page for the identified landmark. For travelers, Landmark Detection can make all the difference when exploring a new city. For locals, it’s an innovative way to learn more about sights in their own backyard.
+
+
+More about the Moto X2 Force, second generation
+
+
+Moto Z2 Force site
+
+
+Accelerating AI with the Snapdragon NPE
+
+
+The Snapdragon NPE was designed to empower developers and OEMs to create network-driven features that will make users’ lives easier, without sacrificing power or performance. With this AI tool, developers can choose the optimal CPU, GPU, or DSP core for a specific user experience. Utilizing deep neural networks within the Snapdragon mobile platform will also give OEMs the freedom to advance AI in not only mobile devices, but also in automotive, healthcare, security, and imaging products. The Moto X4’s Landmark Detection is only one example of what’s possible for on-device AI.
+
+
+Learn more about the Moto X4 and the MotoZ2 Force, both now available for purchase.
+
+
+Qualcomm Snapdragon is a product of Qualcomm Technologies, Inc.
+
+Artificial IntelligenceMotorola
+
+Engage with us on
+
+
+Twitter and Facebook
+
+
+Opinions expressed in the content posted here are the personal opinions of the original authors, and do not necessarily reflect those of Qualcomm Incorporated or its subsidiaries ("Qualcomm"). Qualcomm products mentioned within this post are offered by Qualcomm Technologies, Inc. and/or its subsidiaries. The content is provided for informational purposes only and is not meant to be an endorsement or representation by Qualcomm or any other party. This site may also provide links or references to non-Qualcomm sites and resources. Qualcomm makes no representations, warranties, or other commitments whatsoever about any non-Qualcomm sites or third-party resources that may be referenced, accessible from, or linked to this site.
+
+
+Kristin Wyman
+
+
+Staff Manager, Product Marketing
+
+
+More articles from this author
+
+
+About this author
+
+
+Related News
+
+
+OnQ Blog
+
+
+How 5G changes the way you watch and collaborate [video]
+
+Jan 24, 2019
+
+OnQ Blog
+
+
+How automakers can meet the growing demand for differentiated in-vehicle experiences
+
+Jan 8, 2019
+
+OnQ Blog
+
+
+CES 2019: Unlocking the Invention Age with 5G
+
+Jan 7, 2019
+
+OnQ Blog
+
+
+How 5G changes the way we shop and socialize [video]
+
+Dec 19, 2018
+
+OnQ Blog
+
+
+With help from Qualcomm Technologies, the iRobot Roomba i7+ Robot Vacuum delivers more intelligent, effective cleaning
+
+Dec 17, 2018
+Language
+About QualcommCareersOfficesContact UsSupportSubscription Center
+Terms of UsePrivacyCookies
+
+©2019 Qualcomm Technologies, Inc. and/or its affiliated companies.
+
+
+References to "Qualcomm"; may mean Qualcomm Incorporated, or subsidiaries or business units within the Qualcomm corporate structure, as applicable.
+Materials that are as of a specific date, including but not limited to press releases, presentations, blog posts and webcasts, may have been superseded by subsequent events or disclosures.
+Qualcomm Incorporated includes Qualcomm's licensing business, QTL, and the vast majority of its patent portfolio. Qualcomm Technologies, Inc., a wholly-owned subsidiary of Qualcomm Incorporated, operates, along with its subsidiaries, substantially all of Qualcomm's engineering, research and development functions, and substantially all of its products and services businesses. Qualcomm products referenced on this page are products of Qualcomm Technologies, Inc. and/or its subsidiaries.

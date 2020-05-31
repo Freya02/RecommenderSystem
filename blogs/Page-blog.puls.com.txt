@@ -1,0 +1,259 @@
+* Book a Service
+      + Phone Repair
+      + TV Mounting
+      + Smart Home
+      + Garage Doors
+      + Home Appliances
+  * Our Services
+      + Phone Repair
+      + TV Mounting
+      + Smart Home
+      + Garage Doors
+      + Home Appliances
+  * Pricing
+  * How it Works
+  * About Us
+  * Become a Tech
+  * Blog
+  * Home
+  * Our Services
+      + Phone Repair
+      + TV Mounting
+      + Smart Home
+      + Garage Doors
+      + Home Appliances
+  * Pricing
+  * FAQ
+  * Blog
+  * About Us
+  * Become a Tech
+  * Book a Service
+      + Phone Repair
+      + TV Mounting
+      + Smart Home
+      + Garage Doors
+      + Home Appliances
+
+The Beat: The Puls Blog
+
+
+Discover Puls news, tips and insights for all your at-home needs.
+
+  * Smartphone
+
+A Mind of Their Own: Google Pixel 2 & Pixel 2 XL Release
+
+Read More →
+
+  * Smartphone (105)
+
+  * TV Mounting (47)
+  * Home Appliances (26)
+  * Garage Doors (22)
+  * Puls News (15)
+* All Posts
+
+A Mind of Their Own: Google Pixel 2 & Pixel 2 XL Release
+
+  * Tweet
+
+* Credit: Google
+
+
+Last week Google launched their 2nd generation flagship android phones - the Pixel 2 and Pixel 2 XL. The event held in San Francisco on Wednesday may have seemed at first like Google celebrating their great strides in hardware, with the unveiling of new gadgets and accessories to accompany the impressive-looking Pixel 2 phone. But if you listened closely, Google was actually directing our attention towards their vision for the future of smartphones, a future where software and AI is king and hardware takes a backseat.
+
+
+Pixel 2 & Pixel 2 XL features
+
+
+Most consumers don’t choose their next phone based on the philosophy or vision behind it. Let’s face it - first we fall for a phone’s design, specs, stats and above all - its cool features. Only later do we (sometimes) get immersed in the world around it. The Pixel 2 is the latest hook Google is using to lure us deeper into its world - as if we aren’t already fully ensconced. So before we dive into the whole software vs. hardware discussion, let’s talk about the Pixel 2 & Pixel 2 XL specs & features.
+
+
+Pixel 2 & Pixel 2 XL - identical in features, vary in size
+
+
+First off, Google tremendously helped out all indecisive consumers (as well as tech bloggers everywhere) by making the Pixel 2 and the Pixel 2 XL practically equal in features, with size being the only difference between the two. Mario Queiroz, VP of product at Google, pointed out that “we don’t set aside better features for the larger device”, taking the first swing of the night at Apple by referring to the iPhone 8 vs. 8 Plus advanced camera features divide.
+
+
+Let’s get our differences out of the way, so we can focus on the features shared by the two Pixel phones:
+
+
+Credit: James Martin/CNET
+
+
+Pixel 2: Screen: 5-inch AMOLED display with 1080×1920 pixel resolution.
+
+
+Size: 145.7 x 69.7 x 7.8 mm.
+
+
+Weight: ONLY 143 grams.
+
+
+Pixel 2 XL phone. Credit: James Martin/CNET
+
+
+Pixel 2 XL: 6-inch P-OLED display with 1440×2880 pixel resolution.
+
+
+Size: 157.9 x 76.7 x 7.9 mm.
+
+
+Weight: ONLY 175 grams.
+
+
+Look & Feel: Both phones are very light for their size, and feel really good in your hand. They are super sleek with an aluminum build and a no-bezel look, making the both Pixel phones feel premium despite their lightness. Thanks to the OLED technology both screens offer an always-on mode, which means you can see the date and time when the phone is off if you wish.
+
+
+Pixel 2 Processor and storage
+
+
+Both new Pixel phones are powered by Qualcomm Snapdragon 835 processors with 4GB RAM, and come with 64GB and 128GB options. In simple terms this means they’re fast enough to run complex AI, VR and image processing tasks, and their screens are sharp enough to display the best graphics. This is very important because the Pixel 2 camera may very well be the best of the current smartphone class.
+
+
+Credit: James Martin/CNET
+
+
+Google dodges the double camera trend to become #1 ranked camera
+
+
+Both Pixels have a single 12.2 MP rear camera with f/1.8 lens, and an 8 MP front camera with f/2.4 lens. Single back camera? In this day and age? That’s right, instead of using 2 cameras (more hardware), Google insists its machine learning software algorithms produce a better effect than the dual cameras placed on the back of their competitor's phones, ie Apple’s iPhone 8 Plus and Samsung’s Galaxy Note 8.
+
+
+Using autofocus with laser and dual-pixel phase detection, mixed with optical and electronic image stabilization and tons of image processing capabilities, the Pixel 2 portrait mode is truly awesome, delivering superb photos again and again. Some tests are already ranking the single Pixel 2 camera as #1 among the flagship cameras, dethroning the iPhone 8 and the Galaxy Note 8 in terms of image quality. With the Pixel 2 being Google’s 2nd attempt at manufacturing an in-house handset, and taking a very different approach than the competition, this is very impressive indeed.
+
+
+No headphone jack, no wireless charging
+
+
+Perhaps the biggest news in terms of design, and falling right in line with the latest trend set by Apple, Google has got rid of the 3.5mm headphone jack on the Pixel 2 and 2 XL. If you’re one of us few who are still using your analog headphones in public, you can use a USB-C adapter for the time being, before they become completely obsolete worldwide. Otherwise, Bluetooth 5.0 will do the trick.
+
+
+A trendy wagon the Pixel 2 didn’t jump on is wireless charging, with the official statement by Google claiming the technology isn’t fast enough yet. The new Pixel phones charge super fast - 15 minutes are said to be enough to last 7 hours.
+
+
+Pixel 2 and Pixel 2 XL phones, in various colors. Credit: Google
+
+
+Colors, availability, and price
+
+
+Colors: The Pixel 2 comes in 3 colors: Kinda Blue, Just Black, Clearly White.
+
+
+The Pixel 2 XL comes in 2: Just Black and Black and White (with a red button that’s quite noticeable).
+
+
+Availability: In the US you can already preorder your Pixel 2 or 2 XL, and they will hit the stores on Oct. 19th.
+
+
+Price: The Pixel 2 costs $649 (64GB) or $749 (128GB).
+
+
+The Pixel 2 XL costs $849 (64GB) or $949 (128GB).
+
+
+Snap and search - Google search assistant is now built into Pixel cameras. Credit: CNET
+
+
+Software is what Google does best
+
+
+The single-camera is only one example of the way Google plans to use software to shift the mobile market towards its products. Given that all flagship phones are becoming more similar in features, hardware capabilities, even looks & style(!), Google plans to stand out from the crowd using sophisticated software that can help us humans put all this fantastic hardware to better use.
+
+
+Artificial intelligence (AI) and specifically machine learning has always been one of Google’s core strengths. The search giant uses machine learning to train its algorithms and recognize user patterns in many of its products, including Search, Maps, Assistant and more. Now it’s using these same algorithms and the endless user data it possesses to help us take better pictures with a single camera.
+
+
+There are more AI examples that were demonstrated during the event: Google Lens will give you search results based on the object you point your phone at; real-time language translation is here with the help of the new Pixel Buds earphones; simply squeeze your phone to launch Google Assistant, and it looks like there are many more uses to come. Instead of the cool features being part of the phone itself, the neat demonstrations are now concentrated around how the phone interacts with its surroundings.
+
+
+Puls is authorized by Google to fix your Pixel phones
+
+
+At Puls we are all about fixing phones fast, which is why we love minimalistic design. As a Google authorized repair service for Pixel phones, we only ever use original Pixel parts. We are super excited about Google’s single camera solution, which means that without compromising image quality, there’s one less camera to fix in case something goes wrong. In general, we think the Pixel 2 phones are very sturdy, water and dust resistant to IP67, and very well built. In time we will gather more usage and breakage statistics, so be sure to stay updated for tips on how to protect your new Pixel 2 phones.
+
+
+Miles H.
+
+  * Recent
+  * Popular
+  * Categories
+
+Lists by Topic
+
+  * Smartphone (105)
+  * TV Mounting (47)
+  * Home Appliances (26)
+  * Garage Doors (22)
+  * Puls News (15)
+
+Subscribe and Get The Latest News
+
+
+Related Posts
+
+
+What Are the Best Dryer Repair Companies?
+
+
+If you've ever had a dryer break down, you know what a pain it is. What are you supposed to do with a washer full of wet clothes?
+
+  * Debbie D.
+  * 4 min read
+  * 02/05/19
+
+How to Diagnose a Broken Refrigerator
+
+
+Out of all the appliances in your home, the refrigerator is the one you rely on the most. Whether it’s reaching for that glass of orange juice in the morning or pulling out fresh produce to prepare a meal in the evening, we rely on our fridge to keep things cold and keep our food safe for consumption.
+
+  * Jamie B.
+  * 5 min read
+  * 02/05/19
+
+Dryer Repair Cost: How Much Should I Pay for Dryer Repair?
+
+
+If your clothes aren’t coming out completely dry at the end of a laundry cycle, there’s no need to let it dampen your spirit. Still, it can be daunting to deal with a technician if you’re not sure how much it should cost for dryer repair – after all, not knowing what you’re getting yourself into can make your head spin.
+
+  * Jake S.
+  * 4 min read
+  * 02/04/19
+  * Company
+      + About Us
+      + How it Works
+      + Become a Tech
+      + Pricing
+      + Careers
+      + Blog
+      + Newsroom
+      + Affiliate Program
+      + Media inquiries
+      + Puls on Wikipedia
+      + Home
+  * Partnerships
+      + Google
+      + Samsung SmartThings
+      + TCL
+      + SimpliSafe
+      + Hisense
+      + Puls for business
+  * Help
+      + FAQ
+  * Popular Devices
+      + iPhone 6
+      + iPhone 7
+      + iPhone 8
+      + iPhone X
+
+Stay in Touch
+
+
+* (855) 256-3709 | support@puls.com
+
+
+© Puls Technologies Inc 2019
+
+
+Puls Technologies Inc. is not in any way associated with Puls GmbH of Munchen

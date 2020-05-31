@@ -1,0 +1,265 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+Honor 7C Review
+
+
+
+Huawei’s Honor brand launched the Honor 7C along with the Honor 7A in the ‘7 series’ in India in May. This succeeds the Honor 6C, which did not launch in India, but it is a major upgrade in terms of design, display, camera, and more, to the Honor 5C, which was launched in the country back in 2016. Should you get it? Let us jump into the review to find out.
+
+
+Box Contents
+
+
+  * Honor 7C smartphone in Gold color
+
+  * 2-pin charger (5V-2A)
+  * Micro USB cable
+  * SIM ejector tool
+  * User guide
+
+Display, Design, and Hardware
+
+
+The main change in the Honor 7C compared to the Honor 5C/6C is its 18:9 2.5D curved glass screen with gentle rounded corners. It has a large 5.99-inch HD+ display with a pixel resolution of 1440 × 720 pixels and a pixel density of about 268 PPI. The display is bright, sunlight legibility is good, and the color reproduction and viewing angles are good as well. Even though the pixel density is less compared to the Honor 9 Lite or the Honor 7X, the display is good for the price. It doesn’t have Corning Gorilla Glass protection. The company doesn’t say if this uses any kind of scratch-resistant glass for protection.
+
+
+Since this has a 18:9 aspect ratio screen, you can pinch to zoom to fill the screen when you use apps like YouTube, but the content is cropped. Several apps support full-screen.You can also select apps to enable full screen display, but it might not work for all apps. You can select smart resolution that automatically lowers the screen resolution to help save power.
+
+
+You can change the colour temperature from Default to Warm or Cold. You can also set your preferred colour temperate using the colour circle. The Eye comfort mode filters the blue light so the screen has a yellowish tint when the mode is enabled. This is more useful when you are reading at night as it avoids eye strain.
+
+
+On the top, there is an earpiece, 8-megapixel camera along with the usual set of proximity and ambient light sensors and a tiny notification LED that glows in different colors. On the other side of the earpiece there is a soft LED flash. It has gyroscope and magnetic sensor otherwise known as magnetometer for VR headsets.
+
+
+Even though the phone uses on-screen navigation, it has a small bezel below the screen that has Honor branding.
+
+
+Coming to hardware buttons and the ports, the phone has a volume rocker and the power button on the right side, dual SIM slot on the left, and the 3.5mm audio jack, Micro USB port, primary microphone and the loudspeaker grill on the bottom. There is nothing on the top. Unlike the Honor 7X and the 9i, this has dedicated dual SIM and microSD card slots arranged in a single tray. It accepts microSD cards up to 256GB.
+
+
+The back has a metal finish in the middle, and the top and the bottom parts have plastic finish where the antennas are present. The build quality is good, but the back prone to smudges easily, also the plastic parts are scratched easily when you place the phone on a rough surface. It is recommended to a cover to protect the back. Overall the build quality of the phone is good, even though it doesn’t have an appealing design.
+
+
+Under the back there is a 3,000 mAh battery. The phone measures 158.3 x 76.7 x 7.8mm and weighs 164 grams. This is slightly bigger than the Honor 7X and 9i, and has about 76% screen-to-body ratio.
+
+
+Camera
+
+
+Coming to the camera, the phone a has a 13-megapixel rear camera with f/2.2 aperture along with a 2-megapixel secondary camera. On the front there is an 8-megapixel camera with f/2.0 aperture sensor.
+
+
+The Camera UI is similar to other Honor phones that has a toggle for flash, wide aperture mode, beauty mode and front camera toggle, while the bottom bar houses mini-gallery, shutter button, and video mode. It has HDR, Panorama, Good Food, Document Scan, Filter and Watermark modes. You also get beautify mode that removes any blemishes and marks on your skin to provide a perfect selfie. The front camera also offers the same amount of features except for HDR.
+
+
+Coming to the image quality, daylight images are good, macro shots are fine, but it is hard to focus and the HDR shots were better. It doesn’t have option for Portrait shots, but it has wide aperture mode. Low-light shots have a lot of noise as usual. Images with flash is good and is not overpowering. The front camera is good, but it could have been better.
+
+
+Check out the camera samples below (Click the image to view the full-resolution samples).
+
+
+Dual Camera – Wide Aperture – f/4.0
+
+
+Dual Camera – Wide Aperture – f/4.0
+
+
+Dual Camera – Wide Aperture – f/4.0
+
+
+HDR OFF
+
+
+HDR ON
+
+
+The phone can record 1080p videos at 30fps. Video quality is good, but it could have been better. It doesn’t have slow-motion video recording. Check out the sample below.
+
+
+Software, UI and Apps
+
+
+The phone runs on Android 8.0 (Oreo) with Android security update for March 2018 and has Treble support. The phone runs EMUI 8.0 out of the box. This UI gives users an option to choose the home screen style — Standard (shows all apps on the home screen) and Drawer (shows all app on drawer screen).
+
+
+Like other smartphones, it also has a one-handed mode. There is also a scheduled power on and off option so you can turn off the phone during the night and turn it on in the morning to save battery. It has Flip to mute, pickup to reduce ring and three-finger screenshot gestures. There is also ride mode. Once enabled, callers will be notified that the user is currently riding, and cannot answer calls. The feature essentially functions as a Do-Not-Disturb option that sends a message to the caller saying that the user will not be able to attend the call since they are riding. However, the caller will also get an option to call the rider in case of an emergency. App Twin feature that allows users to log-in and use two different accounts at the same time on the same phone.
+
+
+This option is used to send automatic text messages containing your estimated journey time to selected contacts when they call you while you are on a bike ride. But this option must be enabled on your device if you want to use it while riding a bike. At max, you can add upto 4 contacts to whom you can send the message while you are on a ride. At the launch the company said that the phone will get real-time audio monitoring feature through earbuds, allowing you to listen to your own voice while recording your singing via OTA update in the future.
+
+
+Out of 64GB storage, you get 54.7GB free storage, out of 4GB RAM, 3.57GB is usable, out of which 2.14GB is free on boot, when default apps are running in the background.
+
+
+Apart from the usual set of utility apps and Google apps, the phone comes with Facebook, Instagram, Facebook Messenger, UC Browser, Truecaller, Netflix and several games pre-installed, however these can be uninstalled.
+
+
+Fingerprint Sensor and Face Unlock
+
+
+The phone comes equipped with a fingerprint scanner on the back, which is comfortable to unlock when you are holding the phone. It unlocks the phone quickly. In this phone, you can add up to 5 fingerprints. And then there is a Fingerprint recognition option, which helps users to find out which fingerprint belongs which ID. You can also take photos or video, answer call, stop alarm, bring down the notification panel and browse photos with it.
+
+
+It also has Face unlock the can unlock the phone quickly, but it requires a good amount of lighting to work, and is less secure compared to fingerprint.
+
+
+Music Player and FM Radio
+
+
+It has a separate music player with support for Huawei Histen sound effects when you use headphones. Audio through third-party headset is good, and the loudspeaker is good as well. It also has FM Radio support.
+
+
+Connectivity, Calling and Messaging
+
+
+It supports connectivity options including 4G VoLTE for Reliance Jio and Airtel, WiFi 802.11 b/g/n, Bluetooth 4.2 LE and GPS. It also has dual Bluetooth feature allows the phone to connect with two devices via Bluetooth at the same time. The phone has option for call forwarding between SIMs when one SIM is busy. It has 4G support on both the SIMs, but only one SIM supports 4G and the other goes to 3G. It also has USB OTG support that lets you connect USB drives. Moving on, the call quality is good and we did not face any call drops and earpiece volume was loud as well.
+
+
+Performance and Benchmarks
+
+
+Unlike most of the Honor smartphone that are powered by Octa-Core Kirin 659 processor like the 7X, 9i and the 9 Lite, this is powered by an Octa-Core Snapdragon 450 Mobile Platform with eight ARM Cortex A53 cores clocked at 1.8GHz per core and has 3GB or 4GB of RAM depending on the model. The SoC is more than enough to run a phone with a HD+ screen, and the performance is good without any lags. It gets a bit heated on intensive gaming and 4G data use, but it doesn’t too hot to handle. It also has a Adreno 506 GPU that offers good gaming performance.
+
+
+Talking about the real world experience, the performance is smooth and snappy as we experienced no lag or hang. The 4GB RAM compliments the hardware in making multi-tasking easier than ever. It is good for casual games, but not for graphic-intensive games which struggles. Check out the synthetic benchmark of the below.
+
+
+Battery life
+
+
+The Honor 7C is powered by 3,000mAh battery under the hood, same as the Honor 9 Lite. It can last for the whole day even with heavy use, thanks to the optimization, and it should last more than a day with casual use. It also has power saving mode and ultra power saving mode to increase the battery life.
+
+
+In our One Charge rating, the phone scored 14 hours 59 minutes, which is not on par with the Honor 9 Lite, but it still good. It doesn’t have support for fast charging, so take over 2 hours to charge the phone from 0 to 100% with the bundled charger, and 0 to 50% charging took 42 minutes, which is not bad. We will bring you the complete set of battery life test results soon.
+
+
+Conclusion
+
+
+At a starting price of Rs. 9,999, the Honor 7C is good upgrade to 2016’s Honor 5C. It has a larger screen, faster SoC, sleek design, dedicated dual SIM and microSD slots, and good battery life. Even though it has dual rear cameras, the image quality is not the best compared to other phones in the range. If you can mange with hybrid SIM slots, the Honor 7X that received a price cut recently at Rs. 2000 higher price tag is a better choice since it features a better screen, cameras and it will also get the GPU Turbo graphics processing acceleration technology later this year that will make the phone faster.
+
+
+The Honor 7C is now available on open sale exclusively on Amazon.in at Rs. 9999 for the 3GB RAM with 32GB storage version and Rs. 11,999 for 4GB RAM with 64GB storage version. It also comes with Rs. 2200 cashback offer as well as 50GB and 100GB additional data, respectively from Reliance Jio. To summarize, here are the pros and cons of the smartphone.
+
+
+Pros
+
+  * Good performance
+  * Good battery life
+  * Good build quality
+  * Dedicated dual SIM and microSD slots
+
+Cons
+
+  * Average cameras
+  * EMUI interface might not be preferred by everyone
+
+Photography by Siraj
+
+
+
+Author: Srivatsan Sridhar
+
+
+Srivatsan Sridhar is a Mobile Technology Enthusiast who is passionate about Mobile phones and Mobile apps. He uses the phones he reviews as his main phone. You can follow him on Twitter, Instagram and on Google+ View all posts by Srivatsan Sridhar
+
+Author Srivatsan SridharPosted on July 4, 2018Categories Huawei, India, Reviews
+
+Post navigation
+
+Previous Previous post: Huawei Nova 3 with 6.3-inch Full HD+ display, 6GB RAM, dual front and rear cameras gets certified, could go official on July 18 [ Update: New teaser]
+Next Next post: OnePlus 5 and OnePlus 5T OxygenOS Beta update brings Treble support, new user interface and more
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * JAYS m-Six Wireless sweatproof In-ear Bluetooth 5.0 headphones launched in India for Rs. 7999
+  * GOQii RunGPS with integrated GPS, heart rate sensor launched
+  * Microsoft Surface Pro 6 and Surface Laptop 2 with 8th Gen Intel Core processors launched in India
+  * Realme C1 (2019) with 6.2-inch HD+ display, dual rear cameras, 32GB storage, 4230mAh battery launched in India starting at Rs. 7499
+  * Google Android Q might block background clipboard reads, bring support for downgrading apps, new fonts, icon shapes and more
+  * Honor 8C Review
+  * Nokia 3.1 Plus and Nokia 2 V launched in the US on Cricket and Verizon
+  * Microsoft Cortana integration with To-Do is now rolling out to everyone
+  * Google I/O 2019 scheduled from May 7 to 9
+  * LG, KAIST teamup for development of 6G mobile communication technology
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

@@ -1,0 +1,184 @@
+WordPress.org
+
+Search WordPress.org for: Submit
+Toggle Menu
+  * Showcase
+  * Themes
+  * Plugins
+  * Mobile
+  * Support
+      + Documentation
+      + Forums
+  * Get Involved
+  * About
+  * Blog
+  * Hosting
+  * Get WordPress
+
+Theme Directory
+
+  * Commercial Themes
+  * Upload Your Theme
+1
+  * Featured
+  * Popular
+  * Latest
+Feature Filter
+Apply Filters Clear
+Filtering by:
+Edit
+
+Layout
+
+ 1. Grid Layout
+ 2. One Column
+ 3. Two Columns
+ 4. Three Columns
+ 5. Four Columns
+ 6. Left Sidebar
+ 7. Right Sidebar
+ 8. Wide Blocks
+
+Features
+
+ 1. Accessibility Ready
+ 2. Block Editor Styles
+ 3. BuddyPress
+ 4. Custom Background
+ 5. Custom Colors
+ 6. Custom Header
+ 7. Custom Logo
+ 8. Custom Menu
+ 9. Editor Style
+10. Featured Image Header
+11. Featured Images
+12. Flexible Header
+13. Footer Widgets
+14. Front Page Posting
+15. Full Width Template
+16. Microformats
+17. Post Formats
+18. RTL Language Support
+19. Sticky Post
+20. Theme Options
+21. Threaded Comments
+22. Translation Ready
+
+Subject
+
+ 1. Blog
+ 2. E-Commerce
+ 3. Education
+ 4. Entertainment
+ 5. Food & Drink
+ 6. Holiday
+ 7. News
+ 8. Photography
+ 9. Portfolio
+Return to Themes List
+Show previous theme Show next theme
+
+Bloggers Lite
+
+
+By solwininfotech
+
+Preview Download
+
+Version: 1.3.9
+
+
+Last updated: August 22, 2018
+
+
+Active Installations: 500+
+
+Theme Homepage
+
+Bloggers Lite theme is a beautifully designed responsive WordPress Theme for your blog website. It supports and comes with fully customize home page presentations, drop-down menus with various different concepts, Avartan Slider Lite plugin support for slider and Blog Designer plugin support for different blog variations, lots of other useful features inside theme options as a customizer.
+
+
+Tags:
+
+Blog, Custom Background, Custom Colors, Custom Menu, Featured Images, Left Sidebar, Right Sidebar, Sticky Post, Threaded Comments, Translation Ready
+
+Ratings
+
+See all
+
+5 out of 5 stars.
+
+  * 5 stars 1
+  * 4 stars 0
+  * 3 stars 0
+  * 2 stars 0
+  * 1 star 0
+Add my review
+
+Support
+
+
+Got something to say? Need help?
+
+View support forum
+
+Report
+
+
+Does this theme have major issues?
+
+Report this theme
+
+Translations
+
+
+Translate Bloggers Lite
+
+
+Development
+
+
+Subscribe
+
+  * Development Log
+
+Browse the Code
+
+  * Development Log
+  * Subversion Repository
+  * Browse in Trac
+  * Trac Tickets
+
+No themes found. Try a different search.
+
+  * About
+  * Blog
+  * Hosting
+  * Donate
+  * Support
+  * Developers
+  * Get Involved
+  * Showcase
+  * Plugins
+  * Themes
+  * WordCamp
+  * WordPress.TV
+  * BuddyPress
+  * bbPress
+  * WordPress.com
+  * Matt
+  * Privacy
+  * Public Code
+
+* Code is Poetry.
+
+Skip to toolbar
+  * About WordPress
+      + About WordPress
+      + WordPress.org
+      + Documentation
+      + Support Forums
+      + Feedback
+  * Search
+  * Log In
+  * Register

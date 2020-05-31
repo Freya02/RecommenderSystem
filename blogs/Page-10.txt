@@ -1,0 +1,494 @@
+Blog
+
+The latest news from Google AI
+
+Portrait mode on the Pixel 2 and Pixel 2 XL smartphones
+
+Tuesday, October 17, 2017
+Posted by Marc Levoy, Principal Engineer and Yael Pritch, Software Engineer
+
+Portrait mode, a major feature of the new Pixel 2 and Pixel 2 XL smartphones, allows anyone to take professional-looking shallow depth-of-field images. This feature helped both devices earn DxO's highest mobile camera ranking, and works with both the rear-facing and front-facing cameras, even though neither is dual-camera (normally required to obtain this effect). Today we discuss the machine learning and computational photography techniques behind this feature.
+                                                                                                                                                                                                                                                                                               
+HDR+ picture without (left) and with (right) portrait mode. Note how portrait mode’s synthetic shallow depth of field helps suppress the cluttered background and focus attention on the main subject. Click on these links in the caption to see full resolution versions. Photo by Matt Jones
+What is a shallow depth-of-field image?
+A single-lens reflex (SLR) camera with a big lens has a shallow depth of field, meaning that objects at one distance from the camera are sharp, while objects in front of or behind that "in-focus plane" are blurry. Shallow depth of field is a good way to draw the viewer's attention to a subject, or to suppress a cluttered background. Shallow depth of field is what gives portraits captured using SLRs their characteristic artistic look.
+
+The amount of blur in a shallow depth-of-field image depends on depth; the farther objects are from the in-focus plane, the blurrier they appear. The amount of blur also depends on the size of the lens opening. A 50mm lens with an f/2.0 aperture has an opening 50mm/2 = 25mm in diameter. With such a lens, objects that are even a few inches away from the in-focus plane will appear soft.
+
+One other parameter worth knowing about depth of field is the shape taken on by blurred points of light. This shape is called bokeh, and it depends on the physical structure of the lens's aperture. Is the bokeh circular? Or is it a hexagon, due to the six metal leaves that form the aperture inside some lenses? Photographers debate tirelessly about what constitutes good or bad bokeh.
+
+Synthetic shallow depth of field images
+Unlike SLR cameras, mobile phone cameras have a small, fixed-size aperture, which produces pictures with everything more or less in focus. But if we knew the distance from the camera to points in the scene, we could replace each pixel in the picture with a blur. This blur would be an average of the pixel's color with its neighbors, where the amount of blur depends on distance of that scene point from the in-focus plane. We could also control the shape of this blur, meaning the bokeh.
+
+How can a cell phone estimate the distance to every point in the scene? The most common method is to place two cameras close to one another – so-called dual-camera phones. Then, for each patch in the left camera's image, we look for a matching patch in the right camera's image. The position in the two images where this match is found gives the depth of that scene feature through a process of triangulation. This search for matching features is called a stereo algorithm, and it works pretty much the same way our two eyes do.
+
+A simpler version of this idea, used by some single-camera smartphone apps, involves separating the image into two layers – pixels that are part of the foreground (typically a person) and pixels that are part of the background. This separation, sometimes called semantic segmentation, lets you blur the background, but it has no notion of depth, so it can't tell you how much to blur it. Also, if there is an object in front of the person, i.e. very close to the camera, it won't be blurred out, even though a real camera would do this.
+
+Whether done using stereo or segmentation, artificially blurring pixels that belong to the background is called synthetic shallow depth of field or synthetic background defocusing. Synthetic defocus is not the same as the optical blur you would get from an SLR, but it looks similar to most people.
+
+How portrait mode works on the Pixel 2
+The Google Pixel 2 offers portrait mode on both its rear-facing and front-facing cameras. For the front-facing (selfie) camera, it uses only segmentation. For the rear-facing camera it uses both stereo and segmentation. But wait, the Pixel 2 has only one rear facing camera; how can it see in stereo? Let's go through the process step by step.
+Step 1: Generate an HDR+ image.
+Portrait mode starts with a picture where everything is sharp. For this we use HDR+, Google's computational photography technique for improving the quality of captured
+photographs, which runs on all recent Nexus/Pixel phones. It operates by capturing a burst of images that are underexposed to avoid blowing out highlights, aligning and averaging these frames to reduce noise in the shadows, and boosting these shadows in a way that preserves local contrast while judiciously reducing global contrast. The result is a picture with high dynamic range, low noise, and sharp details, even in dim lighting.
+The idea of aligning and averaging frames to reduce noise has been known in astrophotography for decades. Google's implementation is a bit different, because we do it on bursts captured by a handheld camera, and we need to be careful not to produce ghosts (double images) if the photographer is not steady or if objects in the scene move. Below is an example of a scene with high dynamic range, captured using HDR+.
+                                                                                                                                                                                                          
+Photographs from the Pixel 2 without (left) and with (right) HDR+ enabled. Notice how HDR+ avoids blowing out the sky and courtyard while retaining detail in the dark arcade ceiling. Photo by Marc Levoy
+Step 2: Machine learning-based foreground-background segmentation.
+Starting from an HDR+ picture, we next decide which pixels belong to the foreground (typically a person) and which belong to the background. This is a tricky problem, because unlike chroma keying (a.k.a. green-screening) in the movie industry, we can't assume that the background is green (or blue, or any other color) Instead, we apply machine learning.
+In particular, we have trained a neural network, written in TensorFlow, that looks at the picture, and produces an estimate of which pixels are people and which aren't. The specific network we use is a convolutional neural network (CNN) with skip connections. "Convolutional" means that the learned components of the network are in the form of filters (a weighted sum of the neighbors around each pixel), so you can think of the network as just filtering the image, then filtering the filtered image, etc. The "skip connections" allow information to easily flow from the early stages in the network where it reasons about low-level features (color and edges) up to later stages of the network where it reasons about high-level features (faces and body parts). Combining stages like this is important when you need to not just determine if a photo has a person in it, but to identify exactly which pixels belong to that person. Our CNN was trained on almost a million pictures of people (and their hats, sunglasses, and ice cream cones). Inference to produce the mask runs on the phone using TensorFlow Mobile. Here’s an example:
+                                                                                                                                                                                                                                                                   
+At left is a picture produced by our HDR+ pipeline, and at right is the smoothed output of our neural network. White parts of this mask are thought by the network to be part of the foreground, and black parts are thought to be background. Photo by Sam Kweskin
+How good is this mask? Not too bad; our neural network recognizes the woman's hair and her teacup as being part of the foreground, so it can keep them sharp. If we blur the photograph based on this mask, we would produce this image:
+                                                              
+Synthetic shallow depth-of-field image generated using a mask.
+There are several things to notice about this result. First, the amount of blur is uniform, even though the background contains objects at varying depths. Second, an SLR would also blur out the pastry on her plate (and the plate itself), since it's close to the camera. Our neural network knows the pastry isn't part of her (note that it's black in the mask image), but being below her it’s not likely to be part of the background. We explicitly detect this situation and keep these pixels relatively sharp. Unfortunately, this solution isn’t always correct, and in this situation we should have blurred these pixels more.
+Step 3. From dual pixels to a depth map
+To improve on this result, it helps to know the depth at each point in the scene. To compute depth we can use a stereo algorithm. The Pixel 2 doesn't have dual cameras, but it does have a technology called Phase-Detect Auto-Focus (PDAF) pixels, sometimes called dual-pixel autofocus (DPAF). That's a mouthful, but the idea is pretty simple. If one imagines splitting the (tiny) lens of the phone's rear-facing camera into two halves, the view of the world as seen through the left side of the lens and the view through the right side are slightly different. These two viewpoints are less than 1mm apart (roughly the diameter of the lens), but they're different enough to compute stereo and produce a depth map. The way the optics of the camera works, this is equivalent to splitting every pixel on the image sensor chip into two smaller side-by-side pixels and reading them from the chip separately, as shown here:
+                                                                                                                                                                                                                                                                                
+On the rear-facing camera of the Pixel 2, the right side of every pixel looks at the world through the left side of the lens, and the left side of every pixel looks at the world through the right side of the lens. Figure by Markus Kohlpaintner, reproduced with permission.
+As the diagram shows, PDAF pixels give you views through the left and right sides of the lens in a single snapshot. Or, if you're holding your phone in portrait orientation, then it's the upper and lower halves of the lens. Here's what the upper image and lower image look like for our example scene (below). These images are monochrome because we only use the green pixels of our Bayer color filter sensor in our stereo algorithm, not the red or blue pixels. Having trouble telling the two images apart? Maybe the animated gif at right (below) will help. Look closely; the differences are very small indeed!
+                                                                                                                                                                                                                                                                                                                                                    
+Views of our test scene through the upper half and lower half of the lens of a Pixel 2. In the animated gif at right, notice that she holds nearly still, because the camera is focused on her, while the background moves up and down. Objects in front of her, if we could see any, would move down when the background moves up (and vice versa).
+PDAF technology can be found in many cameras, including SLRs to help them focus faster when recording video. In our application, this technology is being used instead to compute a depth map. Specifically, we use our left-side and right-side images (or top and bottom) as input to a stereo algorithm similar to that used in Google's Jump system panorama stitcher (called the Jump Assembler). This algorithm first performs subpixel-accurate tile-based alignment to produce a low-resolution depth map, then interpolates it to high resolution using a bilateral solver. This is similar to the technology formerly used in Google's Lens Blur feature.
+One more detail: because the left-side and right-side views captured by the Pixel 2 camera are so close together, the depth information we get is inaccurate, especially in low light, due to the high noise in the images. To reduce this noise and improve depth accuracy we capture a burst of left-side and right-side images, then align and average them before applying our stereo algorithm. Of course we need to be careful during this step to avoid wrong matches, just as in HDR+, or we'll get ghosts in our depth map (but that's the subject of another blog post). On the left below is a depth map generated from the example shown above using our stereo algorithm.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Left: depth map computed using stereo from the foregoing upper-half-of-lens and lower-half-of-lens images. Lighter means closer to the camera. Right: visualization of how much blur we apply to each pixel in the original. Black means don't blur at all, red denotes scene features behind the in-focus plane (which is her face), the brighter the red the more we blur, and blue denotes features in front of the in-focus plane (the pastry).
+Step 4. Putting it all together to render the final image
+The last step is to combine the segmentation mask we computed in step 2 with the depth map we computed in step 3 to decide how much to blur each pixel in the HDR+ picture from step 1. The way we combine the depth and mask is a bit of secret sauce, but the rough idea is that we want scene features we think belong to a person (white parts of the mask) to stay sharp, and features we think belong to the background (black parts of the mask) to be blurred in proportion to how far they are from the in-focus plane, where these distances are taken from the depth map. The red-colored image above is a visualization of how much to blur each pixel.
+Actually applying the blur is conceptually the simplest part; each pixel is replaced with a translucent disk of the same color but varying size. If we composite all these disks in depth order, it's like the averaging we described earlier, and we get a nice approximation to real optical blur. One of the benefits of defocusing synthetically is that because we're using software, we can get a perfect disk-shaped bokeh without lugging around several pounds of glass camera lenses. Interestingly, in software there's no particular reason we need to stick to realism; we could make the bokeh shape anything we want! For our example scene, here is the final portrait mode output. If you compare this
+result to the the rightmost result in step 2, you'll see that the pastry is now slightly blurred, much as you would expect from an SLR.
+                                                                                                                                                           
+Final synthetic shallow depth-of-field image, generated by combining our HDR+ picture, segmentation mask, and depth map. Click for a full-resolution image.
+Ways to use portrait mode
+Portrait mode on the Pixel 2 runs in 4 seconds, is fully automatic (as opposed to Lens Blur mode on
+previous devices, which required a special up-down motion of the phone), and is robust enough to
+be used by non-experts. Here is an album of examples, including some hard cases, like people with frizzy hair, people holding flower bouquets, etc. Below is a list of a few ways you can use Portrait Mode on the new Pixel 2.
+Taking macro shots
+If you're in portrait mode and you point the camera at a small object instead of a person (like a flower or food), then our neural network can't find a face and won't produce a useful segmentation mask. In other words, step 2 of our pipeline doesn't apply. Fortunately, we still have a depth map from PDAF data (step 3), so we can compute a shallow depth-of-field image based on the depth map alone. Because the baseline between the left and right sides of the lens is so small, this works well only for objects that are roughly less than a meter away. But for such scenes it produces nice pictures. You can think of this as a synthetic macro mode. Below are example straight and portrait mode shots of a macro-sized object, and here's an album with more macro shots, including more hard cases, like a water fountain with a thin wire fence behind it. Just be careful not to get too close; the Pixel 2 can’t focus sharply on objects closer than about 10cm from the camera.
+                                                                                                                                                                        
+Macro picture without (left) and with (right) portrait mode. There’s no person here, so background pixels are identified solely using the depth map. Photo by Marc Levoy
+The selfie camera
+The Pixel 2 offers portrait mode on the front-facing (selfie) as well as rear-facing camera. This camera is 8Mpix instead of 12Mpix, and it doesn't have PDAF pixels, meaning that its pixels aren't split into left and right halves. In this case, step 3 of our pipeline doesn't apply, but if we can find a face, then we can still use our neural network (step 2) to produce a segmentation mask. This allows us to still generate a shallow depth-of-field image, but because we don't know how far away objects are, we can't vary the amount of blur with depth. Nevertheless, the effect looks pretty good, especially for selfies shot against a cluttered background, where blurring helps suppress the clutter. Here are example straight and portrait mode selfies taken with the Pixel 2's selfie camera:
+                                                                                                                                                                                    
+Selfie without (left) and with (right) portrait mode. The front-facing camera lacks PDAF pixels,so background pixels are identified using only machine learning. Photo by Marc Levoy
+
+How To Get the Most Out of Portrait Mode
+The portraits produced by the Pixel 2 depend on the underlying HDR+ image, segmentation mask, and depth map; problems in these inputs can produce artifacts in the result. For example, if a feature is overexposed in the HDR+ image (blown out to white), then it's unlikely the left-half and right-half images will have useful information in them, leading to errors in the depth map. What can go wrong with segmentation? It's a neural network, which has been trained on nearly a million images, but we bet it has never seen a photograph of a person kissing a crocodile, so it will probably omit the crocodile from the mask, causing it to be blurred out. How about the depth map? Our stereo algorithm may fail on textureless features (like blank walls) because there are no features for the stereo algorithm to latch onto, or repeating textures (like plaid shirts) or horizontal or vertical lines, because the stereo algorithm might match the wrong part of the image, thus triangulating to produce the wrong depth.
+
+While any complex technology includes tradeoffs, here are some tips for producing great portrait mode shots:
+  * Stand close enough to your subjects that their head (or head and shoulders) fill the frame.
+  * For a group shot where you want everyone sharp, place them at the same distance from the camera.
+  * For a more pleasing blur, put some distance between your subjects and the background.
+  * Remove dark sunglasses, floppy hats, giant scarves, and crocodiles.
+  * For macro shots, tap to focus to ensure that the object you care about stays sharp.
+By the way, you'll notice that in portrait mode the camera zooms a bit (1.5x for the rear-facing camera, and 1.2x for the selfie camera). This is deliberate, because narrower fields of view encourage you to stand back further, which in turn reduces perspective distortion,
+leading to better portraits.
+
+Is it time to put aside your SLR (forever)?
+When we started working at Google 5 years ago, the number of pixels in a cell phone picture hadn't
+caught up to SLRs, but it was high enough for most people's needs. Even on a big home computer
+screen, you couldn't see the individual pixels in pictures you took using your cell phone.
+Nevertheless, mobile phone cameras weren't as powerful as SLRs, in four ways:
+ 1. Dynamic range in bright scenes (blown-out skies)
+ 2. Signal-to-noise ratio (SNR) in low light (noisy pictures, loss of detail)
+ 3. Zoom (for those wildlife shots)
+ 4. Shallow depth of field
+Google's HDR+ and similar technologies by our competitors have made great strides on #1 and #2. In fact, in challenging lighting we'll often put away our SLRs, because we can get a better picture from a phone without painful bracketing and post-processing. For zoom, the modest telephoto lenses being added to some smartphones (typically 2x) help, but for that grizzly bear in the streambed there's no substitute for a 400mm lens (much safer too!). For shallow depth-of-field, synthetic defocusing is not the same as real optical defocusing, but the visual effect is similar enough to achieve the same goal, of directing your attention towards the main subject.
+
+Will SLRs (or their mirrorless interchangeable lens (MIL) cousins) with big sensors and big lenses disappear? Doubtful, but they will occupy a smaller niche in the market. Both of us travel with a big camera and a Pixel 2. At the beginning of our trips we dutifully take out our SLRs, but by the end, it mostly stays in our luggage. Welcome to the new world of software-defined cameras and computational photography!
+For more about portrait mode on the Pixel 2, check out this video by Nat & Friends.
+Here is another album of pictures (portrait and not) and videos taken by the Pixel 2.
+Labels: Android , Computational Photography , Machine Perception , Pixel
+  
+
+Labels
+
+
+  * 2018
+  * accessibility
+  * ACL
+  * ACM
+  * Acoustic Modeling
+  * Adaptive Data Analysis
+  * ads
+  * adsense
+  * adwords
+  * Africa
+  * AI
+  * Algorithms
+  * Android
+  * Android Wear
+  * API
+  * App Engine
+  * App Inventor
+  * April Fools
+  * Art
+  * Audio
+  * Augmented Reality
+  * Australia
+  * Automatic Speech Recognition
+  * Awards
+  * BigQuery
+  * Cantonese
+  * Chemistry
+  * China
+  * Chrome
+  * Cloud Computing
+  * Collaboration
+  * Computational Imaging
+  * Computational Photography
+  * Computer Science
+  * Computer Vision
+  * conference
+  * conferences
+  * Conservation
+  * correlate
+  * Course Builder
+  * crowd-sourcing
+  * CVPR
+  * Data Center
+  * Data Discovery
+  * data science
+  * datasets
+  * Deep Learning
+  * DeepDream
+  * DeepMind
+  * distributed systems
+  * Diversity
+  * Earth Engine
+  * economics
+  * Education
+  * Electronic Commerce and Algorithms
+  * electronics
+  * EMEA
+  * EMNLP
+  * Encryption
+  * entities
+  * Entity Salience
+  * Environment
+  * Europe
+  * Exacycle
+  * Expander
+  * Faculty Institute
+  * Faculty Summit
+  * Flu Trends
+  * Fusion Tables
+  * gamification
+  * Gboard
+  * Gmail
+  * Google Accelerated Science
+  * Google Books
+  * Google Brain
+  * Google Cloud Platform
+  * Google Docs
+  * Google Drive
+  * Google Genomics
+  * Google Maps
+  * Google Photos
+  * Google Play Apps
+  * Google Science Fair
+  * Google Sheets
+  * Google Translate
+  * Google Trips
+  * Google Voice Search
+  * Google+
+  * Government
+  * grants
+  * Graph
+  * Graph Mining
+  * Hardware
+  * HCI
+  * Health
+  * High Dynamic Range Imaging
+  * ICLR
+  * ICML
+  * ICSE
+  * Image Annotation
+  * Image Classification
+  * Image Processing
+  * Inbox
+  * India
+  * Information Retrieval
+  * internationalization
+  * Internet of Things
+  * Interspeech
+  * IPython
+  * Journalism
+  * jsm
+  * jsm2011
+  * K-12
+  * KDD
+  * Keyboard Input
+  * Klingon
+  * Korean
+  * Labs
+  * Linear Optimization
+  * localization
+  * Low-Light Photography
+  * Machine Hearing
+  * Machine Intelligence
+  * Machine Learning
+  * Machine Perception
+  * Machine Translation
+  * Magenta
+  * MapReduce
+  * market algorithms
+  * Market Research
+  * Mixed Reality
+  * ML
+  * ML Fairness
+  * MOOC
+  * Moore's Law
+  * Multimodal Learning
+  * NAACL
+  * Natural Language Processing
+  * Natural Language Understanding
+  * Network Management
+  * Networks
+  * Neural Networks
+  * NeurIPS
+  * Nexus
+  * Ngram
+  * NIPS
+  * NLP
+  * On-device Learning
+  * open source
+  * operating systems
+  * Optical Character Recognition
+  * optimization
+  * osdi
+  * osdi10
+  * patents
+  * Peer Review
+  * ph.d. fellowship
+  * PhD Fellowship
+  * PhotoScan
+  * Physics
+  * PiLab
+  * Pixel
+  * Policy
+  * Professional Development
+  * Proposals
+  * Public Data Explorer
+  * publication
+  * Publications
+  * Quantum AI
+  * Quantum Computing
+  * renewable energy
+  * Research
+  * Research Awards
+  * resource optimization
+  * Robotics
+  * schema.org
+  * Search
+  * search ads
+  * Security and Privacy
+  * Semantic Models
+  * Semi-supervised Learning
+  * SIGCOMM
+  * SIGMOD
+  * Site Reliability Engineering
+  * Social Networks
+  * Software
+  * Sound Search
+  * Speech
+  * Speech Recognition
+  * statistics
+  * Structured Data
+  * Style Transfer
+  * Supervised Learning
+  * Systems
+  * TensorBoard
+  * TensorFlow
+  * TPU
+  * Translate
+  * trends
+  * TTS
+  * TV
+  * UI
+  * University Relations
+  * UNIX
+  * User Experience
+  * video
+  * Video Analysis
+  * Virtual Reality
+  * Vision Research
+  * Visiting Faculty
+  * Visualization
+  * VLDB
+  * Voice Search
+  * Wiki
+  * wikipedia
+  * WWW
+  * Year in Review
+  * YouTube
+
+Archive
+
+
+  *  2019
+      + Feb
+      + Jan
+  *  2018
+      + Dec
+      + Nov
+      + Oct
+      + Sep
+      + Aug
+      + Jul
+      + Jun
+      + May
+      + Apr
+      + Mar
+      + Feb
+      + Jan
+  *  2017
+      + Dec
+      + Nov
+      + Oct
+      + Sep
+      + Aug
+      + Jul
+      + Jun
+      + May
+      + Apr
+      + Mar
+      + Feb
+      + Jan
+  *  2016
+      + Dec
+      + Nov
+      + Oct
+      + Sep
+      + Aug
+      + Jul
+      + Jun
+      + May
+      + Apr
+      + Mar
+      + Feb
+      + Jan
+  *  2015
+      + Dec
+      + Nov
+      + Oct
+      + Sep
+      + Aug
+      + Jul
+      + Jun
+      + May
+      + Apr
+      + Mar
+      + Feb
+      + Jan
+  *  2014
+      + Dec
+      + Nov
+      + Oct
+      + Sep
+      + Aug
+      + Jul
+      + Jun
+      + May
+      + Apr
+      + Mar
+      + Feb
+      + Jan
+  *  2013
+      + Dec
+      + Nov
+      + Oct
+      + Sep
+      + Aug
+      + Jul
+      + Jun
+      + May
+      + Apr
+      + Mar
+      + Feb
+      + Jan
+  *  2012
+      + Dec
+      + Oct
+      + Sep
+      + Aug
+      + Jul
+      + Jun
+      + May
+      + Apr
+      + Mar
+      + Feb
+      + Jan
+  *  2011
+      + Dec
+      + Nov
+      + Sep
+      + Aug
+      + Jul
+      + Jun
+      + May
+      + Apr
+      + Mar
+      + Feb
+      + Jan
+  *  2010
+      + Dec
+      + Nov
+      + Oct
+      + Sep
+      + Aug
+      + Jul
+      + Jun
+      + May
+      + Apr
+      + Mar
+      + Feb
+      + Jan
+  *  2009
+      + Dec
+      + Nov
+      + Aug
+      + Jul
+      + Jun
+      + May
+      + Apr
+      + Mar
+      + Feb
+      + Jan
+  *  2008
+      + Dec
+      + Nov
+      + Oct
+      + Sep
+      + Jul
+      + May
+      + Apr
+      + Mar
+      + Feb
+  *  2007
+      + Oct
+      + Sep
+      + Aug
+      + Jul
+      + Jun
+      + Feb
+  *  2006
+      + Dec
+      + Nov
+      + Sep
+      + Aug
+      + Jul
+      + Jun
+      + Apr
+      + Mar
+      + Feb
+
+Feed
+
+Googleon
+Follow @googleai
+Give us feedback in our Product Forums.
+  * Google
+  * Privacy
+  * Terms

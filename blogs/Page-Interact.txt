@@ -1,0 +1,334 @@
+Skip to main content
+Blackboard Help Bb Help
+
+Language
+
+  * English
+  * عربية
+  * Català
+  * Cymraeg
+  * Deutsch
+  * Español
+  * suomi
+  * Français
+  * 日本語
+  * 한국어
+  * Nederlands
+  * Norsk (Bokmål)
+  * Português, Brasil
+  * Русский
+  * Svenska
+  * Türkçe
+  * 简体中文
+
+Breadcrumb
+
+ 1. Home
+ 2. Learn
+ 3. Student
+ 4. Interact with Others
+  * Ally
+      + Ally for LMS
+      + Ally for Websites
+  * Bb Grader
+      + Quick Start
+      + Assignment List
+      + Submission List
+      + Group Submissions
+      + Portfolio Submissions
+      + Grade Submissions
+      + Send Grades
+      + Student Risk Profile
+      + Known Issues
+  * Blackboard App
+      + Quick Start
+      + Feature Guide
+      + Questions
+      + Activity Stream
+      + Courses and Organizations
+      + Course Content
+      + Offline Content
+      + Announcements
+      + Collaborate
+      + Discussions
+      + Due Dates
+      + Grades
+      + Link to Cloud Storage
+      + Profile
+      + Push Notifications
+      + Tests and Assignments
+      + What's New
+      + Accessibility
+      + Windows Devices
+      + Transition to New Blackboard Apps
+      + Administrator Info
+  * Blackboard Instructor
+      + Quick Start
+      + Feature Guide
+      + Courses and Organizations
+      + Course Content
+      + Offline Content
+      + Announcements
+      + Collaborate
+      + Discussions
+      + Grading
+      + Link to Cloud Storage
+      + Tests and Assignments
+      + What's New
+      + Accessibility
+      + Administrator Info
+  * Collaborate
+      + Ultra Experience
+      + Original Experience
+      + Blackboard Enterprise Instant Messaging
+  * Community Engagement
+      + Parent/Community Member
+      + Student
+      + Teacher
+      + Administrator
+  * Connect
+      + Connect 5
+  * Drive
+      + Product Updates
+      + Release 1.7
+      + Release 1.6
+      + Release 1.5
+  * Edline
+      + Super User
+      + Teacher
+      + Parent
+      + Student
+      + Guest
+      + Gradebooks
+      + LiveLink
+      + Video Tutorials
+  * Learn
+      + Student
+          o Common Questions
+          o Getting Started
+          o About You
+          o Stay in the Loop
+          o Interact with Others
+              - Find Other Users
+              - Blackboard Collaborate
+              - Blogs
+              - Discussions
+              - Email
+              - Groups
+              - Journals
+              - Messages
+              - Organizations
+              - People Tool
+              - ULTRA: Conversations
+              - Wikis
+          o Content in Your Courses
+          o Add and Format Content
+          o Assignments
+          o Tests and Surveys
+          o Grades
+          o Accessibility
+          o Watch Videos
+      + Instructor
+      + Administrator
+  * Open Content
+      + Instructor
+      + Administrator
+  * Open Education
+      + Instructor
+      + Administrator
+  * Open LMS
+      + Student
+      + Teacher
+      + Administrator
+  * Predict
+      + Student
+      + Instructor
+      + Advisor
+  * SafeAssign
+      + Student
+      + Instructor
+      + Administrator
+  * SIS Central for Connect
+      + PowerSchool Integration
+  * SmartView
+      + Logging In
+      + Advisor Desktop
+      + Service Desk
+  * Web Community Manager
+      + Parent/Community Member
+      + Student
+      + Teacher/Editor
+      + Administrator
+Home Print
+
+Blogs
+
+
+This information applies only to the Original Course View. Your institution controls which tools are available.
+
+
+A blog is your personal online journal. Each blog entry you make can include any combination of text, images, links, multimedia, mashups, and attachments. Blogs are an effective way for you to share knowledge and materials created and collected in the course. You can post entries and add comments to existing blogs. Use your blog to express your ideas and share them with the class.
+
+
+As the owner of a blog, you can create entries and your instructor and classmates can add comments. A course or a group can also own a blog. In the group area, all members of a group can create entries for the same blog, building upon one another. Any course member can read and comment on a group blog, but can't create an entry if the user isn't a member of the group. Your instructor can also offer comments and grade entries.
+
+
+If your institution uses avatars or Blackboard profiles, your chosen image appears with your blog.
+
+
+Where to find blogs
+
+
+You can find blogs on the course menu or on the Tools page. On the blogs listing page, select the blog topic that you want to read from the alphabetical list.
+
+
+You can access three types of blogs:
+
+  * Course: All enrolled users can create blog entries and add comments to entries.
+  * Individual: Only the owner of a blog can create blog entries. All other enrolled users can view entries and add comments.
+  * Group: If your instructor enables the blogs tool for a group, all group members can create blog entries and make comments. All course members can view group blogs, but they only have the option to add comments. You can add entries only to your own group blog.
+    Your instructor can edit and delete entries in all three blog types and delete user comments.
+
+
+Blog topic page
+
+
+The blog topic page is divided into two main sections: the content frame and the sidebar.
+
+ 1. Select Create Blog Entry to create as many blog entries as you want. Select View Drafts to see unpublished entries. Expand the Blog Instructions section to review the blog instructions and any goals your instructor may have aligned with the blog.
+ 2. In the sidebar, expand the Blog Details section to view the blog information, including if comments were made. Expand the section to view a list of who else has made blog entries.
+ 3. Select a name to view the entries. The Grade section appears if your instructor enabled grading for the blog. You can see if your blog entries have been graded.
+ 4. Comments show who has added thoughts to the post. Select Index to view the titles of your selected entries for either the week or the month, based on the settings your instructor makes during blog creation. The most recent entry title appears first.
+
+Create a blog entry
+
+
+Only your instructor can create a blog. After the blog is created, you can create blog entries.
+
+ 1. On the Blogs listing page, select a blog title.
+ 2. On the blog's topic page, select Create Blog Entry.
+ 3. Type a title and entry.
+ 4. If enabled and appropriate, select the check box for Post Entry as Anonymous.
+ 5. Select Browse My Computer to upload a file from your computer. You can also attach a file from the repository: Course Files or the Content Collection.
+    -OR-
+
+
+    Drag files from your computer to the "hot spot" in the Attach Files area. If your browser allows, you can also drag a folder of files. The files will upload individually. If the browser doesn't allow you to submit your assignment after you upload a folder, select Do not attach in the folder's row to remove it. You can drag the files individually and submit again.
+
+
+    You won’t be able to drag files to upload if your institution uses an older version of Blackboard Learn.
+
+
+    You can use the file name or provide another name for the file.
+
+ 6. Select Post Entry to submit the blog entry or select Save Entry as Draft to add the entry later.
+
+Watch a video about blogs
+
+
+The following narrated video provides a visual and auditory representation of some of the information included on this page. For a detailed description of what is portrayed in the video, open the video on YouTube, navigate to More actions, and select Open transcript.
+
+
+Video: Create and edit blog entries explains blogs in the Original course view.
+
+
+View blog drafts
+
+
+If you saved a blog entry to edit later, select View Drafts on the blog topic page. Select the title of the entry to edit and post.
+
+
+Comment on a blog entry
+
+
+You can comment on one another’s blog entries, whether they belong to an individual, the course, or a group. Your instructor determines if you can make anonymous comments and if you may delete blog comments.
+
+
+On the blog's topic page, select a user’s name in the sidebar to view a blog. The user’s blog entries open in the content frame. Select Comment to add your thoughts.
+
+
+Edit or delete a blog entry
+
+
+Your instructor determines if you're allowed to edit or delete your blog entries. On the blog's topic page, access the entry's menu and select Edit or Delete. Deleting a blog entry is final and irreversible.
+
+
+View blog grades
+
+
+After your instructor grades your blog entries, you can view your grade in two places. The grading information appears in the Grade section on the blog's topic page and in My Grades. You can also view your instructor's feedback and the date the grade was assigned. To learn more, see Grades.
+
+
+Rubrics
+
+
+If your instructor associated a rubric with the blog and made it available, select View Rubric in the Grade section to display grading criteria.
+
+
+Troubleshooting
+
+  * If you're removed from a course, you won't have access to any blogs. If you're removed from a course after individual blogs are created, all your entries and comments are deleted. If you're removed from a course after course blogs are created, all your entries and comments are retained, but your name is changed to "Anonymous."
+  * If your instructor deleted the blog while you're posting, the blog and all comments are deleted.
+  * If your instructor makes a blog unavailable while you're posting, the blog remains visible to your instructor only.
+  * If your instructor changes the Allow Users to Edit and Delete Entries setting, entries remain but you can't edit them.
+  * If your instructor changes the Allow Users to Delete Comments setting, comments remain but you can't edit them.
+
+On this page
+
+
+Learn - student
+
+
+Need more help with Learn?
+
+  * Contact your institution's support desk
+  * Watch videos for students
+  * Tweet Support @BlackboardHelp
+  * Find more help
+
+Visit Blackboard.com
+
+
+Copyright©2018. Blackboard Inc.
+Legal Disclaimers
+Privacy Statement
+
+About Help
+Accessibility
+Client Resources
+Product Security
+
+User account menu
+
+  * Log in
+
+Help for Blackboard Products
+
+  * Ally
+  * Analytics
+  * Bb Grader
+  * Blackboard App
+  * Blackboard Instructor
+  * Collaborate
+  * Community Engagement
+  * Connect
+  * CourseSites
+  * Drive
+  * Edline
+  * Learn
+  * Open Content
+  * Open Education
+  * Open LMS
+  * Predict
+  * SafeAssign
+  * SIS Central - Connect
+  * SmartView
+  * Web Community Manager
+Back to top
+
+Not sure which product?
+
+
+Blackboard has many products. Let us help you find what you need.
+
+Find My Product

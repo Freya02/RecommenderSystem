@@ -1,0 +1,554 @@
+Live Chat
+  * Message Us
+  * Presale Live Chat
+  * Submit a Ticket
+  * One stop service: solve all your problems
+  * Orders Tracking and shipped out notification
+  * More campaigns, even more discounts!
+  * Need help before making an order?
+  * Chat with us in real-time.
+  * For Aftersale issues, just submit a ticket. We will reply within 24 hours.
+  * Multi-language service
+  * 24/7 support available
+Save BIG with our app! Download our cool Free App!
+Enjoy App-EXCLUSIVE Deals
+
+Hi! Log Out Log In SIGN UP
+  * GB Feature
+  * New Gear
+  * How To
+  * Download
+  * Buying Guide
+  * GEARBEST.COM
+Search
+Home > How To > SAR value checklist for smartphones on Gearbest
+
+SAR value checklist for smartphones on Gearbest
+
+
+By GB Blog Official 2017-04-12 74549 306
+
+Here is a list of cell phone SAR (Specific Absorption Rate) values under EU rating and USA rating for your reference. You can check radiation level of the phone from Xiaomi, Ulefone, Elephone, OnePlus, Lenovo, ASUS, Vernee, etc.
+
+Please click the brand's logo to find out certain model's SAR value.
+
+
+
+(Contact us if you have any questions about the SAR values.)
+
+
+    
+    
+    
+    
+    
+ 
+
+
+
+If you want to check the SAR value of phone from Apple, BlackBerry, Google, HTC, LG, Nokia, Samsung, and Sony, you can refer to Radiation checklist: cell phone SAR value in EU & USA rating.
+
+
+You may also want to read:                                       
+How to reduce the SAR value of your cell phone?                  
+4 steps to know whether a phone will work in your country        
+Country-based mobile phone network frequency bands coverage guide
+SAR Value of Phones on Gearbest!
+
+
+
+Brand                             Model                    SAR EU Rating (2.0 W/kg) SAR USA Rating (1.6 W/kg)
+Head                              Body                     Head                     Body                     
+Xiaomi                            Xiaomi MI MIX 2S         0.376                    0.798                     -     -                  
+Xiaomi Mi Max                     -                        1.29                     0.836                     0.661 Xiaomi Mi Max 2     1.22               0.71  -     -    
+Xiaomi Mi 6                       0.409                    1.55                     -                         -    
+Xiaomi Redmi 4X                   0.583                    1.5                      0.75                      0.612
+Xiaomi Mi A1                      1.75                     0.76                     -                         -    
+Xiaomi Redmi Note 4X              0.724                    0.674                    0.85                      0.69 
+Xiaomi Mi 5X                      -                        -                        1                         0.29 
+Xiaomi Redmi Note 5A              0.66                     1.74                     1.01                      1.04 
+Xiaomi Mi4                        0.706                    0.848                    0.92                      1.36 
+Xiaomi Mi5                        0.376                    0.798                    0.703                     1.422
+Xiaomi Mi5s                       -                        0.56                     -                         -    
+Xiaomi Redmi Note 5               1.03                     0.79                     -                         -    
+Xiaomi Redmi 3                    0.904                    0.562                    -                         -    
+Xiaomi Redmi 3 Pro                0.904                    0.562                    -                         -    
+Xiaomi Redmi 3S (32G ROM)         0.485                    1.6                      0.617                     0.429
+Xiaomi Redmi 3S (16G ROM)         0.485                    1.6                      0.22                      1.22 
+Xiaomi Redmi 4 (3GB RAM 32GB ROM) 0.77                     0.83                     -                         -    
+Xiaomi Redmi 4 (2GB RAM 16GB ROM) 0.35                     0.99                     -                         -    
+Xiaomi Redmi Note 2               0.342                    0.452                    -                         -    
+Xiaomi Mi Note 3                  0.49                     0.499                    -                         -    
+Xiaomi Redmi Note 3 Pro           0.416                    0.598                    -                         1.256
+Xiaomi Redmi Note 4               0.724                    0.674                    0.85                      0.69 
+Xiaomi Redmi 4A                   0.342                    0.452                    -                         -    
+Xiaomi Redmi 5 Plus               1.19                     0.89                     -                         -    
+Xiaomi Redmi 5A                   0.99                     1.21                     -                         -    
+Xiaomi Mi MIX                     -                        -                        0.84                      0.63  Xiaomi Mi MIX 2     0.390              1.770 -     -    
+Xiaomi Mi 5s Plus                 1.162                    1.470                    -                         -    
+Xiaomi Mi 4i                      0.513                    0.598                    1.290                     0.790
+Xiaomi Redmi 2                    0.701                    0.703                    0.999                     0.982
+Xiaomi Mi Note                    0.516                    -                        1.07                      -    
+Xiaomi Mi Note 3                  0.502                    1.544                    -                         -    
+Xiaomi Mi Note 2                  0.602                    0.713                    -                         -    
+Ulefone                           Ulefone Future           0.4                      0.506                     1.18  0.75               
+Ulefone Metal                     0.281                    0.573                    -                         -    
+Ulefone Paris                     0.323                    0.807                    -                         -    
+Ulefone Power                     0.323                    0.807                    -                         -    
+Ulefone ARMOR                     0.420                    1.341                    0.671                     1.038
+Ulefone ARMOR 2                   0.505                    0.797                    0.861                     0.761
+Ulefone Be Touch 2                0.103                    0.296                    -                         -    
+Ulefone Be Touch 3                0.103                    0.296                    -                         -    
+Ulefone U007                      0.572                    0.402                    1.038                     0.671
+Ulefone Vienna                    0.572                    0.402                    1.038                     0.671
+OUKITEL                           OUKITEL K10              0.358                    0.938                                              
+OUKITEL U18                       0.268                    0.871                                                   
+OUKITEL K7                        0.83                     0.716                                                   
+OUKITEL K10000                    0.572                    0.402                    1.038                     0.671
+OUKITEL K4000                     0.572                    0.402                    1.038                     0.671
+OUKITEL K4000 Pro                 0.572                    0.402                    1.038                     0.671
+OUKITEL K6000 Pro                 0.572                    0.402                    1.038                     0.671
+OUKITEL U15 Pro                   0.572                    0.402                    1.038                     0.671
+OUKITEL U7 Plus                   0.572                    0.402                    1.038                     0.671
+Elephone                          Elephone A4              0.079                    0.94                      -     -                  
+Elephone A2                       0.145                    0.687                    -                         -    
+Elephone P11                      0.78                     0.84                     -                         -    
+Elephone A2 Pro                   0.259                    0.599                    -                         -    
+Elephone A4 Pro                   0.166                    1.46                     -                         -    
+Elephone P9000                    0.098                    0.230                    -                         -    
+Elephone P9000 Lite               0.098                    0.230                    -                         -    
+Elephone S3                       0.145                    0.757                    -                         -    
+Elephone S7                       0.312                    0.983                    -                         -    
+Elephone S7 Mini                  0.033                    0.446                    -                         -    
+Elephone S8                       0.773                    0.957                    -                         -    
+Elephone M2                       0.054                    0.253                    -                         -    
+HOMTOM                            HOMTOM HT17              0.572                    0.402                     -     -                  
+HOMTOM HT3                        0.572                    0.402                    -                         -    
+HOMTOM HT3 Pro                    0.572                    0.402                    -                         -    
+HOMTOM HT6                        0.381                    0.573                    -                         -    
+HOMTOM HT7 Pro                    0.572                    0.402                    -                         -    
+HOMTOM HT10                       0.615                    1.408                    -                         -    
+HOMTOM S9 Plus                    0.273                    1.420                    -                         -    
+Vernee                            Vernee Thor Plus         1.785                    0.850                     -     -                  
+Vernee Mix 2 ( M2 )               0.181                    0.726                    -                         -    
+Vernee X ( X1 )                   1.740                    1.280                    -                         -    
+Vernee M6                         0.447                    0.991                    -                         -    
+Vernee V2 pro                     0.312                    0.983                    -                         -    
+Vernee Apollo Lite                0.230                    0.966                    -                         -    
+Vernee Apollo                     0.309                    0.814                    -                         -    
+Vernee Thor                       0.221                    0.352                    -                         -    
+Vernee Mars                       0.226                    0.987                    -                         -    
+ASUS                              ASUS ZENFONE 5           1.22                     -                         -     -                  
+ASUS ZENFONE 4                    0.445                    1.24                     -                         -    
+ASUS ZENFONE 3 MAX ZC520TL        0.723                    0.562                    -                         -    
+ASUS ZenFone 2                    0.351                    0.332                    0.92                      0.87  ASUS ZenFone V Live -                  -     0.62  0.84 
+ASUS ZenFone 4 Selfie Pro         0.759                    1.29                     -                         -    
+ASUS ZenFone 4 Selfie             0.445                    1.24                     -                         -    
+ASUS Zenfone PegASUS 4S Max Plus  0.282                    0.746                    -                         -    
+ASUS ZenFone PegASUS 4A           0.189                    1.44                     -                         -    
+ASUS ZenFone AR                   0.85                     1.59                     1.16                      0.61 
+ASUS ZenFone Live ZB501KL         0.51                     1.58                     -                         -    
+ASUS ZenFone 3S Max ZC521TL       -                        -                        0.4                       1.23 
+ASUS Zenfone 4 Max Plus           0.7                      1.1                      -                         -    
+ASUS ZenFone 3 Zoom ZE553KL       0.558                    1.55                     0.57                      1.08 
+ASUS ZenFone Go ZB500KG           0.511                    0.796                    0.78                      1.15 
+ASUS ZenFone Go ZB500KL           0.484                    1.02                     -                         -    
+ASUS ZenFone 3 Max ZC553KL        0.419                    1.52                     -                         -    
+ASUS ZenFone 3 Deluxe             0.663                    0.97                     -                         -    
+ASUS ZenFone 3 Deluxe ZS550KL     0.363                    1.35                     1.11                      1.184
+ASUS ZenFone 3 Ultra              0.302                    1.18                     -                         -    
+ASUS ZenFone 3 ZE552KL            0.493                    1.46                     -                         -    
+ASUS ZenFone Max                  0.454                    0.274                    -                         -    
+ASUS ZenFone Go ZB551KL           0.418                    0.423                    -                         -    
+ASUS ZenFone Go ZC451TG           0.78                     0.793                    -                         -    
+ASUS ZenFone 2 ZE550ML            0.351                    0.332                    0.92                      0.87 
+ASUS ZenFone 2 Laser              0.882                    0.345                    -                         0.87 
+ASUS ZenFone 3                    0.754                    1.46                     -                         -    
+ASUS ZenFone Max                  0.226                    -                        0.58                      0.407
+ASUS ZenFone Selfie               0.649                    0.386                    -                         -    
+UMi                               UMi Max                  0.572                    0.402                     1.038 0.671              
+UMi Plus                          0.572                    0.402                    1.038                     0.671
+UMi Super                         0.572                    0.402                    1.038                     0.671
+UMi TOUCH                         0.572                    0.402                    1.038                     0.671
+LeEco                             LeTV Leeco Le 2 Pro      -                        0.5                       -     -                  
+LeTV Leeco Le Max 2               -                        1.15                     0.404                     1.38 
+LeTV Leeco LE1 PRO X800           -                        -                        0.9                       1.05  LeTV LeEco Le S3    -                  -     1.19  0.48 
+LeTV LeEco Le Pro 3               -                        -                        1.14                      1.15 
+LeTV LeEco Le 2 X520              -                        -                        0.971                     1.42 
+Lenovo                            Lenovo K5 Note           -                        -                         0.38  0.963               Lenovo Tab 7       -     -     0.89  1.19 
+Lenovo K8 Note                    -                        -                        0.66                      1.157
+Lenovo P2                         0.818                    1.65                     0.297                     0.896
+Lenovo K6 Note                    -                        -                        0.445                     1.41 
+Lenovo K6 Power                   -                        -                        0.6                       0.972
+Lenovo Vibe C2                    0.585                    1.02                     -                         -    
+Lenovo Tab3 7 WiFi                -                        -                        1.121                     1.121
+Lenovo Vibe K5                    0.669                    0.719                    0.884                     0.947
+Lenovo K5 Note                    -                        -                        0.38                      0.963
+Lenovo Vibe S1 Lite               0.694                    0.412                    0.794                     0.483
+Lenovo A7010                      1.328                    1.328                    0.844                     0.711
+Lenovo Vibe X3                    0.464                    0.507                    0.255                     0.767
+Lenovo A7000 Plus                 0.668                    1.068                    1.466                     1.114
+Lenovo K3 Note                    -                        -                        1.59                      0.688
+Lenovo S856                       0.926                    0.785                    1.21                      1.04 
+Lenovo ZUK Z2                     0.320                    1.193                    -                         -    
+Lenovo ZUK Z2 Pro                 -                        -                        0.710                     1.490
+CUBOT                             CUBOT POWER              0.414                    0.74                      -     -                  
+Cubot J3                          0.421                    1.312                    -                         -    
+Cubot J3 PRO                      0.356                    1.582                    -                         -    
+CUBOT P20                         0.254                    0.951                    -                         -    
+Cubot Nova                        0.278                    0.794                    -                         -    
+CUBOT R11                         0.427                    1.201                    -                         -    
+CUBOT Note Plus                   0.278                    0.69                     -                         -    
+CUBOT NOTE S                      0.329                    0.439                    -                         -    
+CUBOT Dinosaur                    0.529                    0.584                    -                         -    
+CUBOT Manito                      0.348                    1.574                    -                         -    
+CUBOT X11                         0.491                    0.451                    -                         -    
+CUBOT X15                         0.890                    1.241                    -                         -    
+CUBOT X17                         0.496                    0.594                    -                         -    
+CUBOT X18                         0.89                     1.137                    -                         -    
+CUBOT X18 Plus                    0.347                    0.931                    -                         -     Cubot Rainbow       0.429              1.291 -     -    
+Cubot S600                        0.352                    0.4                      -                         -    
+CUBOT Kingkong                    0.314                    0.572                    -                         -    
+Cubot P12                         0.415                    0.484                    -                         -    
+Cubot P11                         0.417                    0.778                    -                         -    
+Cubot H1                          0.342                    0.568                    -                         -    
+CUBOT H3                          0.249                    1.15                     -                         -    
+Cubot X16                         0.451                    0.614                    -                         -    
+Cubot X11                         0.491                    0.451                    -                         -    
+Cubot S350                        0.294                    0.538                    -                         -    
+Cubot S308                        0.328                    0.531                    -                         -    
+Cubot S208                        1.341                    0.394                    -                         -    
+PPTV                              PPTV 7                   0.42                     1.341                     -     -                  
+BLUBOO                            BLUBOO Maya              0.289                    1.410                     -     -                  
+BLUBOO Maya Max                   0.115                    0.842                    -                         -    
+BLUBOO Picasso                    0.256                    1.750                    -                         -    
+BLUBOO XTOUCH                     0.621                    1.973                    -                         -    
+BLUBOO Dual                       0.202                    0.557                    -                         -    
+BLUBOO Edge                       0.133                    0.735                    -                         -    
+KingWear                          KingWear KW18            0.115                    0.173                     -     -                  
+KingWear KW88                     0.56                     1.168                    -                         -    
+DOOGEE                            DOOGEE X6                -                        -                         0.3   0.862               DOOGEE T3          -     -     0.49  0.758
+DOOGEE X3                         -                        -                        0.414                     1.39 
+DOOGEE X5                         -                        -                        0.42                      1.341
+DOOGEE X5 Pro                     0.3610                   0.4724                   -                         -    
+DOOGEE X5 MAX                     0.3648                   0.4870                   -                         -    
+DOOGEE X5 MAX Pro                 0.3578                   0.4624                   -                         -    
+DOOGEE DG700                      0.3710                   0.4824                   -                         -    
+DOOGEE F3 Pro                     0.3560                   0.4851                   -                         -    
+DOOGEE F5                         0.3640                   0.4715                   -                         -    
+DOOGEE T5                         0.3671                   0.4813                   -                         -    
+DOOGEE T6 Pro                     0.3712                   0.4810                   -                         -    
+DOOGEE X6 Pro                     0.3467                   0.4578                   -                         -    
+DOOGEE Y100X                      0.3718                   0.4812                   -                         -    
+DOOGEE Y100 Pro                   0.3642                   0.4810                   -                         -    
+OnePlus                           OnePlus 3                0.394                    0.323                     0.995 0.645              
+OnePlus 3T                        0.893                    1.254                    0.784                     0.581
+OnePlus 2                         0.428                    0.205                    0.785                     1.447 OnePlus 5T          -                  -     1.41  0.51 
+OnePlus 5                         1.39                     1.48                     1.37                      1.19 
+OnePlus One                       0.29                     0.44                     0.62                      0.75 
+OnePlus X                         0.317                    0.42                     1.108                     1.110
+HUAWEI                            HUAWEI Mate 8 (NXT-DL00) 1.460                    0.21                      1.490 0.32               
+HUAWEI P8 Lite                    0.390                    1.020                    0.780                     0.650 HUAWEI Ascend XT2   -                  -     0.75  1.28 
+HUAWEI Mate 10                    0.99                     1.29                     1.05                      0.62 
+HUAWEI Mate 10 Pro                0.87                     1.28                     1.06                      0.88 
+HUAWEI Y6 Pro 2017                0.49                     1.3                      -                         -    
+HUAWEI Honor 9                    1.26                     1.26                     -                         -    
+HUAWEI Nova 2 Plus                0.94                     1.19                     1.3                       0.79 
+HUAWEI Nova 2                     1.25                     1.16                     -                         -    
+HUAWEI Honor 6A DLI-L22           0.44                     0.94                     -                         -    
+HUAWEI Y6 2017                    0.42                     1.2                      0.74                      0.55 
+HUAWEI Y7                         -                        -                        0.79                      0.52 
+HUAWEI Honor Bee 2                -                        -                        0.65                      0.65 
+HUAWEI Honor 6C                   0.31                     1.27                     -                         -    
+HUAWEI P9 Lite 2017               -                        -                        0.89                      1.34 
+HUAWEI P10 Lite                   0.89                     0.91                     1.03                      0.69 
+HUAWEI P10 Plus                   0.89                     0.76                     1.44                      0.53 
+HUAWEI P10                        0.96                     0.99                     1.49                      0.54 
+HUAWEI Nova Lite                  0.36                     1.42                     -                         -    
+HUAWEI Honor 8 Lite               0.36                     0.93                     -                         -    
+HUAWEI GR5 2017                   1.23                     1.16                     -                         -    
+HUAWEI Mate 9 Lite                -                        -                        0.95                      0.59 
+HUAWEI Mate 9 Pro                 0.96                     0.98                     1.49                      0.66 
+HUAWEI Mate 9 Porsche Design      -                        -                        1.49                      0.66 
+HUAWEI Mate 9                     1.64                     1.36                     1.42                      0.6  
+HUAWEI Ascend XT                  -                        -                        0.98                      0.81 
+HUAWEI Honor 6X                   -                        -                        0.95                      0.59 
+HUAWEI Nova Plus                  1.41                     1.47                     1.23                      0.37 
+HUAWEI Nova                       0.99                     0.94                     1.42                      0.72 
+HUAWEI Y6II Compact               0.53                     1.39                     -                         -    
+HUAWEI Maimang 5                  -                        -                        1.29                      0.37 
+HUAWEI Honor 8                    1.5                      1.69                     1.42                      1.19 
+HUAWEI GR5 mini                   1.14                     1.31                     -                         -    
+HUAWEI Y6II                       -                        -                        0.69                      0.71 
+HUAWEI Honor 5C                   -                        -                        1.12                      0.42 
+HUAWEI Y3II 3G                    -                        -                        0.55                      0.88 
+HUAWEI Y3II 4G                    0.47                     0.78                     0.98                      0.61 
+HUAWEI Y5II 4G                    -                        -                        0.6                       0.72 
+HUAWEI P9 Premium Edition         -                        -                        1.49                      0.61 
+HUAWEI P9 Plus VIE-L29            1.42                     0.33                     1.37                      0.68 
+HUAWEI P9 Plus                    1.48                     1.49                     1.4                       0.72 
+HUAWEI GR3                        1.37                     1.29                     1.11                      1.21 
+HUAWEI GR5                        -                        -                        0.34                      0.49 
+HUAWEI GX8                        -                        -                        0.86                      1.4  
+LEAGOO                            LEAGOO Elite 1           -                        -                         0.238 0.725              
+LEAGOO Shark 1                    0.293                    1.587                    -                         -     Leagoo Lead 1       -                  -     0.238 0.725
+ZTE                               ZTE Axon 7               0.348                    1.099                     1.190 1.130               ZTE Fanfare 3      -     -     0.57  0.94 
+ZTE Overture 3                    -                        -                        0.76                      1.13 
+ZTE Maven 3                       -                        -                        0.76                      1.12 
+ZTE Blade A521                    -                        -                        0.606                     1.405
+ZTE ZMax Pro Z982                 -                        -                        0.3                       1.17 
+ZTE Grand X View 2                -                        -                        1.18                      1.18 
+ZTE Blade Spark                   -                        -                        0.87                      1.14 
+ZTE Max Blue LTE                  -                        -                        0.68                      1.19 
+ZTE Jasper LTE                    -                        -                        1.13                      0.89 
+ZTE Majesty Pro                   -                        -                        0.95                      1.04 
+ZTE ZFive 2 LTE                   -                        -                        0.54                      0.71 
+ZTE Blade X Max                   -                        -                        0.98                      1.07 
+ZTE Max XL                        -                        -                        1.13                      1.19 
+ZTE Avid 916                      -                        -                        0.42                      0.49 
+ZTE ZMax Grand LTE                -                        -                        0.42                      0.49 
+ZTE ZMax Champ                    -                        -                        0.48                      0.88 
+ZTE ZFive L LTE                   -                        -                        0.71                      1.26 
+ZTE Blade A602                    -                        -                        0.696                     0.556
+ZTE Blade A612                    0.358                    -                        0.735                     1.12 
+ZTE Blade A520                    -                        -                        0.638                     1.169
+ZTE Blade V8 Lite                 0.333                    1.229                    -                         -    
+ZTE Blade V8 Mini                 0.714                    1.604                    1.342                     1.554
+ZTE Blade V8 Pro                  -                        -                        0.51                      0.92 
+ZTE Blade V8                      -                        -                        0.78                      0.66 
+ZTE Axon Elite                    0.170                    0.482                    -                         -    
+ZTE Axon Mini                     -                        -                        0.820                     0.720
+Blackview                         Blackview BV5800         0.128                    0.562                     -     -                  
+Blackview BV5800 PRO              0.128                    0.562                    -                         -    
+Blackview A20 Pro                 0.099                    0.159                    -                         -    
+BLACKVIEW BV5000                  0.543                    0.682                    -                         -    
+BLACKVIEW BV6000                  0.205                    0.542                    -                         -    
+BLACKVIEW Omega Pro               0.206                    0.536                    -                         -    
+UHANS                             UHANS A101               0.305                    1.338                     -     -                  
+Motorola                          Motorola MOTO X          0.558                    -                         0.726 1.280               Motorola Moto X4   -     -     1.12  1.16 
+Motorola Moto E4 Plus MT6737      -                        -                        0.5                       0.914
+Motorola Moto Z2 Play             -                        -                        1.455                     1.24 
+Motorola Moto E4                  -                        -                        1.17                      1.19 
+Motorola Moto C Plus              -                        -                        0.736                     1.25 
+Motorola Moto G5 Plus             -                        -                        0.91                      1.18 
+Motorola Moto G5                  -                        -                        0.762                     0.458
+Motorola Moto Z Play              -                        -                        1.45                      1.15 
+Motorola Moto Z Force             -                        -                        0.78                      1.14 
+Motorola Moto Z                   -                        -                        0.91                      1.14 
+Motorola Moto G4 Play             0.445                    1.48                     0.79                      1.44 
+Motorola Moto G4 Plus             -                        -                        1.23                      1.1  
+Motorola Moto G4                  0.59                     1.83                     1.23                      1.1  
+Gigaset                           Gigaset ME Pro (GS57-6)  1.300                    0.422                     -     -                   Gigaset GS270 Plus 0.562 1.356 -     -    
+Gigaset GS270                     0.576                    1.356                    -                         -    
+Gigaset GS170                     0.562                    1.356                    -                         -    
+Gigaset GS160                     0.408                    1.45                     -                         -    
+Gigaset ME Pro                    1.3                      0.422                    -                         -    
+Maze                              Maze Alpha               0.416                    0.974                     -     -                  
+Maze Alpha X                      0.345                    1.17                     -                         -    
+Maze Comet                        0.336                    1.352                    -                         -    
+Nubia                             Nubia N1 Lite            -                        -                         0.7   1.03               
+Nubia Z11                         -                        -                        0.499                     0.652
+Nubia Z11 mini                    -                        -                        0.496                     1.148
+Nubia Z9 Max NX512J               -                        -                        0.224                     1.361
+Nubia Z9 Max                      -                        -                        0.224                     1.361
+Nubia Z9 mini                     -                        -                        0.421                     1.438
+Nubia Z5S mini LTE                -                        -                        0.65                      1.19 
+Meizu                             Meizu M6 Note            -                        -                         1.24  0.48               
+Meizu M6                          0.92                     1.68                     -                         -    
+Meizu M5S                         0.879                    1.27                     -                         -    
+Meizu M5C                         0.78                     1.79                     -                         -    
+Meizu M5                          -                        1.16                     -                         -    
+Meizu M3S                         0.653                    1.46                     -                         -    
+Meizu PRO 7 Plus                  0.778                    1.09                     -                         -    
+Meizu Pro 6                       0.589                    0.8                      -                         -    
+Meizu M3 Note                     -                        -                        0.417                     0.893
+Meizu MX5                         -                        -                        0.749                     0.757
+Meizu M1 Note                     0.174                    -                        -                         -    
+Meizu MX3                         -                        0.823                    -                         -    
+UMIDIGI                           UMIDIGI Z2 PRO           0.109                    0.221                     0.396 0.132              
+UMIDIGI Z2                        0.109                    0.221                    0.396                     0.132
+UMIDIGI A1 Pro                    0.361                    1.27                     1.054                     0.876
+UMIDIGI S                         0.25                     0.855                    -                         -    
+UMIDIGI S2 Lite                   0.511                    1.021                    -                         -    
+UMIDIGI S2 Pro                    0.511                    1.021                    -                         -    
+UMIDIGI C2                        0.111                    0.905                    -                         -    
+UMIDIGI S2                        0.25                     0.855                    -                         -    
+
+Daily Deals
+
+
+Xiaomi Mijia Laser Projector - English Version
+
+
+1715.99 2005.46
+
+
+boeleo W1 AI Touch Control Voice Translator
+
+
+89.99 205.37
+
+
+LOUIS JASON LJ Crazy Horse Leather Waterproof Travel Outdoor Canvas Backpack
+
+
+55.36 172.65
+
+
+Gentle Efficient Grooming Bath Cleaning Dog Cat Pet Brush Glove
+
+
+2.89 3.43
+
+
+Original Xiaomi Mi Robot Vacuum
+
+
+299.99 443.83
+
+
+HOT
+
+
+  * Anycast M2 Dongle Guide | Connect any phone to your TV
+
+
+    2018-10-19By Zim Watson
+
+
+  * How to unlock the Windows PC when forgetting password?
+
+
+    2019-01-17By Matthieu Andre
+
+
+  * How to fix unresponsive touch screen on Android phone
+
+
+    2018-01-17By Adeline Belluz
+
+
+  * Microwear H1 & H2 FAQ
+
+
+    2019-01-22By Niki Jones
+
+
+  * Mi Band 2 Guide | Enable incoming call, SMS & App notifications
+
+
+    2017-02-22By Zim Watson
+
+
+  * Xiaomi Mijia Mi Smart LED Desk Lamp FAQ
+
+
+    2019-02-03By Steve Lowry
+
+
+Related Products
+
+
+  * QI Standard Smart Phone Wireless Charger
+
+
+    Buy Now
+
+
+  * gocomma 3 in 1 Handheld Extendable Bluetooth Selfie Stick Tripod Monopod Remote Control
+
+
+    Buy Now
+
+
+  * gocomma Universal Octopus Stand Tripod Mount Holder
+
+
+    Buy Now
+
+
+  * QC 3.0 Travel Power Adapter
+
+
+    Buy Now
+
+
+  * Mobile Phone Screen Magnifier Eyes Protection Display 3D Video Screen Amplifier
+
+
+    Buy Now
+
+
+  * 35 x 50 Zoom HD Phone Telescope
+
+
+    Buy Now
+
+
+  * Micro USB to HDMI TV Out HDTV MHL Adapter Cable for Phone or Tablet
+
+
+    Buy Now
+
+
+  * AMAZFIT A1608 Bip Lite Version Smart Watch ( Xiaomi Ecosystem Product )
+
+
+    Buy Now
+
+
+  * YEELIGHT 10W RGB E27 Smart Light Bulbs
+
+
+    Buy Now
+
+
+  * Business Card Folding Knife
+
+
+    Buy Now
+
+
+  * Tree Man Flower Pot Doll Model Desk Ornament Gift Toy
+
+
+    Buy Now
+
+
+  * Colorful Flash Christmas Tree Night Light
+
+
+    Buy Now
+
+
+Prev article:Xiaomi Redmi Note 4 phablet: every problem solved
+
+
+Next article:AP mode to connect Xiaomi 1080P smart IP camera to phone
+
+
+You might also like:
+
+GB Coupons - the easiest way to save money when shopping on GearBest!
+2017-11-07 By Sophia Windsor
+How to unlock an Android phone if you forgot the password
+2018-04-24 By Matthieu Andre
+Short guide on tracking fees and shipping insurance on GearBest
+2018-08-06 By David Tsang
+
+We are here to provide an answer to all of your questions (FAQ) and help you choose what you really need. Click, register and download firmwares, operating instructions, user guides and more. Follow what's new in Gearbest!
+
+
+Follow us
+
+
+On Social Networks
+
+
+* Contact us
+
+
+If you can't find the specific information
+you want from our blog,
+please send us an e-mail to blog@gearbest.com
+with any questions or feedback about our website.

@@ -1,0 +1,232 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+Xiaomi Mi A1 Review
+
+
+
+After a long gap, Google introduced an Android One smartphone in partnership with Chinese handset maker Xiaomi in the Indian market. Aiming at the mid-range segment, Xiaomi launched Mi A1 smartphone, which is the global variant of the Mi 5X that was introduced in China back in July. How good is the phone? Let us find out in the review.
+
+
+Unboxing
+
+
+Box Contents
+
+
+  * Xiaomi Mi A1 in Gold color
+
+  * 2-pin charger (5V-2A)
+  * USB Type-C Cable
+  * SIM Ejector Tool
+  * Quick start guide
+
+Display, Design, and Hardware
+
+
+The Xiaomi Mi A1 sports a 5.5-inch (1920 x 1080 pixels) Full HD 2.5D curved glass LTPS display along with Corning Gorilla Glass protection. The display is bright enough, decent color reproduction, good viewing angles and average sunlight legibility. The phone has usual set of proximity and ambient light sensor next the 5-megapixel front camera and also features a notification LED. It also has capacitive touch buttons below the display that are backlit and also offer haptic feedback when pressed.
+
+
+This device comes in a unibody metal design and feels solid in hand. It feels very comfortable and gives you a sort of control over it when using with two hands. Having said that, the design of the Mi A1 is old school and sort of boring of boring as well. In this case, we have nothing special to brag about the design language. The back side of the device looks kind of OnePlus 5 but bit beefed up. The phone is just 7.3mm thick and weighs 165 grams.
+
+
+The right side of the device houses the volume rocker and power button. On the left, we have Hybrid Dual SIM slots. Moving down, we have 3.5mm audio jack, primary microphone, USB Type-C port and a speaker grille. On the top, we have an Infrared sensor and secondary microphone.
+
+
+Turning back, we have 12MP dual rear camera setup, dual-tone led flash, and fingerprint sensor module just beneath it. It has 12MP dual rear cameras, one with a wide-angle lens and other with a telephoto lens offering portrait mode, background blur, 2x optical zoom and more. At the bottom, we have Mi and Android One branding as well.
+
+
+Software
+
+
+The Xiaomi Mi A1 is shipped with Android 7.1.2 Nougat out of the box. Unlike other Xiaomi devices, it comes with Stock Android with a couple of Xiaomi apps. From the lock screen, you can access Google assistant and camera app. At the launch, the company promised that it will get Android 8.0 (Oreo) by 2017 and also said that it will be one of the first phones to get Android P. Since it is an Android One phone, it comes with unlimited high-quality photo and video backups in Google Photos.
+
+
+Unlike other Xiaomi phones with MIUI, this device follows the Pixel-launcher suit with a swipe up gesture. It also comes with a set of Google utility apps and a couple of Xiaomi apps — Mi Remote, Mi Community apps as I had mentioned above.
+
+
+The Xiaomi Mi A1 comes with stock dialer UI and Google keyboard. During calls, the earpiece volume is good and there is no call drop as well. Audio through headset is good, thanks to the dedicated amplifier with advanced Dirac HD Sound. The loudspeaker output was good as well. It doesn’t have FM Radio.
+
+
+This device comes with 4GB RAM and 64GB internal storage which can be further expandable up to 128GB via MicroSD card slot. Out of 4GB RAM, you get around 2.4GB on first boot and 1.9GB in general. Talking about the storage, out of 64GB, you will get around 50GB free internal storage.
+
+
+Fingerprint sensor
+
+
+The Xiaomi Mi A1 have a fingerprint scanner on the back side of the device below the camera module. You can add up to 5 fingerprints on your device. It is quick to unlock the phone.
+
+
+Performance
+
+
+The Xiaomi Mi A1 is powered by an Octa-Core Snapdragon 625 14nm processor clocked at 2GHz along with 650MHz Adreno 506 as GPU. It is also complemented by 4GB RAM under the hood. In our real-time usage, the performance was flawlessly smooth and fast without any stutter, lag or hang. Thanks to 4GB RAM, the multi-tasking is much fluid than ever. During gameplay, we didn’t observe any frame drop or slowdowns. But playing games or using the camera for a long time warms the phone slightly. Overall, we have no problem at all, when it comes to performance factor. Check out some synthetic benchmark scores below.
+
+
+Camera
+
+
+The Xiomi Mi A1 has a dual camera setup on the rear consisting of the 12MP rear camera with wide-angle lens f/2.2 aperture, dual-tone LED flash and a secondary 12MP camera with a telephoto lens with f/2.6 aperture, PDAF. On the front, it is taken care of 5MP selfie shooter.
+
+
+Under daylight conditions, the Mi A1 rear camera produces a satisfactory result with finer details and good colors. The secondary camera too offers good bokeh effect but sometimes it struggles to locate definite edges. During low light situations, the output tends to be below average with lots of grains and blurred details. Moreover, the images with flash are average, as the light tends to overpower the subject. The 5MP front camera also is pretty decent for selfies but disappoints when it comes to low light situations.
+
+
+Apart from this, the Xiaomi Mi A1 also offers 2x optical zoom along with the ability to take bokeh shots. Check out the image samples below (Click to view the full resolution sample).
+
+
+Dual camera
+
+Dual camera
+
+
+Depth
+
+
+HDR OFF
+
+
+HDR ON
+
+
+Normal
+
+
+2X Zoom
+
+
+Front Camera
+
+
+It can record videos at a maximum of 4K resolution and also has slow motion recording. Video quality is good and the audio is crisp, thanks to the secondary microphone. Check out the video samples below.
+
+
+Connectivity
+
+
+It has Dual SIM option in the settings that lets you customize each SIM cards. It has 4G connectivity with support for 4G VoLTE for Reliance Jio. Other connectivity features include WiFi 802.11 ac (2.4GHz + 5GHz), Bluetooth 4.2 and GPS. It also has USB OTG (on-the-go) support but lacks NFC.
+
+
+Battery
+
+
+The Xiaomi Mi A1 is powered by 3080mAh built-in battery and comes with a 380v charger to handle power spikes. However, it doesn’t have fast charging technology. In terms of usage, it got us throughout a day perfectly, even with some intensive usage including gaming, watching videos on YouTube and other multi-tasking stuff.
+
+
+In our battery test, the Xiaomi Mi A1 achieved a One Charge Rating of 15 hours and 47 minutes, which is good for a phone with a 3080mAh battery. Since it doesn’t have support for fast charging, it takes about 2 hours to charge the phone and 53 minutes to charge it from 0 to 50%. Check out the complete set of battery life test results here.
+
+
+Conclusion
+
+
+Leaving out the boring design, the Xiaomi Mi A1 with its all-rounding performance makes this smartphone a compelling device under mid-range segment. The Xiaomi Mi A1 comes in Black, Gold and Rose Gold colors are priced at Rs. 14,999 and goes on sale every week through Flipkart and Mi.com online and is also available at Mi Home stores and other offline retailers.
+
+
+Pros
+
+  * Good performance
+  * Dual cameras
+  * Stock Android
+
+Cons
+
+  * Average front camera
+  * Hybrid SIM slot
+Author Vigneshwar SRPosted on September 22, 2017November 9, 2017Categories Headlines, Reviews, Xiaomi
+
+Post navigation
+
+Previous Previous post: Big Billion Days Sale 2017: Record 1.3 million smartphones sold in a day says Flipkart
+Next Next post: Apple iPhone 8, iPhone 8 Plus and Apple Watch Series 3 now available for pre-order in India
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * Huawei View 20 Camera Samples
+  * Nokia 5.1 Plus 4GB and 6GB RAM variants with 64GB storage launched in India
+  * ASUS OMG Days Sale from Feb 6 to 9 on Flipkart – ZenFone 5Z at Rs. 21999, Rs. 1000 off on ZenFone Max Pro M2 and more
+  * Coolpad Cool 3 with 5.71-inch HD+ dewdrop notch display, dual rear cameras, Android Pie launched in India for Rs. 5999
+  * Picooc Mini smart weighing scale launched for Rs. 2999
+  * Skullcandy SET sweat-proof in-ear sport earbuds launched in India for Rs. 2999
+  * Acer Chromebase 24I2 and Chromebase for Meetings 24V2 with 8th Gen Intel Core processor announced
+  * Instagram said to be working on ‘Main Account’ feature to manage multiple logins easier
+  * Google Live Transcribe and Sound Amplifier apps released to help hearing-impaired users communicate
+  * Google expands Instant Tethering to more Chromebooks and smartphones
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

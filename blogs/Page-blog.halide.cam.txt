@@ -1,0 +1,335 @@
+Homepage
+Homepage
+Follow
+Sign inGet started
+  * Home
+  * All our posts
+  * Learn about RAW
+  * Update History
+  * Download Halide
+  * Home
+  * All our posts
+  * Learn about RAW
+  * Update History
+  * Download Halide
+
+* iPhone XS: Why It’s A Whole New Camera
+
+Sebastiaan de WithBlockedUnblockFollowFollowing
+Oct 1, 2018
+
+Last week we detailed the camera hardware changes of the iPhone XS vs. the iPhone X, and I wondered why Apple’s keynote focused on changes in camera software rather than the new hardware. After testing the iPhone XS cameras for the last week, I get it.
+
+
+The iPhone XS doesn’t just have a bigger sensor: It has a whole new camera — and the biggest change is its reliance on computational photography.
+
+
+It’s A Smart Thing
+
+
+Apple is smart. They see diminishing returns cramming more and more electronics in a fingernail-sized sensor. Photographic technology is the science of capturing light, which is limited by optics and physics.
+
+
+The only way to circumvent the laws of physics is with something known as ‘computational photography’. With the powerful chips in modern iPhones, Apple can take a whole bunch of photos—some of them before you even pressed the shutter—and merge them into one perfect shot.
+
+
+An iPhone XS will over- and underexpose the shot, get fast shots to freeze motion and retain sharpness across the frame and grab every best part of all these frames to create one image. That’s what you get out of the iPhone XS camera, and that’s what makes it so powerful at taking photos in situations where you usually lose details because of mixed light or strong contrast.
+
+
+This isn’t the slight adjustment of Auto HDR on the iPhone X. This is a whole new look, a drastic departure from the “look” of every iPhone before it. In a sense, a whole new camera.
+
+
+What’s this about a ‘soft filter’ on my selfies?
+
+
+It doesn’t exist. I don’t want to say that some people make up controversies to get Youtube impressions, but you do have to take things on the internet with a grain of salt.
+
+
+People feel the iPhone XS ‘smoothens’ things for two reasons:
+
+  * Better and more aggressive noise reduction due to merged exposures, and
+  * Merged exposures reducing sharpness by eliminating sharp light/dark contrasts where light hits parts of the skin
+
+For the latter, it’s important to understand how our brains perceive sharpness, and how artists make things look sharper.
+
+
+It doesn’t work like those comical CSI shows where detectives yell ‘enhance’ at a screen. You can’t add detail that’s already been lost. But you can fool your brain by adding small contrasty areas.
+
+
+Enhance! Okay, maybe that’s a bit too enhanced.
+
+
+Put simply, a dark or light outline adjacent to a contrasting light or a dark shape. That local contrast is what makes things look sharp.
+
+
+Image via Wikipedia
+
+To enhance sharpness, simply make the light area a bit lighter near the edge, and the dark area a bit darker near the edge. That’s sharpness.
+
+
+Image from the Verge
+
+The iPhone XS merges exposures and reduces the brightness of the bright areas and reduces the darkness of the shadows. The detail remains, but we can perceive it as less sharp because it lost local contrast. In the photo above, the skin looks smoother simply because the light isn’t as harsh.
+
+
+Observant people noticed it isn’t just skin that’s affected. Coarse textures and particularly anything in the dark— from cats to wood grain— get a smoother look. This is noise reduction at work. iPhone XS has more aggressive noise reduction than previous iPhones.
+
+
+I talked about noise reduction on iPhone X in The Power of RAW on iPhone, Part 1.
+
+Why The Noise Reduction?
+
+
+After testing the iPhone XS side by side with the X, we found the XS prefers a faster shutter speed and higher ISO level. In other words, it takes photos a lot faster, but comes at the cost of noise.
+
+
+iPhone X RAW on the left, iPhone XS RAW on the right. Note the increase in visible noise!
+
+
+Two shots taken with the iPhone X (left) and iPhone XS (right). Taken in RAW so the extra noise can be seen—RAW on iPhone omits any noise-reduction steps. Why does the iPhone XS’ frame have to be noisier?
+
+
+Remember that line-up of frames showing how the iPhone camera works?
+
+
+Unless you have bionic arms, it’s impossible to hold your phone perfectly still for this long. To get a sharp, perfectly aligned burst of images, the iPhone needs to take photos really fast. That requires a shorter shutter speed — and that, in turn, means that there will be more noise in the image.
+
+
+That noise has to be removed, somehow, and that comes at a cost: noise reduction removes a bit of detail and local contrast.
+
+
+The iPhone XS RAW exposure on the left shows less ‘smoothed’ detail in the reflections, compared to its regular Smart HDR counterpart on the right.
+
+
+But mostly selfies are smoother — especially faces!
+
+
+Yep. The front facing selfie camera hardware is worse in low-light than the back facing camera. The selfie cam has a tiny, pinkie-fingernail sized sensor, which means it takes in less light, which in turn means more noise, and thus more noise reduction.
+
+
+The result is a smoother image, which with the new Smart HDR and computational-photography-heavy pipeline smoothens out the image a bit more than in the past.
+
+
+In the images below, notice the smoothing in low light compared to daylight:
+
+
+Images by Apple
+
+
+The tradeoff is that selfies, which traditionally are worse in mixed or harsh lighting (the majority of lighting!) are now no longer blown out, and in most cases it just looks better, if just a little on the smooth side.
+
+
+The good news is that Apple can also tweak this a bit if people find it too heavy-handed, but given it’s a simple choice between unflattering lighting and noise versus too much smoothness, it’s logical for version 1.0 to err on the side of smoothness.
+
+
+With regards to false claims that faces are specifically targeted: I tried images of a lemon, coarse textured paper and regular old facial selfies and the level of smoothing was identical.
+
+
+So, the iPhone XS camera is worse?
+
+
+No, the camera is not worse than the iPhone X.
+
+
+The iPhone XS camera is better than iPhone X. It has superior dynamic range, but comes with a few tradeoffs in Apple’s software. If you don’t like the newfangled way of doing things, don’t worry.
+
+
+A shot like this is impossible to achieve on pre-XS iPhones. By Austin Mann.
+
+What Apple is doing is better for virtually all use cases: casual users get better photos with more detail in highlights and shadows, without any editing. Pro users can regain contrast with a little bit of editing; the opposite is impossible: with a contrasty image, the detail was already gone.
+
+
+You can now take selfies or photos with harsh backlight, side light or other unflattering light sources and end up with a usable result. This is kind of magic!
+
+
+That being said, there’s a two slight problems:
+
+
+The Faithfulness Problem
+
+
+As cameras become less of an simple instrument and more of a ‘smart device’ that uses a variety of complex operations to merge several images into one, you wonder if you’re looking at ‘undoctored’ images.
+
+
+Take this shot of Yosemite at night:
+
+
+Yosemite, by Tanner Wendell Stewart.
+
+This is doctored. To properly expose the landscape the photographer used a very long exposure. Then captured the stars with a much shorter exposure, otherwise they would’ve turned into star trails. Then they merged the two images into one. Technically this is fake.
+
+
+Now, back to the iPhone: the Smart HDR takes various exposures and merges them to get better shadow and highlight detail. There’s a degree of fakery involved. Photography purists might very well be bothered by that:
+
+
+Without Smart HDR, manual HDR is always hard to pull off without looking fake. There’s an entire subreddit devoted to ‘shitty HDR’.
+
+
+The two leftmost images above were both taken with iPhone XS; left, with Smart HDR, and in the middle without. On the right, a shot taken with iPhone X.
+
+
+With Smart HDR disabled (the middle), it’s still recovering more dynamic range, but feels a little less “auto tuned.” There’s a lot more to say about that middle image, but a deep dive into dynamic range (and true HDR) deserves a future post.
+
+
+This is just how the camera works on iPhones now. And I’d wager that it’ll stay that way in the future.
+
+
+And yes, this applies to the viewfinder of any camera app, as well. Apple applies its dynamic range improvements live, to the video stream, so will always see an ‘altered’ image.
+
+
+Problems with RAW
+
+
+Here’s where it gets problematic in a practical sense: iPhone XS behaves entirely different than iPhone X when it comes to exposing an image. That matters when you shoot RAW. A lot.
+
+
+Take this casual shot:
+
+
+Left: iPhone X RAW, no edits. Right: iPhone XS RAW, no edits. What happened?
+
+
+Immediately you’ll notice it’s overexposed. If you go to edit the iPhone XS RAW file, you’ll notice you find highlights were lost due to clipping.
+
+
+When you dive into the technical details, you’ll see the second problem: iPhone X exposed for 1/60th of a second at ISO 40 whereas the iPhone XS exposed for 1/120th of a second at ISO 80. We suspect the XS camera now just prefers shorter exposure times at higher ISO, to get the best possible Smart HDR photo.
+
+
+We make a camera app that takes RAW photos, so this is very bad. Not only does RAW not benefit from merging multiple photos, but iPhone photos generally get very noisy above ISO 200. This is a major step in the wrong direction.
+
+
+To add insult to injury, iPhone XS sensor’s noise is just a bit stronger and more colorful than that of the iPhone X.
+
+
+This isn’t the kind of noise we can easily remove in post-processing. This isn’t the gentle, film-like grain we previously saw in iPhone X and iPhone 8 RAW files.
+
+
+As it stands today, if you shoot RAW with an iPhone XS, you need to go manual and under-expose. Otherwise you’ll end up with RAWs worse than Smart HDR JPEGs. All third-party camera apps are affected. Bizarrely, RAW files from the iPhone X are better than those from the iPhone XS.
+
+
+Our solution: Smart RAW
+
+
+Fortunately, it doesn’t have to stay that way. Since the iPhone XS came out, we’ve spent days, nights and weekends working to figure out a solution so we can get the most out of the bigger sensor and its deeper pixels.
+
+
+We’re happy to announce a new feature in Halide 1.10 called Smart RAW, which uses the new sensor technology in the iPhone XS to get better images than an iPhone X could ever take. Smart RAW does not use any aspect of Smart HDR — in fact, it avoids it altogether, so you end up with almost no noise reduction.
+
+
+We use a combination of entirely new logic for exposing the image and a touch of magic to get superior RAW shots.
+
+
+Now that we’ve bypassed the iPhone XS exposure issues, there’s a pretty crazy amount of detail in these Smart RAW files. Let’s look at that last image of the First Aid Kit concert with and without Smart RAW:
+
+
+No Smart RAW on the left vs. Smart RAW on the right.
+
+
+It’s significantly better than the iPhone X. Here’s some GIF comparisons of the iPhone XS vs. an iPhone X RAW of the same scene:
+
+
+Look at all that detail! (Perspective change due to the iPhone XS’ new, wider angle lens.)
+
+Another scene, comparing the iPhone XS with Smart RAW with an iPhone X:
+
+
+Details! Glorious details! Both of these images got the same quick Lightroom filter applied.
+
+The results are remarkable: less noise and more detail in every shot.
+
+
+Here’s the best part about Smart RAW: thanks to specific fine-tuning for the iPhone XS sensor, we can now get more quality out of the camera than ever before. There’s a remarkable increase in resolution and quality going from the iPhone X to the iPhone XS.
+
+
+Smart RAW vs. Smart HDR
+
+
+You might be wondering how it stacks up against Smart HDR, since shooting in RAW means you do not get any HDR whatsoever. I took a tricky shot, exposure-wise, with Smart HDR and our new RAW:
+
+
+Left: Smart HDR. Right: Unedited RAW
+
+
+Without any edits, they stack up pretty decent. Smart HDR has a slight edge.
+
+
+But RAW files are only a starting point. Here are the same photos after a few edits:
+
+
+Left: Smart HDR. Right: Edited Smart RAW.
+
+
+We don’t quite get the dynamic range of Smart HDR here — note the sky gets a hint of blue in it in the Smart HDR version — but we’re pretty close. I personally prefer the look of the edited RAW: just a bit more natural.
+
+
+But here’s the real edge: detail.
+
+
+I always prefer shooting in RAW for the sheer sharpness of details, and on the iPhone XS with its larger pixels there’s more detail than ever. The leaves in the top-right tree are a great example:
+
+
+This goes for most shots. With the RAW capture, you’ll have to do some work to edit it, but the results are often worth it. Of course, this is an image with a lot of available light — we should also see how it stacks up when the sun goes down.
+
+
+In low-light situations, there’s a tradeoff. As light goes down, noise goes up. The iPhone XS paired with Smart HDR in the stock camera app does some pretty great low-light photography, but there’s also times where it won’t get the sharpest shots.
+
+
+Very low light photography will always have a lot of noise. Smart HDR aggressively hides it, losing detail. If you want more detail and you’re ok with a little noise, try Smart RAW in Halide:
+
+
+Left: Halide’s Smart RAW. Right: iPhone’s Smart HDR.
+
+There’s noise in the shadows here, and the skin look harsher as there is less flattening of the highlights and shadows, but the detail is fantastic compared to the straight-out-of-camera image from the stock iPhone camera app here.
+
+
+Smart RAW is still in testing and will require a very large amount of photographic proof to ensure it works perfectly in all conditions. We expect to launch it at the end of this week.
+
+
+Conclusion
+
+
+iPhone XS has a completely new camera. It’s not just a different sensor, but an entirely new approach to photography that is new to iOS. Since it leans so heavily on merging exposures and computational photography, images may look quite different from those you’ve taken in similar conditions on older iPhones.
+
+
+But unlike previous cameras, exactly because many of its leaps in quality are based on software, we can expect it to change, and even improve. This is just the first version of iOS 12 and Smart HDR.
+
+
+Likewise, us developers need to update apps to take full advantage of the new iPhone XS and XS Max’s very capable sensor. Since it is such a different animal, simply treating it as any other iPhone will yield subpar results. We’re almost done doing our first take at it and we’ll no doubt have to work more on it in the future.
+
+
+If you’re a user that’s bothered by some aspect of this brave new era of computational photography, or some of Apple’s image processing, know that there’s options for you out there: you can disable some of the heavy handed HDR in the Camera settings¹, or you can shoot in RAW.
+
+
+And on that last option, we’d be happy to help you get started.
+
+
+Many of our Smart RAW testing shots taken in and around San Francisco.
+
+
+¹ Go to Settings -> Camera, then disable Smart HDR. Now open the camera app and a new ‘HDR’ setting will appear in the top controls. Tap it to disable HDR.
+
+  * Photography
+  * Iphonex
+  * Cameras
+  * iPhone
+  * Apple
+8.1K claps
+41
+* BlockedUnblockFollowFollowing
+
+Sebastiaan de With
+
+
+Freelance designer, photographer, motorcycle traveler. Designer of Halide.
+
+* Follow
+
+Halide
+
+
+Behind Halide
+
+  * 8.1K
+* Never miss a story from Halide, when you sign up for Medium. Learn more
+Never miss a story from Halide
+Get updatesGet updates

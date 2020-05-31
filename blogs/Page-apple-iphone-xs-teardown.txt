@@ -1,0 +1,383 @@
+SUBSCRIBER LOGIN
+TechInsights Application Inside Technology
+ENGLISH
+ENGLISH CHINESE, SIMPLIFIED CHINESE, TRADITIONAL JAPANESE KOREAN
+CONTACT US |
+  * Technology Intelligence Technology Analysis Structural/Process Analysis Circuit Analysis Systems Technology Reports Technology Roadmaps Featured Reports Subscriptions IC Analysis Logic Image Sensors Internet of Things Memory Power Semiconductor Teardown Mobile Devices Wearables SSDs Notebooks & Tablets IoT Home Emerging Technologies Costing & Design Win Database
+  * IP Solutions IP Solutions Know Your Competition Build Better Patents Optimize Your Portfolio Assert Your IP Defend Your Business Acquire or Divest Patents For Lawyers and Law Firms Conflict of Interest and Confidential Information IP Services Evidence of Use Portfolio Assessment Patent Strengthening Patent Landscaping Prior Art Search Patent Mining Patent Transaction Services Subscriptions TechInsights Library Prior Art Library Semiconductor Library Design Wins Library Capabilities Structural/Process Analysis Circuit Analysis Systems Software
+  * About Us Overview Careers News & Events Blog Contact Us Worldwide Locations
+  * Show Menu
+  * Technology Intelligence
+      + Technology Analysis
+          o Structural/Process Analysis
+          o Circuit Analysis
+          o Systems
+          o Technology Reports
+          o Technology Roadmaps
+          o Featured Reports
+      + Subscriptions
+          o IC Analysis
+              - Logic
+              - Image Sensors
+              - Internet of Things
+              - Memory
+          o Teardown
+              - Mobile Devices
+              - Wearables
+              - SSDs
+              - Notebooks & Tablets
+              - IoT Home
+              - Emerging Technologies
+              - Costing & Design Win Database (IRIS)
+  * IP Solutions
+      + IP Solutions
+          o Know Your Competition
+          o Build Better Patents
+          o Optimize Your Portfolio
+          o Assert Your IP
+          o Defend Your Business
+          o Acquire or Divest Patents
+          o For Lawyers and Law Firms
+          o Conflict of Interest and Confidential Information
+      + IP Services
+          o Patent Landscaping
+          o Patent Strengthening
+          o Patent Mining
+          o Prior Art Search
+          o Evidence of Use
+          o Portfolio Assessment
+          o Patent Transaction Services
+      + Subscriptions
+          o Tech Library
+          o Prior Art Library
+          o Teardown.com
+      + Capabilities
+          o Structural/Process Analysis
+          o Circuit Analysis
+          o Systems
+          o Software
+  * About Us
+      + Overview
+          o Careers
+          o News & Events
+          o Blog
+      + Contact Us
+          o Worldwide Locations
+  * 1.877.826.4447
+
+  * Apple iPhone Xs Max Teardown
+
+ 1. Home > About TechInsights > Blog > Technology Blogs
+ 2. Subscribe to the latest TechInsights news
+  * 
+
+    Posted: September 17, 2018 - Updated: October 3, 2018
+    Contributing Author: Daniel Yang & Stacy Wegner
+
+
+    It has become a tradition for us at TechInsights… as the beautiful Fall season rolls around, we all prepare for our Apple Day - the annual teardown of the new Apple iPhone.
+
+
+    iPhone Xs Max - Unboxing
+
+
+  + You may still remember that Apple used the tagline “Say hello to the future” to introduce the Face ID-powered iPhone X in September 2017 (and TechInsights blogged about the Apple iPhone X teardown here, , and conducted a costing comparison of several different 2017 flagship phones here). This year, Apple is using the tagline “Welcome to the big screens” to unveil the iPhone Xs Max and iPhone Xs, which can be interpreted to mean that larger screens are a key feature of this year’s iPhones.
+
+
+    
+    It can almost be considered an Apple tradition: the year immediately following the release of a major new flagship product (last year’s iPhone X), fewer revolutionary features are introduced.
+
+
+    Note that we said “fewer,” not “none” - we still expect to see some exciting new things in the iPhone Xs and Xs Max, including the TSMC 7 nm FinFET fabbed Apple A12 Bionic chip with its new 8-core Neural Engine, a second generation Apple-designed GPU, an Intel CDMA-supported baseband processor, new CMOS Image Sensors, and new Face ID components.
+
+
+    We have the iPhone Xs Max, model A1921, with 256GB capacity in our labs. As we do every year, we will update this blog post with our findings as soon as we can. Check back often over the next several days for updates.
+
+
+    Here is what we saw inside the phone when we first opened it.
+
+
+    iPhone Xs Max
+
+  + 
+
+    If we compare the iPhone Xs Max to the previous iPhone X, they are very similar.
+
+
+    iPhone Xs Max
+
+
+    iPhone X
+
+    
+    
+
+    Inside the iPhone Xs Max
+
+  + 
+
+    Typically when Apple has a design they feel does the job well, they use similar design strategies in their follow up products, and that is what we see here. Just like last year’s iPhone X, the iPhone Xs Max uses 2 pieces Substrate-like PCB (SLB).
+
+
+    There is one thing we do spy on this assembly, however. It looks as if there is a 3rd PCB in the same place where the power amplifiers were designed on the PCB in last year’s models. If this PCB is a type of RF-module with all the necessary RF front-end components and circuits, this could be a way for Apple to get around designing unique main boards to support different markets with different cellular coverage and bands.
+
+    
+
+    iPhone Xs Max - Board Shots
+
+
+    Inside the iPhone Xs Max
+
+  + 
+
+    Costing
+
+
+    Here is a high-level view into the costs of the various components of the iPhone Xs Max:
+
+
+    UPDATE - September 27, 2018:
+
+
+    We have revised our initial estimates of the component cost of the iPhone Xs Max from $443.00 to $453.00, based on new information about the 3D touch system. Our initial review of the phone indicated that some of the 3D components that were included in last year’s iPhone X had been removed, but further investigation revealed this not to be the case. We can confirm that the iPhone Xs Max includes the same Broadcom BCM15951 3D touch controller used in the iPhone X.
+
+
+    This increases the Display cost from $80.50 to $90.50, for a total cost of $453.00.
+
+                                                                                 
+                                   Apple iPhone XS Max A1921 Apple iPhone X A1091
+Applications Processor/Modems      $72.00                    $66.22              
+Battery                            $9.00                     $6.46               
+Connectivity & Sensors             $18.00                    $17.11              
+Cameras                            $44.00                    $42.80              
+Display                            $90.50                    $77.27              
+Memory                             $64.50                    $45.35              
+Mixed Signal/RF                    $23.00                    $23.31              
+Power Management/Audio             $14.50                    $14.16              
+Other Electronics                  $35.00                    $32.51              
+Mechanicals/Housings               $58.00                    $45.71              
+Test/Assembly/Supporting Materials $24.50                    $24.55              
+Total                              $453.00                   $395.44             
+
+    
+
+
+    Some of the increases in cost from the iPhone Xs to the iPhone Xs Max are in the areas of baseband, larger OLED display, larger battery, more non-volatile memory, and a significant increase in the cost of non-electronic components.
+
+
+    The iPhone Xs Max has larger, heavier housings than the iPhone X, and the internal frame carries more process costs around spot welds, inserts, etc.
+
+
+    The OLED display in the iPhone Xs Max is larger, increasing its cost, but that increase is tempered by the removal of some of the 3D touch components that were previously found in the iPhone X.
+
+
+    Costing note: All cost estimates provided here are compiled using information available to us at the time of the initial teardown. Some assumptions have been made where concrete data is not yet available. We will continue to gather and refine this costing data throughout our ongoing deep-dive teardown process and analysis. While we do not expect drastic cost changes, we do expect some adjustments.
+
+    
+
+    Application Processor
+
+
+    Apple A12 Bionic Chip APL1W81
+
+
+  + Say hello to the Apple A12 Bionic chip APL1W81. The A12 is a Package on Package (PoP) with the Micron MT53D512M64D4SB-046 XT:E 4GB Mobile LPDDR4x SDRAM (in our model).
+
+
+    We have examined a North American model A1921 which includes the Micron MT53 series LPDDR4X SDRAM. Another teardown of the Australian model A2097 / A2101 also contained a Micron SDRAM socket win. Does this mean that Micron is the sole owner of the SDRAM socket? It’s too early to tell because we have only seen a couple of different SKUs so far. We will learn more as we open up the many more units needed to conduct our in-depth examination of the A12.
+
+    
+
+    Apple A12 Bionic Chip APL1W81
+
+    Annotated Floorplan Die Photo
+
+
+    Update October 3, 2018:
+    We have examined a few more iPhone Xs and Xs Max phones and seen Samsung K3UH5H50MM-MGCL 4GB LPDDR4x SDRAM in the A12 PoP. TechInsights can confirm that Micron is not the only DRAM supplier for Apple’s new iPhone products.
+
+
+    The A12 APL1W81 has now been decapped in our lab. We can confirm the following: the Application Processor die shows the die mark TMJA46. The die size (seal) is 9.89mm x 8.42mm = 83.27 mm2, representing only a 5% die shrink when compared to the A11. Stay tuned, we will publish the high resolution poly die photo and key functional block annotated floorplan die photo soon.
+
+    
+
+    Baseband
+
+
+    Intel PMB9955 Baseband Processor
+
+
+  + Intel PMB9955, we expect it is the Intel XMM7560, its fifth-generation LTE modem which supports CDMA. This should be the first of its kind to be fabbed using Intel’s own 14 nm process, although the Intel 14 nm mobile SoC is not new to us. TechInsights has already examined the Spreadtrum SC9853I modem, which was fabbed using the Intel 14 nm.
+
+
+    One point of interest to note is that previous Intel baseband processors were fabbed by TSMC. For example, the XMM7480 (PMB9948) was fabbed using the TSMC 28 nm process.
+
+
+    Update October 3, 2018:
+    We have decapsulated this part, and can say with greater confidence that this is Intel’s XMM7560 LTE Advanced Pro 4G LTE Baseband Processor.
+
+    
+
+    RF Transceiver
+
+
+    Intel PMB5762
+
+
+  + Intel PMB5762 is the RF Transceiver identified in the iPhone Xs Max. It can achieve Cat 16 downlink and Cat 15 uplink, according to Intel.
+
+    
+
+    Power Management ICs
+
+
+    Power Management ICs
+
+
+  + Intel PMB6829, Apple 338S00456, 338S00375, Texas Instruments SN2600 Battery Charger IC, STMicroelectronics STB601A0, etc.
+
+
+    Recent iPhone models have included PMIC’s from Dialog. The PMIC in the Xs Max has an Apple logo (APL1091), which confirms that Dialog has lost the main PMIC slot this time around. We anticipate seeing a Dialog PMIC in the Apple iPhone Xs, and will validate as we tear down that model.
+
+
+    
+    Dialog continues to be the provider of the main PMIC (power management IC for the A12) 338S00383 in the iPhone Xs A1920.
+
+
+    We can also confirm that another PMIC 338S00375 in both the iPhone Xs Max and iPhone Xs is still supplied by Dialog.
+
+    
+
+    CMOS Image Sensors
+
+
+    FaceID
+
+    FaceID
+
+
+    The iPhone Xs Max, iPhone Xs, and the upcoming iPhone Xr all include Face ID, which means Apple has completely moved away from fingerprint authentication on their iPhones this year. The move from TouchID to Face ID impacts four manufacturers - Analog Devices and NXP lose the spots they have enjoyed in the TouchID systems of past models, while Finisar and Lumentum (will) share wins with their respective VCSEL solutions in the dot projectors.
+
+  + 
+
+    Rear-Facing Wide-Angle Camera
+
+    Rear-Facing Wide-Angle Camera
+
+
+    Our early camera teardown effort has been focused on the 12 MP resolution wide-angle camera, promoted as a new, larger sensor with bigger, deeper pixels. The iPhone XS Max wide-angle camera chip is a stacked imager sourced from Sony and features a 7.01 mm x 5.79 mm (40.6 mm2) die size. This compares to 5.21 mm x 6.29 mm (32.8 mm2) for the iPhone 8/X wide-angle camera chips.
+
+  + 
+
+    We confirmed the iPhone XS Max’s wide-angle camera pixel pitch of 1.4 µm (up from 1.22 µm) and immediately noticed the increased density of Focus Pixels compared to last year’s iPhone 8/X. The term Focus Pixels is Apple’s branding of masked phase detection autofocus (PDAF) pixels and the higher Focus Pixel count translates to more regions available as autofocus points. Focus Pixels were introduced in 2014 for iPhone 6 and at that time featured left and right-masked Focus Pixel pairs. In 2017 Apple moved from a paired to shared Focus Pixel strategy, where top/bottom masked pixels were added and all were evenly distributed within selected rows/columns. Apple has implemented all of its wide-angle Focus Pixels in the green channel.
+
+
+    12 MP Wide-Angle Camera Image Sensor Die Photograph (Color Filters Removed)
+
+
+    12 MP Wide-Angle Camera Image Sensor Color Filter Array, Focus Pixels
+
+    
+
+    Apple iPhone Wide-Angle Camera Chip Focus Pixel Trend
+
+    
+
+    Flash Memory
+
+
+    Flash Memory
+
+
+  + A SanDisk SDMPEGF18 256 GB Flash memory module is found in our iPhone Xs Max. We will decap it and determine the origin of the flash memory die.
+
+
+    Update October 3, 2018:
+    The SanDisk SDMPEGF18 256 GB Flash memory includes the SanDisk/Toshiba 64-layer 3D NAND Flash die, which we have seen before.
+
+    
+
+    Wi-Fi/BT Module
+
+
+    USI 339S00551 Wi-Fi/BT Module
+
+
+  + USI 339S00551. We suspect the module would still have a Broadcom Wi-Fi/Bluetooth combo SoC. We will confirm this detail shortly.
+
+
+    Update October 3, 2018:
+    Yes, we confirm that the USI module has a Broadcom Wi-Fi/Bluetooth wireless combo SoC die. This is a die design we have not seen before, and TechInsights will launch further analysis on this part.
+
+    
+
+    Audio ICs
+
+
+    Audio ICs
+
+
+  + Three pieces Apple 338S00411 Audio Amplifiers. Apple 338S00248 Audio Codec.
+
+    
+
+    NFC Controller
+
+
+    NFC Controller
+
+
+  + We suspect that NXP part with package marks 100VB27 might be a NFC Controller. We will be able to confirm shortly.
+
+
+    NXP has been Apple’s NFC Controller supplier for some time. In recent years, for example, we have seen their PN80V NFC Controller (die mark 7PN552) used in the iPhone X/8/8 Plus and Watch Series 3; and their PN67V (die mark 7PN549) used in the iPhone 7/7 Plus and Watch Series 2. The PN80V and PN67V have very similar die floorplans, and also have the same die size (seal) of 7.89 mm2.
+
+
+    
+    This year, in the iPhone Xs/Xs Max and in the Watch Series 4, we have found a newly-designed die in the NXP 100VB27. A first glance at the top metal die photo leads us to believe it is likely a new NFC Controller from NXP. The die size (seal) is 10.26 mm2 and the floorplan has changed significantly compared to previous NFC Controller dies. TechInsights will be launching a full analysis of this new part soon.
+
+    
+
+    RF Front-end
+
+
+    RF Front-end
+
+
+  + Avago AFEM-8092 FEM, Skyworks SKY13768 FEM, Skyworks SKY85403 FEM, and a few Skyworks devices.
+
+    
+
+    Screen
+
+
+    Media outlets earlier in the year reported that LG Display would (finally) supply displays for Apple, having missed a spot in last year’s iPhone releases. We are looking forward to this quick turn teardown (QTT) and some other upcoming teardowns, to see if we can confirm LG Display is indeed an official display supplier to one of the leading Mobile OEMs in the world.
+
+    
+
+    Access the data you need faster than ever
+
+
+    A subscription to TechInsights' Teardown platform gives you the data you need - instantly. Using a high-speed search engine, you have access to our latest teardown data. View or download images and reports; compare products and determine the relationships between components and devices through detailed genealogy charts. With TechInsights' Teardown subscription, you’ll always be on top of our latest teardown data through email notifications or your favorites settings.
+
+
+* Revealing the innovation others can't
+
+
+inside advanced technology
+
+
+Contact TechInsights
+
+
+1891 Robertson Road, Suite 500, Ottawa, ON K2H 5B7 Canada (map and directions)
+Tel: +1.613.599.6500 | Fax: +1.613.599.6501 | info@techinsights.com
+View our International Locations
+
+
+© TechInsights Inc. 2019 all rights reserved. TechInsights and the Chipworks logos are registered trademarks of TechInsights Inc.
+
+  * Sitemap
+  * Media Resources
+  * Privacy Statement
+  * Accessibility

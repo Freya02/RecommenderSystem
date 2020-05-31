@@ -1,0 +1,122 @@
+This site uses cookies for analytics, personalized content and ads. By continuing to browse this site, you agree to this use. Learn more
+|
+Search MSDN
+Search all blogs
+Search this blog
+Sign in
+
+Translator Translator
+
+
+  * Home
+
+  * Solutions
+      + Business intelligence
+      + Community, Social, and Gaming
+      + Customer Support
+      + Education
+      + Internal Communications
+      + Live and Remote Communications
+      + Readiness and Training
+      + Real Time Presentation Translation
+      + Web Localization and Ecommerce
+      + More Solutions
+  * Products
+      + Text Translation API
+      + Speech Translation API
+      + Customization Hub
+      + On Premises Offering
+      + live feature (preview)
+      + Translation Apps
+      + Business Applications
+      + More Cognitive Services APIs
+  * Languages
+  * Blog
+  * Support
+      + FAQ
+      + Documentation
+      + Support
+      + Contact
+  * More
+      + Attribution
+      + Machine Translation
+      + Customers
+      + Partners
+
+Honor View10 Launches New Device with Translator Pre-Installed
+
+★★★★★
+★★★★
+★★★
+★★
+★
+Microsoft TranslatorJanuary 12, 20180
+  * Share
+  * 0
+  * 0
+
+credit: zdnet.com
+
+
+Microsoft Translator has partnered with Honor – a sub-brand of Huawei – to bring AI-powered offline neural network translation to a larger market. The new Honor View10 comes with an optimized Microsoft Translator app pre-installed.
+
+
+Similarly to the Huawei Mate 10 series, the Honor View10 also features a Neural-Network Processing Unit (NPU), which allows the Microsoft Translator app to deliver neural translations with or without an internet connection.
+
+
+Read more about the Honor View10 launch here.
+
+
+Comments (0)
+
+
+You must be logged in to post a comment.
+
+Skip to main content
+
+Follow Us
+
+
+Subscribe Blog via Email
+
+
+Subscribe to this blog and receive notifications of new posts by email.
+
+
+Subscribe! Unsubscribe
+
+
+News on Twitter
+
+Tweets by @mstranslator
+
+Recent Posts
+
+  * Customize Microsoft Translator’s Neural Machine Translation to translate just the way you want: Custom Translator now in General Availability
+  * Microsoft Translator releases next-generation Neural Machine Translation technology
+  * Rochester Institute of Technology Uses Microsoft Translator to Break Communication Barriers on Campus
+  * SwiftKey for Android integrates Microsoft Translator, instantly translating text and IM conversations in-app
+  * Integrate end-to-end speech translation into your products with Microsoft Speech services
+
+Categories
+
+Categories Select Category Business Developers Education Partner News Product News Uncategorized
+
+Archives
+
+* December 2018 (1)
+* November 2018 (1)
+* All of 2018 (30)
+* All of 2017 (24)
+* All of 2016 (26)
+* All of 2015 (32)
+* All of 2014 (16)
+* All of 2013 (11)
+* All of 2012 (10)
+* All of 2011 (4)
+* All of 2010 (10)
+* All of 2009 (10)
+* All of 2008 (22)
+* All of 2007 (7)
+Privacy Terms of Use Trademarks
+© 2019 Microsoft

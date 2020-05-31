@@ -1,0 +1,209 @@
+SUBSCRIBER LOGIN
+TechInsights Application Inside Technology
+ENGLISH
+ENGLISH CHINESE, SIMPLIFIED CHINESE, TRADITIONAL JAPANESE KOREAN
+CONTACT US |
+  * Technology Intelligence Technology Analysis Structural/Process Analysis Circuit Analysis Systems Technology Reports Technology Roadmaps Featured Reports Subscriptions IC Analysis Logic Image Sensors Internet of Things Memory Power Semiconductor Teardown Mobile Devices Wearables SSDs Notebooks & Tablets IoT Home Emerging Technologies Costing & Design Win Database
+  * IP Solutions IP Solutions Know Your Competition Build Better Patents Optimize Your Portfolio Assert Your IP Defend Your Business Acquire or Divest Patents For Lawyers and Law Firms Conflict of Interest and Confidential Information IP Services Evidence of Use Portfolio Assessment Patent Strengthening Patent Landscaping Prior Art Search Patent Mining Patent Transaction Services Subscriptions TechInsights Library Prior Art Library Semiconductor Library Design Wins Library Capabilities Structural/Process Analysis Circuit Analysis Systems Software
+  * About Us Overview Careers News & Events Blog Contact Us Worldwide Locations
+  * Show Menu
+  * Technology Intelligence
+      + Overview
+          o Custom Analysis
+          o Technology Reports
+      + Products
+          o ChipSelect
+              - ChipSelect ACMOS
+              - ChipSelect Image Sensors
+              - ChipSelect Design Architecture
+              - ChipSelect Internet of Things
+          o Teardown.com
+      + Technology Analysis
+          o Structural/Process Analysis
+          o Circuit Analysis
+          o Systems
+          o Software
+  * IP Solutions
+      + IP Solutions
+          o Know Your Competition
+          o Build Better Patents
+          o Optimize Your Portfolio
+          o Assert Your IP
+          o Defend Your Business
+          o Acquire or Divest Patents
+      + IP Services
+          o Patent Landscaping
+          o Patent Strengthening
+          o Patent Mining
+          o Prior Art Search
+          o Evidence of Use
+          o Portfolio Assessment
+          o Patent Transaction Services
+      + IP Products
+          o Inside Technology
+          o Prior Art Library
+          o Teardown.com
+      + Capabilities
+          o Structural/Process Analysis
+          o Circuit Analysis
+          o Systems
+          o Software
+  * Reports
+      + Search Reports
+      + Search Devices
+      + Search Images
+      + Latest Reports
+  * About Us
+      + Overview
+          o Leadership Team
+          o Careers
+          o News & Events
+          o Blog
+          o Media Resources
+      + Contact Us
+          o Worldwide Locations
+  * 1.877.826.4447
+
+  * Cost Comparison – Samsung Galaxy S9+, Samsung Galaxy Note 8, Samsung Galaxy 8+, Apple iPhone 8+, Apple iPhone X
+
+ 1. Home > About TechInsights > Blog > Technology Blogs
+ 2. Subscribe to the latest TechInsights news
+
+  * 
+
+    Posted: March 15, 2018
+
+
+    Cost Comparison Observations
+
+
+    As we did when the Apple X and Huawei Mate 10 phones were released, we have compiled a brief comparison between some of the biggest flagship phones out there… this time, centred around Samsung’s Galaxy S9+.
+
+
+    Here, we are comparing Samsung’s latest offering with its’ most recent releases – the Note 8 and Galaxy S8+ - and with Apple’s iPhone 8+ and iPhone X.
+
+
+    This comparison is of costs determined at the time of the analysis of each device; costs have not been adjusted to account for the gradual decline in the price of older devices.
+
+    
+    Cost Comparison Observations
+Category                        Samsung Galaxy S9+ SM-G965F/DS Samsung Note 8 SM-N950F Samsung Galaxy 8+ SM-G955F Apple iPhone 8+ A1864 Apple iPhone X A1865
+Teardown Date                   March-2018                     November-2017           June-2017                  December-2017         March-2018          
+Applications Processor                                                                                            $52.00                $52.00              
+Applications/Baseband Processor $68.00                         $68.50                  $71.00                                                               
+Baseband Processor                                                                                                $12.50                $12.50              
+Battery                         $5.50                          $4.00                   $4.00                      $4.50                 $6.50               
+Camera / Image                  $48.00                         $40.50                  $32.00                     $35.00                $43.00              
+Connectivity                    $12.00                         $11.00                  $11.00                     $10.00                $9.50               
+Display / Touchscreen           $72.50                         $82.00                  $78.50                     $47.50                $77.00              
+Logic                                                                                                                                                       
+Memory: Mixed                                                                                                                                               
+Memory: Non-Volatile            $12.00                         $21.00                  $22.00                     $21.00                $19.50              
+Memory: Volatile                $39.00                         $36.00                  $18.00                     $26.50                $25.50              
+Mixed Signal                                                                                                                                                
+Non-Electronics                 $29.00                         $23.50                  $26.50                     $28.00                $46.00              
+Other                           $15.00                         $16.50                  $15.00                     $15.00                $18.00              
+Power Management / Audio        $8.50                          $7.00                   $8.50                      $12.00                $14.50              
+RF Component                    $23.50                         $19.00                  $18.50                     $23.00                $22.50              
+Sensor                          $5.00                          $4.00                   $4.00                      $4.00                 $5.50               
+Substrates                      $19.50                         $12.50                  $13.50                     $10.00                $13.50              
+Supporting Materials            $9.00                          $9.00                   $8.00                      $7.00                 $7.00               
+Final Assembly & Test           $12.50                         $14.50                  $12.50                     $16.50                $17.00              
+Total                           $379.00                        $369.00                 $343.00                    $324.50               $389.50             
+
+    * Costing note: All cost estimates provided here are compiled using information available to us at the time of the initial teardown. Some assumptions have been made where concrete data is not yet available. We will continue to gather and refine this costing data throughout our on-going deep-dive teardown process and analysis. While we do not expect drastic cost changes, we do expect some adjustments.
+
+
+    Overall Cost of Goods Sold
+
+
+    Only the iPhone X, with its notched AMOLED display, has a higher cost of goods sold (COGS) than the Samsung Exynos 9810-powered Galaxy S9+.
+
+Phone              Cost of Goods Sold
+Apple iPhone X     $389.50           
+Samsung Galaxy S9+ $379.50           
+Samsung Note 8     $369.00           
+Samsung Galaxy S8+ $343.00           
+Apple iPhone 8+    $324.50           
+    Apple phones have the highest and lowest COGS on our list
+
+    Comparing Samsung with Samsung
+
+
+    Samsung has invested in a better processor, increased LTE speed, and a better wide angle 12MP camera in the Galaxy S9+ compared to the Galaxy S8+.
+
+
+    The display appears to be a carryover from the Galaxy S8+ with minor changes. The rear glass and main frame are also very similar to the Galaxy S8+ parts.
+
+
+    Samsung is using 3D V-NAND, giving them a cost savings in the non-volatile memory. On the volatile memory, Samsung increased the capacity from 4GB LPDDR4X to 6GB LPDDR4X, which attributes to the higher cost in the S9+.
+
+
+    Regarding RF components, the Galaxy S9+ is an LTE Category 18 device and the Shannon 965 transceiver is about 2X the cost of the LTE Category 16 Shannon 955 found in the Galaxy S8+.
+
+    
+    Samsung Galaxy S8+ and Samsung Galaxy S9+
+
+    Comparing Samsung with Apple
+
+
+    When compared to the latest Apple offerings, the Galaxy S9+ cost is close to that of the iPhone X, with COGS of $379.00 and $389.50, respectively.
+
+
+    Samsung integrates their LTE modem into their applications processor (Exynos 9810) at a cost of $67.00, while Apple separates them into their A11 processor and Qualcomm MDM9655 LTE modem at a combined cost of $64.50.
+
+
+    In terms of cameras, we believe the Galaxy S9+ cameras are a bit more complex in their design, carrying an increased cost over those in the iPhone X. Samsung: $48.00. Apple: $43.00.
+
+
+    Apple’s notched AMOLED display is slightly smaller, and has fewer pixels, but carried a higher price tag at the time of launch. Samsung: $72.50. Apple: $77.00.
+
+    
+    Apple iPhone X and Samsung Galaxy S9+
+
+    On non-volatile memory, Samsung makes their own 3D V-NAND while Apple buys planar TLC NAND from Toshiba. Planar NAND is more expensive than 3D V-NAND on a cost-per-bit basis. Additionally, Samsung makes their own memory and likely obtains it at a steeply-discounted price. Samsung: $12.00. Apple: $19.50.
+
+
+    For volatile memory, Apple is using 3GB of LPDDR4 while Samsung uses 6GB of LPDDR4X, so Samsung’s cost is understandably higher. Samsung: $39.00. Apple: $25.50.
+
+
+    Apple’s approach to their housings, with a heavy emphasis on machining, gives the iPhone X a significantly higher cost for non-electronic components. Samsung: $29.00. Apple: $46.00.
+
+
+    Learn more about the Samsung Galaxy S9+ from our blog.
+
+  * About TechInsights
+
+    Leadership Team
+    Careers at TechInsights
+    News and Events
+    Blogs
+    Media Resources
+    Worldwide Office Locations
+
+  * Popular Technology Blogs
+  * Latest News and Reports
+
+      Stay up to date with the latest news and updates from TechInsights, sign up here.
+
+
+* Revealing the innovation others can't
+
+
+inside advanced technology
+
+
+Contact TechInsights
+
+
+1891 Robertson Road, Suite 500, Ottawa, ON K2H 5B7 Canada (map and directions)
+Tel: +1.613.599.6500 | Fax: +1.613.599.6501 | info@techinsights.com
+View our International Locations
+
+
+© TechInsights Inc. 2019 all rights reserved. TechInsights and the Chipworks logos are registered trademarks of TechInsights Inc.
+
+  * Sitemap
+  * Media Resources
+  * Privacy Statement
+  * Accessibility

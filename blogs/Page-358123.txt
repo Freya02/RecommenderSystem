@@ -1,0 +1,331 @@
+* Reviews
+      + All Reviews
+      + Editors' Choice Reviews
+      + Camera Reviews
+      + Car Reviews
+      + Computer Mice Reviews
+      + Computer Monitor Reviews
+      + CPU Reviews
+      + Desktop Computer Reviews
+      + Drone Reviews
+      + Gaming Reviews
+      + Graphics Cards Reviews
+      + Headphone Reviews
+      + Health & Fitness Device Reviews
+      + Keyboard Reviews
+      + Laptop Reviews
+      + Mobile Phone Reviews
+      + Network Attached Storage (NAS) Reviews
+      + Printer Reviews
+      + Projector Reviews
+      + Router Reviews
+      + Scanner Reviews
+      + Security Software Reviews
+      + Smart Home Device Reviews
+      + Software Reviews
+      + Speaker Reviews
+      + Storage Reviews
+      + Streaming Device Reviews
+      + Tablet Reviews
+      + TV Reviews
+      + VoIP Reviews
+      + VPN Reviews
+      + VR (Virtual Reality) Reviews
+      + Wearable Device Reviews
+      + Web Hosting Reviews
+  * Best Picks
+      + All Categories
+      + Best Antivirus Software
+      + Best Cameras
+      + Best Cheap Laptops
+      + Best Computer Mice
+      + Best Desktops
+      + Best Drones
+      + Best Fitness Trackers
+      + Best Graphics Cards
+      + Best Hard Drives
+      + Best Headphones
+      + Best Keyboards
+      + Best Laptops
+      + Best Mobile Phones
+      + Best Monitors
+      + Best Printers
+      + Best Robot Vacuums
+      + Best Security Suites
+      + Best Smart Home Devices
+      + Best Smart Home Security Cameras
+      + Best Smart Home Security Systems
+      + Best Smart Speakers
+      + Best Smartwatches
+      + Best SSDs
+      + Best Streaming Devices
+      + Best Tablets
+      + Best TVs
+      + Best Video Streaming Services
+      + Best VoIP Services
+      + Best VPN
+      + Best VR (Virtual Reality) Headsets
+      + Best Wireless Routers
+      + Best Wireless Speakers
+  * How-To
+      + All Categories
+      + How to Build Your Smart Home
+      + How to Clear Cache
+      + How to Create an App
+      + How to Delete Your Facebook Account
+      + How to Download YouTube Videos
+      + How to Edit a PDF
+      + How to Hack Wi-Fi Passwords
+      + How to Set Up Two-Factor Authentication
+      + How to Set Up an Amazon Echo
+      + How to Set Up and Configure Your Wireless Router
+      + How to Set Up and Use a VPN
+      + How to Speed Up Windows
+      + How to Take a Screenshot
+      + Amazon Shopping Tips
+      + Android Tips
+      + Apple TV Tips
+      + Facebook Tips
+      + Gmail Tips
+      + Google Chrome Tips
+      + Google Chromecast Tips
+      + Google Search Tips
+      + Hidden iOS Tips
+      + Netflix Binge Watching Tips
+      + Roku Tips
+      + Wi-Fi Booster Tips
+  * News
+      + All News
+      + Features
+      + The Why Axis
+      + Opinions
+      + Fastest ISPs
+      + Fastest Mobile Networks
+      + Readers' Choice
+  * Smart Home
+  * Business
+      + All Categories
+      + Enterprise
+      + Small Business
+      + Business Choice
+      + Startup Spotlight
+      + IT and DevOps Tools
+      + IT Watch
+  * Shop
+      + Coupons
+      + PCMag Shop
+      + Deals
+Search
+  * Subscribe: Subscribe
+  * Email
+  * Search
+    Search for Close
+  * FaceTime
+  * Verizon5G
+  * GalaxyS10
+  * Flickr
+  * FacebookMessenger
+  * Forward Thinking/
+
+Living With a Galaxy Note 8
+
+With its large screen, fast processor, great camera, and built-in stylus, Samsung's Galaxy Note 8 makes a strong argument for best Android phone on the market.
+  * By Michael J. Miller
+  * December 22, 2017 1:52PM EST
+  * December 22, 2017
+PCMag reviews products independently, but we may earn affiliate commissions from buying links on this page. Terms of use.
+
+I've been using Samsung's Galaxy Note 8 for the past couple of months, and it's been quite impressive. It does well in all the traditional measures of a smartphone, and offers some surprisingly nice unique features on top of that, such as a high-quality stylus and the optional DeX docking station. However, a few quirks and annoyances do leave room for improvement.
+
+
+When you first look at the Galaxy Note 8, it looks a lot like a Galaxy S8+, but slightly larger, and with a slot for the S-Pen, Samsung's name for the phone's stylus. Obviously, both devices are aimed at people who want large displays—the S8+ has a 6.2-inch display, while the display on the Note 8 is larger, at 6.3 inches.
+
+
+At 6.38-by-2.95-by-0.34 inches and 6.88 ounces, the Note 8 also isn't much bigger than the S8+, which measures 6.28-by-2.88-by-0.32 inches and weighs 6.1 ounces, but it feels notably denser. Screens with tiny bezels have become commonplace this year, and as a result, you have a device with a 6.3-inch display that doesn't feel too big. Not everyone wants such large displays, but if you do, it's much easier to carry these now when compared with earlier devices.
+
+
+Compared with the last version I spent any real time with, the Note 5—Samsung skipped a Note 6 and the infamous Note 7 was quickly pulled off the market due to overheating battery issues—the Note 8 is a bit longer and notably heavier. (The Note 5 measured 6.03-by-3-by-0.3 inches and weighed 6.03 ounces.) But the Note 8 has a much bigger screen—6.3 inches, compared with the 5.7-inch screen on the Note 5, and that does make for easier viewing. The screen has a nominal resolution of 2,960-by-1,440 pixels, though it defaults to 2,220-by-1,080 pixels, which conserves battery life. Even on the lower resolution, the screen looks great—my eyes couldn't see any pixelation—and the colors really pop on the Super AMOLED display. (Some studies say this is the best mobile display yet.)
+
+
+Other than the large screen, which Samsung pretty much pioneered, the thing that has set the Galaxy Note line apart from most other smartphones has been the S-Pen stylus. The Note 8 maintains the tradition, and comes with a very sensitive S-Pen that snaps unobtrusively into the bottom of the unit when not in use. When you do pull it out, you immediately get a number of options, such as writing notes, capturing part of the screen, writing on the screen, and a simple way of translating text.
+
+
+The pen has been updated since the Note 5. It has a slimmer tip, 0.7mm, and it seems to be extremely accurate. There are lots of options for pens and colors, and the result is that the Note 8 becomes a nice small tablet for drawing on. I'm not much of an artist, so this isn't a feature I personally used, but I can definitely see the appeal. The S-pen works in a number of applications, including most of the Microsoft Office suite and Autodesk Sketchbook.
+
+
+The stylus also offers a convenient way to select items, or for writing on the screen, as well as for annotating web pages or photographs. In practice, I didn't do that much. I did find it offered an easier way to translate part of a web page (say from Spanish to English), and also a very convenient way of quickly writing down notes, which can be easier than typing in some situations.
+
+
+The other basics of the phone are quite nice as well. Like the S8 and S8+, the US versions run on a Qualcomm Snapdragon 835, and I found it to be a snappy performer. For charging, the Note 8 has a USB-C port, and you can opt for fast wireless charging, a feature Samsung has been pushing for a couple of years. The Note 8 comes with 6GB of RAM, 64GB of flash storage, and a microSD slot. And yes, it still has a traditional headphone jack. The phone runs Android 7.1.1 with the usual Samsung enhancements.
+
+
+The fingerprint reader is on the back and, as with the S8, that's still a bit annoying. It's next to the flash instead beside the camera, so I didn't find myself smudging the lens, but the position is still awkward. (Other Android phones, such as the LG series and the Pixel, have a larger fingerprint sensor below the camera, and that's easier.) The Note 8 also includes face recognition, which I found worked, but wasn't as fast as I'd like (and is somewhat less secure), as well as iris recognition.
+
+
+The Note 8 differs from the S8 family in that it now features two 12-megapixel rear-facing cameras instead of just one, along with the 8-megapixel front-facing camera. Both of the rear-facing cameras support optical image stabilization, and you now have one main lens with an f/1.7 aperture and a telephoto lens with f/2.4. Having a 2X telephoto lens helps if you are trying to capture something farther away (though it's no substitute for a real camera with a longer zoom lens), and also enables what Samsung calls Live Focus, a feature that uses both cameras to produce an image with a blurred background. (Some vendors, such as Apple, call this Portrait mode).
+
+
+Overall, I thought the Note 8 took some very nice-looking photos. Above are photos of Grand Central Terminal inside during the day, and outside at night. In general, I noticed good resolution and was very happy with pictures taken on the Note 8, even in low-light; photos taken on this phone are among the best I've ever seen taken using an Android phone. (I got slightly better results with the iPhone X, but more on that in another post.)
+
+
+One of the most impressive features of the Note and of the S8 series is support for Samsung's DeX, a tiny docking station where you plug in a monitor and a keyboard and mouse, with the idea being that you can now use your device more like a desktop when you are at the office. The dock even contains a small fan, to keep the phone from getting too hot when you're running multiple applications.
+
+
+I've tried this a bit with the Note 8, and overall, I'm pretty impressed.
+
+
+When you plug your phone into the dock, you see your screen in a horizontal layout with your home screen icons on the left side of the display and a task bar on the bottom that shows your current applications and provides access to common system tasks. You can run multiple applications at a time, in multiple windows on screen, and with applications designed for DeX, you can resize the applications and drag and drop material between the windows.
+
+
+A MyFiles icon works like a standard files menu, showing your files on the phone itself, any microSD cards you might have plugged in, or files from Samsung's Cloud Drive or Google Drive. One thing to note: you do need to be careful to save your work before docking and undocking.
+
+
+Let's not kid ourselves: it's not Windows or Mac. Android, even on a large screen, is not designed as a desktop operating system, and some things just aren't as smooth. The individual application windows aren't labelled, and while you can cut, copy, and paste between applications, your options are limited. There are only a relative handful of applications designed for DeX (meaning that you can resize easily, drag and drop, etc.), but thankfully, these do include the Microsoft Office suite. The Android versions of Word and Excel certainly don't do everything their Windows or Mac equivalents can do (for instance, no style sheets or macros).
+
+
+On the other hand, using DeX feels a lot like using a traditional desktop computer, which is much more comfortable than using a phone display and keyboard when you're working on it for a long period of time. The Microsoft apps, such as Word, may not be as full-featured as the Windows or Mac versions, but they compare well with the browser versions in terms of features, and using them feels much snappier. In fact, I wrote this post using the Android version of Word on DeX on the Note 8. I'm not going to give up a standard desktop computer for DeX yet, but I'm surprised at just how good it has become.
+
+
+The Note 8 also features Samsung's new digital assistant, known as Bixby. You can activate it by saying "Hi Bixby" or by pressing a button on the side of the phone. It seemed to do assistant basics pretty well, and also manages settings on the phone. In practice, I found myself using the Google Assistant (which you wake by saying "OK Google," or by pressing the home button on the screen) more often.
+
+
+Related
+
+  * Samsung's Bixby Voice Assistant Now Available Worldwide
+    Samsung's Bixby Voice Assistant Now Available Worldwide
+
+In summary, the Note 8 isn't for everyone, but does have a number of features that set it apart. It's a pricey phone, about $100 more than the S8+, and other than the iPhone X, it seems to be the most expensive mainstream smartphone on the market. But you're getting a lot of phone—a very large screen, fast processor, great display, a very good camera—and a number of Samsung-specific extras such as Bixby and DeX (which also work with the S8). You'd pick the Note 8 over the S8+ if you really want two cameras or a slightly larger display, but what makes the Note 8 stand out are its S-Pen and the applications that work with it. It's simply the most advanced of the Android phones right now.
+
+
+Here's PCMag's full review.
+
+
+Curious about your broadband internet speed? Test it now!
+
+Top
+
+Read More
+
+Living With the ThinkPad 25th Anniversary Laptop
+Forward Thinking
+Living With the ThinkPad 25th Anniversary Laptop
+
+Living with an iPhone X
+Forward Thinking
+Living with an iPhone X
+
+
+About the Author
+
+Michael J. Miller
+
+Michael J. Miller's Forward Thinking Blog: forwardthinking.pcmag.com Michael J. Miller is chief information officer at Ziff Brothers Investments, a private investment firm. From 1991 to 2005, Miller was editor-in-chief of PC Magazine, responsible for the editorial direction, quality, and presentation of the world's largest computer publication... See Full Bio
+
+
+More From Michael
+
+
+  * Six More Trends That Stood Out at CES 2019
+
+
+  * 2019: The Year that "Smart" Took Over CES
+
+
+  * What the Laptops of CES Told Us About PC Trends in 2019
+
+
+  * New Processors and Graphics at CES Point the Way for 2019 PCs
+
+
+  * Waiting for 5G at CES
+
+See More
+
+Comments
+
+Please enable JavaScript to view the comments powered by Disqus. blog comments powered by Disqus
+Subscribe
+PCMag reviews products independently, but we may earn affiliate commissions from buying links on this page. Terms of use.
+
+Get Our Best Stories!
+
+
+Subscribe to What's New Now
+
+Sign Up
+This newsletter may contain advertising, deals, or affiliate links. Subscribing to a newsletter indicates your consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletters at any time.
+
+
+Related Articles
+
+
+  * Six More Trends That Stood Out at CES 2019
+
+
+  * 2019: The Year that "Smart" Took Over CES
+
+
+  * What the Laptops of CES Told Us About PC Trends in 2019
+
+
+  * New Processors and Graphics at CES Point the Way for 2019 PCs
+
+
+  * Waiting for 5G at CES
+
+
+Discover
+
+
+  * 20 Hidden Chrome Features That Will Make Your Life Easier
+
+
+  * Every Episode of Black Mirror, Ranked From Best to Worst
+
+
+  * 24 Things You Didn't Know Your Chromecast Could Do
+
+See More
+  * Facebook
+  * Twitter
+  * Instagram
+  * Pinterest
+  * LinkedIn
+  * YouTube
+  * Google News
+  * Flipboard
+  * About Us
+  * PCMag Digital Edition
+  * Newsletters
+  * Encyclopedia
+  * RSS Feed
+  * More From Ziff Davis:
+  * Mashable
+  * ExtremeTech
+  * Geek
+  * AskMen
+  * BestGifts.com
+  * Everyday Health
+  * IGN
+  * Offers.com
+  * Speedtest.net
+  * TechBargains
+  * Toolbox
+  * What to Expect
+  * RSS Feeds
+  * Site Map
+  * Contact Us
+  * Privacy Policy
+    
+  * Terms of Use
+  * Advertise
+  * Accessibility Statement
+
+© 1996-2019 Ziff Davis, LLC. PCMag Digital Group
+PC, PC Magazine and PC PCMag.com are among the federally registered trademarks of
+Ziff Davis, LLC and may not be used by third parties without explicit permission.
+
+
+We strongly encourage you to read our updated PRIVACY POLICY and COOKIE POLICY.
+
+×

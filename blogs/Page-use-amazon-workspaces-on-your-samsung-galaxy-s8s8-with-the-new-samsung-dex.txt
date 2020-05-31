@@ -1,0 +1,207 @@
+Click here to return to Amazon Web Services homepage
+Contact Sales Support English My Account
+Sign Up
+  * re:Invent 2018
+  * Products
+  * Solutions
+  * Pricing
+  * Documentation
+  * Learn
+  * Partner Network
+  * AWS Marketplace
+  * Explore More
+  * Bahasa Indonesia
+  * Deutsch
+  * English
+  * Español
+  * Français
+  * Italiano
+  * Português
+  * Tiếng Việt
+  * Türkçe
+  * Ρусский
+  * ไทย
+  * 日本語
+  * 한국어
+  * 中文 (简体)
+  * 中文 (繁體)
+  * AWS Management Console
+  * Account Settings
+  * Billing & Cost Management
+  * Security Credentials
+  * AWS Personal Health Dashboard
+Click here to return to Amazon Web Services homepage
+  * Products
+  * Solutions
+  * Pricing
+  * Introduction to AWS
+  * Getting Started
+  * Documentation
+  * Training and Certification
+  * Developer Center
+  * Customer Success
+  * Partner Network
+  * AWS Marketplace
+  * Support
+  * Log into Console
+  * Download the Mobile App
+Blog Home Category Edition Follow
+AWS News AWS Podcast Recap from re:Invent Architecture AWS Abby AWS Partner Network AWS Marketplace Big Data Business Productivity Contact Center Compute Database Desktop and Application Streaming Developer DevOps Enterprise Strategy Game Tech Internet of Things Machine Learning Management Tools Media Messaging & Targeting Mobile Networking & Content Delivery Open Source Public Sector SAP Security, Identity, & Compliance Startups
+China Edition Germany Edition Japan Edition Korea Edition Portuguese Edition Russian Edition Spanish Edition English Edition
+Mailing List RSS Feed AWS Podcast
+
+AWS News Blog
+
+
+Use Amazon WorkSpaces on Your Samsung Galaxy S8/S8+ With the New Samsung DeX
+
+by Jeff Barr | on 27 APR 2017 | in Launch, News | Permalink | Share
+
+It is really interesting to watch as technology evolves and improves. For example, today’s mobile phones offer screens with resolution that rivals a high-end desktop, along with multiple connectivity options and portability.
+
+
+Earlier this week I had the opportunity to get some hands-on experience with the brand-new Samsung Galaxy S8+ phone and a unique new companion device called the Samsung DeX Station. I installed the Amazon WorkSpaces client for Android tablet on the phone, entered the registration code for my WorkSpace, and logged in. You can see all of this in action in my new video:
+
+
+DeX includes USB connectors for your keyboard and mouse, and can also communicate with them using Bluetooth. It also includes a cooling fan, a fast phone charger, plus HDMI and Ethernet ports (You can also use your phone’s cellular or Wi-Fi connections).
+
+
+Bring it all together and you can get to your cloud-based desktop from just about anywhere. Travel light, use the TV / monitor in your hotel room, and enjoy full access to your corporate network, files, and other resources.
+
+
+— Jeff;
+
+
+PS – If you want to know more about my working environment, check out I Love my Amazon WorkSpace.
+
+TAGS: Amazon WorkSpaces
+
+Jeff Barr
+
+
+Jeff Barr is Chief Evangelist for AWS. He started this blog in 2004 and has been writing posts just about non-stop ever since.
+
+
+
+
+
+    Resources
+
+    Getting Started What's New Top Posts Official AWS Podcast Case Studies
+
+    Follow
+
+    Twitter Facebook LinkedIn Twitch RSS Feed Email Updates
+Create a Free Account
+  * Twitter
+  * Facebook
+  * Podcast
+  * Twitch
+  * AWS Blog
+  * RSS News Feed
+  * Email Updates
+AWS & Cloud Computing
+  * What is Cloud Computing?
+  * What is Caching?
+  * What is NoSQL?
+  * What is DevOps?
+  * What is Docker?
+  * Products & Services
+  * Customer Success
+  * Economics Center
+  * Architecture Center
+  * Security Center
+  * What's New
+  * Whitepapers
+  * AWS Blog
+  * Events
+  * Sustainable Energy
+  * Press Releases
+  * AWS in the News
+  * Analyst Reports
+  * Legal
+Solutions
+  * Websites & Website Hosting
+  * Business Applications
+  * Backup & Recovery
+  * Disaster Recovery
+  * Data Archive
+  * DevOps
+  * Serverless Computing
+  * Big Data
+  * High Performance Computing
+  * Mobile Services
+  * Digital Marketing
+  * Game Development
+  * Digital Media
+  * Government & Education
+  * Health
+  * Financial Services
+  * Windows on AWS
+  * Retail
+  * Power & Utilities
+  * Oil & Gas
+  * Automotive
+  * Blockchain
+  * Manufacturing
+Resources & Training
+  * Developers
+  * Java on AWS
+  * JavaScript on AWS
+  * Mobile on AWS
+  * PHP on AWS
+  * Python on AWS
+  * Ruby on AWS
+  * .NET on AWS
+  * SDKs & Tools
+  * AWS Marketplace
+  * User Groups
+  * Support Plans
+  * Service Health Dashboard
+  * Discussion Forums
+  * FAQs
+  * Documentation
+  * Articles & Tutorials
+  * Quick Starts
+Manage Your Account
+  * Management Console
+  * Billing & Cost Management
+  * Subscribe to Updates
+  * Personal Information
+  * Payment Method
+  * AWS Identity & Access Management
+  * Security Credentials
+  * Request Service Limit Increases
+  * Contact Us
+
+Amazon Web Services is Hiring.
+
+
+Amazon Web Services (AWS) is a dynamic, growing business unit within Amazon.com. We are currently hiring Software Development Engineers, Product Managers, Account Managers, Solutions Architects, Support Engineers, System Engineers, Designers and more. Visit our careers page to learn more.
+
+
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.
+
+
+An amazon.com company
+
+  * Language
+  * Bahasa Indonesia
+  * Deutsch
+  * English
+  * Español
+  * Français
+  * Italiano
+  * Português
+  * Tiếng Việt
+  * Türkçe
+  * Ρусский
+  * ไทย
+  * 日本語
+  * 한국어
+  * 中文 (简体)
+  * 中文 (繁體)
+  * Site Terms
+  * |
+  * Privacy
+© 2018, Amazon Web Services, Inc. or its affiliates. All rights reserved.

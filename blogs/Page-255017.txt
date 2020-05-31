@@ -1,0 +1,240 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+Xiaomi Redmi Y2 Review
+
+
+
+It is intriguing how the selfie-taking capabilities of a phone have spurred a whole new line-up of phones across manufacturers. Following in the footsteps of ‘Selfie Experts’ like OPPO, Xiaomi too introduced their Y series of phones last year. Promising excellent front-facing cameras in addition to robust internals, the Redmi Y1 saw quite a bit of success. So it is fairly obvious why Xiaomi has introduced a second generation model ie the Xiaomi Redmi Y2 today. Follow along for the full review.
+
+
+Video Review
+
+
+Xiaomi Redmi Y2 specifications
+
+  * 5.99-inch (1440 × 720 pixels) HD+ 18:9 2.5D curved glass display with 1000:1 contrast ratio, 450 nits (typ) Brightness, 70.8% NTSC color gamut
+  * 2GHz Octa-Core Snapdragon 625 14nm Mobile Platform with Adreno 506 GPU
+  * 3GB RAM with 32GB storage / 4GB RAM with 64GB storage, expandable memory up to 256GB with microSD
+  * Android 8.1 (Oreo) with MIUI 9
+  * Dual SIM (nano + nano + microSD)
+  * 12MP rear camera with LED Flash, 1.25μm pixel size, PDAF, f/2.2 aperture, secondary 5MP camera
+  * 16MP front-facing camera with LED flash
+  * Fingerprint sensor, Infrared sensor
+  * Dimensions: 160.73 × 77.26 × 8.1mm; Weight: 170g
+  * 4G VoLTE, Wi-Fi 802.11 a/b/g/n, Bluetooth 4.2, GPS + GLONASS
+  * 3080mAh (typical) / 3000mAh (minimum) battery
+
+Design
+
+
+The design language of the Redmi Y2 will be instantly identifiable to most. The phone is almost a mini-me version of the Redmi Note 5. We’re not going to complain about that. The Redmi Y2 is smart to look at and while it won’t turn heads like the latest breed of Honor smartphones, it is still is a premium looking device.
+
+
+The front has a 5.99 inch IPS LCD display with an 18:9 aspect ratio. Compared to the Redmi Note 5, bezels are slightly larger. This results in a phone that is larger than the Redmi Note 5 despite having a similar sized screen. There’s not a whole lot more to observe at the front. Yes, there is a chin and a prominent forehead too that houses the 16MP front-facing camera and LED flash. There are no capacitive controls at the bottom since those have been replaced with on-screen keys. It is easy enough to get around the interface and now that Xiaomi has introduced gesture-based navigation in MIUI, it is all the more easy to get around the phone.
+
+
+Something else that you’ll observe is that instead of having the glass front mounted within the metal frame, it sits slightly ahead. This gives the phone a bit of an edge on all sides that helps you grip the phone better.
+
+
+The right side, of course, has the volume rocker and power button. These are sufficiently clicky and given the 18:9 aspect ratio, the larger dimensions don’t come in the way of usability. You can easily feel the buttons and will be able to adjust the volume levels even with the phone in your pocket. The left side has the SIM card tray. The phone ships with dual nano SIM slots and a dedicated microSD slot.
+
+
+Something that really struck out to us was the antenna line design. Instead of plastic end caps, Xiaomi has built visible antenna lines into the metal design itself. This gives the phone a bit of an art-deco feel and generally is quite visually appealing. Along the bottom edge is the micro USB port since this is still a budget device of course. There’s a single downward firing speaker that manages to get quite loud.
+
+
+The back of the phone is still a classic Xiaomi design. The phone takes a lot of cues from the Redmi Note 5 Pro which in turn takes design cues from a certain fruity phone. Centrally placed is a fingerprint scanner while at the top is the dual camera array set in a black module. There’s an LED flash there as well. The module sits proud of the frame and while there is protective glass on top, you should still be a little careful about where you put it to avoid scratches.
+
+
+Software
+
+
+The Xiaomi Redmi Y2 runs MIUI 9.5 out of the box. Based on Android 8.1, the software has more to do with optimizations and feature enhancements are fairly limited. The lock screen is a standard Xiaomi affair with the ability to get fresh wallpapers via a direct shortcut. Swiping from the bottom left gives you shortcuts to the Mi Home, Remote and Wallpaper Carousel apps. At the bottom right corner is a direct shortcut to the camera.
+
+
+The home screen is pretty straightforward. There’s no app drawer as such but if you’ve used any Xiaomi device previously, you’ll be used to this. You can place widgets as well. There’s a bunch of additional apps like Mi Drop that let you beam files between phones without requiring internet access. You’ll also find stuff like an Amazon app, Facebook, Netflix and PhonePe.
+
+
+Othe niceties include an App Vault, App Locker, the ability to clone apps. What’s also nice is a full-fledged gesture mode. Launching it for the first time takes you through a brief tutorial that explains how it works.
+
+
+Fairly straightforward, swiping up from the bottom takes you to the home screen while dragging up and holding it down for half a second opens the multitasking menu. Swiping from the left acts like a back button. The gestures are very effective on a screen of this size and there’s really no going back.
+
+
+Performance
+
+
+Yes, the Redmi Y2 continues to pack a Snapdragon 625 chipset paired with 3GB of RAM. There’s really no denying the fact that the processor is getting long in the tooth and it reflects in the performance. While it’s generally fine, interface elements like swiping up often results in micro stutters. The animation heavy interface puts a definite strain on the phone. On occasion, the swipe gestures didn’t respond at all. We also observed that in some instances the camera button didn’t respond. Games like PUBG mostly work fine with the graphics set to low but even here it wasn’t entirely uncommon to see a glitch or stutter. The phone also heats up quite a bit with a bit of intensive gaming. We’ve included a bunch of synthetic benchmarks below to give you an idea of comparative performance.
+
+
+In the Geekbench 4 Single-Core benchmark, the Redmi Y2 scores 837 points.
+
+
+In the 3DMark Ice Storm Unlimited Benchmark, once again the Redmi Y2 places at the bottom of the test bench with 10232 points.
+
+
+In the AnTuTu 6, the Redmi Y2 scores 54971 points.
+
+
+The phone does better in Basemark X 1.1 with a score of 21565.
+
+
+Finally, in the Geekbench 4 Multi Core benchmark, the phone manages 3589 points.
+
+
+Display
+
+
+The display on the Redmi Y2 measures 5.99 inch and has a resolution of 1440 x 720 pixels. This makes it an HD+ display. Being an 18:9 screen, YouTube videos don’t fill up the screen. You can pinch and zoom into the video to fill up the display.
+
+
+The screen gets the job done but just about. Visuals are slightly soft but colors look punchy enough. We observed color shift to be minimal. With a maximum rated brightness of 450 nits, the screen remains visible outdoors even under direct sunlight. The glossy display might prove to be a bit of an issue though.
+
+
+Camera
+
+
+The Redmi Y2 is a selfie-focused phone so obviously, the camera is a big draw for the target demographic. With a 16MP front facing camera and a 12MP rear camera, the phone impresses on paper. There’s even a 5MP secondary sensor that serves as a depth sensing module for portrait mode.
+
+
+In well-lit conditions, the camera takes pretty decent shots. There remains a bit of noise but generally, the 12MP camera module captures a lot of details. The metering tends to be slightly on the warmer side.
+
+
+Dynamic range is a bit limited even with HDR mode engaged and the phone struggles to bring out a lot of details in the shadow region.
+
+
+Low light shots, especially with moving objects, are almost impossible to capture and you’ll likely end up with a blurry shot. Night time shots are high on noise and low on details.
+
+
+Let’s be clear, portrait modes on entry to mid-range phones are not going to come anywhere near the results you get from something like a Pixel or iPhone. That said, the Redmi Y2 displayed decent edge detection though the aggressive bokeh effect creates a bit of a cardboard cutout effect.
+
+
+Default
+
+Beauty Mode
+
+
+Beauty + Portrait
+
+
+With a 16MP front-facing camera, the Redmi Y2 certainly captures detailed shots. Images are still slightly blown out but they work well for the purpose. Then there’s a whole host of beauty modes that kicks things up a notch. From skin tone adjustments to even changing the size of your eyes, it is crazy what you can do with the photographs. I’m personally not a fan of these but Xiaomi told us that the target audience loves playing around with these features. Enough for the company to justify investing in training their machine learning algorithms for India specific skin tones. The front-facing portrait mode does an alright job but the resulting image was pretty soft. Video recording tops off at Full HD and there is electronic stabilization available.
+
+
+Connectivity & Battery Life
+
+
+Connectivity options on the phone include 4G VoLTE, Wi-Fi 802.11 a/b/g/n, Bluetooth 4.2, GPS + GLONASS. As mentioned earlier, there are dual Nano SIM slots available as well as a single microSD card slot. There’s about 22.3GB of storage available at launch out of the 32GB of storage. We even tested out a 400GB memory card and it worked absolutely fine.
+
+
+With a 3000 mAh battery, you can expect about a full day of use. We managed a little over 5 hours of screen on time with fairly heavy use and that’s not bad at all. A larger battery would’ve been nice to have though. Since there is no fast charging support you can’t really top off the phone all that quickly.
+
+
+Conclusion
+
+Clearly, the Redmi Y2 provides a lot of value but we feel that it needs a little more performance optimization. On a camera front, it caters well to the selfie-loving crowd. If you’re not a part of that audience though, the Redmi Note 5 generally performs a little better despite the same internals. Unless you specifically need a high-resolution front-facing camera, we’d highly recommend spending a little more and going in for the Redmi Note 5 or better still, the Pro. The Redmi Y2 starts at Rs. 9,999 for the 3GB RAM with 32GB storage version and the 4GB RAM with 64GB storage version costs Rs. 12,999. It will be available exclusively from Amazon.in and Mi.com as well as Mi Home Stores starting from June 12th with launch offers.
+
+
+
+Author: Dhruv Bhutani
+
+
+Your friendly neighborhood techie. Currently using a Pixel 2 XL. Catch him on Twitter (@DhruvBhutani) / Facebook . View all posts by Dhruv Bhutani
+
+Author Dhruv BhutaniPosted on June 7, 2018June 7, 2018Categories Reviews, Xiaomi
+
+Post navigation
+
+Previous Previous post: Xiaomi Redmi Y2 with 5.99-inch 18:9 display, dual rear cameras, 16MP AI front camera, Android 8.1 launched in India starting at Rs. 9999
+Next Next post: MIUI 10 Global Beta roll out begins mid-June – List of Xiaomi devices getting it
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * XOLO Era 4X 2GB Unboxing and First Impressions
+  * LG to introduce Snapdragon 855-powered 5G smartphone with vapor chamber at MWC 2019
+  * Apple dismisses over 200 employees from its Project Titan autonomous vehicle group
+  * Microsoft Office 365 now available via the Apple Mac App Store
+  * Gmail v8.12 starts testing Dynamic Email support
+  * Apple iOS 12.2 beta brings new ‘Hey Siri’ setup for the rumored AirPods 2
+  * Twitter confirms it is testing “Original Tweeter” tag to distinguish who started a thread
+  * Facebook is shutting down Moments app on February 25th
+  * Samsung Galaxy A9 Pro (2019) with 6.4-inch FHD+ Infinity-O display, 6GB RAM, triple rear cameras announced
+  * Get Android 9.0 Pie on Redmi Note 5 Pro with OxygenOS 9.0 port
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

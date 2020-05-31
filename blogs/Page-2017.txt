@@ -1,0 +1,345 @@
+Charged
+  * Briefing
+  * Blog
+  * Podcast
+  * What I use
+  * About
+  * Weekly
+  * Login
+Posted on Dec 03, 2017 by Owen Williams
+
+Google’s Pixel 2 XL is absurdly close to being perfect
+
+
+Back in October I found myself in San Francisco when Google’s Pixel event was on, and managed to score an invite to head there in person and see what the company was planning for its second run at the Pixel phones.
+
+
+I came away from the event more than impressed — it seemed Google finally had its story together after years of confusing hardware narratives, and it actually appeared to have a more coherent software and hardware strategy than Apple in 2017.
+
+
+While still in the room I pre-ordered a Pixel 2 XL and decided right there after being underwhelmed by the iPhone X that I’d give Android another try after five years or so being all-in on iOS (I switched when the 4s was released). Given that I’d ditched the Mac as well this year, it seemed on brand at least.
+
+
+Honestly, I had no interest in switching phones. I was perfectly happy using the iPhone, with minor annoyances, because it let me just do everything I needed to. When Google unveiled the Pixel 2, two major things tempted me away: the realization I almost use Google services for everything anyway and that the camera was gobsmackingly good.
+
+
+I got my Pixel 2 XL about a month ago, and this is a look at what it’s like to move across from a long-time iPhone owner’s perspective. It's not a hardware takedown, or a head-to-head look at a specific model vs another one, but rather aims to be a nuanced take on what makes the Pixel different or maybe even better.
+
+
+Hardware
+
+
+It goes without saying that design is subjective, but much of the excitement around the Pixel 2 was because Google broke outside of traditional phone design with this device. There's a panda-colored variant, white and black, which features a bright orange button and there's a blue version that does the same.
+
+
+Google, if anything, injected fun into a device again, in a world where most devices are just slathered in aluminium. XL is seriously large, but it's comfortable in your hand and feels nice and light, while not losing that 'premium' feel Apple is famous for.
+
+
+The actual design of the back is controversial, but when it comes to the front it's no question for me that this device is one of the better looking out there. Because of how Google handles the rounded edges (and the lack of a notch) it just seems endless and I love how the front is an uninterrupted, consistent shape.
+
+
+Let's be honest here, however: if you have particularly small hands you will hate this phone. It's big, and sometimes you might struggle to reach the top. In general I'm totally fine with it, but pulling it out on my bike, for example, seems a lot scarier than with the iPhone 7. Your mileage may vary, but hey, it's worth it for all that glorious screen.
+
+
+Screen
+
+
+The screen on this thing is magic and damn lovely, no exaggeration. Every time I look at it with those nice rounded edges it's a delight, and watching Netflix or playing a game just feels awesome at this size.
+
+
+OLED means that the case’s blacks bleed really well into the screen and it looks like it never ends, particularly if you set your keyboard to true black.
+
+
+If you've read anything about the Pixel XL 2 you're probably already thinking something along the lines of but isn't the screen awful? I initially canceled my order after these scary articles started emerging about how terrible the Pixel XL 2's display is, but after asking around began to hear that maybe it's been blown out of proportion so put in a new one.
+
+
+Honestly, the screen is great, and I've had close to zero issues with it.
+
+
+Much of the hand-wringing around the Pixel XL 2 came down to Google's choice of the sRGB profile and leveraging the wide color gamut of the display. I really believe this a non-issue that's been blown way out of proportion: you straight up won't notice unless you go around putting your phone next to everyone else's, and even then it's negligible.
+
+
+Like Motherboard points out, the entire thing was far less of a problem and more of a headline-grabber:
+
+And it’s fine. Well. More than fine, it’s beautiful. The screen is great, actually. During the initial setup process, when Google is transferring files and setting up cell service, the screen is blistering white. And, yes, from side angles the screen had a strange blue tint. I haven’t noticed it since then.
+
+Coming from an iPhone 7 the display seems awesome and a massive upgrade: OLED blacks are delightful, text is crisp and colors are vibrant. Maybe I got lucky, but I suspect the initial issues were related to a bad batch and some over-zealous journalists. Your mileage may vary, but I'm extremely happy.
+
+
+I do have one complaint, but it's mostly an oddity of OLED: when you're at extreme low brightness with a dark background there's some very apparent black smudge. Will you notice it on a regular basis? Probably not. But when you do, it's just plain weird. Text bleeds as you scroll and images ghost a little -- this isn't just restricted to the Pixel 2, but the iPhone X as well because of how OLED pixels work.
+
+
+How'd I get around it, or stop it from annoying me? Raising the brightness a little. ¯\_(ツ)_/¯
+
+
+Battery
+
+
+Holy shit, my battery lasts past 5:00 PM. My iPhone 7 is like... eight months old and ever since the iOS 11 update it's been a quantifiable disaster, requiring charging at least in the evening if I'm headed out, and never lasting beyond a day. Pixel 2 XL is the literal complete opposite: I no longer even think about it.
+
+
+In general, I can get about a day and a half before needing to think about charging it, and go to bed with over 60% on most days. The most I’ve squeezed out of it was a solid two days, but I’ll generally slap the charger on every other day at my desk (and when I’m in a time-crunch a quick charge to 80% takes 15 minutes so uh, it’s not even a thing anymore).
+
+
+I used to have so much battery anxiety, but it’s no longer an issue.
+
+
+Camera
+
+
+This phone blows every other device I've ever used out of the water, period. The Pixel 2 XL (and the normal Pixel 2) take photos that are incredibly true to life and don't miss a beat. No matter what I've thrown at the Pixel it's consistently outperformed any device I've seen on the market, including the iPhone X and 8, and frequently left me thinking "holy shit this is good."
+
+
+Google didn't mess around with these devices: Pixel essentially focuses on camera alone and optimizes for getting you to the perfect shot as fast as possible regardless of where you are in the OS, and seriously slays the competition in almost every situation I could throw at it.
+
+
+There are two key areas that continue to blow my mind regularly:
+
+
+1) Detail / sharpness
+
+
+I have never ever seen a phone that's able to precisely pick up on minute details in photos like the Pixel in both well-lit and low-light situations. It's particularly obvious when you take a photo of a scene with a high level of complexity, like my cat's extremely furry face or, to get even more specific, this bike boat in Amsterdam:
+
+
+Download the photo and zoom in: the sharpness and depth is astounding, given how challenging a shot like this is for a phone on a rainy, grey day.
+
+
+2) "It just works"
+
+
+Like what made iPhone's camera so famous, the Pixel's now 'just works' in almost every circumstance I've been able to throw at it – and then some.
+
+
+The last time I used Android, which was admittedly years ago, the camera app was always so slow to launch that you'd often find yourself missing the shot. Google's doubled down here, too, and it almost always is ready to go within 100ms of double tapping the power button.
+
+
+This is, perhaps, one of my favorite thoughtful parts of the Pixel's interaction design: no matter what you're doing on the phone, a quick double tap on the power button gets you into the camera. No swiping, tapping or fidgeting with control center.
+
+
+There's few times I've felt the need to edit or tweak photos because what comes out is so true-to-life that it's satisfying. This is especially true of Pixel's portrait mode, which is straight up magical, and blew my expectations out of the water (they were low because I couldn't figure out how a single lens could be better that two).
+
+
+All this boils down to one thing: the Pixel's camera is magic.
+
+
+I've had a Fujifilm X-T1 and enjoyed it for a long time, but this is the first phone that made me put it down entirely. I love shooting on the Pixel 2 XL and just wanted to take photos of everything again because it felt like the first time I had a camera in a phone all over again, except this one is damn incredible with almost zero effort.
+
+
+This is especially surprising to me because until this year it was always apparent that the iPhone was the leader, particularly when it came to consistency across photos. This time around it's clear, at least to me, that the iPhone 8 and X cameras aren't that much of an improvement but the Pixel 2 is night and day. There's no question that this is a killer camera, and it shows consistently.
+
+
+The icing on the cake of this great camera is that Google throws in unlimited full resolution free photo backup. In iCloud-land, I was paying $10/month just to store my photos to a company that wouldn't even notice the difference if it just offered unlimited photo backup. On the Pixel, everything's backed up, all the time and there's no more Storage Full popups.
+
+
+I've collected a gallery of shots from the phone you can view here (with many of them below) and I'm adding more over time. None of these have been post-processed, and are retrieved directly from the camera for sharing here.
+
+
+I love that Google is giving Apple a serious run for its money now. If you care about photo quality at all, the Pixel is now the absolute best choice. That's only a good thing, even if you prefer the iPhone X or whatever else, as more competition nailing this means we all get better cameras faster.
+
+
+Integration
+
+
+Having had Google Home for a few months now, I underestimated how much combining Assistant with Home would be a game changer. Having an assistant that actually works and isn't subject to the sandboxing Apple imposes on Siri is awesome. I now find myself using voice far more often because it works as you'd expect, rather than half of the answers requiring you use some first-party Apple app.
+
+
+Here's an example: "OK Google, play Radiohead from Spotify on the TV" is magic. First, if the Google Home is in earshot and picks up the command, it takes care of it, but if it isn't, the phone will handle it. That handoff is awesome, but what happens next is even better: the TV turns on, Spotify opens up and it's actually playing.
+
+
+Rinse and repeat for your own favorite music service, but this is a great example of how Google has finally made this ecosystem better than the competition by not shoeboxing each device or locking down what developers are able to do.
+
+
+Another great command I'm using on a daily basis is for home lighting. Our dutch house has some weird plug placement, so I purchased a few smart switches to turn on devices without fumbling with long extension cables. Thanks to how well this integrates, I can now ask my phone or Google Home to turn on the stairway lights and it's near instant.
+
+
+One other hardware feature that surprised me with its legitimate utility is this squeeze for assistant function, where if you give the phone a quick squeeze it'll open Assistant. I use this every day to pull it up, and it's so much better than needing to hold down a button or say 'Hey Siri' whenever you want to summon it. Color me surprised!
+
+
+There are some weird oversights here, which I hope Google will address soon. If you get more than one Home, or Chromecast audio you're able to set up groups for multi-room music which previously required a fancy system like Sonos.
+
+
+This is great, and we use it on a regular basis in our home except it's sometimes gloriously stupid. Here's an example: if you're playing music in the kitchen and living room, but move to the office and want to bring the music you'd assume saying "play the music here" would drag it in, but Google responds "there's nothing playing right now" even though I can clearly hear it.
+
+
+The same happens in the opposite direction. Want to stop the kitchen music to watch a movie? Well, one would assume you could say "stop the music" but that will summon the same response that there's nothing playing.
+
+
+It's a bizarre oversight for a system that generally works really well -- throwing music into a room with your voice is legitimately useful and puts the need to tap through Sonos' app to get something to play to shame.
+
+
+Software / day-to-day
+
+
+One of my biggest fears switching to Android was a lack of consistent design, or a rift in the quality of apps. It's fairly safe to say that the meme that constantly comes up when you share that you're switching to Android is people telling you they heard the apps were horrible based on that one time they tried Android in 2013 pre-Material Design.
+
+It's been the complete opposite.
+
+
+I spent a lot of time mulling what makes Material Design and the latest versions of Android so visually compelling and it's actually something I didn't realize at first: apps are full of color, playful animation and fun design flourishes. Where iOS has become flat, grey and uniform, Google went the opposite direction: bright colors, full-on fluid animations and much, much more.
+
+
+Third party apps have really started to embrace Material Design and the consistency level is approaching that of iOS, with unique ideas I've not seen on that side of the fence.
+
+
+Flamingo, an extremely popular Twitter alternative for Android, is arguably on-par with iOS' Tweetbot and allows you to change the layout or color to fit your preferences. Relay, a Reddit app, does much the same but also makes it far easier to browse the site for hours with rich inline post viewing.
+
+
+Other useful tidbits come from Android having more open interfaces for developers. One of my favorites here is that Spotify and Sonos are able to show persistently on the lock screen so you can skip songs, even if you're Chromecasting. Another, which is a life-changer, is that 1Password can work everywhere rather than just wherever developers decided to put it.
+
+
+One I discovered this week allows my phone to remain unlocked provided I'm within my home location and connected to WiFi, so if I pick it up I don't have to fudge around to unlock it. There are so many of these handy small things that it's not practical to list them out.
+
+
+Perhaps my favorite differentiator, which I've been complaining about on iOS for years, is that the home screen isn't a wasteland of icons organized top-down. You can fill it with icons on the Pixel if you please, or you can actually see inside your calendar and get the weather without fluffing around with 3D Touch or the notification center.
+
+
+This is hands-down one of the best parts of the Pixel XL 2, simply because you can arrange everything at the bottom of the phone where your thumb actually is.
+
+
+Then there's the tiny design flourishes that Google has put throughout this device. A few days into using it, the ambient display (which is fantastic, by the way) suddenly had a new line of text when I was sitting in a cafe: the name of the song that was playing in the background.
+
+
+Not only was this a whoa moment, it's legitimately useful and Google has gone out of its way to make it non-disruptive and not require the internet or actively sending your microphone data somewhere else to be processed.
+
+
+These tiny awesome things are everywhere: just yesterday I discovered that inside the wallpaper app Google offers a ton of background libraries which update on a daily basis and can auto-change your wallpaper every morning. Sure, it's not a game changer, but it's dope.
+
+
+A feature I found just this week thanks to a tip from my buddy Justin, is that you can use the fingerprint sensor on the back to your advantage: turn on a setting and you can swipe down on it to pull down on the notification center and get the quick buttons -- a great fix for how far away the top edge of the screen is.
+
+
+This 'thumbability' is something Google appears to be focusing on right now, with recent beta builds of Chrome including a new version with the address bar on the bottom which makes so much more sense.
+
+
+Android's notification system is another delight: they're actually useful. Much has been written about this elsewhere, but it makes the iOS version (which I essentially ignored because it's so useless) look like a toy.
+
+
+Because there are persistent icons (which can be disabled, yes) I'm able to triage things so much better and gauge at 1000 feet what things are important -- and I can snooze them if I need to deal with whatever it is later.
+
+
+The cherry on that cake is the ambient display, which is a great tool for super-distractible people like me. I leave my phone on my desk all day, and rather than waking up the entire freaking screen for every notification, a new icon slides in.
+
+
+If it's an important enough message, it can display the content in black and white while still not waking it. I totally underestimated how awesome this is, and it's become something I wouldn't want to live without.
+
+
+I do take issue with how Android deals with notifications sometimes, however: vibrations are enabled by default for basically everything, which I hate, and almost all apps share the same noise out of the box making it difficult to distinguish what's going on without pulling out your phone.
+
+
+On top of this, I couldn't even figure out where the setting to disable the vibration was for a ton of apps because some, like Allo, have settings in notifications and their own settings. Bizarre, and seriously needs fixing. I never thought I'd miss iOS' mute switch!
+
+
+A big gap in my life, which I still miss, is the Apple Watch. Tracking fitness was something that became very important to me, and the lack of fantastic hardware in this area has been a bummer. I'm considering getting a Nokia Steel HR, but I'm dubious about how long the hardware will last.
+
+
+A respite here is that Google Fit, the company's HealthKit competitor, is superb: it can automatically detect cycling, walking and a bunch of other activities and tracks them in the background (with permission) so you have rich health data.
+
+
+To get this on iOS I'd had to use the battery-draining Moves app, but it couldn't distinguish cycling from walking reliably and didn't track location very well. With Fit, my Gyroscope data is even more awesome.
+
+
+I could talk about why I'm enjoying Android until you eventually fall asleep, but at a fundamental level switching across at this point made iOS feel old and disjointed.
+
+
+As someone who previously owned a Watch, a Mac and all the other widgets that go with the ecosystem I thought it worked well together but Google's ecosystem is straight-up seamless at this point and the relaxed restrictions, for better or worse, mean that there's so much more legitimately useful UX patterns developers are able to use.
+
+
+Much of this is because Google has spent an insane amount of time building out a seriously good software and hardware story that "just works" better than anything Apple's got right now.
+
+
+Because you can go and get a Home Mini for $39, a Chromecast for $49 and a TV that has Android built in, the story is so much more coherent and generally works exactly how you'd expect. Fling your music there, throw some TV here, whatever -- it just works.
+
+
+I'm sure almost every reply to this blog will be "but what about iMessage." This line is so frustratingly tired that I don't even want to talk about it: iMessage is not that good and your friends use more than one message service, guaranteed. If you're sticking with a platform because of a walled-in messaging service alone, that's pretty sad.
+
+
+OK Google, Give me a verdict
+
+
+This phone is extremely my shit. Google has taken the original Pixel, which was interesting but not enough to tempt me into switching, and made it into something that's near perfect.
+
+
+In a year where the iPhone X, which Apple touts as the future phone, only has a single interesting feature (Face ID) Google has embraced the opportunity to show a different future with arms wide open. It's the first time I can confidently say an Android device is great coming from the iPhone without constantly saying but there's this one thing.
+
+
+I'll confess, Face ID is a magic UX paradigm that I'm ever so slightly envious of, but the lack of any polish or push toward making iOS better in a meaningful way over the last few years has put Apple on the back foot. Also, I like Touch ID and having it on the back is totally fine™.
+
+
+For the first time, when someone says but iCloud has x feature I'm able to confidently say that Google has an alternative and it's actually better.
+
+
+My biggest observation from this move has been that phones are converging at a rapid pace: we're discussing rectangles, and much of what matters is whether or not it plays nice with your other devices and services.
+
+
+Until a few years ago Google just had no coherent strategy here, but it's astounding how quickly it's accelerated past Apple's devices and services play. You can argue all you want that Apple's integrations appear better on the surface but lord, it falls apart quickly when you use it daily.
+
+
+By owning the Pixel brand and pushing into it even harder this year, it's paying off for Google. These phones are legitimately awesome, and make iOS seem like a mess of UX patterns that require constant dipping in and out of activities.
+
+
+Most of all, Google's embrace of color, animation and fun hardware design is great. Once you get a Google Home it's something you want in every room, and then the Pixel just reinforces this.
+
+
+If this is just Google's second attempt at phone hardware it's a home-run. I can't wait to see what's coming next.
+
+
+Like:
+
+  * Gobsmackingly good camera
+  * Great performance, zero lag
+  * Design language finally on point
+  * Hardware / software ecosystem is more coherent than Apple
+
+No like:
+
+  * Weird notification defaults
+  * I miss my Apple Watch 😢
+  * If something goes wrong there's no physical store I can go to
+  * God, I need to get more USB-C cables
+
+If you liked this post, this week I'm launching something new: a morning briefing with everything worth knowing in tech. There's no ads or clickbait, just what's worth knowing.
+
+
+Find out more here and use the code 'bestfriends' for 25% off your first three months.
+
+
+Get even more
+
+
+Read next
+
+
+065: We've updated our privacy policy...
+
+
+Go to the next level
+
+
+Get the best insights into the tech industry
+
+
+By Owen Williams
+
+
+Owen is a freelance writer, marketer and maker based in Amsterdam, The Netherlands, helping make technology friendlier with words. He was previously Editor at The Next Web and Digital Director at VanMoof, but now spends his days building Charged.
+
+Please enable JavaScript to view the comments powered by Disqus.
+×
+Want more?
+
+
+🙋‍♂️ Hey! Are you tired of tech news being full of clickbait and ads?
+
+
+The technology industry is noisy, and it's hard to keep up. My weekday briefing helps you busy people like you keep up with tech in a few minutes, explaining the why behind the story.
+
+
+Join us and let's building something better? I'd love to have you.
+- Owen
+
+Tweet story Follow @ow
+Charged
+  * Briefing
+  * Podcast
+  * Privacy Policy

@@ -1,0 +1,213 @@
+VISIT CNBC.COM
+
+  * Success
+  * Money
+  * Work
+  * Life
+  * Video
+      + Success
+      + Money
+      + Work
+      + Life
+      + Video
+o X
+
+Life
+
+Life
+7 cool things Samsung Galaxy Note 9 can do that the iPhone can't
+
+Jimmy Im | @Realjimmyim
+9:30 AM ET Fri, 19 Oct 2018
+CNBC.com
+CNBC | Magdalena Petrova
+Samsung Galaxy Note 9
+
+Though I was an iPhone user for 11 years, I switched from an iPhone to a Samsung Galaxy Note 9 this September. Even when Apple announced the new iPhone XR for $749, iPhone XS for $999 and iPhone XS Max for $1,099, I didn't get excited or change my mind.
+
+
+I wasn't the only one ready to move on: 72 percent of the 480 consumers surveyed by WalletHub in August said they wouldn't buy a new iPhone this year (47 percent of respondents were Android users and 46 percent iPhone users).
+
+Jimmy Im
+Samsung Galaxy Note 9
+
+A month has passed since I got the new Samsung Galaxy Note 9, and so far I have no regrets. And now I'm learning — from reading blogs and watching videos from avid Samsung Galaxy Note 9 owners and experts — that there are cool, kind of secret features of the phone too, ones that iPhone just can't do.
+
+
+Here are my seven of my favorites.
+
+
+1. 'Beast' mode makes the Note faster
+
+Jimmy Im
+
+Samsung Galaxy Note 9 is fast. It has a Qualcomm 845 processor running at up to 2.8GHz. (It's faster than iPhone X, which clocks in at 2.39GHz, and the new iPhone XS Max, which reportedly comes in at 2.5GHz.) But with the Note 9's "beast" mode, the phone can go a lot faster and allows apps and web pages to load in an instant.
+
+
+I've found the iPhone can take a few seconds to fire up an app like Twitter. With beast mode on my Samsung, it takes one second for the Facebook app to launch (vs. three seconds on my work iPhone 8); one second for Google Maps to launch (vs. five seconds on iPhone); and half a second for Twitter to launch (vs. three seconds on my iPhone).
+
+
+To enable beast mode, go to settings, then to "about phone." Scroll down to software information. Hit "build number" seven times, which will open the developer options. From here, scroll down to "animator duration scale." Animation scale 1x is the factory setting but if you choose 0.5x, the phone will go faster.
+
+
+2. Your home screen can be a video
+
+
+On my phone's main lock screen, I have a video of my dog on the street.
+
+
+I didn't realize setting up video as your main screen wasn't commonly known on a Samsung. When I tweeted my story on changing from iPhone to Samsung Galaxy Note 9 and mentioned the video screen, I received several messages asking how I did this.
+
+
+The trick is, you can't set it up in settings. You have to go to your gallery, select the video you want to use, then go to the three dots in the top right corner. Once you click this, select "set as wallpaper." From here you can set the video as the main screen on your phone.
+
+
+3. You can use two sets of Bluetooth headphones at once
+
+Jimmy Im
+
+I didn't like the fact Apple got rid of its headphone port, but one benefit that came out of it was my discovery of Bluetooth headphones. They made it easier for me to listen to music without getting tangled up in the wire attached to the phone.
+
+
+Samsung also allows you to connect Bluetooth headphones, in fact you can connect two sets (or two Bluetooth home speakers or mix and match). I recently tried this with my neighbor. We each wore our Bluetooth headphones and watched a movie trailer on my phone. I did not have to take off one ear bud and let him use it, the way I've shared headphones with a friend in the past.
+
+
+To do this, in settings, go to "connections," then Bluetooth. Hit the three dots at the top right hand corner. Hit advanced and look for "dual audio." It will scan for the Bluetooth headphones you want to use and connect.
+
+
+Note 9 will also let's you know when the headphones' battery is running low. I get an alert when it is almost at 10 percent battery power so I have time to recharge.
+
+
+4. Text messages can be scheduled
+
+Jimmy Im
+
+With the Messages app on the Galaxy, you can give your texts a subject, like you would with an email. You can also hand-write text messages with the S Pen and the phone will automatically convert them into text.
+
+
+But my favorite feature is that you can schedule text messages. You can do this by clicking the "+" button next to the text message field. When you select "schedule a text message," it will open the calendar and time, so you can set up the exact moment you want the text to go out. Then simply type the message and hit send.
+
+
+I send scheduled texts to friends on the days we will meet for dinner, something like, "Looking forward to tonight!" I've also scheduled messages for my friends' and family's birthdays, since I have a tendency to forget. And then there's the fun stuff — one of my friends is a DJ, so I scheduled a text for 3 a.m. on a Saturday to tell him to get home safe and don't forget to set the alarm for our brunch.
+
+
+Though the iPhone doesn't have a similar feature, you can schedule texts on an iPhone with Scheduled app, which allows three scheduled messages a month for free; unlimited scheduling for $2.99 a month.
+
+
+5. 'Glove mode' lets you wear regular gloves and still use the phone
+
+Jimmy Im
+
+Putting the Note 9 in what's known as "glove mode" increases the touch sensitivity of your phone so that you can even use it while wearing regular gloves. This feature is also great if you have a screen protector, which creates another barrier between your fingers and the phone's sensor. (The iPhone only allows you to adjust the touch sensitivity for the Touch ID.)
+
+
+To increase touch sensitivity, you have to go to advanced features in your settings, then find "touch sensitivity."
+
+
+You can also set Note 9 to avoid accidental touches, and therefore pocket dials. The phone uses various sensors to detect when its a dark place, like a pocket, purse or book bag, preventing accidental calls or app launches during that time. (You can use glove and accidental at same time.)
+
+
+Go to settings, then display, and then click "block accidental touches."
+
+
+There is an app, Touch Protector, that protects unintended operations, but only for Android.
+
+
+6. Smart lock detects when the phone is on your body
+
+Jimmy Im
+
+Every smartphone now allows you to customize your lock, whether it's by way of facial recognition or a pass code. Note 9 offers many options, including patterns, PIN, password, voice match and face, iris and fingerprint recognition or intelligent scan, which is your face and iris together.
+
+
+I have mine set for pattern (a choice iPhone doesn't have, you'd need to use a hack), where you can swipe to dots on a grid to unlock your phone. (You choose which dots to swipe.) And there's no visible swipe trail so if I'm on the subway, someone sitting next to me can't see the swipe path.
+
+
+But what's also great is that with Note's "smart lock," you can customize the features in convenient and innovative ways, like on-body detection, meaning that you never have to enter your unlock code to unlock the phone when you're holding it. You can also set the phone up to stay unlocked in trusted places. I have this set up for my apartment and at work.
+
+
+7. S Pen 'extract' let's you copy and paste Instagram captions
+
+Jimmy Im
+
+With the S Pen can do many things, like write notes on the screen or on web pages after you've screen grabbed them, and have anything written converted to text.
+
+
+My favorite related feature is "smart select." With the S Pen, you can take text that you normally cannot copy or paste, like the captions in Instagram posts, and "extract" them. The pen copies the selected text you chose, so you can paste or share it.
+
+
+Apple did not respond to a request for comment.
+
+
+Don't miss:
+
+  * I shopped at Amazon's new 4-star-product store in New York City—here's why I wouldn't do it again
+  * The 6 best cities in America for geeks
+  * I made the switch from iPhone to Samsung Galaxy Note 9—this is what I love and what I'll miss
+
+Like this story? Subscribe to CNBC Make It on YouTube!
+
+Why I don’t plan on shopping at Amazon’s newest brick and mortar store again 11:02 AM ET Fri, 28 Sept 2018 | 01:57
+
+Jimmy ImSenior Lifestyle Writer
+
+Primetime Shows
+
+Watch full episodes | TV schedule
+
+
+To view this site, you need to have JavaScript enabled in your browser, and either the Flash Plugin or an HTML5-Video enabled browser. Download the latest Flash player and try again.
+
+
+Playing
+
+
+Share this video...
+
+×
+
+Watch Next...
+
+
+  * About
+
+  * Site Map
+  * Digital Products
+  * Podcasts
+  * Licensing & Reprints
+  * Careers
+  * Internships
+  * Help
+  * Contact
+  * Corrections
+  * News Tips
+  * Join the CNBC Panel
+  * Advertising & Partnerships
+  * Privacy Policy - New
+  * Terms of Service - New
+  * Closed Captioning
+  * News Releases
+  * Independent Programming
+
+* NEWSLETTERS
+
+Make It
+Breaking News
+Morning Squawk
+Evening Brief
+More Free Newsletters
+
+Please enter a valid email address
+GO
+Get these newsletters delivered to your inbox, and more info about about our products and services.
+
+By signing up for newsletters, you are agreeing to our Terms of Use and Privacy Policy.
+
+Data is a real-time snapshot *Data is delayed at least 15 minutes
+Global Business and Financial News, Stock Quotes, and Market Data and Analysis
+
+
+Data also provided by
+
+
+© 2019 CNBC LLC. All Rights Reserved. A Division of NBCUniversal

@@ -1,0 +1,166 @@
+Monday, October 15, 2018 [Tweets] [Favorites]
+
+
+Google Pixel 3 and 3 XL
+
+
+Nicole Nguyen (via John Gruber):
+
+
+The Pixel 3 starts at $799, and Pixel 3 XL at $899. They can be preordered today and ship on Oct. 18. The phones come in two storage sizes, 64GB and 128GB, and three colors: Just Black, Clearly White, and a new hue, Not Pink.
+
+
+[…]
+
+
+Google is selling its own wireless charger, called Pixel Stand, for $79. When the Pixel 3 is put on the stand, it goes into a “display assistant” mode and essentially turns the phone into a Google Home, where you can use voice commands to play music, see your calendar, and view photos.
+
+
+[…]
+
+
+The Pixel 3 doesn’t have a headphone jack, but it does come with USB-C earbuds.
+
+
+[…]
+
+
+But, bizarrely, the front-facing camera does have two lenses now. One is the normal 8-megapixel camera you’d expect, and the other is a wide-angle, GoPro-style lens with a 97-degree field of view (instead of 76 degrees in the normal lens).
+
+
+Dieter Bohn (via David Chen):
+
+
+You can see that the Pixel 3 is pulling more detail out of the shadows than the Pixel 2. It’s also going for a slightly warmer tone, especially with faces. In fact, I think it’s moved a little closer to the iPhone in terms of the image it’s trying to produce — but only a little bit. The iPhone XS is applying HDR effects too aggressively and overly brightening the shadows, as though it wants everything to be evenly lit. To me, it just looks off.
+
+
+Here’s the default selfie camera, zoomed in a bit to show you some detail. Again, the Pixel 3 has much more detail while the iPhone XS feels a little bit over-smoothed. I’m not saying I’m a “Beautygate” truther here, but I definitely prefer the Pixel 3. It’s much more willing to let the light be what it’s going to be and not aggressively trying to flatten everything to the same level.
+
+
+I’m still not sure what to make of the new iPhone cameras and Smart HDR feature. The failure mode is certainly bad: photos that look unnatural are way worse than photos with some areas in shadow. I’ve gone from initially being tempted to upgrade my iPhone SE mainly for the improved camera to wondering whether I should hold onto it or try to find a used iPhone X or an iPhone 8 until Apple gets its act together. We just don’t seem to have good information yet. I haven’t seen anything definitive about what the Smart HDR setting does or whether the “HDR garbage” still happens when it’s off. Reviewers have been comparing iPhone XS with Smart HDR on to other phones, rather than looking at how the same phone takes photos with different values of that setting.
+
+
+Previously: iPhone XS Users Complain About Skin-Smoothing Selfie Camera.
+
+
+Update (2018-10-15): See also: Josh Centers.
+
+
+Update (2018-10-16): Juli Clover:
+
+
+You can see all of the full resolution photos that we took with the Pixel 3 XL and the iPhone XS Max in this Imgur album that we created.
+
+
+Update (2018-10-19): Mat Honan (Hacker News):
+
+
+This is a great phone. I highly recommend it. But it's no longer totally clear to me that the information systems we've built to help us navigate life are net beneficial to society.
+
+
+Update (2018-12-07): Matt Birchler:
+
+
+As an example, here’s a selfie from the Pixel 3 with Night Sight and the iPhone Xs. The difference in some of these are pretty amazing.
+
+
+Android Camera Google Pixel High Dynamic Range (HDR) iOS iOS 12 iPhone XS
+
+
+5 Comments
+
+
+5 Comments
+
+Adrian O'Connor
+October 15, 2018 3:38 PM
+
+I've posted a few times since the XS went on sale to say I don't like the fake appearance of Smart HDR, and I still feel the same now -- 90% of the iPhone XS Smart HDR photos have the trademark unnatural HDR colouring and I'm just not a fan. The only time it does better is backlit portraits -- there, and only there, it's amazing.
+
+
+I'm still stuck with my ageing SE, but I'm desperate for a better camera. I think I might go for a used iPhone 8. The new Pixels look good, but an 8 would be cheaper. The compact Sony phone is actually the same size as the 8, so that's no SE replacement.
+
+Bryan
+October 16, 2018 5:39 AM
+
+The Supersaf comparison is, as ever, interesting. https://www.youtube.com/watch?v=S9qNHYtNsik
+
+
+With regards to cinematography (i.e. video)
+iPhone XS beats Pixel3 comprehensively, both front and back, with substantially better audio.
+
+
+With regard to photography:
+iPhone XS _just_ beats Pixel 3, though as with the Verge, iPhone brightens things up a little too much. The main advantage, particularly in portrait mode, seems to be the dual cameras.
+iPhone XS is beaten by Pixel3 on front-facing camera, including portrait mode. Excessive de-noising & brightening combined with worse edge-detection in portrait mode makes for an inferior result overall.
+iPhone XS is beaten Pixel3 in nighttime photography, though is an improvement on iPhone X. Pixel3 has further software improvements in the pipeline.
+
+
+iPhone has the best video, second-best photography (though it's close, second-best maps, third-best speech assistant, greatest OS security, and simplest interaction model.
+
+
+I would argue that given these caveats it's not the premium product the pricing presumes it is; however I suspect XR could offer decent value.
+
+Clark
+October 17, 2018 8:46 PM
+
+I think maps these days is much more mixed depending upon where you live. Google's really cluttered up the UI in my opinion. I still have some complaints with Maps and there's definitely things Google does better, but I find myself rarely using Google since the last set of bad directions I got a month or so ago. In any case I don't think that should count against the iPhone since it has Google Maps. (I guess you could make the Siri call but then Siri is definitely inferior in recognition and speed to Google's equivalent)
+
+Bad Uncle Leo
+December 7, 2018 4:57 PM
+
+There’s nothing at all that I like about the X generation iPhones. Not. A. Thing.
+
+
+FaceID? A gimmick and a 4th amendment liability. “AnImoji?” Useless trinket. And that notch, the compromise that isn’t a compromise. Add to that list buggy faux HDR.
+
+
+None of these things are “innovation” and I feel fine keeping my iPhone 6 plus not even S. Will probably keep it until it dies.
+
+Michael Tsai - Blog - Google Pixel’s Night Sight
+January 16, 2019 4:40 PM
+
+[…] Google Pixel 3 and 3 XL, iPhone XS Users Complain About Skin-Smoothing Selfie Camera, The iPhone XS and Its Camera, iPhone […]
+
+
+Stay up-to-date by subscribing to the Comments RSS Feed for this post.
+
+
+Leave a Comment
+
+
+Name
+
+
+E-mail (will not be published)
+
+
+Web site
+
+
+← →
+
+
+Blog
+Archives
+Tag Cloud
+Top Posts
+
+
+@mjtsai
+Recently Updated
+RSS / Comments
+Apple News
+Trackback
+
+
+Support this site via Patreon.
+
+
+Try my apps:
+
+DropDMG
+EagleFiler
+SpamSieve
+ToothFairy
+Copyright © 2000–2019 Michael Tsai.

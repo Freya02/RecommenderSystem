@@ -1,0 +1,803 @@
+SEARCH BLOG
+
+ 
+
+FOLLOW ME ON SOCIAL
+
+
+
+
+KEEP ME ALIVE
+
+
+
+Total Pageviews
+
+
+ROBIN WONG
+
+
+I TALK TO CAMERAS
+
+
+My name is Robin Wong. I am a Malaysia based photographer, blogger and content creator. I live and breathe photography.
+
+CONTACT ME
+
+PRODUCT REVIEWS
+
+
+I shoot passionately with Olympus cameras and lenses. Check out my extensive list of product reviews.
+
+CAMERA AND LENS REVIEWS
+
+PHOTOGRAPHY PORTFOLIO
+
+
+I provide professional services covering portraits, weddings, food, products, lifestyle, event and stage photography.
+
+GO TO PORTFOLIO
+
+SHUTTER THERAPY
+
+
+I coined the phrase "shutter therapy", which means go out and enjoy making images.
+
+READ MORE
+Smartphone Photography
+
+Huawei P9 Camera Review - Is This The Photographer's Smartphone?
+
+Posted by Robin Wong on August 21, 2016 with 51 comments
+Update (24/8/2016): Huawei P9 Review extension for Long Exposure photography is published!
+
+Surprise! I have a review write-up and this time it is not a camera or lens, it is actually a smartphone, the Huawei P9. I acknowledge that Huawei P9 has been in the market for months now, and there have been dozens (perhaps even hundreds!) of reviews being posted online everywhere. Not only the usual gadget review sites, this time I also notice a handful of photography specific site reviewing a smartphone, and the most notable one being the review posted on DPReview. Therefore, there really is nothing much I can add to what has been posted and shared out there.
+
+I was connected to Huawei Malaysia by an Olympus user (thanks heaps Grexer), and I was provided with a loan unit of a Huawei P9 for review purposes. I was immediately interested to try out the Huawei P9, considering it was heavily advertised as being "co-engineered with Leica". Leica's involvement, to what extent not being properly clarified, certainly piqued my interest to take a look at the P9 closer. The setup of the camera having dual modules, containing two image sensors that have corresponding two lenses was unusual. There have been mixed reviews thrown out there, several review sites (mostly gadget reviewers) concluded that the camera in the P9 is not as good as competition, while some actually praised the camera's imaging prowess.
+
+DISCLAIMER
+
+I must emphasize that I am not a tech-junkie, and I will only be reviewing the camera and imaging performance of the Huawei P9 only. I will not be covering the phone review of P9, as I believe this has been done and you can read the many reviews available online by major tech/gadget review sites. I am not a professional photographer, I am merely a photo-enthusiast who shoots passionately as frequently as I can. I am not connected to Huawei in any other manner except for this arrangement of a loan review purpose. I shall approach the review of P9's camera the usual way I always do for my camera and lenses reviews on this blog: by shooting a large amount of photographs, and write my review based on the experience using the P9 out in real world situations and carefully scrutinize the image output from my PC monitor. I support my claims through evidence found in the images, which will be shown plentifully here in this review entry. You can say that this is a user-experience approach review of Huawei P9's camera capabilities.
+
+
+Huawei P9 fits perfectly in my not so large hands.
+
+
+
+The rear camera
+
+Huawei P9 was co-engineered with Leica, and utilizes Summarit F2.2 lenses.
+
+Two lenses for two image sensors, optimizing imaging performance. Will this work? Or is this just a gimmick?
+
+Pro capture mode, which I used very often in my shooting with Huawei P9
+
+
+ABOUT HUAWEI P9 AND LEICA
+
+Let's have a quick run down of the Huawei P9's camera specs:
+
+1) Dual Camera System (12MP image sensors with 27mm F2.2 lenses)
+There are two lenses, attached to two image sensors (one lens to one sensor each). The lenses were made based on Leica Summarit design, a 27mm wide angle equivalent focal length with aperture of F2.2. Huawei claimed that having two F2.2 lenses working at the same time allowed more light to be captured than a single lens, and this yields an approximately equivalent of F1.8 lens brightness overall. The two image sensors (Sony IMX 286 12MP sensors with 1.25µm pixel size) comprises of one monochrome only sensor on the left and a full color image sensor on the right. The color sensor works like any other ordinary image sensor, and is supported by the monochrome sensor which acts to increase the capture of useful fine details in the images. The megapixel count is 12MP, which is more than sufficient for smartphone usage, and I would rather have better per pixel sharpness, than have large pixel count with non-optimized pixels. Furthermore, another very important feature to be noted, which was allowed with the use of dual camera technology, is the ability to render shallow depth of field, which shall be discussed in point no. 3.
+
+2) Pro Capture Mode (which is actually full manual control mode)
+Huawei P9, like most high end smartphones, offers full manual control over their camera. The aperture is fixed at F2.2, and I believe that the camera uses electronic shutter. All other parameters can be adjusted: ISO 50-3200, Shutter Speed 30sec to 1/4000sec, AF Single, Continuous or Manual, Metering options, White Balance options and exposure compensation. I find myself tinkering with the exposure compensation a lot, as well as the ISO when I was dealing with low light situations.
+
+3) Depth of Field Control
+One of the biggest reason why many people upgraded from compact point and shoot or mobile phones to DSLR cameras, is the ability to render shallow depth of field, or in layman's terms, blurring the background off. The creamy, smooth and blur background is desirable, instantly making photographs look professional (yes actual photographers do not just blur the background of every single photograph and this technique should not be over-used, but let's save this for another discussion). The main reason why so many people gave up on their entry level DSLR system and jumped to more expensive full frame system is also due to the even shallower depth of field the full frame system is capable of, ultimately rendering even blurrier background. Traditionally Leica lenses have always been known to create beautiful bokeh (quality of the blur in the photo) and I am curious how this can be simulated in the Huawei P9. .
+
+When the depth of field control is selected, you have no other adjustments available to you except the Autofocus Point and the selection of simulated aperture with options from F0.95 to F16. The smaller the number means the camera is simulating larger aperture to create blurrier background. After you capture the image, you can further fine tune the focusing area and readjust the aperture value if necessary.
+
+1/33sec, ISO320, DOF Control at F0.95
+
+1/33sec, ISO160, F2.2
+
+1/137sec, ISO50, DOF Control at F3.2
+
+1/111sec, ISO50, F2.2
+
+Crop from previous image
+
+1/1258sec, ISO50, F2.2
+
+1/33sec, ISO250, F2.2
+
+1/716sec, ISO50, F2.2
+
+1/50sec, ISO80, DOF Control at F3.2
+
+1/25sec, ISO320, F2.2
+
+1/33sec, ISO250, F2.2
+
+Crop from previous image
+
+1/50sec, ISO160, F2.2
+
+Crop from previous image
+
+1/50sec, ISO50, F2.2
+
+1/100sec,.ISO100, F2.2
+
+IMAGE QUALITY
+
+Sharpness
+The image quality of Huawei P9 surpasses my initial expectations. The images of the lower ISO settings came out pleasantly rich in detail and high in contrast. Zooming in 100% into the images, reveals high level of fine details, which could be due to the sharp lenses working together with an additional monochrome sensor. I am pleased with the overall sharpness of the images.
+
+Aggressive Noise Reduction
+However, I do wish I can have control over the noise reduction applied to the JPEG images (I have not shot in RAW yet, but I thought for smartphone use, I would rarely shoot RAW, and this is true for most smartphone users as well). I do find that in some situations the noise reduction can become too aggressive, smearing useful details. It is also strange to note that the noise reduction is not applied evenly, and only to selected parts of the frame, and also varies from photo to photo. Nonetheless, I acknowledge that the image processing was tweaked to please the general crowd, who may become paranoid when they see just that tiny bit of high ISO noise present in their photographs. I just wish there is a way to turn it off, for those of us who do not mind a little bit of noise, but we want the details in the images preserved.
+
+Color & White Balance
+The white balance and overall color reproduction is life-like, and looks richly saturated. I am ok with the high contrast, high saturated, consumer-friendly look. If you want a more natural and neutral looking images, you may select the saturation and contrast settings to tone them down one or two notches to your liking. All images shown in this blog review entry were taken with Auto White Balance, and I did not tweak the settings.
+
+Chromatic Aberration and Distortion Control
+Now this is the surprise even to me, the images appear to be free from any visible barrel distortion, for a wide angle lens. I am not sure if the lens was good enough to produce minimal distortion, or it was the software processing after the images were shot to correct the distortion. It could have been both: good lens distortion control working hand in hand with superior software distortion correction to produce distortion free image. There was also no chromatic aberration, no noticeable purple fringing at all! Very impressive for a smartphone camera.
+
+
+CAMERA PERFORMANCE
+
+Autofocus Capability
+Generally AF of Huawei P9 was fast in good lighting conditions, and is a little slower in low light situations. There is nothing to write home about the AF on P9, I managed to secure important shots shooting on the streets, and what I do like very much about P9 is the accuracy of the focusing. I rarely do get miss-focused shots, and I came home with extremely high hit rate, which is wonderful to take note of. All my previous encounters of smartphone cameras (even high end ones) exhibited marginally higher chance of focusing errors. Even when it comes to close up shooting, the AF is dead on accurate, though slows down significantly as you move closer to the subject.
+
+Shutter Lag
+When the camera just wakes up, and you try to capture a shot immediately by touching the shutter release icon, the camera will exhibit a shutter lag, significant enough for me to miss several crucial shots. After the camera fully wakes up, the lag is reduced and will not happen until it wakes up again. I think this is purely the fault in the programming of the software controlling the camera, and can be improved for future updates. In case some of you are not familiar with the term shutter lag, it means there is a delay between the touch of the shutter release icon (capture button) and the moment the image is being captured. If there was no shutter lag, the capture of image is immediate. I have to clarify this because I have noticed MANY (yes, with all caps MANY) gadget review sites wrongly described slow autofocus as being shutter lag. Autofocus happens before shutter release, hence slow autofocus is slow autofocus, and has nothing to do with shutter whatsoever. Nevertheless, I believe this shutter lag issue on Huawei P9 will affect photographers who need super quick reflex in their shooting, and should not be a concern for ordinary smartphone users.
+
+Overall Camera Operation
+I find the native camera app to be quite a joy to use, and was basically smooth from start to finish. I spent a full day using the camera on Huawei P9, and encountered no bugs or issues. The settings on the PRO mode worked as indicated, and helped a lot in controlling my images the way I want them to be. The preview of the images were disabled which I liked very much, to prevent any delay in preparing for the next coming shot. I do think that whoever designed the app either have strong experience in using professional camera systems, or have consulted and worked closely with professional photographers.
+
+CAMERA HANDING
+
+The Huawei P9, having 5.2 LCD screen, is just perfect for my hand. I have a typical Asian male hand size, which is not that large. The camera is comfortable to hold, not too heavy, yet has some heft to give the overall stable feel while shooting. I do not like the too slippery feel of the metal body. The gripping could have been improved if the body material is non-slip, or textured.
+
+
+Next I want to discuss about the Depth of Field Control. The following images were all taken with Depth of Field Control activated.
+
+1/33sec, ISO320, DOF Control at F0.95
+
+1/50sec, ISO125, DOF Control at F2.8
+
+1/50sec, ISO80, DOF Control at F2.8
+
+1/249sec, ISO50, DOF Control at F5.6
+
+1/50sec, ISO200, DOF Control at F0.95.
+
+1/50sec, ISO200, DOF Control at F0.95.
+Same image as the previous one, but post-focus adjusted to The Flash instead of Green Arrow.
+
+1/33sec, ISO160sec, DOF Control at F3.2
+
+1/20sec, ISO640, DOF Control at F2.8
+
+1/516sec, ISO50, DOF Control at F16
+
+ABOUT DEPTH OF FIELD CONTROL
+
+Let's get the obvious stuff out of the way. The Simulation of shallow depth of field is not as good, or looking as natural as the real large aperture lens on large image sensors. The transition from the in focus zones dropping off to the out of focus areas is still not as smooth as the real thing. There is no need to argue whether the current depth of field control can replace any large aperture real lenses, the answer is a solid no.
+
+I do think, however that the results from the depth of field control looks very good on a smartphone level, and trumps many other similar feature on current offerings from other manufacturers. While the bokeh may not look as real as what the real lenses can create, the blurred off background still looks pretty good, and it does a decent job isolating the main subject from the distracting background. I can see the potential, and the usefulness of having a dual camera module, allowing smaller image sensor to gain control over depth of field. Certainly I strongly believe that the overall look and "natural-ness" of the bokeh can improve over time, and perhaps one day, the simulation can create such a good rendering of out of focus zone that we do not really need bigger camera formats to have shallow depth of field shots. That day is not now, and I do not think it will happen any time soon.
+
+Nevertheless, I did have so much fun shooting a wide angle lens, on a small sensor format in a smartphone, yet having the ability to create blur background! The experience is quite surreal, and at one point I went "who cares if the bokeh is not real? It is still quite good and I believe the general crowd would definitely appreciate the ability to render shallow depth of field in their shots!" I must warn you though, it does not work ALL the time, and when you have multiple subjects, and a complex scene with a lot of lines and layers, the depth of field control can go haywire. Choose simple framing, one subject, and a simple, plain background to work with. The less to deal with, the better the result will be. One tip I can give you is not to set the aperture to wide open F0.95-F1.4 all the time. I often find results from F2.8 and narrower to be more appealing, looking more believeable, and having sufficient zone of the main subject looking sharp.
+
+One of the biggest drawback is the inability to control any imaging parameters when using depth of field control. I do wish I can control ISO, and more importantly the Exposure Compensation. The metering of the Huawei P9 is reliable, but there are situations when the user needs to have their input and override camera decisions.
+
+
+LOW LIGHT SHOOTING
+
+Since the Huawei P9 is still using a smartphone size image sensor, I am not expecting miracles in this department, and I was right not to put my expectations too high. I find generally image quality is optimized shooting below ISO400. For low light conditions, pushing to ISO800 is still ok, the noise reduction kicks in effectively, minimizing high ISO noise, at the expense of fine details. I would avoid using ISO1600 unless for emergency only. At ISO1600, images come out soft, and rather blotchy. I would absolutely not use ISO3200. There is nothing nice to write about the ISO3200 image from the Huawei P9.
+
+One of the feature which I do wish is built into the P9 is image stabilization system. I understand that having dual lenses and dual image sensors complicates things, and image stabilization will take too much work to make it happen in such unusual module. That aside, having a powerful image stabilization will help steady the shot and allowing use of lower ISO settings in similar shooting situation.
+
+High ISO Comparison samples
+
+ISO800
+
+ISO1600
+
+ISO3200
+
+ISO1600
+
+ISO1600 Crop from previous image
+
+ISO800
+
+ISO50, 6 seconds shutter speed, on tripod
+
+crop from previous shot
+
+HUAWEI P9 CAMERA REVIEW CONCLUSION
+
+What I like:
+Excellent image quality with high level of details and good sharpness
+Very usable straight out of camera JPEG images
+Fast and accurate AF
+Depth of Field Control mode is useful for subject isolation, and is fun to use
+PRO Capture mode allows full manual control over all imaging parameters
+Solid camera native app, smooth and bug-free operations
+Decent low light shooting
+
+What I wish to be improved:
+Aggressive noise reduction smears details, and is not consistent from image to image. No option to turn off.
+Shutter lag happens immediately after camera wakes up
+No manual control for Depth of Field Control mode
+No image stabilization option
+
+It has been super enjoyable for me to test out the Huawei P9's camera. I have spent an entire day out to shoot with P9, and I have come home with tonnes of images, as shown in this blog entry, with a majority I am quite satisfied with. Despite just a smartphone, the P9 delivers crisp, highly-detailed images, with good contrast and color rendition. Performance of the camera was very good, I have very high hit rate, and rarely missed my shots (except for some due to the shutter lag issue). I especially had crazy fun going all out on the Depth of Field Control, and being able to isolate subjects by blurring the background off, just by using a smartphone is quite an interesting experience. On the whole, I do not have much to complain about Huawei P9, and do agree that it has been designed for photographer in mind, and is highly recommended for users who have basics and strong background in photography. If you are a new-comer to photographer, then picking up the P9 will inspire you to learn more and surely shoot more to improve.
+
+I have not tested everything about the Huawei P9, there are more features to try out, and further exploration will be necessary. Do not worry, I am still holding on to the loan unit for now and will be doing review extensions to over other important parts, such as the HDR function, the monochrome shooting (black and white) and many more!
+
+If you have any questions please feel free to ask. I sure hope you have found this review of Huawei P9 useful.
+
+Update (24/8/2016): Huawei P9 Review extension for Long Exposure photography is published!
+
+Please follow me at my Facebook Page here
+And on Instagram @shutter.therapy
+
+
+* ← Newer Post Older Post → Home
+
+51 comments:
+
+ 1. xtj78/21/2016 04:12:00 AM
+
+    This comment has been removed by the author.
+
+    ReplyDelete
+    Replies
+        Reply
+ 2. xtj78/21/2016 04:14:00 AM
+
+    Nice review, thanks Robin! I like the approach and the fact that Leica and Huawei have tried something completely new.
+    Speaking of the pictures: I'm quite impressed by their fantastic sharpness and often the simulated Bokeh is quite believable. Obviously it has its limitations, which can be best seen in the picture of the person carrying the gas bottle on their head, the algorithm simply missed a part of the background and didn't blur it at all :) But in other pictures it can look quite believable (the picture of the statues, I only noticed it on the second look).
+    
+    Would I want to trade my IS for this? Probably not. But I like that they are trying different ways and will hopefully continue to pioneer.
+    
+    Did you also test the monochrome mode?
+    It is supposed to have superior resolution/sharpness in black and white, since it uses a real monochrome sensor for it.
+    Would be interested to know what you think about it :)
+
+    ReplyDelete
+    Replies
+     1. Robin Wong8/21/2016 09:12:00 AM
+
+        Hi Tobias,
+        It is very true indeed, I would not trade the bokehliciousness for IS!
+        However, I do miss the ability to shoot with wide angle lenses at 1/10 of a sec or faster without using tripod! I tried with the P9 and did not have any chance of success.
+        I will try the monochrome mode in future extension blog entries, together with a host of other features. And probably more high ISO samples.
+
+        Delete
+        Replies
+            Reply
+     2. Martin Pettinger9/12/2016 04:18:00 PM
+
+        Robin do you think that because the lens is only 4.5mm so a 6x crop factor that ideally your needing to use shutter speeds around 1/100s. One thing I wish they could implement in the settings is a minimum shutter speed. I have found I can get sharp images around 1/50s if I am careful
+
+        Delete
+        Replies
+            Reply
+        Reply
+ 3. Elad Ackerman8/21/2016 04:49:00 AM
+
+    Great review and beautiful photos, Robin!
+    However, you can touch to capture only when you are not in "Pro Mode".
+
+    ReplyDelete
+    Replies
+     1. Robin Wong8/21/2016 09:13:00 AM
+
+        Thanks for the correction Elad. I was always on the PRO mode, hence I did not notice he Touch to Capture option. I have no taken out the comment about Touch to Capture from this review. Cheers!
+
+        Delete
+        Replies
+            Reply
+        Reply
+ 4. Lazi Music8/21/2016 10:09:00 AM
+
+    Well said Robin. I like how thorough you mentioned important points. I totally agree on the lack of control for other settings on the wide aperture mode and the high iso quality. One thing to point out as I shot more black and white with it, I find it better then just any similar or closer megapixel phone camera in the market. It should be because a true monochrome sensor processed it. The vivid colors simulating Leica colors are always my choice as it gives a different look to the photos.. You are spot on with the shutter lag during camera start. I hope this will be corrected or at least improved. Another interesting mode should be the light painting. Can't wait to see if you can explore more on that..
+
+    ReplyDelete
+    Replies
+     1. Robin Wong8/21/2016 10:32:00 AM
+
+        Thanks for the kind words Lazi!
+        I should probably try the vivid colours soon, but I am quite happy with the default Colorado profile, and most importantly I find the auto white balance to be relible so that is a huge plus from me.
+        I will definitely try out the monochrome mode next! Can't wait to do that. And yes the light pairing mode, not only that even the Pro mode allows full control of shutter speed for long exposures.
+        Delete
+
+        Replies
+            Reply
+        Reply
+ 5. Timmy Bouwmann8/21/2016 07:25:00 PM
+
+    Nice review and beautiful photos. Especially if you consider that it is from a smartphone!
+    
+    Will you also test out the RAW performance of the camera?
+
+    ReplyDelete
+    Replies
+     1. Robin Wong8/22/2016 07:48:00 PM
+
+        For now I will be shooting with JPEG first. I believe majority of the users will not use RAW. I shall explore RAW in the future, if I have enough time with the loan unit.
+
+        Delete
+        Replies
+            Reply
+     2. Heinrich Ilmari Rautio8/22/2016 11:35:00 PM
+
+        Thank You for review!
+        +1 who hopes you will test also the raw...
+
+        Delete
+        Replies
+            Reply
+     3. Heinrich Ilmari Rautio8/22/2016 11:35:00 PM
+
+        This comment has been removed by the author.
+
+        Delete
+        Replies
+            Reply
+     4. Robin Wong8/22/2016 11:56:00 PM
+
+        No worries. I shall test other features first, eg monochrome, HDR, light painting, etc
+
+        Delete
+        Replies
+            Reply
+        Reply
+ 6. bostonc8/22/2016 12:41:00 PM
+
+    You made this little phone cam sing w nice details. I've been following the development of computational photography. The P9 is just the start of this new trend. Will see the Light Camera coming soon, and Nikon just patented a similar design. Soon 3-D(covering depth information) and camera will be a on single chip, together w lens-less camera. The cameras as we know today will be seriously challenged in 3-5yrs.
+
+    ReplyDelete
+    Replies
+     1. Robin Wong8/22/2016 07:49:00 PM
+
+        We live in exciting times! I think photography is changing rapidly!
+
+        Delete
+        Replies
+            Reply
+        Reply
+ 7. Michel Higuet8/22/2016 09:11:00 PM
+
+    Nice! very good for selfies or a pic of your dog in the garden, the problem is not the camera but what your eyes see, there are incredible pics made with smartphone but it is the minority for a simple reason, those owners are not interested in photography,they just want to take a pic... ( and qwick select an apps in Instagram to change the appearance) :-)
+    ReplyDelete
+
+    Replies
+     1. Robin Wong8/22/2016 10:44:00 PM
+
+        Hi Michel, if what you say is true, then that also answers a YES to my question as stated in the title: is this Huawei P9 a photographer's smartphone?
+        If you have not realized, this is a "photography review" of the phone. I understand not everyone who uses the phone is a photographer, but I am exploring the possibilities of what if this phone is to be used by an actual photographer? Can the phone deliver?
+        For everything else you need or want to know about the phone, there are many other reviews available out there. I will surely not want to be redundant and post the similar findings as these other more qualified tech reviews!
+
+        Delete
+        Replies
+            Reply
+        Reply
+ 8. Ramiro García8/24/2016 10:26:00 AM
+
+    Hi Robin! Nice blog you have here! Cheers from Guadalajara Mexico! :)
+    I'm hopping you can help testing a couple of things on this phone that I have read over the internet and that NO ONE seems to be testing. ( and I know I know you already said you are not the technical guru )
+    The rumor I try to put to rest says that the "B+W + Color merge" ONLY kicks in in AUTO mode, I read it might not work in PRO mode, not even in RAW. Can you think in a way to verify this? Maybe tape one of the lenses and see if the lack of extra information affects IQ? RAW data seems to get WAY more sharpness, and you're noise reduction complains will go away. It will be really impossible to understand that those benefits come with the lack of combining the two sensor data.
+    I'm looking forward everything you do on this phone! So far it looks amazing in your experience hands, some of the samples here could easily be hidden in one of your MFT reviews and no-one would have known :). Thanks!
+    
+    ReplyDelete
+
+    Replies
+     1. Robin Wong8/24/2016 11:07:00 AM
+
+        Hey Ramiro,
+        Thanks for the kind words. If you cover one of the two lenses, the camera will warn you do not block the lens. I tried shooting with both PRO and Auto mode and found that the results are very similar. The advantage of having a black and white sensor is to add "structure" and boost the fine grain detail, in real life situation when you do not zoom into 100% view you will not see much of a difference at all.
+        
+        No, I disagree that shooting RAW will give you that much more sharpness. RAW is RAW, and even if I process it myself, I might see a little better fine detail retention, maybe a little sharper but it will not be a world of a difference, trust me. In fact the camera's JPEG processing is already doing a great job at optimising details. Yes, the noise reduction is an issue, but having said that, as long as I do not shoot crazy ISO numbers I should be ok. At lower ISO settings the noise reduction does not get in the way to the sharpness and details.
+        Huawei is not giving much information about how the dual camera technology works. We can only speculate and try our best to "reverse-engineer" the process but honestly, to me, at the end of the day it all comes down to what the camera can do for me, and what I get out of the system. Am I happy with the photos? Will the camera on the smartphone satisfy my needs? Do I enjoy shooting with the smartphone? Answering these questions are more important than finding out how the camera works.
+        I am sure some scientists/tech-freaks will take the cameras apart and figure it out some day.
+
+        Delete
+        Replies
+            Reply
+     2. Ramiro García8/24/2016 11:49:00 AM
+
+        Thanks Robin! I have to agree on the last part. Some times I find very hard to calm down the inner engineer inside me, specially in this kind of products where... well, they are the one selling "magic revolutionary photography" without really disclaiming or even hinting what the hell they are really doing. Huawei is not a big brand in my country and while cheaper than an iPhone, the phone is still on the expensive side.
+        Looking forward the rest of the hands-on review, I hope someone on huawei reads the attention and worldwide reach your blog has and gifts the review sample to you :)
+
+        Delete
+        Replies
+            Reply
+     3. Ramiro García8/24/2016 11:53:00 AM
+
+        PS. this the IQ comparision (JPEG vs RAW) I was referring. Both are base ISO, the RAW images are definitely noiser but the fine detail and the fine grain is just amazing. ---> https://www.dpreview.com/reviews/image-comparison/fullscreen?attr20_0=huawei_p9&attr20_1=huawei_p9&attr21_0=64&attr21_1=82&attr22_0=daylight&attr22_1=daylight&attr26_0=jpeg&attr26_1=raw&normalization=full&widget=365&x=-0.6171428571428572&y=0.23575444635685605
+
+        Delete
+        Replies
+            Reply
+     4. Robin Wong8/24/2016 12:05:00 PM
+
+        Hey Ramiro,
+        I see where you are coming from now.
+        The advantage of shooting RAW is the flexibility of processing the image the way you want it. Also the abillity to change white balance and recover some shadow and highlight details of over or underexposed image to certain extent. However, the person doing the RAW processing must know what he is doing. In most cases (like 95% of the consumers who think they know how to best process RAW) the JPEG processing is superior than user processed RAW.
+        
+        If you take a closer look to that same link, on the RAW image if you hover the comparison to the extreme corner (top right corner) you sill see that the Chromatic Aberration (Purple Fringing) was not corrected. It was completely gone in the JPEG. Same with other smaller inconsistencies there and here because the person who did the RAW processing did not go through the entire frame and correct part by part, while the smarter JPEG algorithm analyses the whole frame and apply corrections and optimisations when necessary. I do not necessarily think that the overall image is not as sharp as RAW, in some parts of the frame, the JPEG appear better with greater detail retention. Another very crucial thing to note, at the "zebra lines" directly above the Bottle, you will see there is appearance of Moire (rainbow color pattern), which is completely gone in JPEG. If the person doing the RAW conversion takes into account of Moire, CA, and other factors to balance details, sharpness and reducing noise, I do not think the results will be that superior to the JPEG.
+        
+        Nonetheless, the JPEG algorithm is not consistent scene to scene, and in different situations, I admit RAW processing is superior. However, in this particular case you presented, my preference goes to JPEG.
+
+        Delete
+        Replies
+            Reply
+     5. Robin Wong8/24/2016 12:09:00 PM
+
+        Now here comes the question, if you come home with 100 images from photowalk, will you process the images and optimize them one by one? Assuming you spend 5 minutes on each image, that still will take you 3 hours in total!
+        For a smartphone, I'd just stay with JPEG. For serious photography, I have my Micro Four Thirds gears, with Olympus Viewer 3 that takes care of all the important optimisation for my RAW files.
+
+        Delete
+        Replies
+            Reply
+        Reply
+ 9. mortyb8/24/2016 03:24:00 PM
+
+    Considering these are coming from a smart phone (and a talented eye), the image quality is AMAZING. Really stunning. Thanks for a different write-up.
+
+    ReplyDelete
+    Replies
+     1. Robin Wong8/24/2016 03:28:00 PM
+
+        Hey Mortyb,
+        No worries! Thanks for the kind words.
+
+        Delete
+        Replies
+            Reply
+        Reply
+10. Martin Pettinger8/25/2016 12:04:00 AM
+
+    Hi Robin, silly question maybe but is the shutter silent or can it be made silent. Have an iPhone5 and simply muting the phone mutes the sound of a shutter. When you say electronic shutter I assume this means not mechanical but in this case is it a progressive scan and can fast motion - i.e. propellors or a moving car result in odd motion effects?
+
+    ReplyDelete
+    Replies
+     1. Robin Wong8/25/2016 12:07:00 AM
+
+        Hey Martin,
+        The shutter is silent (there is a fake shutter sound, which I turned off). In theory there should be jello effect (elongated moving subject, due to the sensor being shut down line by line to emulate closing of shutter, hence if the subject moves faster than the shutting down electronically speed, the jello happens). However, I have not encountered any of these problems yet, maybe I just have not shot that many moving subjects.
+
+        Delete
+        Replies
+            Reply
+     2. Martin Pettinger8/25/2016 04:53:00 AM
+
+        Thanks for the quick reply Robin. Also thanks for such a great review as other reviews did not really show the capabilities like your articles. Any estimate when you might publish the monochrome article as looking to upgrade my phone in next 2 weeks.
+
+        Delete
+        Replies
+            Reply
+     3. Robin Wong8/25/2016 11:04:00 AM
+
+        Hey Martin, I will be shooting this weekend, so I should be able to publish the monochrome article latest by Mid Next week.
+
+        Delete
+        Replies
+            Reply
+     4. Martin Pettinger8/26/2016 05:28:00 AM
+
+        Hope you have a fun packed weekend Robin. Look forward to the next installment
+
+        Delete
+        Replies
+            Reply
+        Reply
+11. justin bergmans10/21/2016 01:14:00 AM
+
+    Hi Robin. I loved your review of the P9. I also use the phone and am impressed by the cameras. Its interesting how tech blogs and photography pros like Kristian Dowling, and yourself differ in the camera reviews. I would tend to put more weight with you guys, since you do this for a living. I was wondering, in your opinion how much did Leica involve themselves into the camera. One reviewer wrote off the camera as a marketing gimmick with Leicas name slapped on. Nothing more.
+
+    ReplyDelete
+    Replies
+        Reply
+12. Unknown11/10/2016 08:41:00 AM
+
+    Hey Robin! I was wondering if it's necessary to get a tripod in order to take sharp, well-focused, non-blurry pictures? I was thinking about this because of the lack of OIS. Did you use one?
+
+    ReplyDelete
+    Replies
+        Reply
+13. Cameraless Smartphones12/02/2016 11:07:00 AM
+
+    Check out below website for non camera smartphones
+    
+    https://goo.gl/r1qRgP
+    
+    One more website
+    
+    www.noncamerasmartphones.com
+
+    ReplyDelete
+    Replies
+        Reply
+14. leela12/06/2016 04:25:00 PM
+
+    smartphone accessories
+    find the latest electronics at Digi Goody
+    ReplyDelete
+
+    Replies
+        Reply
+15. nasim davoodi9012/11/2016 08:44:00 PM
+
+    ***شرکت نوين گيت***
+    
+    با سالها سابقه در طراحي ،اجرا و خدمات سيستمهاي درب اتوماتيک و راهبند
+    فروش،نصب و راه اندازي و خدمات انواع درب اتوماتيک (درب سکشنال - کرکره اتوماتيک - کرکره پنجره - درب ريلي اتوماتيک - جک پارکينگي - کرکره شفاف - رول گيتر - انواع راهبند و درب اتوماتيک شيشه اي... )
+    خدمات 24 ساعته و شبانه روزي حتي در تعطيلات رسمي
+    مشاوره رايگان در تمامي مراحل
+
+    ReplyDelete
+    Replies
+        Reply
+16. Enamul Hoq12/21/2016 05:08:00 PM
+
+    You have a great thanks for shared such excellent post here . clipping path
+
+    ReplyDelete
+    Replies
+        Reply
+17. Ye Hein Naing2/02/2017 01:26:00 PM
+
+    This comment has been removed by the author.
+
+    ReplyDelete
+    Replies
+        Reply
+18. Ye Hein Naing2/02/2017 01:40:00 PM
+
+    Hi Robin, greeting from Yangon, Myanmar!
+    
+    First and foremost, thanks for your review. I'm just starting use my P9 and yours helps me a lot how to shoot and makes me love my phone more. definitely, i will try landscape photos which are making me happy. And let me discuss upon them with you. In our country, there is a very famous landscape photographer, named Aung Pyae Soe, who loved iphone camera previously and then he changed to use P9 and after looking at his landscape photos taken with P9, I decided to use P9 for my mobile photography. Again, when I see your tests and reviews, I'm strongly positive I'm not wrong to choose to buy P9.
+    
+    Thanks again, Robin.
+    
+    YE
+
+    ReplyDelete
+    Replies
+        Reply
+19. Tze Yin3/05/2017 03:49:00 PM
+
+    Hi Robin, did you develop your photos? Wonder how is the quality of its printed photos?
+
+    ReplyDelete
+    Replies
+        Reply
+20. Big E3/24/2017 08:41:00 AM
+
+    Great photos Robin!
+    
+    And this blog entry is just what I am looking for, a review from a non techie photographer.
+
+    ReplyDelete
+    Replies
+        Reply
+21. Big E3/24/2017 08:41:00 AM
+
+    Great photos Robin!
+    
+    And this blog entry is just what I am looking for, a review from a non techie photographer.
+
+    ReplyDelete
+    Replies
+        Reply
+22. Varun Reddy4/22/2017 01:02:00 PM
+
+    Smartphone camera lenses can go beyond what you get with a traditional phone camera. They come in all shapes and sizes, and many companies manufacture them. Here are the five best smartphone Camera Lenses money can buy, if you’re willing to splurge in the name of mobiography.
+    1. Mpow Clip-On 180 Degree Supreme Fisheye Lens
+    2. Olloclip 4-in-1 Lens
+    3. Moment Macro Lens
+    4. Photojojo Magnetic iPhone and Android Lens
+    5. Mobi-Lens Wide + Macro Smart Lenses
+    As you look to buy a lens for your smartphone, don’t forget about compatibility. While some lenses work universally with multiple devices, others are only functional with certain smartphones
+
+    ReplyDelete
+    Replies
+        Reply
+23. stylerug5/02/2017 08:50:00 AM
+
+    Great work and thanks for share this Huawei P9 Review !
+
+    ReplyDelete
+    Replies
+        Reply
+24. Neha Verma8/01/2017 06:09:00 PM
+
+    Nice post! Huawei P9 is the best camera. Look for digital camera lenses in Spain
+
+    ReplyDelete
+    Replies
+        Reply
+25. aquavision9/13/2017 12:45:00 PM
+
+    Hi Robin,
+    From some of your photos, I notced the caption like: 1/33sec, ISO320, DOF Control at F0.95
+    
+    When using DOF feature, how were you able to control the speed (1/33sec) and ISO (320)? Whenever I tap on the DOF icon, I am not able to use the PRO mode.
+    
+    TIA.
+    ReplyDelete
+
+    Replies
+        Reply
+26. The DeviKnD4/01/2018 02:59:00 PM
+
+    wow man what a shoot,i am loving it
+
+    ReplyDelete
+    Replies
+        Reply
+27. Susan Smitha7/22/2018 09:23:00 PM
+
+    These captures are absolutely stunning! on my first look, I really thought that this photo must be taken by DSLR camera. you took so good shots with this phone. Without image editing, these looks gorgeous. Great work. thanks for sharing.
+
+    ReplyDelete
+    Replies
+        Reply
+28. Clipping Quick10/09/2018 02:03:00 PM
+
+    Thanks for explaining Robin Wong. Enjoyed reading the article above, really explains everything in
+    detail,the article is very interesting and effective.Thank you and good
+    luck for the upcoming articles
+    clipping path service
+    ReplyDelete
+
+    Replies
+        Reply
+29. Lisa Maria12/13/2018 07:54:00 PM
+
+    Nice photography. Thanks for share.
+    clipping path service
+
+    ReplyDelete
+    Replies
+        Reply
+30. Fashionothon.com12/26/2018 03:56:00 PM
+
+    Thanks to give the informative content..
+    visit also at Best Online Shopping Site In India
+
+    ReplyDelete
+    Replies
+        Reply
+31. Y and H Cargo India1/01/2019 03:37:00 PM
+
+    Thank you so much for sharing such amazing information, it’s really unique and valuable also.
+    Freight Forwarders in India
+
+    ReplyDelete
+    Replies
+        Reply
+Add comment
+Load more...
+
+Blog Archive
+
+  * ► 2019 (11)
+      + ► February (2)
+      + ► January (9)
+  * ► 2018 (105)
+      + ► December (11)
+      + ► November (10)
+      + ► October (6)
+      + ► September (5)
+      + ► August (11)
+      + ► July (10)
+      + ► June (8)
+      + ► May (8)
+      + ► April (6)
+      + ► March (10)
+      + ► February (10)
+      + ► January (10)
+  * ► 2017 (44)
+      + ► December (3)
+      + ► November (1)
+      + ► October (2)
+      + ► September (1)
+      + ► August (3)
+      + ► July (5)
+      + ► June (4)
+      + ► May (5)
+      + ► April (6)
+      + ► March (5)
+      + ► February (5)
+      + ► January (4)
+  * ▼ 2016 (70)
+      + ► December (3)
+      + ► November (4)
+      + ► October (5)
+      + ► September (4)
+      + ▼ August (5)
+          o A Full Monochrome Image Sensor Implemented in Huaw...
+          o Kuala Lumpur After Sundown With Huawei P9
+          o Huawei P9 Camera Review - Is This The Photographer...
+          o Olympus Photowalk in Kuching, Sarawak with Great W...
+          o Adding Interesting Elements Into Photographs
+      + ► July (7)
+      + ► June (7)
+      + ► May (8)
+      + ► April (5)
+      + ► March (9)
+      + ► February (8)
+      + ► January (5)
+  * ► 2015 (81)
+      + ► December (7)
+      + ► November (8)
+      + ► October (7)
+      + ► September (7)
+      + ► August (10)
+      + ► July (10)
+      + ► June (7)
+      + ► May (5)
+      + ► April (5)
+      + ► March (6)
+      + ► February (3)
+      + ► January (6)
+  * ► 2014 (110)
+      + ► December (9)
+      + ► November (7)
+      + ► October (7)
+      + ► September (9)
+      + ► August (8)
+      + ► July (7)
+      + ► June (10)
+      + ► May (8)
+      + ► April (11)
+      + ► March (12)
+      + ► February (10)
+      + ► January (12)
+  * ► 2013 (149)
+      + ► December (8)
+      + ► November (12)
+      + ► October (17)
+      + ► September (9)
+      + ► August (4)
+      + ► July (7)
+      + ► June (10)
+      + ► May (16)
+      + ► April (14)
+      + ► March (17)
+      + ► February (15)
+      + ► January (20)
+  * ► 2012 (220)
+      + ► December (22)
+      + ► November (19)
+      + ► October (20)
+      + ► September (23)
+      + ► August (25)
+      + ► July (18)
+      + ► June (15)
+      + ► May (22)
+      + ► April (16)
+      + ► March (15)
+      + ► February (13)
+      + ► January (12)
+  * ► 2011 (146)
+      + ► December (13)
+      + ► November (17)
+      + ► October (18)
+      + ► September (20)
+      + ► August (16)
+      + ► July (14)
+      + ► June (14)
+      + ► May (17)
+      + ► April (13)
+      + ► March (4)
+
+Labels
+
+  * Food
+  * Gear Reviews
+  * Local Photography Events
+  * Photography Tips
+  * Smartphone Photography
+  * Travel
+
+My complete list of all cameras, lenses and other accessories reviewed by me
+Copyright © ROBIN WONG | Powered by Blogger
+Design by FabThemes | Blogger Theme by NewBloggerThemes.com

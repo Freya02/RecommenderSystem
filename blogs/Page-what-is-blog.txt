@@ -1,0 +1,491 @@
+* Resources
+  * Tools
+  * About Us
+  * Contact
+  * Learn Blogging
+
+What is a Blog? – The Definition of Blog, Blogging, and Blogger
+
+Ogi Djuraskovic and FirstSiteGuide team ( Published on: April 8th, 2018 Last updated: December 7th, 2018)
+Posted in: Blogging 47 Comments
+
+* Do you know what blogs are? If you don’t, then you’ve come to the right place. In the beginning, a blog was more of a personal diary that people shared online, and it goes back to 1994. In this online journal, you could talk about your daily life or share things you do. But, people saw an opportunity to communicate any information in a new way. So began the beautiful world of blogging.
+
+
+What is a Blog?
+
+
+Definition of blog
+
+
+A blog (shortening of “weblog”) is an online journal or informational website displaying information in the reverse chronological order, with latest posts appearing first. It is a platform where a writer or even a group of writers share their views on an individual subject.
+
+
+Blog structure
+
+
+The appearance of blogs changed over time, and nowadays blogs include different items. But, most blogs include some standard features and structure. Here are common features that a typical blog will include:
+
+  * Header with the menu or navigation bar
+  * Main content area with highlighted or latest blog posts
+  * Sidebar with social profiles, favorite content, or call-to-action
+  * Footer with relevant links like a disclaimer, privacy policy, contact page, etc.
+
+Feel free to use this template on your site
+
+
+<a href=”https://firstsiteguide.com/wp-content/uploads/2018/04/What-is-a-Blog-2.png” alt=”Basic blog structure”></a><br />Basic Blog Structure free template was created by <a href=”https://firstsiteguide.com/”>FirstSiteGuide.com</a> team.
+
+
+Above example is the basic structure of the blog. Each item has its own importance and helps visitors to navigate through your blog.
+
+
+Blogs and websites
+
+
+A majority of people still wonder whether there is any difference between a blog and a website. What is a blog and what is a website? It’s even more challenging to differentiate between the two today. Many companies are integrating blogs into their sites to perform the same function.
+
+
+What differentiates blogs from websites?
+
+
+Blogs need frequent updates. Good examples include a food blog sharing meal recipes or a company writing about their industry news.
+
+
+Blogs promote perfect reader engagement. Readers get a chance to comment and voice their different concerns to the viewer. Static websites, on the other hand, consists of content presented on static pages. Static websites owners rarely update their pages. Blog owners update their site with new blog posts on a regular basis.
+
+
+Key elements that identify a blog post from a static page include a publishing date, author reference, categories, and tags within a byline. While not all blog posts have all those by line elements, static website pages do not have any of these items.
+
+
+From a visitor perspective, the content on a static site will not change from one visit to the next. The content on a blog, yet, has the potential to offer something new each day, week, or month. Depending on the blog owner’s publishing schedule.
+
+
+What is blogging?
+
+
+In the early 2000s, blogging emerged in all different phases when several political blogs were born. Also, blogs with how-to manuals began to appear. Established institutions began to note the difference between journalism and blogging.
+
+
+Definition of blogging
+
+
+Blogging is the many skills that one needs to run and control a blog. Equipping web page with tools to make the process of writing, posting, linking, and sharing content easier on the internet.
+
+
+Why is blogging so popular?
+
+
+It’s important to mention that blogging grows with each passing day! Hence, to answer the question ‘what is blogging’ we need to look at the factors behind its rise.
+
+
+In the early stages, blogs became mainstream, as news services began using them as tools for outreach and opinion forming. It became a new source of information.
+
+
+Businesses saw a good way to improve customer’s level of satisfaction. Through blogging, companies keep clients and customers up to date. The more people visit your blog, the more exposure and trust your brand gets.
+
+
+Personal and niche bloggers, saw the potential to reach to more people interested in specific topics. Through a blog, visitors can comment and interact with you or your brand which helps you create a network of loyal followers.
+
+
+Did you know you could earn money through blogging? Once your blog gets enough attention and fans, you can look into ways of monetizing your blog. Through the blog, you can offer your services and sell products.
+
+
+Who is a blogger?
+
+
+In recent times, bloggers have become famous for various reasons. An alternative career or job to many, more people are choosing to join the ranks. So who are bloggers? These are individuals who love sharing parts of their lives with you. They post various topics from arts, home designs, carpentry, and finance articles. Bloggers are mobile and don’t need to be in one place. They live on the internet!
+
+
+Definition of blogger
+
+
+A blogger is someone who runs and controls a blog. He or she shares his or her opinion on different topics for a target audience.
+
+
+Why are many people blogging today?
+
+
+Would you want to have a blog of your own? Yes! Most people today are creating a blog for various reasons. Every human being has its story to tell. Hence, through the internet, bloggers can communicate to a larger group of people.
+
+
+Why is blogging so popular? Blogs allow you to talk about any topics and express your opinion. You’ll find some bloggers writing on every activity that took place during the day. These may range from small issues such as waking up, to major issues like human rights and climate changes! Remember that as a blogger running your own blog, you need to rely on the topics that you love and strive to become one of the best blogs on the web.
+
+
+Want to start a blog on your own?
+
+
+Creating your own personal blog takes a few steps. First, you need to decide on a name for your blog also called a domain name, and choose the best blogging platform. We recommend going with the self-hosted platform. There are few choices when it comes to self-hosted platforms but the most popular is WordPress.org.
+
+
+Then you need to choose a web hosting provider and for new bloggers, we recommend Bluehost, a company that powers over 2 million websites worldwide. You will get a Free domain name when you sign up with them and if you don’t like their services, they offer a 30-day money-back guarantee.
+
+
+If you decide to set up a WordPress blog using Bluehost, we included the screenshots of the pages that you need to go through.
+
+
+If for some reason you want to signup for a different web hosting account, the steps might be different but the whole procedure is very straightforward.
+
+
+The best (used by 99.9% of top bloggers) way to set up a blog
+
+
+Use this link to get the special deal from Bluehost. Then click the “Get Started Now” button.
+
+
+
+
+You should start by selecting your plan. If this is your very first one, you should go with the basic one – at least until you explore your options. The one called plus should be able to cover all your needs once you get your blog going, and you should consider the pro version once your popularity skyrockets.
+
+
+Your domain name has an important say when it comes to the future success of your blog, so you should take your time to come up with something new. Just type in a desired domain in this “new domain” box and BlueHost will show you whether it’s available or not. If not, it will provide you with a list of similar names for you to choose from.
+
+
+If you can’t get the domain name you like, Bluehost will help you by letting you choose one later. That will give you time to do some research and thinking.
+
+
+After you pick out your domain name, BlueHost will take you to the registration page where it will be required from you to fill in your personal info including the billing data.
+
+
+A couple of minutes is all you need and soon you will receive the further instructions (username, password, etc.) from Bluehost to get your blog live.
+
+
+
+
+
+Once you log in to your WordPress dashboard you will be ready to start blogging!
+
+
+Conclusion
+
+
+We hope that you’ve learned something important when it comes to the world of blogging. If you’ve managed to start a blog then your next step is to work on your blog content in order to keep your future readers satisfied and engaged. Feel free to share your experience and leave comments below!
+
+This entry was posted in Blogging. Bookmark the permalink.
+
+Additional Reading
+
+  * Blogger Icon Set by FirstSiteGuide.com
+  * What Is Copywriting? Who Is a Copywriter?
+  * What Is Blog Marketing?
+  * Ten Characteristics of a Blog
+  * What is a Blogging Platform?
+
+START YOUR OWN BLOG
+
+
+This guide is an introduction to mastering the art of blogging. It provides easy to follow steps to start, maintain, and grow your blog.
+
+
+Read the guide
+
+« Previous Ten Characteristics of a Blog
+Next » How to Increase Blog Traffic (100+ Hands-on Tactics)
+
+47 thoughts on “What is a Blog? – The Definition of Blog, Blogging, and Blogger”
+
+
+ 1. Pingback: What is a blog | marketblogplace
+
+
+ 2. Pingback: Blogs versus Static Websites | marketblogplace
+
+ 3. mazegypt October 21, 2014 at 11:41 pm
+
+    Great and useful post, Thanks for sharing
+
+    Reply
+      + Vivek Singh April 11, 2018 at 7:35 am
+
+        good
+
+        Reply
+
+ 4. Pingback: How to start a blog on Wordpress – a step by step Guide
+
+
+ 5. Pingback: Blogging – Social Media Networks
+
+
+ 6. Pingback: You Come To My Blog, So I’ll Show You How To Make One – VelardEugenee
+
+
+ 7. Pingback: What A Blog Is About And What Do We Actually Mean By It
+
+ 8. Big Bin Hire April 5, 2018 at 3:15 pm
+
+    Bookmarking the blog for future reference.
+
+    Reply
+ 9. Monika April 6, 2018 at 10:20 am
+
+    Clear explaination 👍
+
+    Reply
+10. Mike D. April 9, 2018 at 2:21 pm
+
+    Useful article for future bloggers!
+
+    Reply
+      + Ogi Djuraskovic April 9, 2018 at 2:29 pm
+
+        Thanks Mike. Glad you find it useful!
+
+        Reply
+          o Vivek Singh April 11, 2018 at 9:48 am
+
+            good
+
+            Reply
+11. Daniel April 9, 2018 at 2:26 pm
+
+    This is great, I haven’t realized blogging has been around for that long. That Bradley’s video cleared up some things for me!
+
+    Reply
+      + Ogi Djuraskovic April 9, 2018 at 2:29 pm
+
+        Thanks for your comment, Daniel. Glad that you liked the video!
+
+        Reply
+12. Blake April 9, 2018 at 2:41 pm
+
+    Thanks for sharing these amazing tips! I was looking for a side-job idea for a while now and thanks to you my search is now ended 🙂
+
+    Reply
+13. Janis Hawking April 9, 2018 at 2:49 pm
+
+    If you ask me, if there were no blogs – there would be no Internet :))))
+    ps. BTW, love that you listed a few blogging ideas here!
+
+    Reply
+      + Ogi Djuraskovic April 9, 2018 at 3:12 pm
+
+        Glad that you like the post Janis.
+
+        Reply
+14. Tom April 10, 2018 at 9:51 am
+
+    Thanks to the people who blog, I found so many amazing people with similar interests like mine. There were so many situations they helped me get out of the limbo when I was stuck and I try whenever I can to do the same for those who a little push. That’s the true power of blogosphere if you ask me 🙂
+
+    Reply
+      + Ogi Djuraskovic April 10, 2018 at 9:59 am
+
+        I agree…it is a true power of the blogosphere. Thanks for following our blog!
+
+        Reply
+15. Gordon April 11, 2018 at 9:38 am
+
+    Your list of blogging ideas is practically inexhaustible! 😀 It will take me ages to go through all the blogs you mentioned there but I’m sure that after that I’ll know everything there is to take this exciting online journey called blogging 🙂
+
+    Reply
+      + Ogi Djuraskovic April 11, 2018 at 10:44 am
+
+        Good luck with your blogging journey!
+
+        Reply
+16. Jonathan April 11, 2018 at 2:16 pm
+
+    So, blogging turns 18 this year :)) yeah, everyone wants to start blogging, until they start blogging 🙂 it’s not all fun&games, you need to keep a regular posting schedule, post quality (educational) content, engage with your readers…
+
+    Reply
+      + Ogi Djuraskovic April 11, 2018 at 2:19 pm
+
+        Good points Jonathan. Thanks!
+
+        Reply
+17. Sheikh Abubakar April 12, 2018 at 8:06 am
+
+    Waoo Coool
+
+    Reply
+18. meonlife April 12, 2018 at 1:15 pm
+
+    Hey Admin, your blog post is very useful and informative, especially for those who are new in the blogging field and don’t know much about blog writing.
+
+    Reply
+19. Craig April 13, 2018 at 5:41 am
+
+    Thanks for this, useful tips to get started
+
+    Reply
+      + Ogi Djuraskovic April 13, 2018 at 9:11 am
+
+        Thanks Craig.
+
+        Reply
+20. komal April 13, 2018 at 6:03 am
+
+    This is something great and perfectly described. These tips and way of explanation will surely help those newbies. Keep posting such kind of kinds of stuff, Thanks a lot mate!
+
+    Reply
+      + Ogi Djuraskovic April 13, 2018 at 9:10 am
+
+        Thanks Komal for your kind words!
+
+        Reply
+21. myasaintv April 14, 2018 at 5:09 am
+
+    Thanks for this, it is informative for new ones.
+
+    Reply
+      + mark co April 25, 2018 at 4:30 pm
+
+        Definitely a Good guide for bloggers. I would recommend this article to beginners and experts in their field.
+
+        Reply
+22. komal April 15, 2018 at 5:15 am
+
+    Iam using Blogspot as my professional platform. I love it, it is simple and easy to use. Plus benefit is Blogspot is owned by Google so basically, u have more chances to rank ur site in google. Thanks for the post mate. keep posting such kind of stuffs.
+
+    Reply
+23. Marcus Co April 18, 2018 at 10:57 am
+
+    It was so fun reading your article and have provided much information needed for the industry.
+
+    Reply
+24. Sonika Srivastava April 18, 2018 at 1:21 pm
+
+    Great Post! All the points and steps are very clearly explained. It is very informative and interesting to read.
+
+    Reply
+25. Kapil April 19, 2018 at 7:38 am
+
+    Hi Admin.
+    Great Article, Thanks For Sharing.
+
+    Reply
+26. Ayushi April 19, 2018 at 9:27 am
+
+    Nice article, very informative. Keep the good work going.
+
+    Reply
+27. swathi April 21, 2018 at 6:52 am
+
+    Good article. All the points and steps are very clearly explained. It is very informative and interesting to read.
+
+    Reply
+28. Ayurvedic Products April 23, 2018 at 10:31 am
+
+    Really helpful article for newbie and I’m too.. Your article is very productive to create a blog…All the steps are very important for the structure of a blog. Thank you for sharing this post. Now I will share this post…
+
+    Reply
+29. Sumit kumar gupta April 29, 2018 at 6:42 am
+
+    Thank you for sharing this great information. This information is very helpful for me.
+
+    Reply
+30. Sarah May 4, 2018 at 10:39 am
+
+    Very useful 👍
+
+    Reply
+31. Abdillah May 7, 2018 at 8:55 am
+
+    Good article. Great to know.
+
+    Reply
+32. ankita May 10, 2018 at 4:38 am
+
+    Thanks for your article. Really helpful.
+
+    Reply
+33. Nagesh December 22, 2018 at 10:14 am
+
+    I am planning to start Blog, Nice article it helps lot.
+    Thank you
+
+    Reply
+34. Alan December 24, 2018 at 5:24 pm
+
+    Clean and nice explanations, thank you!
+
+    Reply
+35. Eliza Jennifer December 28, 2018 at 8:00 pm
+
+    Nice post shared here. Good work and keep it up. Wishing you a very warm and blessed Happy New Year 2019.
+
+    Reply
+36. Ambaresh January 8, 2019 at 1:53 pm
+
+    I want to start a blog .. thank you
+
+    Reply
+
+Leave a Reply
+
+
+Your email address will not be published. Required fields are marked *
+
+
+Comment
+
+
+Name *
+
+
+Email *
+
+
+Website
+
+
+Blog Categories
+
+
+Blogging
+
+
+Wordpress
+
+
+Interviews
+
+Search
+
+How to Start a Blog
+
+
+The Beginner's Guide 2019
+
+Free Guide + eBook
+
+
+
+Learn Blogging
+
+
+Become a successful blogger
+
+
+Learn WordPress
+
+
+Understand the best practices
+
+Blog
+Videos
+Glossary
+Learn WordPress
+Write Blog Content
+Promote Your Blog
+Make Money Blogging
+Blogging Resources
+Best Blog Sites
+Website builders
+Domain Registrars
+Hosting providers
+Blog Setup Service
+Website Setup Service
+All blog posts archive
+
+
+
+Copyright © 2019 Free Help & Guides for Web Newbies Privacy Policy Terms & Conditions Contact
+Disclosure: Our website receives compensation from the companies whose products we recommend and because of it, we are able to provide help with setting up your blog. We tested and used most of the web hosting sites and domain registrars recommended here.
+
+
+* Do you want to Start a Blog?
+Don't have time to do it yourself?
+
+We can make it for you (Only $29.99)
+Click here to see details and demos

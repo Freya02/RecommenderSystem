@@ -1,0 +1,323 @@
+Close Ad
+  * Subscribe
+    ▲
+    Learn more about PCWorld's Digital Editions
+   🔎
+Home
+  * News
+  * Reviews
+  * How-To
+  * Video
+  * Deals
+      + Deals
+      + Coupon Codes
+      + Shop
+  * Business
+  * Laptops
+  * Smartphones
+      + iPhone
+      + Windows Mobile
+      + Phone Accessories
+  * Hardware
+  * Security
+  * Software
+  * Gadgets
+  * Subscribe
+  * Resources
+  * PCs
+  * Smartphones
+  * Printers
+  * Ultrabooks
+  * Blogs
+  * Viruses
+  * Cameras
+  * Components
+  * Computer Accessories
+  * Consumer Advice
+  * Digital Assistants
+  * Displays
+  * E-readers
+  * Graphics Cards
+  * Hard Drives
+  * Home Theater
+  * Input Devices
+  * Keyboards
+  * Laptop Accessories
+  * Mobile
+  * Networking
+  * Operating Systems
+  * Optical Drives
+  * Processors
+  * Server Hardware
+  * Smartwatches
+  * Streaming Services
+  * Storage
+  * Tablets
+  * Windows
+  * iPhone
+  * Windows Mobile
+  * Phone Accessories
+  * Home
+  * Smartphones
+Review
+
+Moto X4 Android One review: A good reminder of what a great deal looks like
+
+
+Android One is the new Nexus program, and this is the phone to get if you're a diehard Android user on a budget and want to subscribe to Google's Project Fi.
+
+
+* By Florence Ion
+
+
+Contributor, PCWorld | Oct 19, 2017 6:00 AM PT
+
+
+Florence Ion
+More like this
+
+  * Moto Z2 Force review: A modular phone with very few tricks
+  * Google kicks off Android One in the U.S. with the Project Fi-equipped Moto X4
+  * Nuu X4 review: Low-end, even by low-end standards
+  * Video
+    Lenovo puts Amazon Alexa into the Smart Tab M10 and P10 Android tablets
+At a Glance
+
+  * Moto X4
+
+    Learn more
+    on Motorola
+
+The Motorola Moto X4 Android One is the latest proof that in the Android world, you can easily find a smartphone that offers plenty of bang for your buck. It’s the next device to come to the Android One family, a program that’s expanding beyond budget phones. Now Android One targets anyone who wants a stable Android phone that’s consistently updated and stamped with the Google seal of approval. For $400, the Moto X4 gives you mid-tier specs in a premium-looking body, with a version of Android that’s sure to be as secure as possible.
+
+
+The Moto flair is there
+
+
+Before we dissect the hardware that makes the Moto X4 Android One tick, remember that this is a review of the Android One version of the device. There are currently three variants of the Moto X4 floating around, including an unlocked version available on Amazon for $330 with ads on the lock screen. That device runs a different version of the Android software, however, while the Moto X4 reviewed here runs Android One tied to Google’s Project Fi, a mobile virtual network operator (or MVNO).
+
+
+Florence Ion
+
+The Moto X4.
+
+
+If you’ve seen one Motorola device in the last year and a half, you’ve seen them all. The Moto X4 Android One doesn’t stray too far from Motorola’s familiar aesthetic of rounded edges, a curved glass back, and a huge camera bump, though the benefit of this design is that it’s perfectly ergonomic. Holding the Moto X4 is a nice reminder of what it feels like when a smartphone is designed for utility. Though it feels denser than the rest of Motorola’s hardware lineup, the added heft makes it feel more like a premium device. It’s also IP68 water-resistant, a nice bonus at this price point.
+
+[ Further reading: The best Android phones for every budget. ]
+
+Like the Moto Z2 and Z2 Play, the Moto X4 features a power button with a ridged edge (on the right side of the device), so it’s easily discernible with just your thumb. There are no capacitive navigation buttons on the device, though there is a front-facing fingerprint sensor that lives below the device’s 5.2-inch, 1080p display. Once it’s set up, you can use the sensor to unlock the phone and then turn off the screen to secure it. I’m not typically a fan of the front-facing sensor on taller phones, but the X4’s relatively smaller size makes this an easy mechanism to use.
+
+
+Florence Ion
+
+The bottom of the Moto X4, with a headphone jack in tow.
+
+
+Florence Ion
+
+
+The Moto X4 is a slim phone with a protruding camera bump.
+
+
+Florence Ion
+
+
+The Moto X4’s side profile is quite nice for a mid-tier device.
+
+
+On the bottom, you’ll notice the Moto X4 charges with USB Type-C. Because this is the age of disappearing headphone jacks, I would be remiss not to mention the intact 3.5mm audio jack. You can easily plug in headphones and auxiliary cables to your heart’s content.
+
+
+Mid-tier is okay for everyday
+
+
+Florence Ion
+
+The Moto X4 runs Android One right out of the box.
+
+
+The Moto X4 Android One runs on a 2.2GHz octa-core Qualcomm Snapdragon 630, originally introduced in May 2017. It’s paired with 3GB of RAM. The Moto X4’s processor is no slouch: It can easily handle sifting through stories in Snapchat and then jumping into the YouTube app, and it launched games like Carnivores HD and Vendetta Online with relative ease. The device doesn’t get too warm when it’s playing, either, which makes me wonder why Motorola couldn’t do the same for its Z line of devices, which tend to get very warm when the screen is on for prolonged periods of time.
+
+
+In our benchmark tests, the Moto X4 Android One performed well alongside the current crop of mid-tier devices. In Geekbench, which tests for the graphics processor’s rendering abilities, the X4 scored 894. In PCMark, which tests oft-used everyday activities like web browsing and editing images, the X4 scored 493. Overall, this bodes well for anyone looking at the X4 as both a productivity powerhouse and a device for playing through the occasional mobile game.
+
+
+Running Android 7.1.1, the Moto X4 Android One features all of stock Android’s energy efficiency initiatives, including Doze mode, which helps put the X4’s 3000mAh battery pack to sleep when it’s not in use. The X4 lasted through three days of use on standby and only used up 16 percent of its capacity during the three-hour morning commute time, where I’m typically using the phone to listen to music, check up on Twitter, and respond to emails for at least a full hour and a half of screen-on time. When it runs out of juice, just plug the X4 into its TurboPower-enabled charger for 20 minutes to grab several hours of power.
+
+
+A good camera for the price
+
+
+Florence Ion
+
+The Moto X4 is equipped with a pair of capable rear-facing cameras.
+
+
+Often, the one bummer about paying less for a smartphone is that the primary camera on the device isn’t as good as what the flagships offer. That’s not the case for the Moto X4 Android One, however. The device’s dual 12MP and 8MP shooters are quick to launch and fast at capturing the shot. The primary camera shoots at an aperture of f/2.0 and offers 1080p video record capabilities. The secondary camera is a 120-degree wide-angle camera, so that it can take cool shots of your pet’s ears or the scenery at hand. There’s no optical image stabilization (OIS) here, however, so try to hold steady while you’re taking the shot. As long as you can hold it steady, the Moto X4 is a competent shooter in low light.
+
+
+Despite being a part of the Android One program, the Moto X4’s camera app is styled in Motorola’s manner rather than in the stock manner featured on other Android One devices and the Pixel phones. The general camera settings live off to the left side of the screen, while additional camera modes are available from the touch of a button on the primary interface. The modes including a Depth-enabled mode, which helps achieve that Portrait-like blur effect on objects in focus; a Spot color mode, which lets you produce kooky black-and-white photos with a mere splash of color; and a Professional mode, which offers access to the camera’s manual settings. The manual mode is a bit of a letdown, however, as it only allows you to hold open the shutter for up to 1/3 of a second, rather than the few seconds allowed on Huawei and Honor’s budget devices.
+
+
+Florence Ion
+
+An outside shot taken with the Moto X4.
+
+
+Florence Ion
+
+
+Sometimes, the Moto X4’s depth effect doesn’t always focus.
+
+
+Florence Ion
+
+
+But when they do, you can achieve beautiful kitty portraits like this.
+
+
+Florence Ion
+
+
+In low light, the Moto X4’s performance is a little under par.
+
+
+Florence Ion
+
+
+Especially if you have moving parts.
+
+
+Florence Ion
+
+
+But with plenty of light, it’s a delight.
+
+
+Florence Ion
+
+
+And there’s a spot color mode on the Moto X4, too.
+
+
+The Moto X4 Android One’s front-facing selfie camera is almost as impressive as its rear-facing counterparts. The 16MP camera is not only one of the highest-resolution front-facing cameras on the market, but it also offers a Beautify ability that naturally airbrushes your face. There’s a front-facing LED flash to, too, though warn your friends before you use it because it’s extremely bright. And because this is an Android One device, every photo you take and store in Google Photos won’t count against your overall storage space.
+
+
+One and only Android One
+
+
+Florence Ion
+
+The Moto X4 runs Android 7.1 and is a part of the Android One program.
+
+
+The Moto X4 with Android One on Project Fi will have Android 7.1.1 Nougat right out of the box, though Google has promised it will see Oreo before the end of the year in an over-the-air update. The company also said that this particular variant of the Moto X4 would be one of the first to receive Android P—whenever that’s released. Regardless, all this exists as a reminder of the privileges of buying an Android device directly from Google. The company behind the Android operating system will ensure you’re well-equipped with software and security patches, something it can’t guarantee if you purchase your device elsewhere.
+
+
+For its part, the Moto X4 Android One is much like any Nexus or Pixel device that Google offers, except pared-down. The X4 doesn’t come with the entire suite of Google applications that usually bulk up the app drawer, nor does it include all the extra stuff that Motorola bundles with its phones, like Moto Voice, Moto Access, the attentive display, or the one-button navigation abilities baked into the front fingerprint sensor. On the other hand, you don’t have to figure out how the Amazon Alexa voice assistant can coexist alongside Google Assistant, as you do on the other version of the X4. You won’t have to deal with carrier bloat, either, or wait for your mobile provider to figure out its update plans. It’s simply better with Google behind the wheel.
+
+
+Should you buy it?
+
+
+Florence Ion
+
+The Moto X4 is an Android One smartphone.
+
+
+Google truly wants to convince you to purchase the Moto X4 Android One on Project Fi. If you’re not enticed by the offer of unlimited photo backup to Google Photos, constant and consistent software updates, or Android as Google meant it to be, then consider that overall the X4 is just a fantastic deal. For $400, you get a device that’s cool-looking and compact enough to fit into any pocket. It has a bright, Full HD display, a headphone jack, and a processor that’s capable of playing your mobile games. It also offers a camera that shoots photos you’ll want to keep, and you won’t often find that kind of ability at this price point. The Moto X4 Android One on Project Fi is a great choice for anyone who just wants to keep it simple and doesn’t mind the Google way of doing things.
+
+To comment on this article and other PCWorld content, visit our Facebook page or our Twitter feed.
+At a Glance
+
+  * Moto X4
+
+    Learn more
+    on Motorola
+
+    Want to wield one of the best Android smartphones without breaking the bank? The Moto X4 on Project Fi is a formidable option because it offers all the stability of Android One in a seriously good-looking package.
+
+
+    Pros
+
+      + Premium, glass-covered chassis is seriously cool
+      + Android One program ensures you receive crucial security and software updates right from Google
+      + IP68 Water Resistant
+
+    Cons
+
+      + Low light photography isn't as capable as other mid-tier phones
+Related:
+  * Smartphones
+  * Business
+  * Android
+  * Google
+  * Motorola
+
+Florence reports on all the latest Android and smart home gear for PCWorld, Greenbot and TechHive. Follow her on Twitter at @ohthatflo.
+
+Follow
+* Shop Tech Products at Amazon
+PCWorld
+PCWorld helps you navigate the PC ecosystem to find the products you want and the advice you need to get the job done.
+
+  * About Us
+  * Contact Us
+  * Digital Magazine
+  * Gift Subscription
+  * Ad Choices
+  * Member Preferences
+  * Cookie Policy
+  * Newsletters
+  * Terms of Service Agreement
+  * RSS
+  * Privacy Policy
+  * Shop
+  * Coupon Codes
+      + Aliexpress
+      + Ebay
+      + Home Depot
+      + HP
+      + jcpenney
+      + OnePlus
+      + Walmart
+      + Target
+      + 6PM
+  * E-commerce Affiliate Relationships
+
+PCWorld Categories
+
+  * Business
+  * Laptops
+  * Mobile
+  * PC Hardware
+  * Deals
+  * Printers
+  * Security
+  * Software
+  * Videos
+  * Windows
+
+IDG Network Sites
+
+  * Advertise
+  * Permissions
+  * Macworld
+  * Tech Advisor
+  * TechHive
+  * IDG TechNetwork
+  * IDG
+  * IDG Blog
+  * Careers at IDG
+
+Get PCWorld's Digital Editions
+
+Subscribe Now
+Follow us   
+
+Visit other IDG sites:
+
+Select One CIO CIO Asia Computerworld CSO Gamestar Greenbot IDG Connect IDG.tv InfoWorld IT News ITworld JavaWorld Macworld Network World PCWorld TechHive The Full Nerd
+
+Copyright © 2019 IDG Communications, Inc.

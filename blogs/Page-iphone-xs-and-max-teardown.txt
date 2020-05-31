@@ -1,0 +1,103 @@
+Menu
+
+Search
+
+Search for:
+
+Categories
+
+  * Activism
+  * Android
+  * Apple
+  * Consumer Rights
+  * E-Waste
+  * Events
+  * Fixers
+  * Gadgets
+  * Hacks
+  * How Tech Works
+  * How To
+  * iFixit
+  * Legislation
+  * Product Design
+  * Recycling
+  * Repair Smarter
+  * Repair Stories
+  * Repair tips
+  * Right to Repair
+  * Scandal
+  * Skills
+  * Teardowns
+  * Tech News
+  * Tools
+  * Tutorials
+  * Uncategorized
+  * Video
+  * Wallpapers
+
+iPhone XS Has an Upgrade Apple Didn’t Mention
+
+
+written by Kay Kay Clapp
+
+
+Thanks to a little time zone hacking, our engineers picked up the iPhone XS and XS Max before the official launch date here in the States. We didn’t want to be excess-ive, so we did a single side-by-side teardown of the iPhone XS and iPhone XS Max.
+
+
+In true Apple fashion, this S-year iPhone delivers iterative updates in a familiar form factor. Until the battery, that is. While the XS Max inherits the dual-cell battery design of the X, the XS has evolved a single-celled L-shaped battery. For a phone about the size of the X, you’d expect a gapless battery to pack more punch, not less, but the XS drops to 10.13 Wh from 10.35 Wh (the XS Max, meanwhile, packs 12.08 Wh in its two cells). We dug into it, and there’s an interesting story of innovation behind the capacity drop.
+
+
+This isn’t Apple’s first foray into weirdly-shaped batteries. In 2015, they debuted a terraced battery design in the MacBook that utilizes every bit of space in the chassis. But that wouldn’t work for the iPhone form factor—Apple needed a more creative battery geometry.
+
+
+A Hidden Notch
+
+
+The new design approach for non-rectangular batteries removes material from one or more of the layers before they can be stacked. Apple has been filing patents in this direction since 2011. The challenge with any lithium-polymer battery cell is that each corner needs to be sealed to prevent undue stress from thermal expansion—and since the battery of the XS has 6 sides vs. the traditional 4, those extra corners can be tricky. To reduce the stress on the corners, Apple notched the internal corner of the battery (as described in this 2016 patent). This dramatic shift opens up a lot of design possibilities, but the large notch is responsible for the decrease in capacity relative to the X. Only time will tell how this new cell performs with age—both of these batteries are still limited to 500 charge cycles.
+
+
+A few other things our iPhone XS and XS Max Teardown uncovered:
+
+  * Despite the new IP68 rating, we couldn’t find any obvious evidence of newfangled waterproofing—leaving us to wonder, did Apple simply undersell the iPhone X’s ingress protection prowess? It wouldn’t be the first time …
+  * Apple continues making more and more of their own chips. The iPhone XS Max debuts a new Apple-branded power management chip: the Apple 338S00456.
+  * Both phones scored a solid 6 out of 10 on our repairability scale, thanks in part to ease of display and battery replacements—but the crackable back glass design is still an expensive repair headache.
+
+September 21, 2018 written by Kay Kay Clapp in Apple
+
+  * Previous Post Double the iPhone XS Teardowns = Double the Wallpapers
+  * Next Post Surprise! We Kind of Loved the Apple Watch Series 4.
+
+Kay Kay Clapp
+
+
+Director of Communications at iFixit. Sometimes I tweet here: @kaykayclapp
+
+
+2 Comments on “iPhone XS Has an Upgrade Apple Didn’t Mention”
+
+ 1. Mohammed Saqlain' October 24, 2018 at 4:56 am
+    Thank you, KAY KAY CLAPP for letting us know about the upgrade of what Apple didn’t mention. I will for sure upgrade my iPhone Xs
+
+ 2. Allen D. Hunter October 24, 2018 at 10:41 am
+    top must 1 Get a Brand New iPhone XS!
+
+
+Leave a Reply
+
+
+Your email address will not be published. Required fields are marked *
+
+
+Comment
+
+
+Name *
+
+
+Email *
+
+
+Website
+
+
+Repair is noble.

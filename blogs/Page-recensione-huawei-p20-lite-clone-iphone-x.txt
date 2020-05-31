@@ -1,0 +1,470 @@
+* HDnetwork
+  * HDblog.it
+  * HDmotori.it
+
+* Segnala
+
+  * TUTTO SU
+
+
+
+  * ASUS
+  * HONOR
+  * HUAWEI
+  * LG
+  * SAMSUNG
+  * RECENSIONI
+  * VIDEO
+  * PREZZI
+  * COMPARA
+Forum
+  * Android
+  * Apple
+  * Windows
+  * Games
+  * Hardware
+  * HD
+  * Mobile
+SCHEDE TECNICHE
+
+
+Recensione Huawei P20 Lite: Android gestisce bene il Notch
+
+
+
+19 Marzo 2018 353
+
+Rimani aggiornato quotidianamente sui video, approfondimenti e recensioni di HDblog. Iscriviti ora al canale Youtube, basta un Click!
+Mi piace Tweet G+ Commenta
+8.1 Hardware
+
+
+7.4 Qualità Prezzo
+
+Huawei P20 Lite
+
+Miglior Prezzo 220€
+
+Compara
+Scheda TecnicaTutti i Prezzi
+
+L'ho acquistato giovedi mattina (in una gara tra tutti noi recensori nel trovarlo nel negozio più vicino dopo la scoperta della disponibilità) e l'ho utilizzato fino ad una manciata di ore fa. Sono dunque pronto a raccontarvi la mia esperienza con il Huawei P20 lite dopo le prime impressioni espresse negli articoli precedenti:
+
+Huawei P20 Lite: come scatta le foto e gira video | FOCUS 174
+
+Huawei 17 Mar
+
+Huawei P20 Lite: unboxing e prime impressioni | Video 660
+
+Huawei 15 Mar
+
+Fuori iPhone X, dentro P Smart
+
+Riprendo parte del titolo in quanto secondo me è questa la chiave di lettura di questo smartphone. P20 Lite infatti non aggiunge molto rispetto ai prodotto Huawei già disponibili sul mercato. P Smart è il suo fratello meno nobile ma Honor 9 Lite e Honor 7X per fare altri due recenti esempi, sono praticamente identici per usabilità, piacevolezza, prestazioni e utilizzo quotidiano.
+
+
+Le somiglianze volute con iPhone X rendono però questo P20 Lite il perfetto smartphone da centro commerciale, il prodotto che, rispetto ai mille cellulari simili intorno ai 350€, si distingue e richiama alla mente subito il top di gamma Apple. P20 Lite, acceso e con il suo notch attira, fa venire voglia di prenderlo in mano e provarlo.
+
+
+La costruzione è ottima, il peso davvero contenuto e nella colorazione nera è piacevole anche esteticamente con un buon equilibrio visivo e un design che, copiature a parte, convince. La fotocamera posteriore sporge, su un piano balla ma essendo la copia di iPhone X, non mi stupisco.
+
+                                                                                                                                                                                                                                                                 
+Huawei P20 Lite 71.2 x 148.6 x 7.4 mm 5.84 pollici - 2280x1080 px Honor 9 Lite 64GB 71.9 x 151 x 7.6 mm 5.65 pollici - 2160x1080 px Huawei P smart 72.05 x 150.1 x 7.45 mm 5.65 pollici - 2160x1080 px Honor 7x 75.3 x 156.5 x 7.6 mm 5.93 pollici - 2160x1080 px
+Clicca qui per il confronto completo »
+
+Inoltre Huawei ha realizzato uno smartphone praticamente perfetto a livello hardware. Ha infatti 64GB di memoria interna espandibile, 4GB di RAM, è Dual SIM, ha il 4G+, ha la Type-C, ha due fotocamere posteriori, una buona cam anteriore, Android Oreo e una batteria non sottodimensionata. Insomma, anche confrontandolo con i suoi gemelli diversi, ha quel qualcosa in più e quella completezza non sempre facile da trovare intorno ai 350€ nei vari negozi fisici.
+
+Esperienza d'uso: qual è il valore aggiunto?
+
+Il problema però sorge quando ci soffermiamo sul processore e sull'esperienza d'uso generale. Il Kirin 659 non è assolutamente un cattivo SoC, anzi, è un'ottima CPU di fascia medio bassa e che Huawei utilizza su moltissimi prodotti. Sono però ormai due anni che questo processore è sul mercato e considerando che la personalizzazione software è praticamente identica in tutti gli Huawei/Honor, non posso non considerare che a meno di 200€ si trovano Honor 9 Lite e P Smart che, test sul campo, hanno praticamente la medesima esperienza di utilizzo giornaliero.
+
+
+Ora intendiamoci, 1GB di RAM in più, il doppio della memoria, la Type-C e il 4G+ sono comunque elementi che vanno considerati e che migliorano comunque l'utilizzo del prodotto. Maggiore velocità di rete, un connettore universale e più versatile (e moderno), tanta memoria che permette di utilizzare due sim senza doversi preoccupare delle applicazioni installate, sono elementi che incidono e che devono far salire il prezzo. Tutto questo però non rende la reattività, apertura applicazioni e fluidità realmente maggiore rispetto agli altri Kirin 659.
+
+
+
+
+Un plauso comunque ad Android che a differenza di quanto è accaduto con iPhone X nei primi mesi di commercializzazione e adattamento delle applicazioni, se ne frega completamente delle corna. In pratica che ci sia o non ci sia il notch è solo un problema del numero di icone che entrano nella status bar. Alle applicazioni nulla cambia e tutte quelle provate non hanno avuto alcun problema, malfuzionamento, bug grafici o altro. Un Plauso ad Huawei invece per aver inserito un notch che è alto praticamente come la status bar a differenza di Essential Phone che alza troppo la status bar rendendola spesso anti estetica all'interno delle applicazioni.
+
+
+Insomma, il connubio hardware/software del notch su questo P20 Lite funziona e funziona meglio di quanto mi aspettassi considerando che Android non supporta nativamente (ancora) questa soluzione hardware.
+
+Display
+
+Nonostante i 5.84 pollici di diagonale, le dimensioni di P20 Lite sono inferiori rispetto ad Honor 9 Lite e P Smart che hanno schermi più piccoli. Questo permette di avere uno smartphone ancora più ottimizzato nel rapporto schermo/superficie e piacevole da utilizzare. Il display è di buona qualità anche se non eccelle per luminosità, contrasti e gamma cromatica.
+
+
+È un pannello che fa il suo dovere, che difficilmente vi deluderà ma che non ha la qualità di quello del Galaxy A8, smartphone che ha un prezzo di listino indubbiamente superiore ma che ormai si trova nella medesima fascia di prezzo guardando online. Ricordo che è un IPS e non Amoled e che la luminosità, a differenza delle prime senzazioni, è buona e va oltre i 500nits dai nostri test. Il vetro ha anche un discreto trattamente oleofabico ma in esterna non enfatizza molto il picco di luminosità registrato.
+
+
+
+Ha comunque un bel touch, un felling ottimo e permette di essere calibrato tramite le impostazioni attivando anche la gestione delle luci blu e altri parametri interessanti oltre a modificare densità pixel, risoluzione e dimensione caratteri.
+
+Autonomia, Ricezione e altri punti di forza
+
+Kirin 659, 3000mAh e Android Oreo. Facile intuire la durata della batteria e non posso che confermarvi la durata media di questo smartphone. Una giornata intera si supera quasi sempre e le 4 ore di schermo sono alla portata di tutti. 14 ore di utilizzo e un 10% di ricarica residua prima di andare a dormire sono la media ma, se esagerata con il dual sim e i dati, non arriverete oltre la cena. Insomma P20 Lite è esattamente in linea con i vari P Smart, Honor 9 Lite e simili: nulla di più, nulla di meno.
+
+
+
+Per evitare di allungare troppo questa recensione, voglio riassumere in punti alcune cose che mi sono piaciute e non di questo smartphone e che non vi ho detto sopra:
+
+  * Buona ricezione generale
+  * Ottima gestione Dual SIM (4G+ su una sim)
+  * Manca il supporto satelliti Galileo e il GPS prende meno rispetto ad altri smartphone (OP5T come paragone)
+  * La ricarica tramite Type-C non è rapida e ci mette circa 2 ore a caricare
+  * L'audio in capsula è molto buono
+  * Lo speaker non ha invece un volume alto e in ambienti rumorosi si sente poco
+  * Il Wi-Fi è Dual Band
+  * Gli sblocchi sono eccellenti:
+      + lettore impronte preciso e personalizzabile
+      + sblocco con il sorriso (volto) rapido e veloce ma non funziona al buio
+      + attivazione dello smartphone al sollevamente davvero comodo
+      + peccato manchi il doppio tap per attivarlo su scrivania
+  * Bene il doppio spazio accessibile semplicemente cambiando il dito con cui sbloccate il telefono (un po' lento il passaggio ma è un Kirin 659)
+  * Bene la presenza della modalità Pro nei video (manca su Mate 10 Pro paradossalmente)
+  * Male il limite 1080p a 30fps in registrazione video
+Fotocamera
+
+Non mi dilungo molto in questo paragrafo visto che abbiamo fatto un focus dedicato alla fotografia di questo smartphone | Huawei P20 Lite: come scatta le foto e gira video | FOCUS |. Quello che posso dirvi è che i 16MP+2MP della coppia di fotocamere posteriori non offre molto di più di quella dei prodotti Huawei di fascia inferiore.
+
+
+Le foto di giorno sono buone ma mancano comunque di definizione e la sera l'apertura F/2.2 non aiuta a rendere nitide le immagini. Bene lato software e la completezza è davvero notevole e anche superiore ad altri Huawei di categoria maggiore. La Cam anteriore si difende bene,
+
+Huawei P20 Lite: come scatta le foto e gira video | FOCUS 174
+
+Huawei 17 Mar
+
+Conclusioni
+
+Huawei P20 Lite è un prodotto che ho usato con piacere, che non posso in alcun modo bocciare e che rispecchia esattamente la sua identità. Scimmiotta iPhone X, sfrutta hardware e software ormai consolidati di Huawei e racchiude il tutto in un corpo di vetro e metallo ben realizzato.
+
+
+Se non ci fossero altri 4 smartphone quasi uguali (senza contare i modelli più vecchi) a listino di Huawei, potrei consigliare questo prodotto. Il problema nasce quando per circa il 40% in meno posso avere praticamente la stessa esperienza di utilizzo rinunciando a pochi elementi che non tutti reputano importanti.
+
+
+Insomma, se seguite la moda, vi piace l'idea del notch e volete un prodotto completo e gradevole, P20 Lite è un acquisto buono appena scenderà intorno ai 300€. Se invece cercate un rapporto qualità/prezzo vantaggioso e preferite risparmiare pur avendo qualcosa di ottimo in mano, Honor 9 Lite prima e P Smart poi sono la giusta risposta se volete rimanere in Huawei.
+
+Estetica e pesoCompletezza software4/64GB di RAM/MemoriaDual SIM4G+ (considerando i vari Huawei/Honor in questa fascia)Type-CGestione Notch hardware e software
+Fotocamere che non eccellonoBatteria nella mediaPrestazioni in linea con Kirin 659Prezzo di listinoIl Notch nasconde tante icone
+
+Voto 7.8
+
+VIDEO
+
+8.1 Hardware
+
+7.4 Qualità Prezzo
+
+Huawei P20 Lite
+
+MIGLIOR PREZZO 220€
+Tutti i prezzi (133)
+Google ARCore 1.6 migliora gli effetti di luce e supporta nuovi dispositivi
+Compara Avviso di prezzo
+Huawei P20 Lite 64 GB Midnight Black Italia Brand
+Mobzilla.it
+214€ Vedi offerta
+Huawei P20 Lite Midnight Black Italia Brand Mono Sim
+Cellularishop
+215€ Vedi offerta
+Huawei P20 Lite Dual Sim 64GB Gold (Europa)
+Clicksmart
+219€ Vedi offerta
+Huawei P20 Lite Blu (Klein Blue) Dual Sim (GARANZIA ITALIA) No Brand -
+Phone Strike Shop
+220€ Vedi offerta
+Huawei P20 Lite 4G 64GB Dual-SIM Black
+Evoluxion.it
+221€ Vedi offerta
+HUAWEI P20 LITE MONO SIM 64GB 4GB RAM BLU GARANZIA 24 MESI ITALIA TIM
+Bass8
+225€ Vedi offerta
+Vedi tutte le offerte
+  * Huawei P20 Lite è disponibile online da Amazon a 227 euro. Il rapporto qualità prezzo è discreto. Ci sono 46 modelli migliori.
+
+
+
+
+Huawei P20 Lite è disponibile su a 199 euro.
+
+
+(aggiornamento del 25 gennaio 2019, ore 05:26)
+5298
+condivisioni Condividi Tweet
+Niccolò Roli
+
+Notizie
+RelazionateP20 LiteSmartphoneHuaweiReview
+    Il P20 Pro è il top di gamma più venduto di sempre da Huawei in Europa occidentale 401
+
+    27 Aprile 2018
+
+    Promo Huawei: la Band 2 Pro è in regalo acquistando P20 Lite 11
+
+    19 Aprile 2018
+
+    Huawei P20 Pro vs iPhone X: il confronto 589
+
+    12 Aprile 2018
+
+    Huawei P20/P20 Pro: specifiche complete, foto e funzionalità nascondi notch 265
+
+    26 Marzo 2018
+
+Notizie
+Più CommentateUltime
+Commenti
+
+
+353
+
+Commenti
+
+Regolamento Commentando dichiaro di aver letto il regolamento e di essere a conoscenza delle informazioni e norme che regolano le discussioni sul sito. Clicca per info.
+
+Caricamento in corso. Per commentare attendere...
+
+
+Gabriele06 Gen 2019 @ 01:40
+
+Io è diversi mesi che lo utilizzo. Si il processore e scheda grafica non è dei migliori ma ha un ottimo display molto fruibile
+
+fabio09 Ago 2018 @ 02:10
+
+Come si fa ad attivare lo schermo con il doppio tap quando é sulla scrivania?
+Ho provato ad ingrandire la barra notifica dove ho la percentuale batteria e l'orario modificando i pixel dello schermo ma sotto a 320px non si va e si vede ancora in piccolo! C'è soluzione?
+Sono al mare e lo schermo riflette molto é solo un mio problema?
+
+fabio09 Ago 2018 @ 02:05
+
+Impostazione, display, tacca e selezioni se vuoi mostrare o no il notch
+
+Eva Albano15 Lug 2018 @ 08:03
+
+Io odio la visualizzazione delle app aperte quando si preme il quadrato: è scomoda dispersiva disordinata e inutile.
+In un modello huaweii precedente le schermate riassuntive delle app aperte erano tutte allineate in orizzontale e si potevano scorrere: si vedevano interamente e l'occhio godeva nel guardare qualcosa di ordinato, completo e lineare
+
+matteo teo mitico14 Giu 2018 @ 08:46
+
+dopo 3 mesi che dici di questo p 20 lite? ?? grazie
+
+Nicolò D.13 Giu 2018 @ 12:40
+
+Secondo voi, per l'utente medio (50enne), meglio questo a 150 euro con l'offerta TIM o il mi A1 a 165?
+
+NeroDj02 Giu 2018 @ 11:46
+
+Anch'io ho notato dei micro lag nello scrolling...ma solo all'inizio, ma comunque io non uso Chrome.
+
+Alberto02 Giu 2018 @ 03:05
+
+Ha continui lag nello scrolling di lunghe pagine anche in impostazioni......in specie su Chrome.....possibile non ci sia una soluzione? Capita solo a me?
+
+NeroDj29 Mag 2018 @ 01:47
+
+Si certo!
+
+domenico28 Mag 2018 @ 12:34
+
+Ragazzi come mai inserendo una seconda sim il telefono non la riconosce..
+Però se tolgo la prima e metto l'altra scheda nel primo slot la riconosce
+
+Australia10 Apr 2018 @ 10:13
+
+Peccato che apple il notch l ha copiato dal razer phone (quindi ...Guccia vai a cuccia)
+
+Luca01 Apr 2018 @ 07:24
+
+ragazzi è possibile eliminare il notch come su p20?
+
+Di3go™01 Apr 2018 @ 01:28
+
+Ma non vale manco 355€. Spendere piu di 250€ per un Samsung serie A mai piu nella vita. Fanno bene solo i top gamma, e da prendere magari pure l'anno dopo
+
+Di3go™01 Apr 2018 @ 01:19
+
+Neanche il p20 liscio da 700€ lo è.
+
+Vincenzo25 Mar 2018 @ 02:18
+
+Huawei mate 10 lite
+
+Vincenzo25 Mar 2018 @ 11:01
+
+Veramente lo uso da 48 ore e lo trovo perfetto. Lo dico da utilizzatore anche di un si plus
+
+Vincenzo25 Mar 2018 @ 10:51
+
+Buongiorno, vorrei capire se è resistente ad acqua e povere. Grazie
+
+Guccia24 Mar 2018 @ 09:44
+
+Si tratta dell'ennesima dimostrazione che Apple fa scuola ed è il meglio del meglio. Tutti sono sempre li pronti a criticare quello che in realtà è (e sarà ancora chissà per quanto) il punto di riferimento in termini di dispositivi mobili!
+
+Tiwi24 Mar 2018 @ 09:15
+
+questo non ha senso in generale
+
+Tiwi24 Mar 2018 @ 09:15
+
+con android stock c'è xiaomi mia1, altrimenti ci sono altri xiaomi se ti piace la miui oppure vedi qualche huawei-honor, su quella fascia ce ne sono diversi
+
+Tiwi24 Mar 2018 @ 09:14
+
+insomma, ci hanno provato, ma a parte forse l'effetto visivo, non ha nulla che mi convince a comprarlo
+sotto 4g la batteria non dura molto, rispetto ad altri medio gamma, fa peggio
+il notch non è gestito bene, android ancora non lo supporta a pieno, e huawei non ci ha lavorato moltissimo, con alcune app ci sono dei bug (mostrati in altre recensioni)
+per il resto,schermo, fotocamera e hw sono molto simili a tutti gli altri prodotti huawei-honor
+e poi il prezzo, più di 300euro
+insomma, c'è di meglio in giro
+
+Blackspace23 Mar 2018 @ 03:37
+
+Ti ringrazio ma avendolo già, non saprei che farmene
+
+WhytoBuy21 Mar 2018 @ 12:29
+
+Ecco adesso mi piaci, mancata tecnologia e la parola giusta. Ci si accontenta di soluzioni alternative. Personalmente non mi piace il Notch, ma apprezzo un display leggermente ottimizzato. Poi ti assicuro che con le cornici ci vado molto d'accordo, ho un HTC U Ultra :D
+
+Pietro Boni21 Mar 2018 @ 11:36
+
+In un mondo di padelle e telecomandi, un dispositivo con dimensioni sensate, android one, supporto a treble e hw di tutto rispetto potrebbe essere un'ottima alternativa alla fascia media anche tra 2 anni.
+
+lupo21 Mar 2018 @ 10:53
+
+Come vuoi che giri, (hw già visto) a parte il gb di ram in più ci sono già in commercio i suoi cloni a 180/200!
+
+maxforum21 Mar 2018 @ 08:44
+
+Al limite con il Notch raggiungono un area del display maggiore in proporzione all area del telefono, ma ribadisco. Non è che con il Notch hai uno schermo più grande. È solo una soluzione del caxxo dettata dalla mancata tecnologia che servirebbe per accontentare il mercato dei borderless. Se devono mettermi un buco in mezzo allo schermo per evitare 5mm di cornice, beh io preferisco 5mm di cornice
+
+Leonardo Romagnoli21 Mar 2018 @ 07:07
+
+No perché non me ne frega niente dell'A8, sono entrato per leggere come gira questo P20 lite e sto babbeo si è messo a farmi pubblicità su un altro telefono uscito da un mese e passa e ovviamente già svalutato.
+Poi, sto "bacello" di P20 lite, aspettate che scenda sotto i 250 e vedrete quanti ce ne saranno in giro.
+Pace e bene
+
+Insider21 Mar 2018 @ 12:48
+
+Non dire la tua opinione come se fosse quella di tutti. Ci avete sfracassato i cosiddetti per le gestures inutili che si potevano attivare a display spento e al fatto che non fosse scomodo tenerlo in mano!
+Almeno il notch ha una funzionalità ben precisa a differenza di quei bordi: mostrare più informazioni.
+
+WhytoBuy20 Mar 2018 @ 10:36
+
+"Con la cornice c'è più spazio", è vero, ma non sul display. Mentre attraverso il Notch, inserendo le notifiche nelle "corna", riescono effettivamente ad avere più spazio su display. E come ho già scritto sopra non è solo questione di schermo.
+
+WhytoBuy20 Mar 2018 @ 10:29
+
+Non uno di voi è riuscito a dare una risposta che spieghi perché mi sbaglio e tutte le risposte ricevute sono state poco rispettose, questo denota la maturità dell'utente medio su questo forum. Comunque invece di riscaldarsi o scrivere è bello o è brutto basta fare qualche ricerca per capire e poi argomentare per quale motivo vengono implementate o tolte certe cose.
+
+malapropysm20 Mar 2018 @ 09:51
+
+Consigliate qualcosa sui 250 euro? Oneplus X sfranto al suolo da sostituire. Qualcosa di simile se possibile, grazie!
+
+Nuanda20 Mar 2018 @ 09:26
+
+Guarda che a me non mi interessa niente Android o Ios, uso entrambi senza peoblemi.... Ma al pari dello schermo edge dei Samsung, il notch è un inutilissima oscenità senza senso.... E i produttori Android che stan facendo uscire cellulari ancora più senza senso di Iphone X sono anxora più colpevoli di chi ha mal progettato Iphone X...
+
+Antares20 Mar 2018 @ 09:23
+
+Attento agli schizzi... sugli Android arrivano sempre in ritardo di qualche anno
+
+Nuanda20 Mar 2018 @ 09:20
+
+Il noch fa c@gare a spruzzo, fattene una ragione....se vuoi più porzione di schermo monti un display 18:9 senza quella oscenità ...
+
+Antares20 Mar 2018 @ 09:16
+
+Ma cosa dici trottolino amoroso?!?!?
+Domani ti faccio vedere come si usa il notch ma prima va messo l’olio
+
+Nuanda20 Mar 2018 @ 09:13
+
+Nessuno xonsideta realmente i bordi edge utili... Sono una c@gata alla pari del notch....
+
+Nuanda20 Mar 2018 @ 09:11
+
+Veramente il notch limita quella porzione di schermo, costringendo ad un gesto in più per vedere la percentuale della batteria e limitamdo l'area notifiche.... È esattamente il contrario di quello che hai detto... Per quello é un inutilissimo vezzo estetico e basta...
+
+Nuanda20 Mar 2018 @ 09:08
+
+Si, nel menu delle opzioni c'è l'apposita coce, però sui terminali almeno con Oreo
+
+Antonio Mariani20 Mar 2018 @ 07:25
+
+eh si quei millimetri quadri che rovinano l'esistenza
+
+bubosky20 Mar 2018 @ 05:42
+
+Con il redmi 5 plus in offerta a 199€ che senso ha questo?
+
+Franco Caterino20 Mar 2018 @ 04:34
+
+per me scaffale
+
+Palux20 Mar 2018 @ 04:19
+
+In realtà no, è tutto il contrario del tuo "oppure", ma se ti fa piacere credere ciò...sei libero, rimane un grosso LOL il mio.
+Bye
+
+spino197020 Mar 2018 @ 04:04
+
+Oppure: "Sì, hai ragione, in effetti..."
+
+Massimino_Di_Quarto20 Mar 2018 @ 03:54
+
+Poi essere ritirato dal mercato, e dimenticato nel nulla.
+
+Palux20 Mar 2018 @ 02:44
+
+Mi viene da rispondere solo LOL.
+
+spino197020 Mar 2018 @ 02:36
+
+No.
+Se io su un'area di pari dimensione, metto un punto non utilizzabile come area, appunto, la sto riducendo.
+Punto.
+
+
+Lo dico più chiaramente: se entrambi abbiamo un appartamento di 70mq, con lo stesso perimetro, ma in mezzo al tuo passa la tromba delle scale e/o dell'ascensore, alla fine il tuo appartamento non sarà più di 70mq.
+Punto.
+
+
+Non c'è nulla di soggettivo.
+C'era la volontà di raggiungere un obiettivo ("...Da sempre immaginiamo un iCoso fatto di solo schermo...", è il claim sul loro sito) non riuscita appieno.
+E infatti il notch è un compromesso.
+
+spino197020 Mar 2018 @ 02:29
+
+Con la differenza che il notch lo avrai sempre visibile. Per non parlare dei bordi arrotondati. Probabilmente se calcoli l'area di display, è la stessa per entrambi...
+
+spino197020 Mar 2018 @ 02:27
+
+Dove la leggi la battuta? :)
+
+Pistacchio20 Mar 2018 @ 12:53
+
+Che senso ha quello schermo tagliato se poi devo tagliare la foto per poterla vedere senza notch, mah, i pollici effettivi saranno sempre meno di quelli "dichiarati"
+
+Raimondo Sella20 Mar 2018 @ 12:31
+
+Non condivido questo tuo parere. Per quanto mi riguarda sono state fatte scelte strategiche ben mirate. I prodotti offerti e lanciati sul mercato sono competitivi e offrono alla clientela una scelta più ampia sulla famiglia di prodotti proposta. Naturalmente Huawei, diventato brand Premium, si sta concentrando più sulla fascia medio-alta, ma non credo abbia dimenticato la medio-bassa.
+
+Più Lette
+
+Huawei P Smart 2019 disponibile in Italia a 249 euro | Video anteprima
+
+
+Huawei Nova 4: buco come Honor View 20 ma Wide Angle oltre alla 48MP | Video
+
+
+Huawei P20 Pro dopo 9 mesi | Riprova
+
+
+Huawei Mate 20 Pro vs Nikon D810 | Video
+
+
+
+HDnetwork s.r.l© - P.Iva 06183350484 L'informazione in Alta Definizione. Copyright 2016.
+
+Chi siamo Segnala/Tips Us Pubblicità Privacy Informativa Cookie Partners Lavora con noi

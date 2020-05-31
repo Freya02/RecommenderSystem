@@ -1,0 +1,133 @@
+The Keyword
+Skip to Main Content
+The Keyword
+  * Latest Stories
+  * Product Updates
+  * Company News
+      + Outreach & Initiatives
+      + Technology
+      + Inside Google
+      + Around the Globe
+      + Perspectives
+
+{[ result.headline ]}
+
+
+      + About
+
+      + Press Corner
+      + RSS Feed
+    ×
+The Keyword
+The Keyword
+
+{[ result.headline ]}
+
+  * Latest Stories
+  * Product Updates
+  * Company News
+      + Outreach & Initiatives
+      + Technology
+      + Inside Google
+      + Around the Globe
+      + Perspectives
+  * About
+  * Press Corner
+  * RSS Feed
+Android
+Taking the next step with Android One
+
+Copy link
+×
+
+masthead
+Jamie Rosenberg
+
+VP, Business & Operations, Android & Google Play
+Published Sep 5, 2017
+Copy link
+×
+  * {[drawerToggle.open ? 'Hide Related Articles' : 'Show Related Articles']}
+
+    Related Articles
+
+
+      + Making audio more accessible with two new apps
+
+
+      + Find more balance in your life this year, with help from Google
+
+
+      + Kick-start your New Year’s resolutions with Google Fit
+
+
+      + This holiday season, keep calm and Google Fit on
+
+
+      + Bringing eSIM to more networks around the world
+
+
+      + Upgrade your daily drive with new Android Auto features
+
+
+When we launched Android One in India back in 2014, the goal was to get the next billion people online by providing them with high quality, affordable phones. Since then, the larger community has told us they value what Android One stands for across a range of phones—a refreshingly simple software experience that is accessible, always fresh and stays ahead of the curve, with improvements to battery life, usability, and of course, security.
+
+
+As phone manufacturers continue to innovate by delivering high quality devices at accessible price points, keeping the inside of one’s phone innovative, fresh and secure is critical to a great experience. We’re extending our commitment to Android One by working with more partners to build phones that run a software experience designed by Google.
+
+
+In the past year, we’ve expanded the program to new partners, geographies and price points. For example, in Japan, Android One devices are among the top selling phones in Softbank-owned Y!Mobile stores. General Mobile has committed a full portfolio of Android One devices in Turkey, and recently released their fourth offering, the GM 6.
+
+
+Today, our newest program partner Xiaomi just launched Mi A1. This phone is a great example of what Android One represents: a collaboration between Google and our partners to deliver a software experience designed by Google. For example, users can capture moments in stunning detail on Xiaomi’s dual camera with 2X optical zoom. They can then seamlessly save unlimited photos at high quality with Google Photos. Mi A1 will be available in dozens of markets, including India, Indonesia, Russia, Vietnam and Taiwan.
+
+
+All Android One phones are powered by a Google designed software experience that is:
+
+
+Simple and smart
+
+  * Simple: All Android One phones consistently run a pure Android experience with a clean design and a small, carefully curated set of preinstalled apps.
+
+  * Smart: The latest technology from Google is built right into Android One phones and core to the experience. For example, all devices will be optimized for the Google Assistant for a personalized experience. Google Photos will also be the default gallery for Android One phones to help users avoid running out of space, by providing free and unlimited storage of high quality photos and videos.
+
+Secure and fresh
+
+
+  * Secure: With multiple layers of protection, Android One phones are kept safe and secure with regular security updates. Devices will also stay secure with Google Play Protect: built-in malware protection that keeps phones clean, fast and high-performing.
+
+  * Fresh: Android One devices will receive timely upgrades to the latest Android OS, so people can quickly gain access to the latest platform innovations on their device. Users of the new Mi A1 will receive an upgrade to Android Oreo before the end of the year and next year they will also be one of the first to receive an upgrade to Android P.
+Android One phones are Google endorsed devices that run a simple, fresh, and secure experience. We look forward to bringing more Android One partner phones to more consumers around the world. Check out android.com/one to learn more.
+
+Posted in:
+
+  * Android
+
+Related Articles
+
+
+  * Making audio more accessible with two new apps
+
+
+  * Find more balance in your life this year, with help from Google
+
+
+  * Kick-start your New Year’s resolutions with Google Fit
+
+
+  * This holiday season, keep calm and Google Fit on
+
+
+  * Bringing eSIM to more networks around the world
+
+
+  * Upgrade your daily drive with new Android Auto features
+
+
+Follow Us
+
+  * Privacy
+  * Terms
+  * About Google
+  * Google Products
+  * Help

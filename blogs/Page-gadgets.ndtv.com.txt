@@ -1,0 +1,186 @@
+* Home
+  * Shop
+  * News
+  * Reviews
+  * Features
+  * Opinions
+  * Photos
+  * Videos
+      + The Gadgets 360 Show
+      + Cell Guru
+      + Smartphone Reviews
+      + Tech and Gadget Reviews
+      + How-To Videos
+      + Video Game Reviews and Features
+      + Top Lists by Gadgets 360
+      + Unboxing and Hands-On Videos
+  * Podcasts
+  * Compare Mobiles
+  * Phone Finder
+  * DEALS
+  * Mobiles
+  * Tablets
+  * Apps
+  * Gaming
+  * Cameras
+  * PC/Laptops
+  * AUDIO/VIDEO
+  * How To
+  * Telecom
+  * Science
+  * INDIA
+  * INTERNET
+  * SOCIAL MEDIA
+  * WEARABLES
+  * हिंदी
+  * বাংলা
+  * தமிழ்
+Acer Adcom Alcatel Apple Archos Asus BlackBerry Blu Celkon Comio Coolpad Datawind Fly Gionee HTC Honor Huawei Idea InFocus Infinix Intex Itel Jivi Karbonn LG Lava LeEco Lenovo Lyf MTS Maxx Mobile Meizu Micromax Microsoft Mobiistar Motorola Nokia Nubia Obi OnePlus Oppo Panasonic Philips Ringing Bells Samsung Sharp Sony Spice Swipe Tecno Videocon Vivo Wickedleak Xiaomi Xolo Yu ZTE Zen Ziox Zopo iBall iBerry iVoomi
+  * Home
+  * Mobiles
+  * Phone Finder
+  * Compare Mobiles
+  * Huawei Y5 Prime (2018) vs Huawei Y5 2017 vs Huawei Y5 II 4G
+
+Huawei Y5 Prime (2018) vs Huawei Y5 2017 vs Huawei Y5 II 4G comparison
+
+Show Only Differences Highlight Differences Huawei Y5 Prime (2018) Huawei Y5 2017        Huawei Y5 II 4G                                               
+key specs                                                                                                                                              
+Display                                     5.45-inch              5.00-inch             5.00-inch                                                    -
+Front Camera                                5-megapixel            5-megapixel           2-megapixel                                                  -
+Resolution                                  720x1440 pixels        -                     720x1280 pixels                                              -
+RAM                                         2GB                    2GB                   1GB                                                          -
+OS                                          Android 8.1 Oreo       Android 6.0           Android 5.1                                                  -
+Storage                                     16GB                   16GB                  8GB                                                          -
+Rear Camera                                 13-megapixel           8-megapixel           8-megapixel                                                  -
+Battery Capacity                            3020mAh                3000mAh               2200mAh                                                      -
+Processor                                   -                      1.4GHz quad-core      1.3GHz quad-core                                             -
+general                                                                                                                                                
+Release date                                May 2018               April 2017            April 2016                                                   -
+Form factor                                 Touchscreen            Touchscreen           Touchscreen                                                  -
+Dimensions (mm)                             146.50 x 70.90 x 8.30  143.80 x 72.00 x 8.35 143.80 x 72.00 x 8.90                                        -
+Weight (g)                                  142.00                 155.00                135.00                                                       -
+Battery capacity (mAh)                      3020                   3000                  2200                                                         -
+Colours                                     Black, Blue, and Gold  -                     Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue -
+Removable battery                           -                      No                    Yes                                                          -
+display                                                                                                                                                
+Screen size (inches)                        5.45                   5.00                  5.00                                                         -
+Touchscreen                                 Yes                    Yes                   Yes                                                          -
+Resolution                                  720x1440 pixels        -                     720x1280 pixels                                              -
+hardware                                                                                                                                               
+RAM                                         2GB                    2GB                   1GB                                                          -
+Internal storage                            16GB                   16GB                  8GB                                                          -
+Expandable storage                          Yes                    Yes                   Yes                                                          -
+Expandable storage type                     microSD                microSD               microSD                                                      -
+Expandable storage up to (GB)               256                    128                   -                                                            -
+Processor                                   -                      1.4GHz quad-core      1.3GHz quad-core                                             -
+Processor make                              -                      MT6737T               MediaTek MT6735P                                             -
+camera                                                                                                                                                 
+Rear camera                                 13-megapixel           8-megapixel           8-megapixel                                                  -
+Front camera                                5-megapixel            5-megapixel           2-megapixel                                                  -
+Rear flash                                  -                      Dual LED              Dual LED                                                     -
+Front flash                                 -                      LED                   LED                                                          -
+software                                                                                                                                               
+Operating system                            Android 8.1 Oreo       Android 6.0           Android 5.1                                                  -
+Skin                                        EMUI                   EMUI 4.1              Emotion UI 3.1 Lite                                          -
+connectivity                                                                                                                                           
+GPS                                         Yes                    Yes                   Yes                                                          -
+Number of SIMs                              2                      2                     2                                                            -
+Wi-Fi                                       -                      Yes                   Yes                                                          -
+Wi-Fi standards supported                   -                      802.11 b/g/n          -                                                            -
+Bluetooth                                   -                      Yes, v 4.00           Yes                                                          -
+NFC                                         -                      No                    No                                                           -
+Infrared                                    -                      No                    No                                                           -
+USB OTG                                     -                      No                    No                                                           -
+FM                                          -                      No                    Yes                                                          -
+Headphones                                  -                      -                     3.5mm                                                        -
+sensors                                                                                                                                                
+Proximity sensor                            Yes                    Yes                   Yes                                                          -
+Accelerometer                               Yes                    Yes                   Yes                                                          -
+Ambient light sensor                        Yes                    Yes                   Yes                                                          -
+Compass/ Magnetometer                       -                      No                    Yes                                                          -
+Gyroscope                                   -                      No                    Yes                                                          -
+Barometer                                   -                      No                    No                                                           -
+Temperature sensor                          -                      No                    No                                                           -
+sim 1                                                                                                                                                  
+GSM/CDMA                                    -                      GSM                   GSM                                                          -
+3G                                          -                      Yes                   Yes                                                          -
+4G/ LTE                                     -                      Yes                   No                                                           -
+SIM Type                                    -                      -                     Micro-SIM                                                    -
+sim 2                                                                                                                                                  
+GSM/CDMA                                    -                      GSM                   GSM                                                          -
+3G                                          -                      Yes                   Yes                                                          -
+4G/ LTE                                     -                      Yes                   No                                                           -
+SIM Type                                    -                      -                     Micro-SIM                                                    -
+
+
+RELATED COMPARISONS
+
+  * Compare Samsung Galaxy J4+ vs. LG K11+ vs. Huawei Y5 Prime (2018) vs. Huawei Y5 2017
+  * Compare Huawei Y5 Prime (2018) vs. Lenovo K8 Plus
+  * Compare Nokia 2.1 vs. Huawei Y5 Prime (2018) vs. Samsung Galaxy Note 5
+  * Compare Huawei Y5 Prime (2018) vs. Huawei P20 Lite vs. Samsung Galaxy S7
+  * Compare Lenovo A5 vs. Huawei Y5 Prime (2018)
+  * Compare Huawei P Smart (2019) vs. Samsung Galaxy A7 (2018) vs. Huawei Y5 Prime (2018)
+  * Compare Huawei Y5 Prime (2018) vs. Samsung Galaxy J2 (2018) vs. Redmi 5A
+  * Compare Huawei Y7 2018 vs. Huawei Y5 Prime (2018) vs. Huawei Y7
+  * Compare Samsung Galaxy J3 (2018) vs. Huawei Y5 Prime (2018) vs. Honor 7C vs. Huawei Y6 Pro (2017)
+  * Compare Huawei Y5 Prime (2018) vs. Apple iPhone SE vs. Apple iPhone 6s
+
+OTHER COMPARISONS
+
+  * Redmi Y1 Lite vs. Vivo Y55s comparison
+  * Samsung Galaxy S9 vs. Apple iPhone 8 vs. Apple iPhone 8 Plus vs. Samsung Galaxy S7 Edge comparison
+  * Samsung Galaxy M20 vs. Vivo V9 Pro comparison
+  * HTC U Play vs. Samsung Galaxy A3 (2016) comparison
+  * Asus Zenfone Pegasus 3 vs. Oppo A59 vs. Lenovo Zuk Z1 vs. Vivo Y31L comparison
+  * Acer One vs. Apple iPad Air 2 Wi-Fi + Cellular comparison
+  * Samsung Galaxy J3 Pro vs. Samsung Galaxy Xcover 3 Value Edition comparison
+  * Mi A2 Lite vs. Realme 1 vs. Xiaomi Mi A2 vs. Redmi Note 5 Pro comparison
+  * Lenovo Z2 Plus vs. Motorola Moto Z Play vs. Xiaomi Mi 5 vs. LG Google Nexus 5X comparison
+  * Samsung Galaxy J2 Core vs. Samsung Galaxy On5 vs. Samsung Galaxy J5 comparison
+
+RELATED STORIES
+
+  * Huawei Y5 Prime (2018) With Face Unlock, Android 8.1 Launched: Price, Specifications
+TRENDING
+ 1. WhatsApp for iPhone Can Now Be Locked, Unlocked Using Face ID, Touch ID
+ 2. Jio GigaFiber User Answers All Your Questions About Jio's Broadband Service
+ 3. New DTH Rules Come Into Effect: Here's How to Choose Packages
+ 4. Denied New Phone for Playing PUBG, Mumbai Youth Commits Suicide
+ 5. Realme 2 Pro, Honor 9N, and Others Get Discounts During Flipkart Sale
+ 6. Oppo K1 Launch Set for February 6 in India: What You Need to Know
+ 7. PUBG Mobile Update 0.11.0 Bonus Challenge to Convert BC to UC: Report
+ 8. PS4 and Xbox One Are at Their Lowest Prices Ever. Right Time to Buy?
+ 9. Redmi Note 7 Pro 6GB/ 128GB Variant In the Works, Xiaomi CEO Hints
+10. Samsung Galaxy M-Series Phones Launched, Prices Start at Rs. 7,990
+  * Price List
+  * Samsung mobiles price in India
+  * Oppo mobiles price in India
+  * Mi mobiles price in India
+  * Vivo mobiles price in India
+  * Nokia mobiles price in India
+  * Motorola mobiles price in India
+  * Asus mobiles price in India
+  * OnePlus mobiles price in India
+  * Apple mobiles price in India
+  * Huawei mobiles price in India
+  * Google mobiles price in India
+  * Tecno mobiles price in India
+  * Infinix mobiles price in India
+  * Jivi mobiles price in India
+  * Comio mobiles price in India
+  * Sitemaps
+  * Archives
+  * Advertise
+  * About Us
+  * Feedback
+  * Privacy Policy
+  * Terms & Conditions
+  * Complaint Redressal
+  * Careers
+  * Contact Us
+  * RSS
+  * Ethics
+  * Gadgets Hindi
+© Copyright Red Pixels Ventures Limited 2019. All rights reserved.

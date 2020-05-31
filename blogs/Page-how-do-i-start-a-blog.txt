@@ -1,0 +1,1712 @@
+* Blogging Basics
+  * Jessica Knapp
+  * How To Start a Blog
+  * Blogging Resources
+  * Contact Me
+Blogging Basics 101
+Social Media & Blogging Tips
+
+How To Start a Blog – Beginner’s Guide for 2019
+
+
+– Guide by Jessica Knapp (updated January 9th 2019)
+
+
+So, you want to start a blog huh? Great idea!
+
+
+But…how the heck do you get started? There’s so much info out there on the web, and everyone’s telling you to do different things. Who do you listen to? Where’s the starting point?
+
+
+Damnit, maybe you should just forget it – it’s too confusing!
+
+
+Well, hold up. I used to be a blogging newbie too. I had the same problems. I started my blog (BloggingBasics101.com) way back in 2006, and I knew less than nothing about blogging. In fact, it was only the week before I’d learned what a blog was.
+
+
+Now I know a ton about them, and my blog’s doing pretty well – I receive more than 300,000 unique visitors per month which makes me consider myself someone you could listen to and learn from when it comes to building your own blog. I’m not some sort of Guru, but I certainly do know the basics.
+
+
+I promise it’ll be simple, relatively easy, and definitely easy to understand (no stupid jargon). Sound good?
+
+
+Awesome, let’s move on.
+
+
+Why you should create a blog and join the blogging community
+
+
+So below, I’m going to outline exactly what you need to do to get started and set up your own personal blog. Before we dive in though, I really want to talk about WHY you should build a blog.
+
+
+Note: If you already have a solid idea of the whys, then skip this and go right ahead with the guide.
+
+ 1. Blogging has quickly become one of the most popular ways of communicating and spreading information and news. There are literally millions of blogs online (don’t worry, you can make yours stand out and get noticed!).
+ 2. It’s a great way to express yourself and also a fantastic way to share information with others.
+ 3. You become a better person and a better writer.
+ 4. The best reason? You can make money doing it!
+
+I bet you already knew all of that, but it’s nice to be reminded.
+
+
+One very last thing before we get started:
+
+
+Creating your own blog can take a little while, probably up to 30 minutes. So grab yourself a coffee or juice (whatever you fancy) and let’s get stuck in. If you need any help during the set-up process, get in touch with me here and I’ll help as best I can and answer any questions you might have).
+
+
+Disclosure: This guide to starting your own blog contains some affiliate links. If you purchase any service through one of these links I may earn a small commission, this is at no extra cost to you.
+
+
+The Steps Covered In This Blogging Guide
+
+
+It’s nowhere near as difficult as setting up a website from scratch (there’s very little technical ability needed here). In fact, there’s no coding required by you. Good news, huh?
+
+
+How to Start a Blog in 5 Steps:
+
+
+There are five main steps you need to do in order to start a blog. If you follow this guide exactly, you’ll have your own blog set up in 30 minutes or less.
+
+ 1. Choose a great blog platform
+ 2. Choose a web host for your blog
+ 3. How to Set up a blog on your own domain
+ 4. Design your new blog
+ 5. Useful resources for blogging
+
+So, we made it. Phew. Better late than never! So, without further ado, let’s jump into step 1.
+
+
+Step 1 – Choose your preferred blogging platform
+
+
+Choosing where you want to build blog is pretty much the first thing you have to do. I’m going to take a leap and assume you’ve heard of WordPress, and this is the platform I advocate. It’s massive.
+
+
+It’s by far one of the biggest blogging platforms in the world, with countless plugins and add-ons and almost infinite ways to design and layout your blog.
+
+
+There are more than 82 million active users of WordPress = a lot, basically.
+
+
+There are other alternatives, however, and they are listed below:
+
+  * Blogger – Definitely the next best thing to WordPress.
+  * Tumblr – Half social network, half blog. Interesting, and very simple to use.
+
+Even though WordPress is bigger (and probably better) than those two, here are my reasons why you should still go with WordPress:
+
+ 1. Super easy set-up and is free to use
+ 2. Tons of free themes and layouts (I’m not kidding, there are gazillions).
+ 3. There’s a massive support forum in case you get stuck (you won’t, but it’s nice to have it there if you need it).
+ 4. Your blog will be insanely fast and it’ll also look Functionality and form – perfect!
+ 5. People can interact with you easily. Your content can be shared, commented on, and so on.
+
+Here’s an article about different blogging platforms (including WordPress), give it a read:
+
+
+How to Choose a Blogging Platform – (updated for 2019)
+
+
+Now, Step 2 (see, we’re moving fast now!)
+
+
+Step 2 – Self-hosting or a free alternative?
+
+
+Whoa, slow down there! This is the biggest decision you’ll have to make before we go any further. You need to decide whether to pay for your blog or grab a free one.
+
+
+WordPress, Tumblr, and Blogger all offer free blogs for anyone. Awesome, right? It’s perfect for those of us who aren’t super serious about blogging. But it does have downsides:
+
+
+1) You won’t be able to get your OWN domain name
+
+
+On a free blog, your blog’s web address (your URL) will be butt-ugly. Like, really ugly. In short, create a free blog with any other the above free blog services and it’ll look like this:
+
+  * yourblog.wordpress.com
+  * yourblog.blogspot.com
+  * yourblog.tumblr.com
+
+I know, ugly right?
+
+
+2) Limits and more limits
+
+
+There are some limits to free blogs. You can’t fully monetize it, and you don’t have the possibility to upload all those videos and images you want to show everyone – it’s all limited. Worse still, you won’t even have access to the free themes offered by WordPress.
+
+
+3) You DON’T OWN your blog
+
+
+It might sound silly at first, but you don’t actually own your blog. It’s hosted on someone else’s web property and they can delete it if they want to. They have done so in the past, and keep doing it in the future. Which means all your hard work on your blog, all those countless hours of writing blog posts might have vanished within seconds. Sad…
+
+
+On the other hand, with a self-hosted blog on your own domain name – you are the REAL owner of your blog. You’ll be able to name your blog whatever you want, for example, “YourName.com” or “YourAwesomeBlog.com. You can end it with .com, .co.uk, .net, .org, or virtually any other web suffix. Add to that unlimited bandwidth for videos, images, and content plus the free themes and you have a winning combo.
+
+
+So how much is hosting and a domain name? Not as much as you’re thinking, fortunately. It usually works out to about $5 to $10 per month, depending on your hosting provider which is less than a couple of coffees.
+
+
+If you still have questions, here’s some further information for you to look at:
+
+  * Should I Choose a Hosted or Non-hosted Blogging Platform?
+
+Step 3 – Start a blog on your own domain (if you chose self-hosting and a custom domain)
+
+
+I’m going to push ahead based on the premise you’ve chosen WordPress, and if you haven’t, you should. Seriously, it’s the best.
+
+
+If you’re still a little confused by what a self-hosted blog is, allow me to explain and how you can go about setting one up for yourself.
+
+
+You’ll need to come up with a domain name you like and also choose a hosting company that can host your blog.
+
+  * Domain: The domain is basically the URL of your website. Examples: google.com (Google.com is the domain), Facebook.com (Facebook.com is the domain). See? Simple!
+  * Hosting: Hosting is basically the company that puts your website up on the internet so everyone else can see it. Everything will be saved on there. Think of it as a computer hard-drive on the internet where your blog will be saved.
+
+Disclosure: I recommend using Just Host for web hosting. If you click through one of my links and make a purchase, I will receive a commission, which helps me keep bloggingbasics101.com up and running.
+
+
+Personally, I use Just Host (for my blog domain and hosting), and I’ve got nothing but good things to say about it.
+
+
+It’s probably one of the cheapest (less than $4 per month) hosting providers out there. A domain name will cost around $10-15 a year, but with Just Host, they throw that in for free for your first year.
+
+
+:). Big smiles for that!
+
+
+They’re the providers I use for all of my blogs, including the one you’re reading right now.
+
+
+If for any reason you don’t want to go with Just Host, feel free to choose your own hosting company. Most, if not all of them, should have a “one-click” WordPress install solution on their admin panel.
+
+
+That button will automatically install WordPress on your blog. Did I say it was simple or what?
+
+
+All you need to do is sign up with Just Host (or your chosen provider), choose your hosting plan and a domain name and look for the one-click WordPress install button on the admin panel.
+
+
+WordPress essentials aren’t often needed, but I’d recommend whois privacy (that will keep all your personal details private) and definitely automated backups (that’ll save your website just in case anything fails or disappears so you won’t lose any or very little of your blog).
+
+
+Start a Blog with Just Host today and get an exclusive discount plus a free domain name for the 1st Year
+
+
+Once WordPress is installed on your website, all you have to do to start blogging is go to your WP-Admin page usually www.yourblognamehere.com/wp-admin and start writing by adding a new post.
+
+
+At the start, the layout looks confusing, but it gets very understandable quickly. Don’t worry!
+
+
+Step 4 – Designing your WordPress blog
+
+
+Now, the fun bit.
+
+
+Let’s make your blog look exactly how you want it to. To choose a new theme, you can either head to Appearance > Themes and install a free WordPress theme or you can head to a premium theme website like ThemeForest.net and buy a theme for around $40.
+
+
+I usually choose something that looks professional and pretty easy to customize. WordPress also has this awesome feature that allows you to change themes with just a few clicks. So if you start getting tired of your current blog template, you can just switch to another one without losing any precious content or images.
+
+
+Remember, your blog’s design should reflect both you and your personality, but also what the blog is about. There’s no point having a football-orientated theme if your blog is about tennis, understand?
+
+
+On top of that, it should be easy to navigate if you want people to stick around. If it’s tricky and difficult to move around it, people won’t stay. After all design is a subjective art; meaning everyone likes different things.
+
+
+But no one likes ugly websites, and they especially hate websites that need a university degree to navigate. Make it easy for them.
+
+
+For more reading, I’ve put together 3 blog posts about designing your blog. Feel free to check them through.
+
+  * Blog Design: Keep It Clutter Free and User-Friendly
+  * Advice for Blog Design and Blog Goals
+  * Is there any software I can use to make my own graphics, button, and banner?
+
+Last step! Woo!
+
+
+Step 5 – Useful Resources For Beginner Bloggers
+
+
+Bloggers come to blogging arena with varying degrees of online and social media experience, but we’ve all made more than a few newbie mistakes – there’s always room for more learning and improvement, whether you’re a beginner or you’ve been blogging for years.
+
+
+These articles may help you avoid some of the growing pains when it comes to your first blog – enjoy!:
+
+  * 5 Beginning Blogging Mistakes You Can Fix
+  * Choosing a Blogging Niche
+  * How We Communicate: FAQs for Beginning Bloggers
+  * 7 Ways to Boost your success as a Blogger
+
+And that’s it! I’m more than confident that your initial blog set up should now be finished and ready to go, and all that should have been really damn easy (unlike my first time, lucky you!). If you are having any problems installing WordPress on Just Host then this guide may help.
+
+
+If by some unfortunate circumstance you get stuck or have any questions for me about how to create a blog, just get in touch with me or leave a comment below. I’ll help you out with any problems.
+
+
+Enjoy your new blog!
+
+
+Start a Blog with Just Host today and get an exclusive discount plus a free domain name for the 1st Year
+
+
+225 Responses
+
+ 1. Usman October 25, 2014 / 1:41 am
+
+    WordPress is best instead of blogger & tumbler. If someone want fame so must be an unique brand. BTW Thanks.
+
+    Reply
+      + superk February 10, 2015 / 8:27 pm
+
+        This is really helpful. I hope it is easy. Cant wait to start this weekend.
+
+      + Micahel April 13, 2015 / 4:26 pm
+
+        Afternoon, First great ideas. However I have my up and running and I am having a hard time getting followers or readers. Any suggestions?
+
+      + Jessica Knapp April 15, 2015 / 2:53 am
+
+        The best thing I ever did to get traffic was to promote my early blog posts on social media (Twitter/Facebook) and forums I was a member of… Once your blog has been around a few months you will start to see some trickles of traffic from search engines.
+
+      + Molly June 11, 2015 / 10:49 am
+
+        Very informative! I’m totally stoked to get started! Thank you so much for making it so simple.
+
+      + Mansi Patel February 13, 2016 / 9:58 am
+
+        Wow I just loved your article on the beginners guide to starting a blog. I want to start one and I am now pretty clear after reading this post. This was very helpful for me and I am definitely going to mention you in my blog as soon as I start it. Thanks you so much. ðŸ™‚
+
+      + Jessica Knapp February 17, 2016 / 4:27 pm
+
+        Hey Mansi,
+
+
+        Be sure to send me a link to your blog once you are all set-up I love seeing what people who have followed my guide go on to do!
+
+
+        -Jess ðŸ˜€
+
+      + Beatrice lipizzaner March 3, 2016 / 2:39 am
+
+        Thanks alot its been helpful to me
+
+      + Suraj Kokne July 22, 2016 / 4:20 am
+
+        This is really helpful hope this will help me to create my own blog.
+
+      + Jane98d July 27, 2016 / 8:56 pm
+
+        Very informative and easy to understand thanks! ðŸ™‚
+
+      + laleti August 20, 2016 / 10:26 am
+
+        thanks so much, hope this helps me to set up my own blog. i need help to make it function well
+
+      + DIVESH CHADHA November 22, 2016 / 6:35 am
+
+        Thanks, Jessica!
+        In a few days, I’m going to start my own blog.
+
+
+        Seriously Thank you very much!!
+
+      + Robert Hylton March 9, 2017 / 10:08 pm
+
+        Hi there, very informative but just to be clear I do have my own website and domain names so do I just have to install word press and crack on from there.
+        Thanks.
+
+      + Natalie Cornu March 15, 2017 / 6:49 pm
+
+        I just began my own blog so this was very helpful to me. Thank you for sharing!
+
+      + Kevin Doran March 12, 2018 / 1:55 pm
+
+        Thanks, I’m 59 years old and at a point in my life that I believe I’m starting to understand the meaning of life. Though this understanding is still in its infancy I think I’m ready to start asking some questions. Is it plausible to have a Blog that explores is subject matter and do you think it would be interesting to others. I’ve not written anything since high school but on my way home from work I had a Moment of clarity and then this idea thank you for your time.
+
+      + Rohit kumar January 5, 2019 / 2:23 pm
+
+        yes currently i am using blogger facing many issues.
+
+ 2. Dickson October 25, 2014 / 7:31 pm
+
+    Thanks for the Advise and data. It’s useful for me as a new blogger. Finally I choose WordPress self hosted as per your recommendation.
+
+    Reply
+ 3. Cathy C. October 27, 2014 / 1:52 pm
+
+    such a helpful site!! I will definitely use your tips when I set up my blog soon!! thank you!
+
+    Reply
+      + Kam September 3, 2016 / 4:06 am
+
+        Thank you so much for your insight. Starting a blog, writing and sharing information is something about which I have been thoughtful for a while. Reading this was such a breath of fresh air. Can’t wait to start my own blog! Thanks again ðŸ™‚
+
+ 4. Ryan November 6, 2014 / 7:46 am
+
+    Thanks for this article. By the way, would it be okay if I start blogging with a free account and decide later on hosting the blog? Will the transition be easy enough to migrate from a free account to a paid one? Hope you could shed light on the query. Thank you.
+
+    Reply
+      + Jessica Knapp November 7, 2014 / 8:31 am
+
+        Yeah, it’s pretty easy. I’m planning to launch a tutorial on how to move from free WordPress to self-hosted WordPress as well. Just drop me a line once you want to do that.
+        Jessica
+
+      + Nancy October 18, 2015 / 9:50 pm
+
+        Hi Jessica,
+        I am seriously considering moving from free to self-hosted. Will I lose all of my old posts?
+        Nancy
+
+      + Jessica Knapp October 22, 2015 / 6:00 am
+
+        Hi Nancy
+
+
+        It is quite easy to move from WordPress.com and set up a blog on self-hosted WordPress – you can export your posts in your WordPress menu under tools.
+
+
+        -Jess
+
+ 5. Christine November 6, 2014 / 9:52 pm
+
+    As a newbie, I mean a real newbie, I so appreciate your information. I’m moving forward with my blog this weekend. Scared but EXCITED! Thank you!
+
+    Reply
+      + Jessica Knapp November 7, 2014 / 8:31 am
+
+        Good luck ðŸ™‚
+
+ 6. Abdi November 7, 2014 / 8:13 am
+
+    Salam.
+    Can we shift from free hosting to self hosting? Like will all the content be lost or it can be transferred
+
+    Reply
+      + Jessica Knapp November 7, 2014 / 8:30 am
+
+        If you go with WordPress.com – then yeah, you can make the switch later on. It isn’t much complicated ðŸ™‚
+        But if you are thinking seriously about starting a blog then I suggest you to try the self-hosted option. It’s much more better.
+        Jessica
+
+ 7. Jerrika Rae Pardubsky November 9, 2014 / 11:17 pm
+
+    I’m Newbie! Scared to start, but I’ll go through it ðŸ˜€
+
+    Reply
+ 8. m November 12, 2014 / 5:12 pm
+
+    Hi i am looking into starting a blog. I am based in England so would there be extra costs added onto monthly fee? Thanks
+
+    Reply
+      + Jessica Knapp November 13, 2014 / 4:27 am
+
+        No, not at all. ðŸ™‚
+        Jessica
+
+ 9. walter November 13, 2014 / 6:59 am
+
+    This guide would definitely help me through. Thanks for that.
+
+    Reply
+10. TJ November 15, 2014 / 11:34 pm
+
+    Thank you so much. Finally a short and straightforward tutorial that helped me through this process.
+
+    Reply
+11. Jen November 17, 2014 / 5:06 pm
+
+    This is exactly what I needed! Thank you. Thinking of starting but don’t want to tell peeps just yet, just in case it flops
+
+    Reply
+12. Margo November 17, 2014 / 10:10 pm
+
+    I signed up with Just Host, acquired my domain, benbrookcottage.com. I cannot find a one click install button for WordPress on the cPanel. Any advice? Thanks so much.
+
+    Reply
+      + Margo November 18, 2014 / 2:35 am
+
+        got it, a link Softaculous to click, then WordPress is there, thank you
+
+13. Michelle November 21, 2014 / 8:45 pm
+
+    I’m kind of confused. If I want to do the self hosting and custom domain, I start with Just Host…and then still end up using WordPress to create my page, right?
+
+    Reply
+      + Jessica Knapp November 24, 2014 / 3:29 am
+
+        Exactly! Here’s what you should to in order to set up a self-hosted blog on your custom domain with WordPress (easiest and cheapest solution):
+
+
+        1) Go to JustHost
+        2) Buy your domain & hosting
+        3) Install WordPress through their admin panel
+        4) Start blogging! ðŸ™‚
+
+
+        If you have any other questions, send me an email to info@bloggingbasics101.com
+
+14. Anna November 30, 2014 / 3:22 am
+
+    Thhanks for the info!!!;) U Rock!!!
+
+    Reply
+15. Cathy November 30, 2014 / 10:15 am
+
+    I am wondering if you start off with the free wordpress version, can you later switch it to the paid version?
+
+    Reply
+      + Jessica Knapp January 15, 2015 / 7:55 am
+
+        Hi Cathy,
+
+
+        Yes you can make the switch later (however, it’s a bit complicated for someone who is not tech savvy). If you are serious about blogging, I suggest you to go with self-hosted option right away.
+        Jess
+
+16. Christopher Figueroa January 6, 2015 / 7:07 am
+
+    This is very useful information for me as a beginner blogger. I figured to try blogging as a project while working on my MBA program online this year. I haven’t finished publishing my blog site yet. Still checking out some tips and advice prior to publishing. A bit nervous but after reading other new bloggers helps build my confidence. Hopefully I get the nerves to publish by end of January. As you mentioned, I ended up using WordPress.
+
+    Reply
+17. Alex B January 6, 2015 / 10:34 am
+
+    This is quite helpful
+
+    Reply
+18. Vivian January 8, 2015 / 8:25 pm
+
+    Thank you very helpful
+
+    Reply
+19. Mary January 8, 2015 / 9:42 pm
+
+    Is there ways to change things like your blog name or domain name? I m considering starting a blog but I am not sure what I want to do it on just yet. I have many passions but I need to decide if/how I want to do the whole blogging thing lol.
+
+    Reply
+      + Jessica Knapp January 15, 2015 / 7:53 am
+
+        Hi Mary,
+
+
+        You can change your blog any time you want. However, you won’t be able to change a domain name – only if you buy another one. So choose wisely ðŸ™‚
+        Jess
+
+20. Lauren January 10, 2015 / 8:35 pm
+
+    Help! I have a question..
+    When signing up for a wordpress blog account, a user has the option to self-host..
+    Do I choose this or do I go to Just Host to start up my domain and blog? I’m a bit confused about this
+
+    Reply
+      + Jessica Knapp January 15, 2015 / 7:52 am
+
+        Hi Lauren,
+
+
+        Great question! I suggest you to install WordPress via iPage because if you decide to go self-hosted directly from WordPress.com – it will cost a lot more. That’s the main reason I’m suggest people Just Host (to save some money).
+        Jess
+
+21. Raymond January 13, 2015 / 7:57 pm
+
+    Can I have a blog with multiple and diverse topics? Sort of varying chapters of interest.
+
+    Reply
+      + Jessica Knapp January 15, 2015 / 7:51 am
+
+        Yes, you can. Just make separate categories for them.
+        Jess
+
+22. Keri January 16, 2015 / 8:40 am
+
+    I am very new to all of this and was wondering if you could explain to me how the money is earned? Say for instance I set up a blog and start blogging how do you earn from it and “who” is cutting the checks, and how often are you paid?
+
+    Reply
+      + Jessica Knapp January 16, 2015 / 11:26 am
+
+        Hi Keri,
+
+
+        Thanks for the question. I’m currently writing a new blog post ways of making money with blogging. I’ll let you know once it’s ready (should be next week).
+        Jess
+
+      + Keri January 17, 2015 / 12:22 pm
+
+        Awesome! Thank you!
+
+      + Jessica Knapp January 21, 2015 / 4:52 am
+
+        Here you go
+
+23. Melis January 18, 2015 / 11:17 am
+
+    Thank you for this information and responding to the comments. This has been incredibly helpful!
+
+    Reply
+24. Lola January 19, 2015 / 4:38 pm
+
+    This is the most helpful and simple guide to blogging i have come across. Thanks a lot! I am very new to blogging and also very curious about how to earn money from blogging. I am looking forward to your post about this.
+
+
+    Thanks a lot!
+
+    Reply
+25. James king January 19, 2015 / 8:05 pm
+
+    Hi, so I’ve been thinking about writing a book about my personal experience with adultery and how this was the worst mistake I’ve ever made and I have made many. In June 2008 my now ex wife became pregenant with our second child but the previous month she introduced me to Facebook. That was the beginning of the end. To make a long story short my ex wife and a woman I met on Facebook both gave birth to my 2 daughters 51 days apart. The blog I want to start will hopefully help other men not be as self destructive as myself.
+
+    Reply
+      + Jessica Knapp January 21, 2015 / 4:55 am
+
+        Good luck with your blog & book.
+        Jess
+
+26. Alicia January 20, 2015 / 11:49 am
+
+    I would like to set up a blog for a friend’s business. This guide to making a blog has been really helpful and we will now be starting a blog for them.
+
+    Reply
+27. Jean January 21, 2015 / 2:42 pm
+
+    If I start with a blog that is NOT self-hosted, can I transfer/upgrade to a self-hosted one later on (once I know I really like blogging…) or would I lose all my content doing that?
+
+    Reply
+      + Jessica Knapp January 21, 2015 / 4:38 pm
+
+        Hi Jean,
+
+
+        Yes, you can do that if you got a free WordPress.com solution. However, if you are serious about blogging, it’s wise to start off with a self-hosted option right away ðŸ™‚
+        Jess
+
+      + Kobina, Apam, Ghana May 20, 2015 / 1:54 am
+
+        Useful info for me. I’ve been contemplating about blogging for a long time and I think it’s time I start. My problem is how to promote my blog. Is it possible to link my blog to social media so all blog posts are automatically posted on my social media pages?
+
+      + Jessica Knapp May 20, 2015 / 2:18 am
+
+        Yes there are number of free online tools for this such as ifttt.com
+
+28. Rahul Yadav February 7, 2015 / 7:21 am
+
+    Thanks so much for this… it’s nice to read over this again and feel good that you’re doing the right things! ðŸ™‚
+
+    Reply
+29. Sparky February 7, 2015 / 8:53 am
+
+    Some good advice, thanks to some of it I now have my first blog post done ðŸ™‚
+
+    Reply
+30. Tony February 12, 2015 / 7:27 pm
+
+    Your write-up has been so helpful as a journalist just wading into blogging it is my Bible. Thanks a million
+
+    Reply
+31. Nathi February 18, 2015 / 2:39 am
+
+    Really great information, Jessica. Thank you so much.
+    I’m planning to start a blog and your advice will come in very handy.
+    Just one question: Can you sell ad space on a self-hosted WordPress blog? If not, which route would you suggest to go for someone who would be interested in selling ad space on their blog?
+
+    Reply
+      + Jessica Knapp February 18, 2015 / 7:05 am
+
+        Hi Nathi,
+
+
+        You can definitely sell ad space on your self-hosted WordPress blog – many people are doing it. You can try buysellads.com for finding advertisers.
+
+32. Joe March 16, 2015 / 7:43 am
+
+    Great list.. I have to agree with ThemeForest.. where I get all my themes.. great quality and price on themes all on one site.
+
+    Reply
+33. John March 20, 2015 / 6:08 am
+
+    Hello Jessica
+
+
+    I am a real newbie, 72 years old, I though your info was great,and will take all your teaching in, are you allowed to copy and paste stuff
+    you see on the subject you interested in ?
+
+    Reply
+      + Sana Qureshi May 6, 2016 / 5:56 am
+
+        No, copy pasting will help you in no way. Avoid copy pasting at all costs because it seems like it is your content when all you do is copy paste, and if you want to refer to some other blog post, copy paste the content and give them proper credit by adding their blog post link in the end. ðŸ™‚ Good luck!
+
+34. celine March 20, 2015 / 2:10 pm
+
+    It was interesting to see the diagram wheel picture in tip one with all the different domains that are used. Self-hosted WordPress seems to be the most popular. Do you think it has to do with how you can customize it the way you want the most compared to the other domains? I’m wanting to start my blog of dancing. I sincerely appreciate all of these additional ideas to get my blog started!
+
+    Reply
+      + Jessica Knapp March 22, 2015 / 9:17 am
+
+        I think the WordPress is phenomenal for 3 reasons:
+
+
+        1) Quick and fast support board
+        2) Easily customizable
+        3) Very user-friendly
+
+
+        Jess
+
+35. Joarder March 26, 2015 / 1:31 am
+
+    Hi Jessica … You’ve such a nice and helpful blog. It’s a great helpful post too. I’m not experienced blogger like you and so looking for advice/suggestion from experience blogger like you.
+
+
+    I’ve a blog on weebly.com and now I want it to transfer in WordPress, because it is more SEO friendly than weebly. Is it possible to transfer or do you’ve any particular suggestion on this?
+
+    Reply
+36. Gene March 30, 2015 / 4:11 pm
+
+    Hello Jessica,
+
+
+    Thank you for the info on blogging. I would like to apply it to my website and have a question.
+
+
+    When I try to install WordPress, I am told that my files will be overwritten. What exactly does this mean? Will WordPress code simply be inserted into my code (html), leaving the code otherwise intact so that my pages will be displayed as before (but now with blogging capability)? Or is there more to it?
+
+
+    Thanks.
+
+
+    Gene
+
+    Reply
+      + Jessica Knapp April 1, 2015 / 6:06 am
+
+        Hi Gene,
+
+
+        By default – it has “index.html” placed in your root domain folder. If you overwrite it – it’ll disappear and be replaced with the WordPress index file. So basically, you just need to overwrite it.
+
+
+        Jess
+
+37. gretchen April 7, 2015 / 6:36 pm
+
+    Hi. Thank you for your informative post. I’m still looking for the best (least expensive or free) value to use my own domain (not with wordpress.com or the like in the domain name). If you’ve included this information somewhere, I have missed it. I also didn’t see it on the comparison chart? I’m sure it’s probably there, but maybe worded differently…?
+    Thank you again.
+
+    Reply
+      + Jessica Knapp April 8, 2015 / 2:51 am
+
+        Hi Gretchen
+
+
+        You can use your own domain name on a platform such as Tumblr for free but as you are on their platform you will be restricted to the types of content you can produce, the types of advertisements you can host and it is difficult to move to a self hosted WordPress environment later down the line.
+
+
+        In this guide I recommend Just Host hosting for beginner bloggers as it only costs a a few dollars per month and gives you more control over your blog, how you can make money and it’s future.
+
+
+        -J
+
+38. Faithy April 8, 2015 / 12:26 pm
+
+    Very Informative! great! ðŸ™‚
+    I’ve been thinking this past few months to start my own blog.
+    My problem is, I am not really good in English that’s why I am hesitating to start blogging.
+
+    Reply
+39. `Karabo April 15, 2015 / 1:15 am
+
+    Thank you for the information it was very helpful but I have a question on how do you earn money from it?
+    Can you please elaborate on that.
+    Thank you!!
+
+    Reply
+      + Jessica Knapp April 15, 2015 / 2:49 am
+
+        Hi you may want to read my article on monetizing a blog
+
+40. Holly April 21, 2015 / 1:41 pm
+
+    Thanks for the good tips. I’m a newbie and haven’t started my blog yet; just reading about the basics right now. Wondering if there is a way to keep it private so it’s not accessible to the general public, but only to those who you send the link? Thanks
+
+    Reply
+      + Jessica Knapp April 22, 2015 / 3:44 am
+
+        There are settings to make your posts password protected in WordPress. Alternatively you can block search engines from finding your blog in WordPress too,
+
+      + Noman August 1, 2015 / 4:34 am
+
+        Holly,
+        Yes, you can do it ðŸ™‚ you should buy hosting there ( Just Host) then install wordpress then make your post password protected ðŸ™‚ also a lot of password protected plugin available on online.thanks
+
+41. Shairon May 2, 2015 / 7:30 am
+
+    This article was super helpful and on point, thank you so much. I’m reading all the other articles as well, you’re very insightful and encouraging. Thanks!!!
+
+
+    Shay
+
+    Reply
+42. Charlene May 3, 2015 / 11:26 am
+
+    I was going to give up on trying to set up a blog but now I am inspired and full of hope that I can do it!! Thanks so much
+
+    Reply
+      + Jessica Knapp May 12, 2015 / 6:49 am
+
+        Good Luck Charlene!
+
+43. Dimitra May 7, 2015 / 7:37 am
+
+    Can I just say, thank-you for posting this. The information you have provided is so important, not to mention interesting. Great writing skills by the way ðŸ™‚
+
+    Reply
+      + Jessica Knapp May 12, 2015 / 6:48 am
+
+        I’m glad I could help!
+
+44. Gia May 28, 2015 / 1:38 pm
+
+    You ROCK! Finally able to set up my blog! Thank you so much. This was super easy, understandable and best of all it WORKED! Bless you!
+
+    Reply
+      + Jessica Knapp June 1, 2015 / 3:23 am
+
+        Hi Gia
+
+
+        I’m very pleased that this worked for you!
+
+
+        All the best and welcome to the blogging community
+
+
+        Jess
+
+45. Sophie Nadeau July 22, 2015 / 8:23 pm
+
+    I set up my blog yesterday and literally EVERY SINGLE ONE of your tips were helpful- I’ve even come back for more! ðŸ™‚
+
+    Reply
+46. John August 18, 2015 / 1:24 am
+
+    I like the way you simplify it. Thanks for sharing.
+
+    Reply
+47. Eric October 9, 2015 / 2:38 am
+
+    Hello Jessica, besides paying for the domain and hosting servic, am i going to pay for the WordPress blog?
+
+    Reply
+      + Jessica Knapp October 9, 2015 / 5:20 pm
+
+        No WordPress is open source software so it costs nothing
+
+48. Michelle October 9, 2015 / 1:40 pm
+
+    Hi, thanks for this very helpful post! Is it possible to register a domain even if you don’t plan on using it immediately? Basically just ensuring that you get the domain name that you want (if possible). Also, if I’m planning to blog on varying topics what would you recommend to do as far as a name? Do you think it’s imperative that the name coincides with the topic? I only ask because I’ve seen fashion/beauty blogs where their names have nothing to do with fashion or beauty. I’m sooo stuck on the name I can’t move to the next steps! Ugh!
+
+    Reply
+      + Jessica Knapp October 9, 2015 / 5:22 pm
+
+        You can use Godaddy, Namecheap and several other registrars for this, it definitely helps if the domain name is related to the niche but it’s not imperative.
+
+49. Dwayne October 22, 2015 / 1:11 am
+
+    Really excellent article. One suggestion or caution with Godaddy though…Godaddy has a product called WordPress Hosting. I signed up for it, and all was fine until I installed a plugin which had a special requirement that needed to be set up by the webhost. (something in the server side settings). I called Godaddy and they advised they can’t make those changes. Only on their individual hosting plans would that have been possible. This is a rare event, but worth keeping in mind. When you go for your own hosting you have more flexibility.
+
+    Reply
+      + Jessica Knapp October 22, 2015 / 5:57 am
+
+        I’m sorry to hear you had such a bad experience. I don’t recommend GoDaddy for web hosting and only recommend Just Host for this tutorial as they have a good product for beginners at a great price
+
+      + Ken October 29, 2016 / 7:47 pm
+
+        This sounds a bit similar to my experience, however with a better ending. I accidentally signed up for their WordPress account only to discover I couldn’t do really anything else with the account. I wanted the full (cPanel) version. I called them up and they very graciously switched me at no charge. And, I can still do WordPress on my account.
+
+50. edward October 25, 2015 / 10:49 am
+
+    Impressive!!! Now I am more encouraged to start my own blog, Thanks.. Kudos!!!!
+
+    Reply
+51. Belal Khan November 7, 2015 / 1:08 am
+
+    WordPress is the best option for anyone thinking about starting a blog. You need a self hosted WordPress to start a good blog. It will give you a strong base to do anything with your blog.
+    So anyone wanna start a new blog… forget about blogspot, tumblr etc just go with self hosted wordpress
+
+
+    It will cost you some money but not very much. Nowdays shared hosting is very cheap and I guess anyone can afford $5 per month.
+
+    Reply
+      + Tenaya February 28, 2017 / 8:09 pm
+
+        Thank you form the confirmation!
+
+52. Amber November 12, 2015 / 1:52 pm
+
+    I’m just getting started with my blog and your advise has been super helpful! I had no idea where to even begin and this had essentially laid out my first steps. Much appreciated!
+
+    Reply
+53. Sarina February 10, 2016 / 11:18 pm
+
+    Thank you for the helpful information! I am just starting a blog and figuring out the basics to getting it set up ðŸ™‚ Seems like it should be a fun and long process
+
+    Reply
+54. Srinivasan February 14, 2016 / 9:25 pm
+
+    Hi Jessica, thanks for great post, its really simple way! And also I love how you write, easy-to-read and lots of information! Retweeted it, hope it helps my audience ðŸ™‚
+
+
+    Have a great day!
+
+    Reply
+55. Trung February 15, 2016 / 8:39 am
+
+    Very good tips after starting my blog I read a few articles on layout and have found this has increased my page views and also has helped take my demographic into other countries I would not have thought to target.
+
+    Reply
+      + Jessica Knapp February 17, 2016 / 4:23 pm
+
+        That is great to hear.
+
+
+        Enjoy your blogging journey
+
+
+        -Jess
+
+56. Aure February 21, 2016 / 10:47 am
+
+    Hello, I am curious about starting blogs and want to get into it to make money if possible. How does one make money through blogs? Thanks!
+
+    Reply
+      + Jessica Knapp March 10, 2016 / 7:45 am
+
+        Hi Aure,
+
+
+        If you dig in to my old posts I have covered lots of articles on starting and monetizing a blog.
+
+
+        -Jess
+
+57. Kelsey February 26, 2016 / 12:42 pm
+
+    Hi Jessica, thanks for the advice! I have been setting up my blog over the last few days and written a few posts already. I’m really nervous to launch the site though so as of now only I have access to my blog. Did you wait until you had a good amount of material on your blog before publicizing it or did you start with one article and got more traffic as more material was added? Thanks!
+
+    Reply
+      + Jessica Knapp March 10, 2016 / 7:44 am
+
+        Hi Kelsey,
+
+
+        I started out with just a blog post and an about me page. It is entirely up to you but it can often be a good idea to have a few posts when you start your blog so people can learn more about you and the topics you are covering. There is no right and wrong answer ðŸ™‚
+
+
+        The main thing is to start, that is the hardest step – don’t be nervous – practise makes perfect your first posts probably won’t be your greatest but only by regularly writing and promoting your blog will you grow your audience and become a better blogger.
+
+
+        Congratulations on taking the first steps!
+
+
+        -Jess
+
+58. Harry March 10, 2016 / 4:29 am
+
+    Heres my suggestion: Before you start a blog, make sure you have some ideas what to write about. If you dont have any think about your hobbies or things youre passionate about. This helped me to find my niche/topic for my blog.
+
+
+    Awesome guide, by the way.
+
+    Reply
+      + Jessica Knapp March 10, 2016 / 5:57 am
+
+        Thanks Harry!
+
+59. Gus March 18, 2016 / 8:00 am
+
+    When you purchase your domain through the sign up process do you have to add the WordPress Essentials to be able to install WordPress on it? because i see that is an added charge…
+
+    Reply
+      + Jessica Knapp March 24, 2016 / 7:54 am
+
+        Hi Gus
+
+
+        WordPress essentials are not necessary. Just follow the exact steps in my guide
+
+
+        -Jess
+
+60. Denisha March 19, 2016 / 1:12 pm
+
+    Thanks so much for the information. I have been thinking about blogging for a while now. This has made it seem so much more simpler than I thought it would be.
+
+    Reply
+      + Jessica Knapp March 20, 2016 / 1:38 pm
+
+        Good Luck
+
+
+        -Jess
+
+61. Cris April 7, 2016 / 9:35 am
+
+    I just realized last week that I created a blog through WordPress. Then I saw this, and I was like “I made the right decision” ☺ I’ve been seeing people using blogspot. But I think WordPress is more sophisticated. Thank you! Very helpful.
+
+    Reply
+62. Ellie April 7, 2016 / 7:21 pm
+
+    This was so super helpful! I’m really looking forward to starting a blog now!
+
+    Reply
+      + Jessica Knapp April 15, 2016 / 9:25 am
+
+        Go get ’em Ellie!
+
+63. Llin April 7, 2016 / 10:47 pm
+
+    Hi, Jess!
+
+
+    I really want to start my own blog and earn money from it. And everyone I know just recommended me to use WordPress. I know WordPress is a good one, but I heard Google Adsense wont work with it. Is it true? And if it’s true, is there any platform that as good as WordPress that’ll work with Google Adsense? Thank you.
+
+    Reply
+      + Jessica Knapp April 15, 2016 / 9:24 am
+
+        Adsense works just fine with a self hosted WordPress blog. There should be no issues running a blog monetized by Adsense.
+
+64. Suzanne Shelton April 8, 2016 / 8:26 am
+
+    Thank you Jessica for your wonderful article! You make it sound very simple. I am looking forward to setting up a self-hosting blog
+    I can’t wait to begin! You really inspired me!
+
+    Reply
+65. David April 11, 2016 / 4:08 pm
+
+    Hey I’m thinking of starting a blog about my life as my parents are divorcing and hope to help kids in the same situation as I am to deal with it, this article cleared everything up for me and I’m looking forward to starting blogging in 2016.
+
+    Reply
+66. Rabeeta April 13, 2016 / 2:04 am
+
+    hey i actaully have 2 questions about starting a blog..1. is that if i just have a free blog on WordPress, and my blog is owned by them, will i still get money for it?? 2. i already made a free WordPress blog, but in case of any mind changes can i switch to a hosting company while still keeping the page i have already made? or would i have to start all over again?
+
+    Reply
+      + Jessica Knapp April 15, 2016 / 9:15 am
+
+        1. You can keep the money however you’ll be restricted to the types of products you can promote as WordPress.com are particular about the ad networks and affiliate offers open to you.
+
+
+        2. You can migrate to a self hosted blog later on but if you don’t have your own custom domain name then you’ll lose the traffic you have built up. A domain name is going to cost you $15 from WordPress.com whilst a domain name + 1 years hosting at Just Host is around $27 for the sake of around $12 I think it makes sense to start off totally in control.
+
+67. Deb April 13, 2016 / 8:55 pm
+
+    Great info, thanks! Got our self-hosted site up and running on WordPress but just have trouble coming up with things to write about ðŸ™�
+
+    Reply
+      + Jessica Knapp April 15, 2016 / 9:11 am
+
+        You’ll get there Deb… making blogging a regular habit will really help you to beat that writers block.
+
+68. Elle Domingo April 14, 2016 / 8:12 pm
+
+    This is a very good read. Been writing on tumblr but I wanted my very own domain. Can’t wait to start.
+
+    Reply
+      + Jessica Knapp April 15, 2016 / 9:09 am
+
+        Good luck with starting your blogging adventure – Jess
+
+69. Angel Rose April 15, 2016 / 1:38 am
+
+    Hi Jessica,
+
+
+    Im currently interested on starting a blog and Im wondering if it is possible to blog on a smartphone? Since I cant always carry a laptop around and most of the time ideas and inspirations just pop-up from unexpected places and I dont want to waste the feelings and emotions that I wanted to express on my writings just because I cant conveniently start from where I am
+
+
+    Regards,
+    Angel
+
+    Reply
+      + Jessica Knapp April 15, 2016 / 9:08 am
+
+        Hi Angel
+
+
+        Absolutely there are apps for managing WordPress blogs on phones and tablets.
+
+
+        Regards
+
+
+        -Jess
+
+70. Edmond April 25, 2016 / 5:39 am
+
+    Hey, thanks for the great post. When it comes to free blogging platforms, some they will allow you to use your domain. The problem is that some they will not allow you to monetize your blog and they can delete your blog without any valid reason.
+
+    Reply
+71. Magda April 25, 2016 / 1:15 pm
+
+    Hi Jessica
+    I found your tips really helpful but I have one question I live in the UK I would love to start blogging but is it possible to open blog in the UK and able to convert the language and menus in to polish ? Or do I have to open it the polish language? 😄
+
+    Reply
+      + Jessica Knapp May 12, 2016 / 9:32 am
+
+        Hey Magda
+
+
+        WordPress is multi-lingual so no issues there. As for opening a blog in the UK as long as you have a credit card and UK address then you can sign up with Just Host
+        Jess
+
+72. Magdalena April 25, 2016 / 1:41 pm
+
+    Hi Jessica
+    I found your tips very good 😄
+    I have one question I would like to start blogging I live in the UK at the moment but is it possible to open blog in here and then have the capability to convert it to another language ? Or do I have to do a separate blog in a different language
+    Thanks 😄
+    Magdalena
+
+    Reply
+      + Jessica Knapp April 26, 2016 / 2:52 pm
+
+        Hi Magdalena
+
+
+        WordPress is multilingual so it is very easy to adjust these settings.
+
+
+        Good Luck
+
+
+        -Jess
+
+73. Cinnamon April 26, 2016 / 10:20 am
+
+    Thank you Jessica for the information. I’ve read just about all of your blog posts and they have helped me, someone that loves using tech but not so tech savvy when it comes to building a blog. You made it easy right from the start and as I was thinking of questions they were being answered as I read a little more. Thanks again. (if you go to my web page it’s still in demo mode until I have enough material to begin!)
+
+    Reply
+74. Leah April 27, 2016 / 4:49 pm
+
+    This is very helpful. I have a question.. I’ve had a family blog on Blogger for years.. if I switch to WordPress..is there any way to convert the data? Or is there any other idea to capture the original data. I’m worried now since it’s not a custom self-hosted blog. Thanks!!
+
+    Reply
+      + Jess May 12, 2016 / 9:36 am
+
+        It is very easy to transfer from Blogger to WordPress, it can be done by exporting your posts and importing them into WordPress.
+
+
+        There are dozens of articles online and on WordPress.org which show you this process of “moving from Blogger to WordPress”
+
+75. Heidi April 30, 2016 / 1:16 pm
+
+    Hi Jess! I am a little bit confused on the actual action i need to take. Do I go to the wordpress website to set up my blog? Or do I go to the Just Host website? Thank you!
+
+    Reply
+      + Jessica Knapp May 12, 2016 / 9:30 am
+
+        Hi Heidi
+
+
+        Please follow my guide… there is no need to visit WordPress at all this process is conducted with Just Host
+
+
+        Jess
+
+76. Larson Heinonen May 1, 2016 / 9:28 am
+
+    I would like an response anyone, preferably from the author. I used to write a Blog and would like to start again. My previous Blog was hosted by WordPress. I was paying about 29.00 dollars a year for many years, but all of a sudden it jumped to about 150.00 a year. I tried contacting WordPress about this unexplained huge increase, but they chose not to respond. Since you recommend using WordPress, how can you assure me they will honour their promises, and when they don’t, what can I do?
+
+    Reply
+      + Jessica Knapp May 12, 2016 / 9:29 am
+
+        Hi Larson
+
+
+        WordPress is free open source software – you are referring to your web hosting company. Web hosts will inform you of any charges in advance and it is very easy to move to a new host. Some web hosts offer free transfers if you sign up for a contract of 12 months or more. The other thing to do to avoid sudden price hikes is pay for 36 months rather than 12.
+
+
+        Jess
+
+77. Luna May 8, 2016 / 10:06 am
+
+    I want to start a blog, but I can’t pay for a domain, so I thought I would use tumblr. Now I love tumblr, but I don’t think that is the best option for a blog cause the url will be myblog.tumblr.com and it just dosen’t look strong enough. So any suggestions?
+
+    Reply
+      + Jessica Knapp May 12, 2016 / 9:26 am
+
+        Hi Luna
+
+
+        Why can’t you pay for a domain? You should be able to get one for $1 p/month
+
+
+        -Jess
+
+78. Dylan May 11, 2016 / 7:03 am
+
+    Thanks guys, Feel like I can start a blog with ease. The way it was broke down made it seem so simple!
+
+    Reply
+79. Hannah June 12, 2016 / 4:20 pm
+
+    Hey!
+    I have already got a blog set up and I have just got it how I want it on blogger. However, I would like to take it further and maybe gain a higher following. I would like to get my own domain but I don’t want to loose my posts and content. Suggestions? Thankyou so much X
+
+    Reply
+      + Jessica Knapp June 20, 2016 / 10:41 am
+
+        Hey Hannah
+
+
+        transferring your blog posts from Blogger (Blogspot) to WordPress is super easy!
+
+
+        Jess
+
+80. Matthew p June 21, 2016 / 7:33 pm
+
+    I read this and it has inspired me! I am a fashion minor in college and am really looking forward to starting my own fashion blog thank you!
+
+    Reply
+81. Jigar Patel July 2, 2016 / 12:03 am
+
+    Thanks for sharing wonderful post Jessica, It’s really very helpful to newbie for starting a new blog.
+
+    Reply
+82. Renee July 4, 2016 / 9:18 pm
+
+    Hi Jess,
+
+
+    What are your thoughts on adding the site protection? Is it absolutely necessary?
+
+
+    Thanks.
+
+    Reply
+      + Jessica Knapp August 10, 2016 / 1:06 pm
+
+        Not essential. However you will need to make some efforts to backup and protect your blog, however there are dozens of free plugins these days.
+
+83. Nadia July 13, 2016 / 12:50 pm
+
+    Hi thanks for all your help! So I have a question. I want to make a blog but I want it be self hosted. Do I make it on WordPress first then get into Just Host or do I sign up with hosting and then connect it to WordPress? I was a little confused when you was talking about that. Thanks
+
+    Reply
+      + Jessica Knapp August 10, 2016 / 1:11 pm
+
+        Hi Nadia
+
+
+        1. Sign up for hosting
+        2. Install WordPress (for free)
+        3. Start bloggging ðŸ™‚
+
+
+        Jess
+
+84. John S. Zell - Web Designer July 13, 2016 / 2:39 pm
+
+    I always encourage my friends to look at WPengine for hosting, its a bit more pricey but is really stable and reliable, plus they include tons of goodies that are usually considered a premium service and they all work without a struggle. Thinks like a CDN, Backups, Offload to S3. All these things can really help the quality and consistency of your site and are definitely something to think about whether you are a beginner or an advanced blogger.
+
+    Reply
+      + Jessica Knapp August 10, 2016 / 1:10 pm
+
+        Hey John
+
+
+        WP Engine is a superb prospect however you’re looking at $29p/m for their most basic package. This is way out of the reach of most of my readers. This article is aimed at people who are just taking their first baby steps into blogging, and aren’t yet at a level of knowledge or income to justify something that costs over $300 per year. In comparison the hosting I recommend costs around $72 for 3 years and includes a free domain name in year one.
+
+
+        I’ve recommended a variety of blog hosts to my readers but premium managed hosting solutions aren’t what people want yet.
+
+
+        Jess
+
+85. Abilio Rodriguez July 21, 2016 / 3:36 pm
+
+    This is a lot of great information. I was a bit overwhelmed about all the different ways in which to start a blog but am feeling more confident now. Thanks for this! Looking forward to starting my blog soon.
+
+    Reply
+86. Carl Davies July 22, 2016 / 11:36 am
+
+    Hey,
+
+
+    Love this post. Been blogging online myself since 2010. I know all too well of how powerful blogging is for branding and monetization.
+
+
+    Nice, one! ðŸ™‚
+
+    Reply
+87. A Melton July 29, 2016 / 8:54 am
+
+    Will it be possible to set up a blog where comments cannot be posted and emails cannot be sent to me? My only interest in blogging at this time is for a limited number of friends and family. I don’t want to deal with comments and such from random visitors.
+
+    Reply
+88. Jon Cruz July 31, 2016 / 8:28 am
+
+    Hey Jess,
+
+
+    Just wanted to tell you that my wife and I went with your advice and signed up with Just Host. so far so good and now we’re on our way to setting up our homeschooling blog. thanks for sharing we’ll be frequenting this site for more knowledge in the future.
+
+    Reply
+      + Jessica Knapp August 10, 2016 / 1:00 pm
+
+        Hey Jon
+
+
+        Congratulations on taking the first steps with your blog. Good luck with it!
+
+
+        Jess
+
+89. Paz August 3, 2016 / 10:22 am
+
+    Hi Jessica!
+    first of all thank you, you’ve made it so clear!
+    I’ve got one question though:
+    what if I already have a web domain (I bought it from WordPress)
+    plus I already have a portfolio/blog site on WordPress for School purpose,(which I didn’t pay for by the way)
+    as I’m a Multimedia Designer.
+    is it Possible to open ANOTHER blog with my domain on WordPress as you recommended?
+    I’d love to have a another one apart from school and I Was wondering if that would be possible
+    without paying again, even though I’d like to have the full control on it.
+    Thanks in advance and have a nice day! ðŸ™‚
+
+    Reply
+      + Jessica Knapp August 10, 2016 / 12:58 pm
+
+        Hi Paz
+
+
+        You can transfer the domain away from WordPress.com to a domain registrar such as Namecheap or Godaddy. This might cost you around $9-12.
+
+
+        Once this is done you will be free to host your blog anywhere.
+
+90. Arvind August 5, 2016 / 9:28 pm
+
+    This is the post every new blogger needs to go through first. You have thoroughly explained the basics of blogging. Liked it ðŸ˜€
+
+    Reply
+91. Michael August 6, 2016 / 2:02 am
+
+    Hi,
+    I live in Germany and will like to start blogging career.
+    My question is can i use Just Host as web host or do i have to use anyone from Germany
+
+    Reply
+      + Jessica Knapp August 10, 2016 / 12:56 pm
+
+        Hey Michael,
+
+
+        You can use any hosting company you want as long as they offer PHP or WordPress hosting.
+
+
+        This start a blog tutorial highlights Just Host as I find they are very cheap for complete beginners to test the water with.
+
+92. Gary Campbell August 8, 2016 / 6:03 am
+
+    I have to agree with you and also put some emphasis on uniqueness. The most successful blogs today are definitely those that have an individual personal twist. People love new content and the more unique the likelihood that it will be shared more and draw in more people.
+
+
+    Thanks for sharing
+
+    Reply
+      + Jessica Knapp August 10, 2016 / 12:54 pm
+
+        Absolutely agree with you Gary. Be Unique, be yourself – I often find it easier when I sit down to blog to think about writing for one person.
+
+
+        Sometimes that can be a reader who has sent me a question, other times I might think of a friend or family member who needs some help.
+
+93. Melissa M August 18, 2016 / 4:54 am
+
+    Wonderful post! Thanks for sharing. I’m blogging about healthy food. I’ve been trying put traffic to my newly blog for months into no avail. The only thing that get me from stale mate point is that I’ve performed some serious keyword expansion. I’ve got help from support guys from the SEO tool I’ve been using. Now I know how to rank well for as many relevant keywords as possible and it did miracles to by blog. The tool calls SERPstat and the guy were awesome. Thanks for this post. And huge thanks for the guys who helped me. I’m starting to believe that if you put efforts into something, the universe will oblige)
+
+    Reply
+94. vibhor gulati August 22, 2016 / 1:20 am
+
+    What an amazing and well written article.
+
+
+    I agree to your thoughts and also think that the personal touch in a blog is an essential factor and that comes when the blog owner is really passionate about providing content and helping others.
+
+
+    I am choosing WordPress for my blog.
+
+    Reply
+95. Erik August 23, 2016 / 7:56 pm
+
+    Heres my suggestion: Before you start a blog, make sure you have some ideas what to write about. If you dont have any think about your hobbies or things youre passionate about. This helped me to find my niche/topic for my blog.
+
+
+    Awesome guide, by the way.
+
+    Reply
+96. Sue August 27, 2016 / 10:29 am
+
+    What great insights you have given us–thank you Jessica!!
+
+
+    I am a beginning blogger and not well stocked with images. I do not want to plagiarize any photos. Where can I find free images to use? Where can I purchase images at reasonable prices?
+
+
+    Thank you for your encouragement and help!!
+
+    Reply
+      + Jessica Knapp August 31, 2016 / 5:27 am
+
+        There are lots of stock photo sites that offer royalty free images under a creative commons license.
+
+      + lee November 23, 2016 / 10:33 am
+
+        Hi Sue,
+        Try pixabay.com, they have a good range of freebies to get you going, try also, as a newbie, keyword research, this will be critical to your early success, no matter what you want to talk about, there’s a ton of video’s online, worth investing some time before you get going!
+
+
+        Lee
+
+97. Randy J. September 3, 2016 / 4:32 am
+
+    Great article, yes I do agree that WordPress.org (self-hosted) is the best methods to start a blog and website these days. It has darn near become industry standard. Heck, you have major corporations transferring their sites over to WordPress. The reputation, flexibility, capability, tools and ease-of-use that it offers makes it a winner!
+
+    Reply
+98. Mayaprakash Pant October 26, 2016 / 7:57 pm
+
+    Boom! I just loved this one. It’s awesome.
+
+    Reply
+99. Vedika November 27, 2016 / 12:52 am
+
+    Hi Jessica,
+    I’ve wanted to start a blog for a while now and had some queries. This helped me a lot . Thank you so much ðŸ™‚
+
+    Reply
+100. Samantha Rogerss November 30, 2016 / 8:25 pm
+
+    I recently hit my 5 year anniversary at my current job it got me thinking about what I actually want to be doing with my life. I’ve flirted with the idea of starting a blog for a few years, but it’s scary! You mentioned that not only is blogging a great way to communicate, it can also help you to become a better person and a better writer. I love a good opportunity to better myself, and I think I might have to give it a try!
+
+    Reply
+101. JM January 24, 2017 / 2:57 am
+
+    Hi! I honestly love to start a blog because almost everyone in my school already doing it and I’m feeling out of place but I’m thinking if it’s too late to start up cause I don’t want to stress up myself anymoree
+
+    Reply
+102. Andre L. Vaughn January 26, 2017 / 11:50 pm
+
+    Great info on starting a blog…Your resource page is helpful as well Jessica. Thanks!
+
+    Reply
+      + Samir Ahmed December 8, 2017 / 3:14 am
+
+        Hi! I honestly love to start a blog because almost everyone in my school already doing it and Im feeling out of place but Im thinking if its too late to start up cause I dont want to stress up myself anymore
+
+103. Victorine February 18, 2017 / 6:13 pm
+
+    I blog on WordPress I’m amazed at the talent for writing, read some amazing pieces
+
+    Reply
+104. Kennan Chan February 27, 2017 / 12:11 am
+
+    Great blogging tips for beginners, Jessica. Hope to connect and learn more in depth from you ðŸ™‚
+
+    Reply
+105. Andre L. Vaughn February 27, 2017 / 12:43 am
+
+    Great points Jessica! You explained blogging about as well as anyone that I have read thus far. Good stuff and Thanks!
+
+    Reply
+106. Paola March 1, 2017 / 8:16 am
+
+    All I can say is thank you, thank you, thank you!
+
+    Reply
+107. KPike March 4, 2017 / 2:22 pm
+
+    This is a fantastic guide! Thank you so much!
+
+    Reply
+108. Judy March 7, 2017 / 11:06 am
+
+    I love to write! I usually write my thoughts in a journal or I doodle to entertain myself at any time.
+    I just recently Retired from my job and I think it would be fun to start my own blog! I guess I would say it is on the top of my Bucket List ! ðŸ™‚
+    I am now at the point of ..”So now what?” What will I blog about? I am with you Samantha, it’s Scary! but I want to do it!
+
+    Reply
+109. Ranjeet March 8, 2017 / 4:43 am
+
+    Wow! This is great post. I am glad that I found out this post. I will apply these things and share with other was well. SO, that can start blog as well.
+
+    Reply
+110. John March 9, 2017 / 2:08 am
+
+    Hi Jessica
+
+
+    Very useful and well written. This helped me a lot in my new motivational blog.
+
+
+    Thanks,
+
+    Reply
+111. Shalayla March 12, 2017 / 8:37 pm
+
+    Wonderful summary for someone like me who isn’t especially tech savvy ðŸ™‚ thanks a lot! Nice and simple
+
+    Reply
+112. Luca Todesco March 13, 2017 / 10:42 am
+
+    Thanks for the in-depth guide, Jessica. I’ve been blogging since 2009. The journey has been great thus far. What do you recommend for monetization apart from Adsesne.
+
+    Reply
+      + Jessica Knapp March 17, 2017 / 5:21 am
+
+        Hi Luca
+
+
+        I think the best thing is to think about what works for you and your audience. If you are happy to invest the time then coaching and your own info products can be highly lucrative. As can affiliate marketing.
+
+
+        Jess
+
+113. Pauline March 17, 2017 / 5:23 am
+
+    Hi Jessica, this article gives me hope that I can start a blog. I’ve started the biggest journey of my life of taking my health back. I felt it would be great to track all of this with pictures, videos and articles.
+    You’ve answered some great questions and attached a good article about the different pros and cons of which company to use. When I actually sit down to start, I will likely have questions to ask.
+    Thanks so much.
+    Blessings, Pauline
+
+    Reply
+114. Michael Likes Fashion May 6, 2017 / 5:36 am
+
+    Great article about blogging. This is very helpful. I have been blogging about fashion for my Apparel Search website for many years, but have not received much traction for the efforts. Hopefully your suggestions will be of help. Even though I post often and I think with helpful information for people interesting in clothing, I don’t seem to gain any followers. After several years, I have people reading the blogs, but no followers and not many people posting comments. Rather frustrating, but I will continue my efforts. Anyway, thank you for your post and hopefully it helps me and others improve our blogging.
+
+    Reply
+115. David May 7, 2017 / 10:14 am
+
+    Great post, blogging is hard. We run a travel blog and I think the most important thing we tell people is to travel with a purpose, Do not just wander around the world aimlessly. (Like ours is to experience and document the Top 100 Travel Adventures) So many travel blogs do not really have a purpose or a niche. Niche is key and many miss out on that because they want to cover and do it all. Do not just start a blog because you think you will get rich quick and be able to travel the world. It takes a lot of work and lots of time.
+
+    Reply
+      + Jessica Knapp May 10, 2017 / 12:27 pm
+
+        Thanks for dropping by and sharing your experiences.
+
+116. James December 4, 2017 / 5:21 am
+
+    Very useful guide. Thanks for sharing this.
+
+    Reply
+117. Dana December 8, 2017 / 10:38 pm
+
+    I am a newbie, which explains why I am here. Do you think it is a good idea to start with a blogger host using the free domain they offer before purchasing a domain of your own to ensure you have what it takes to gain a decent following and that you are up for the task of maintaining a good blog?
+
+    Reply
+      + Jessica Knapp December 30, 2017 / 9:50 am
+
+        No – you need your own domain. Moving blogs later will be very hard to do.
+
+118. Paul December 17, 2017 / 8:03 am
+
+    Hi Jessica!
+
+
+    Starting a blog is the start of opening new opportunities online. It may not be easy because crafting a blog’s content is challenging with all the the writing original and personalize content but in the end it is worth the hard work.
+
+    Reply
+      + Jessica Knapp December 30, 2017 / 9:48 am
+
+        Thanks for dropping by Paul
+
+
+        -Jess
+
+119. Katie Simmons December 19, 2017 / 7:56 am
+
+    Wow, I thought everything was going to be much more difficult before I started my research this morning.
+
+
+    I’m so pleased I selected your tutorial first. I am currently supporting our corporate instructional design team by assisting with quality review of training materials being developed for a number of large corporate clients. I know instructional design and find your writing and organization of content top notch!
+
+
+    I will be a constant visitor as I begin to set up my personal blog. I plan to launch next month as part of a fresh start to the new year.
+
+
+    Thank you and happy holidays!
+
+    Reply
+120. Chisom. December 23, 2017 / 9:38 am
+
+    Hi Jess, I already own a free hosted blog on wordpress because as a student I don’t really have enough money to get self hosting due to the yearly payment. right now I can’t activate Adsense and it’s being restrictive.
+    I really want my blog to stand alone.
+
+    Reply
+      + Jessica Knapp December 30, 2017 / 9:47 am
+
+        Just Host charge for a minimum of 12 months up front.
+
+121. Venny December 29, 2017 / 6:54 am
+
+    Thanks so much for this article and all of the links! I’ve been thinking about blogging for the past year. This year I started my Instagram page and just this week joined Twitter and Facebook as a means of (hopefully) expanding once the blog is underway. My first dilemma however, is the name! For the past four months, I have been @travelsandtantrums on IG (and the other platforms) however, I am thinking of changing that name as it began as a way of documenting our big family trip this year – I hadn’t counted on growth (as you talk about in your articles). Also, as our kids grow up, I hope that the ‘tantrums’ will subside – so, I don’t know whether to stick with what I have or to change to a more ‘family/reality’ name. It is catchy but is it relevant if we are not ‘travelling’ all the time? Hmmmmm. I’d love to know what you think!
+
+    Reply
+      + Jessica Knapp December 30, 2017 / 9:45 am
+
+        Hi Venny,
+
+
+        The most important thing is choosing a name you’re going to be happy with for the next 3 years at least.
+
+
+        Blogs always evolve over time some of my first blogs didn’t really stick to a small set of topics after a while but it’s better to show expertise and experience in one area to begin with.
+
+
+        Jess
+
+122. Hafiz Khan December 30, 2017 / 4:15 am
+
+    Hey Jess,
+    Thanks for this post. Its really helpful and makes me wanna start blogging. In fact, I will be starting it soon(though its a bit late since 2018 is near lol). But thanks for you post. Its superly encourage me to start soon.
+
+    Reply
+      + Jessica Knapp December 30, 2017 / 9:24 am
+
+        Good Luck with your blog Hafiz.
+
+123. Karen February 6, 2018 / 10:36 am
+
+    Great article, Jessica. Love the way you write. Working my way through your article links. Then Ill sign up to your blog.
+    Thank you!
+
+    Reply
+124. Petr Sejba February 10, 2018 / 1:03 pm
+
+    Hi Jessica,
+
+
+    Nice beginner-friendly guide. I would add a quick tip for those who are starting their blogs.
+
+
+    Many bloggers spend a lot of time looking for “the best” theme and later invest even more time in its customisation. Sure, there is nothing bad about having a nice design. But…
+
+
+    As the majority of them are not full time bloggers, every hour more spent on the designing of the blog means one hour less for creating the content. And, using the chess terminology, if the content is king (and quality backlinks queen), the blog design is only bishop.
+
+
+    I always recommend to the newbies start to publish their articles as soon as possible and not spend more than 20% of the time with other tasks. Why?
+
+
+    Because even an ugly blog with great content can be successful. But nice blog without good content will never attract new visitors.
+
+    Reply
+125. Katrina February 10, 2018 / 2:59 pm
+
+    I am starting my blog, and this has been totally helpful. I’m considering to self host since I’m having troubles on having enough freedom to customise my website.
+
+    Reply
+126. Terri February 22, 2018 / 10:43 am
+
+    Hi Jessica,
+    I am a writer (freelance) of print production, which as we all know, is going the way of the dinosaurs. While your tutorial was helpful, I am a dinosaur. Please send me one link (I will pay a fee, if reasonable, but I only want to pay one fee…and this tutorial leads me (I am sure, incorrectly), to believe I must pay this and that for a domain , host, etc.
+    I know exactly what content I want to do. Please send me one link. Thanks!
+
+    Reply
+127. Emenike Emmanuel March 10, 2018 / 2:57 pm
+
+    Hello Jessica,
+
+
+    Thank you very much for this amazing guide. Sorry, I have not been able to come back to appreciate your good work.
+
+
+    I can remember vividly that I visited this blog for guide when I wanted to start “Entrepreneur Business Blog,” in 2016. Today, we generate over $1000 and we’ve been able to build another blog from there and set up a digital marketing firm.
+
+
+    I wish I have a better way to forward my testimonial so as to motivate someone else.
+
+
+    Keep it up here.
+
+
+    Emenike
+
+    Reply
+128. Ruth Eshun March 12, 2018 / 5:12 pm
+
+    I was thinking am too late to be part of blogging,but thanks for your post it’s really encourage me to start soon
+
+    Reply
+      + Jessica Knapp March 21, 2018 / 5:12 am
+
+        Good luck with your new blog
+
+      + Amit October 11, 2018 / 9:44 pm
+
+        Now you can choose micro blogging to start. You can take information through youtube on micro blogging.
+
+129. balram September 27, 2018 / 3:56 am
+
+    Great article, Jessica. Love the way you write. Working my way through your article links,
+    We run a travel blog and I think the most important thing we tell people is to travel with a purpose, Do not just wander around the world aimlessly.
+
+    Reply
+130. Ireen October 9, 2018 / 9:51 pm
+
+    Hi Jessica,
+    Thank you for your tips. I’ve been thinking about starting a blog but didnt know how.
+    Briefly read your tips and rightaway I started one. Not too sure if it’s a great idea for me as I hv a fulltime job.
+    Nway, pls take a look at the site I’ve created, published my first very simple column and do feel free to share any DOs, DONTs, IMPROVEs for the site.
+
+
+    Appreciate your imputs.
+
+
+    Thank you,
+    Ireen
+
+    Reply
+131. Rajan Arora October 11, 2018 / 1:28 am
+
+    Such a useful content! I love when people like you make learning easier for other people. Just like you, I’m also working on my blog to teach people about making money online. I will definitely link this article in my posts.
+
+    Reply
+132. cesar October 11, 2018 / 11:05 am
+
+    Thanks for the information, very clear and simple. I will try to use it.
+
+    Reply
+133. Chris January 7, 2019 / 8:38 pm
+
+    Great write up. It’s amazing how few businesses still don’t blog. Thanks for writing an easy to follow guide to them to learn from.
+
+    Reply
+134. Nerilla January 9, 2019 / 9:01 am
+
+    Thank you for this tips, I want to start new blog to review books and anything book related. I am scared to start and I am the type who gives up easily if they don’t succeed quickly. we will see how it will turn out.
+
+    Reply
+
+Leave a Reply
+
+
+Your email address will not be published. Required fields are marked *
+
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+© 2019 Blogging Basics 101. All rights reserved.
+BloggingBasics101.com is Powered by WordPress and JustHost.

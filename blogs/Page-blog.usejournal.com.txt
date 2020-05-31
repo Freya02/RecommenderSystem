@@ -1,0 +1,194 @@
+Homepage
+Homepage
+Follow
+Sign inGet started
+  * Home
+  * Your Stories
+  * Get Early Access to Journal 🤩
+  * Home
+  * Your Stories
+  * Get Early Access to Journal 🤩
+
+* Switching from iPhone 7 to Google’s Pixel 2 XL
+
+
+Last October, Google announced a line of products that looked more human than most hardware on the market at the time. As I lately got more and more annoyed with Apple’s iOS, and the decline in their product quality and service, I made the leap to Android. After about six weeks of usage, here’s what I think of it.
+
+Daniël van der WindenBlockedUnblockFollowFollowing
+Jan 18, 2018
+
+The Google product lineup
+
+I recently spoke to a friend who said he “didn’t care about what a phone looks like anymore — they’re all the same”. It’s true; pretty much every phone looks like the same cold, lifeless slab of glass and aluminium. Even Apple’s iPhones, once lauded for bringing hardware design to a higher level, have started to feel boring. It seems like the looks of a phone played a way larger role a few years ago. Now, we want a phone that works well and takes great photos.
+
+
+Google’s announcement of the Pixel 2 phones, Google Homes, the creepy camera, the VR headset, their Pixel buds, speaker and laptop/tablet hybrid made me think of Dieter Rams’ work for Braun—although the great Teenage Engineering also popped up.
+
+
+Rams has created or overseen the creation of numerous products for Braun. Most, if not all these products, have a certain elegance and timelessness, mostly due to their materials, the sparse use of colour and typography, and their ease of use.
+
+
+Without lingering on it too much, I think this line of Google products is close to achieving the same thing. Their speakers and Home products look like furniture that will seamlessly blend into their surroundings. Their phones feel like—bear with me—a useful utility made for a human being, rather than a brick of computing power. From a product design point-of-view, the look of these products is an exciting development.
+
+
+If you’re interested in reading more about Google’s hardware design, have a look at this article on Design Milk.
+
+
+The Google Pixel 2 XL
+
+
+On size and battery life
+
+
+I’m not going back to 4.7”
+
+
+One of my fears was that the phone would be too big. I’ve been an iPhone user since the iPhone 4 and have never chosen the larger model. After six weeks with the Pixel 2 XL, I don’t see myself going back to a small phone anytime soon.
+
+
+While comparing the Pixel 2 XL to the smaller version, I noticed the difference in size between the two is minor. I’d say the Pixel 2 is more awkwardly sized than the XL version, and the XL gives you a lot more screen. It runs all the way to the edges, while the screen of the smaller version reveals larger bezels. Even if you have small hands, it might be worth holding both before deciding that a big phone is not for you. I worried it might slip out of my hands, but the Pixel 2 XL has an aluminium body and the matte coating provides more grip.
+
+
+I’ve enjoyed the larger screen a lot so far. Reading articles on Instapaper’s black background is very immersive. The edges of the screen seem to disappear completely. With this phone I’ve done more reading in the Kindle app than I used to, and watching YouTube or Netflix in fullscreen is great.
+
+
+Instapaper in fullscreen
+
+One charge every two days
+
+
+My iPhone 7 running iOS 11 was a shitshow when it comes to battery life. I had to charge it around 8pm every evening if I wanted to keep it on until bedtime.
+
+
+The Google phone’s battery lasts me so long I can afford to forget charging it. On a full charge I can use it for at least a full day. That’s snapping photos and Instagram stories, sending messages on Telegram or Whatsapp, listening to podcasts for about an hour, a Headspace session, and reading an article or chapter of a book here and there. I’ll go to bed without having thought of charging the battery. When I wake up, it’s usually at 55%, lasting me another day before charging it the following evening.
+
+
+From iOS to Android
+
+
+Many friends mentioned being “locked into the Apple ecosystem”. For me, switching was as easy as or easier than switching from one iPhone to the other. The phone comes with a dongle you can plug into your iPhone. Within half an hour it has copied your contacts and whatever apps you’ve decided to keep, provided they are available for Android.
+
+
+After switching I realised I’m more locked in to Google’s ecosystem than I am into Apple’s. I use Google Maps, Google Mail, and Google Photos, as Apple’s offering has sucked on those fronts for as long as I can remember. I only used iCloud to sync iA Writer documents between my phone and computer, but using Dropbox instead was a piece of cake.
+
+
+Nifty details and customisation
+
+
+I had a ton of duplicate contacts on my iPhone for whatever reason. Deleting them on iOS is a pain, so I never got around to it and accepted a contact list three times the size it should be. After importing all my contacts, the Google phone first asked if I wanted to merge all my duplicates in one tap. Aces! ✨
+
+
+It’s details like those that make the Android OS a delight to work with. The control centre is customisable — I know, Apple also introduced that recently — and if the keyboard is not to your liking, you can choose a theme (light, dark, with or without button shapes) that better suits you. It listens to music playing around you and provides you with the song on your lock screen, which is scary and more convenient than I’d imagined. You can choose to set several widgets on your home screen; my calendar widget shows me my next upcoming appointment, if available.
+
+
+If you feel like going all-in with customisation, you can tap the phone’s build number 10 times to enable developer mode. “You are now a developer!”, it’ll say, after which you can customise even more things, like the speed of animations. I won’t encourage messing too much with those, but the fact that the OS has numerous ways of customising it to your personal preference is a big plus.
+
+
+Squeeze for help
+
+
+The Google Assistant — which you can bring up by long pressing the home button or squeezing the phone — is a gazillion times better than Siri. I actually use it now and, occasional screw ups aside, it’s very accurate. Also, you can squeeze the phone to bring up the Assistant!
+
+
+😏
+
+At home I use a Chromecast Audio to stream music to my speakers. Pairing it with an iPhone was pretty OK, although it did force me to turn Spotify or wifi on/off on a regular basis. With the Google phone, connecting is instant and I haven’t had any problems. I wouldn’t expect otherwise from one Google product talking to the other, but it’s nice nonetheless.
+
+
+Swiping and squeezing
+
+
+Fingerprint sensor and NFC payments
+
+
+The fingerprint sensor is on the back, conveniently placed for your index finger. Swiping down on the scanner brings down the notification/control centre. When the phone is on its back, you don’t have to pick it up to see your notifications. Double tap the screen to light up the lock screen and see if you have any. The way notifications are displayed on the lock screen minimises my urge to open apps, which is a plus.
+
+
+Photo: Mark Wilson (Fast Co Design)
+
+The phone has a built in NFC chip, so I can now use it to pay at PIN terminals. I had to install an app from my bank to enable it. After that I could hold it near a terminal once the cashier had entered the amount. It has proven to be quicker than pulling a card out of your wallet, and it has worked without fault almost every time.
+
+
+Photos of my food have never looked better
+
+
+The camera is great. I’ve taken some photos in low light and they come out very well. It has a Portrait Mode, which blurs the background and leaves you with a nice portrait. Much has been said about the difference between Google and Apple’s portrait mode (one being software-based while the other is created by hardware), but I don’t see or care much about the difference. I’m not going to use this phone for professional photography. I just want to take a nice picture of my girlfriend or a plate of food now and then, and it more than does the job for that.
+
+
+A photo in low light and Portrait Mode used on a bowl of ramen
+
+
+Google Lens
+
+
+The camera has Google Lens integrated. Snap a photo, hit the Lens button and it will try to find whatever it sees in the photo. Again, this works very well and has been convenient for looking stuff up now and then. It’s also built into the Google Assistant, allowing you to open the camera and tap anything you’d like to find more information about. See below.
+
+
+Google Lens integrated into Google Assistant ✨
+
+A note on apps
+
+
+The only apps I’ve missed so far are Darkroom, for editing photos, and Things, for my to-dos. Luckily, Things recently added a feature that allows you to email tasks to your to-do list, so that helps. It’s a bit of a bummer that I can’t look at my to-dos on my phone — and judging by Cultured Code’s development speed, an Android app might be scheduled for 2022 — but it’s not that big of a deal. For editing photos I’ve simply switched back to VSCO.
+
+
+I used iMessage with my girlfriend and 6 other friends, and have switched to Telegram or Messenger with them. This might be a hassle if you’re all-in on iMessage, but it was hardly an issue for me.
+
+
+Google’s apps are high quality and I enjoy using them. Some apps from third-party developers have proven to be a little less great than they are on iOS. Instagram’s compression on videos taken with an Android phone is lousy, for whatever reason. Instapaper crashes more often than I’m used to, and it expresses the time it takes to read an article in a range of dots instead of minutes. I have no idea why an Android user would prefer that. Goodreads is an absolute mess on Android, but that’s no surprise.
+
+
+Watching videos on YouTube in fullscreen is glorious 👌
+
+I’ve found a worthy replacement for the iOS Podcasts app in Pocket Casts. For email and my calendar I use Outlook — which is basically Sunrise, rest in peace—and I’ve been keeping my notes in the great Dropbox Paper more often. The Twitter app on Android is fine (as it is on iOS). Google’s Inbox is great for email too.
+
+
+Overall, the Material Design language does make well-designed apps more fun and immersive to use. As Owen Williams put it:
+
+Apps are full of color, playful animation and fun design flourishes. Where iOS has become flat, grey and uniform, Google went the opposite direction: bright colors, full-on fluid animations and much, much more.
+
+Aside from this, apps are able to integrate more closely with the OS. A good example of this is that Spotify, Sonos or Pocket Casts can show on your lock screen persistently, allowing you to skip or pause playback. Overall, I’m finding the Google ecosystem to be much more pleasant to work with than Apple’s, and agree (again) with Owen that Google is eating Apple’s ecosystem for lunch.
+
+
+TL;DR — I am very happy with this phone
+
+
+The Google phone is here to stay. I’m not tempted to go back to iOS, as I haven’t missed it since I switched. If you’re considering making the switch, I’d fully recommend the Pixel 2 XL 🔁
+
+
+I’m currently tempted to purchase a Google Home Mini and might even replace my Apple TV (which has mostly been an expensive disappointment) with a Chromecast. Slippery slope.
+
+
+I look forward to see what Google will do on their next iteration!
+
+
+This story is published in Noteworthy, where 10,000+ readers come every day to learn about the people & ideas shaping the products we love.
+
+
+Follow our publication to see more product & design stories featured by the Journal team.
+
+  * Android
+  * iOS
+  * Google
+  * Review
+  * Tech
+2.3K claps
+24
+* BlockedUnblockFollowFollowing
+
+Daniël van der Winden
+
+
+I design things at Bakken & Bæck and run our Amsterdam office.
+
+* Follow
+
+Noteworthy - The Journal Blog
+
+
+The Official Journal Blog
+
+  * 2.3K
+* Never miss a story from Noteworthy - The Journal Blog, when you sign up for Medium. Learn more
+Never miss a story from Noteworthy - The Journal Blog
+Get updatesGet updates

@@ -1,0 +1,138 @@
+Skip to content
+
+Technology Personalized
+
+
+Tech Blog with a focus on personal and consumer technology. The best place for meaningful tech news, analysis, views and reviews.
+
+  * Featured
+  * News
+  * Tiny Tip
+  * Downloads
+  * Gadgets
+  * iPhone
+  * Android
+  * Reviews
+  * Tutorials
+  * TimePass
+  * Search for:
+  * Home
+  * About
+  * Contact Us
+  * Follow us on
+  * FB
+  * TW
+  * G+
+review
+
+Moto e5 Plus Review – Big Battery for a Bigger Price
+
+
+The moto e series initially started off as an entry-level smartphone lineup and offered a smooth Android experience while not being too heavy on your wallet. With time, the series has evolved and since the last couple of iterations, has a new suffix added to it, which is “power”, if you were wondering, with a major focus on battery life as the name suggests. The fifth edition, the moto e5 Plus power is here with a design overhaul and some 2018 goodness. So let’s see what it brings to the table.
+
+
+Right off the bat, the e5 Plus does indeed look good. The display up front is now an 18:9 panel and the bezels appear to be pretty slim, except for the chin which has a prominent branding reminding you that you’re using a Motorola device each time you look at your phone. We wish they instead made the bottom symmetric with the top which would give the device a much sleeker look. As usual, the front facing camera, sensors, the earpiece, which also doubles up as a speaker, and a front-facing LED flash are housed at the top of the display.
+
+
+On the right, we have the power button, which is textured, and the volume rockers combo, while to the left resides a SIM tray with support for two SIMs and an SD card, which is a nice thing to see. The 3.5mm audio jack along with the secondary noise cancellation mic reside at the top, while the micro-USB port and the primary microphone are housed at the bottom. The sides of the phone seem like plastic, but we’re no Jerry-rig-everything to test that out for ourselves. Moto says the back is made up of 3D polymer glass and while it does reflect light and catch smudges like glass, it doesn’t feel as premium. During my usage, I noticed a ton of scratches on the back and one of our units even had a slight flex to the back which makes us believe moto is using a premium quality plastic panel with a glass-like coating on top.
+
+
+To prevent scratches, however, thankfully, moto has bundled in a TPU case along with the device which we definitely recommend you to use. Other than that, the phone has some heft to it, thanks to the humongous 5000mAh battery, which also gives it an assuring feel. The back also houses a fingerprint scanner with the moto branding, which is a nice substitute to the moto dimple we’ve all loved seeing throughout these years on moto devices. The scanner itself, while being accurate, isn’t as fast as the competition, but it does get the job done. Not to forget, the e5 Plus also comes with a splash resistant nano coating which would protect your phone from accidental spills. Overall, the moto e5 plus is built pretty well, except for the scratches to the back and the flex I mentioned about, both of which can be dealt with by putting a case on, which most of us do anyway, right?
+
+
+Coming back to the display upfront, the moto e5 plus sports a 6-inch HD+ display with rounded corners and an aspect ratio of 18:9, something without which, selling a smartphone in 2018 has become a sin. Colors on this display look appealing to the eye, and while those of you who love to pixel peep might not be too pleased with a modest 268 PPI, the display itself doesn’t disappoint during most use case scenarios. Of course, if you look at the display from real close, you would be able to spot some jagged edges, but when was the last time you held your phone two centimeters away from your face? Using it under broad daylight didn’t seem troublesome either. At this price point though, I would’ve preferred a Full HD display.
+
+
+Let’s talk about cameras now. The 12MP rear shooter on the e5 plus resides inside a watch dial design module and while at first sight, this might seem like a dual lens setup, the second circular ring that you see is actually a laser autofocus sensor, making the smiley face blind by one eye. The aperture on this lens is f/2.0, and the pixel size is capped at 1.25 microns. As mentioned earlier, there’s support for laser autofocus as well as PDAF forming a hybrid focus combo. Specs aside, the rear camera on the e5 plus under broad daylight conditions is, to say the least, moody? Few shots, especially macro, look surprisingly good with good color reproduction, while a few long range shots have faded colors and lack dynamic range, hence blowing up the highlights in the sky. When we move to indoor lighting or low light conditions, there’s a lot of noise in the images taken from the e5 plus which also results in fewer details captured. Edges look smudged, and there’s not a lot of light let into the sensor which results in sub-par images.
+
+
+Coming to the front-facing 5MP shooter, images under good lighting conditions look nice with a good amount of detail, but it seems to struggle a bit with exposure, which should be fixed with a software update. Under low light, as expected, the quality seems to deteriorate, and pictures turn out to be softer, but usable. There’s also a front-facing LED flash which would surely help when it’s pitch dark. And yeah, there is no portrait or bokeh mode that we have come to expect from all smartphone cameras these days. Interestingly, Moto has enabled Slo-mo on both rear and front cameras which is decent enough.
+
+
+Link to our Flickr album with Full resolution camera samples
+
+
+Talking about performance, the moto e5 plus has a Qualcomm Snapdragon 430 chipset underneath coupled with the Adreno 505 GPU. While on paper the e5 plus seems underpowered, and it surely is for the asking price, day to day performance was smooth with little to no lag or frame drops while navigating through the UI, thanks in large to an almost Stock Android experience. Using common apps like WhatsApp, Twitter, Hangouts, etc. I did not notice any stutters. While app loading speeds can be improved, I don’t have much to complain about on the performance front. Intensive tasks like gaming are handled pretty smooth as well, not at the highest settings though.
+
+
+As stated earlier, the smooth performance can be credited to the software, which is clean and does not come with any bloat other than a few moto apps. We have the regular moto features like moto display which shows all your latest notifications on an ambient display kind of a screen and also a few moto gestures. The reason I said few, is because some regulars which we’re used to seeing on moto devices like chop to turn on flashlight or twist to jump to camera are missing for some reason. Another gripe I have is that the Android version is still 8.0 Oreo. Moto had made a name for itself to provide timely updates to its devices which seems to be fading away of late. Also, there is no support for the much-loved face unlock feature we’ve been seeing on a lot of smartphones these days. While most standard sensors seem to be present, there’s no gyroscope which means no VR or 360-degree content.
+
+
+The USP of the moto e5 plus is its mammoth 5000mAh battery. While the battery backup on the smartphone is good enough to last you more than an entire day’s heavy usage, it somehow didn’t live up to my expectations. Don’t get me wrong, the e5 plus has great battery life, but having used phones like the Redmi Note 5 Pro with a smaller 4000mAh battery, the e5 plus seems to be on par while I expected it to do better given the extra 1000mAh. Probably, the chipset is to blame for this, as the SD430 is built on the older 28nm manufacturing process as compared to the 14nm FinFET technology used in the SD636 SoC found on the Note 5 Pro. There’s a 10W charger in the box which charged the e5 plus from 10-100% in just under 3 hours, which is quite a long time, but given the huge capacity, is acceptable.
+
+
+The moto e5 plus will be sold in India in just one variant, with 3GB of RAM and 32GB of storage, at a price of Rs. 11,999, which puts it right in competition with Motorola’s own Moto G6 which comes with a superior chipset, a dual camera set up, as well as a full HD display, but a smaller battery and a sleeker design. The other competitor is the Asus Zenfone Max Pro M1 which also comes with a 5000mAh battery and has a way better chipset in the form of the Snapdragon 636 and also comes with dual cameras to the back and a full HD display. But then, Motorola is banking on its seemingly superior brand value and taking the Moto E series to the next level. Do let us know if you wish to get the moto e5 plus over other smartphones in this segment, and if you too wish that moto went back to its roots of providing value for money smartphones.
+
+
+Moto E5 Plus
+
+Rs 11,999
+8
+
+Build and Design
+
+8.5/10
+
+* Performance
+
+7.5/10
+
+* Camera
+
+8.0/10
+
+* Software
+
+9.0/10
+
+* Price
+
+7.0/10
+
+* Pros
+
+  * Attractive Design
+  * Good battery life
+  * Reliable Performance
+
+Cons
+
+  * Price on the higher side
+  * Inconsistent Camera
+  * Dull Specs sheet
+Buy from Amazon
+Last updated by Sumukh Rao, on 10-Jul-18
+  * SHARE
+  * TWEET
+  * SHARE
+  * EMAIL
+  * LinkedIn
+  * Print
+  * Reddit
+  * Pocket
+  * 8shares
+Sumukh Rao Intern A tech fanatic with a hunger for knowledge in the evergrowing field of science and technology. An avid quizzer and a gadget critic who reviews tech from the inside! Keen interest in modding Android devices, Recognized Contributor at XDA Developers.
+VIEW COMMENTS
+Review View All
+review
+
+Amazfit Verge Review: GPS Smartwatch on the Verge of Perfection
+
+review
+
+Honor View 20 Review: Looking to punch a hole in…
+
+review
+
+Samsung Galaxy M10 Review: The foot soldier of the M…
+
+review
+
+Samsung Galaxy M20 Review: Here’s looking at you, (Redmi) Note
+
+© Copyrights 2019. Technology Personalized. All rights reserved.
+
+Send this to a friend
+
+Your emailRecipient email
+SendCancel

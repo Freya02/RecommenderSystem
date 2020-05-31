@@ -1,0 +1,231 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+POCO F1 Review: Deal of the Century
+
+
+
+If you’re in the market for a new smartphone, you’ve probably heard of the POCO F1 by now. An all new sub brand by Xiaomi, the POCO is aimed at giving you all out performance and all the other features you expect from a high end phone, at a very affordable price. Yes, we’ve heard that before. Heck the entire ‘Flagship Killer’ category stemmed from providing high end internals at a relatively low cost price. Now, before we do a deep down on the phone, let me just put it out there. The POCO F1 is possibly the best deal in smartphones right now and yet, it is not exactly a flagship and/or a OnePlus 6 killer. Confused? Let us explain.
+
+
+POCO F1 specifications
+
+  * 6.18-inch (2246 × 1080 pixels) Full HD+ 18.7:9 2.5D curved glass display, 1500:1 contrast ratio, 84% NTSC color gamut, Corning Gorilla Glass protection
+  * Octa-Core Qualcomm Snapdragon 845 Mobile Platform with Adreno 630 GPU
+  * 6GB/8GB LPDDR4x RAM, 64GB / 128GB/256GB (UFS 2.1) storage, expandable memory with up to 256GB with microSD
+  * Android 8.1 (Oreo) with MIUI 9, upgradable to Android 9.0 (Pie)
+  * Hybrid Dual SIM (nano + nano / microSD)
+  * 12MP rear camera with dual LED Flash, f/1.9 aperture, 1.4μm pixel size, Sony IMX363 sensor, Dual Pixel auto focus, secondary 5MP camera with Samsung sensor
+  * 20MP front-facing camera with ƒ/2.0 aperture
+  * Fingerprint sensor, IR face unlock
+  * 3.5mm audio jack, Dirac HD, Dual Smart PA
+  * Dimensions: 155.5x 75.3x 8.8; Weight: 180g
+  * Dual 4G+ VoLTE, Wi-Fi 802.11 ac (2.4GHz + 5GHz), Bluetooth 5, GPS + GLONASS, USB Type-C
+  * 4000mAh battery with Qualcomm Quick Charge 3.0 fast charging
+
+Design
+
+
+The design of the POCO F1 is, for lack of a better word, utilitarian. It is neither the best looking device on the market nor is it bad by any stretch. Like every other modern smartphone, the entire design of the phone is centred around the large display. There’s a fairly big notch but it redeems itself by integrating an IR LED as well as secondary camera for face detection that gives it possibly the fastest face unlock capabilities we’ve seen on an Android phone. Just as good as the OnePlus 6 but now with the added ability to work at night.
+
+
+The bezels all around seem just slightly thicker than the OnePlus 6 but the difference is so small that it is quite hard to quantify it. The chin though is quite substantial. Along the bottom edge lies a USB Type C port and at the top is the 3.5mm audio jack.
+
+
+Running all along the edge of the device is a matte black aluminium frame. The screen sits ever so slightly proud of the frame and this gives you a spot to place your thumb for a better grip. The button configuration is as standard as it comes with segregated volume keys and a power button on the right. We love the tactile feel here and the buttons feel reassuringly clicky. Over on the left is a hybrid SIM slot.
+
+
+The POCO F1 is available in multiple configurations including an Armoured Edition that swaps out the polycarbonate back for a Kevlar panel. The polycarbonate panel looks rather pedestrian but POCO insists that the vast majority of people use a case and so it makes sense to cut corners here. In terms of design, not quality of course. For everyone else, there’s the Kevlar panel which looks quite a bit better and feels grippy to the touch ensuring that the phone will not slip out from your hands. The tradeoff of course is that it attracts smudges like moths to a flame. It isn’t easy to clean off these smudges and as things would have it, you’d be better off with a case on the phone.
+
+
+The POCO F1 feels like it has been built to very tight tolerances and say what you will about the choice of materials, you really cannot complain about quality. Polycarbonate might have helped the company bring down costs just a little bit but this is not a throwback to the cheap plastics of the past. Lift up the phone once and everything from the density of the hardware, the reassuring heft, tactile feedback from the keys and the overall build do a great job of convincing you that this is a very well built phone.
+
+
+Software
+
+
+On the face of it, the POCO F1 runs the same MIUI that you’ve come to love or hate on Xiaomi phones. Dig a little deeper though and you’ll observe numerous tweaks to the standard formula that have made using MIUI 9 a much more tolerable, perhaps even pleasurable experience.
+
+
+POCO Launcher on the F1 supports an app drawer. This is a huge departure from MIUI on Xiaomi devices where the entire approach was quite iOS like in its nature. The home screen is straightforward enough and you can have any and all app icons, folders and widgets you might want. There are a few customisation options including icon packs and themes. Swiping to the left reveals a shelf which some might find useful. The presence of ads in the shelf area is however quite a turn off.
+
+
+Instead of making frivolous additions, the team over at POCO seem to have focussed on more important quality of life additions. A key indicator for this is the search bar placed at the bottom of the screen. As phones keep getting taller, it is increasingly become harder to reach to the top of the screen to hit the search bar. Placing it at the bottom makes it much easier to search for apps on your own device.
+
+
+App management too has been overhauled and the system can automatically sort apps depending on their utility. Be it entertainment, tools, games or communications, MIUI on the POCO F1 does a pretty good job though some apps do manage to fall through the cracks. A new addition to the sorting capabilities is to group by color. For commonly used apps like Facebook, WhatsApp and more, color is just as good an indicator as the specific icon. For eg: You can quickly tap the blue color to get to a page displaying all apps with blue coloured icons. This makes launching Facebook, for example, a two process instead of having to swipe multiple times.
+
+
+The phone should get the MIUI 10 update in the coming months which takes more drastic steps to clean up the interface and make it more consistent with stock Android. As it stands though, MIUI on the POCO F1 is a much faster beast and strikes a good balance between the benefits of MIUI and the sheer speed of the stock Android launcher.
+
+
+Performance
+
+
+Honestly, there’s not much to say here. With the same Snapdragon 845 processor as the fastest Android phones in the market, up to 8GB of LPDDR4x RAM and UFS 2.1 storage, the phone is quite obviously a scorcher. We’ve put the POCO F1 through practically every test possible. Be it benchmarks or sheer gaming, this phone simply doesn’t slow down. The liquid cooling tech built into the phone does a good job too. We stress tested the smartphone by simulating peak CPU usage. At the 15 minutes mark, the performance had dropped down only to 80% where the phone managed to maintain it further. Pushing the phone hard through synthetic tests and gaming, the phone certainly did get warm to the touch but never enough to be deemed too hot to handle. We’ve added some benchmarks below for your perusal.
+
+
+In Basemark X 1.1, the phone scores 45190 points, edging ahead of the OnePlus 6 ever so slightly.
+
+
+In Basemark OS II, the POCO F1 scored 4191 points, ranking below devices like the OnePlus 6 and Vivo NEX.
+
+
+In AnTuTu 7, the POCO F1 managed 266490 points.
+
+
+Display
+
+
+Simply put, the display on the POCO F1 is kinda disappointing. Nah, not the notch. That we can live with. The addition of infrared based face unlocking justifies it’s presence. The panel itself is quite obviously a primary area where cost cutting has taken place.
+
+
+The 6.18″ panel appears rather lifeless when put against devices like the Honor Play with the OnePlus 6 and Zenfone 5Z. Colors are very muted and overall brightness levels aren’t particularly amazing either. Despite the ability to adjust color saturation, the display never really wows.
+
+
+Things are a bit more grim when looking at the phone outdoors. Brightness levels leave a lot to be desired and even at maximum levels, the phone isn’t all that easy to see in bright sunlight. Especially when compared to how bright competing phones get.
+
+
+Camera
+
+
+On paper, the POCO F1 has a pretty competitive dual camera module. The primary camera is a 12MP unit that is paired with a 5MP camera for depth sensing and to improve low light shots. The primary sensor is the Sony IMX363 and has an f/1.9 aperture, 1.4μm pixel size while the secondary sensory is courtesy Samsung. This is more or less the same set up that we saw on the Mix 2S and the Xiaomi Mi 8. All of this is aided further by an AI mode that we found to be a bit of a mixed bag.
+
+
+But hey, let’s talk real world performance. In the image below, the conditions weren’t particularly challenging and the F1 predictably did a good job. There’s a very mild case of burnt highlights but it isn’t all that bad and zoomed in, you can even see the wings of the dragonfly flying above. Not bad.
+
+
+The chaotic scene below has a lot of people moving around and in action. The F1 did a good enough job here too. There is some noise reduction going in the background but it isn’t too aggressive.
+
+
+The front facing camera is a 20MP unit. But despite that huge megapixel count, the results themselves were a little shy of amazing. Even outdoors with adequate light, the camera still took just a smidgen too long to capture the shot because of which the photos were ever so slightly blurry.
+
+
+While the camera alone is good enough, we really missed having OIS for low light capture. Getting a sharp shot can be an exercise in frustration. There’s pretty heavy noise reduction too.
+
+
+Overall, the camera on POCO F1 is quite decent for its price band but this is one area where it is clear that more expensive flagships definitely have a lead. Be it the lack of OIS or EIS in 4K video or the difficulties in focussing on close up objects add up for a less than a flagship level experience. Now, that’s not to say that camera on the phone is bad, however like the display, it is evident that some cost cutting had to be done to keep the prices low.
+
+
+Connectivity & Battery Life
+
+
+The POCO F1, like most Xiaomi devices, is pretty well endowed with connectivity options. The phone supports Dual 4G+ VoLTE, Wi-Fi 802.11 ac (2.4GHz + 5GHz), Bluetooth 5, GPS + GLONASS and USB Type-C connectivity. Over the testing period, we found call quality to be satisfactory. The phone did a better than average job of latching on to a network despite the poor Airtel connectivity around the test environment. Depending on the configuration you get, the phone ships with between 64 to 256GB of storage. On the 256GB unit we have here, the phone had 243GB available at launch. You can expand this further via the microSD card slot but do keep in mind that this is a hybrid slot. You’ll have to sacrifice one SIM card slot for extra storage.
+
+
+Battery life on the POCO F1 is astoundingly good. Say what you will about MIUI but Xiaomi have really tweaked & matched the ROM to their hardware. Add to that the 4000mAh battery and you’ve got enough juice to last a full day and then some. During the testing period, there were days when I pushed the phone hard and managed about 6 hours of screen on time. However, on days when I didn’t, the idle battery drain turned out to be very minimal and I genuinely managed to go two days between charges. When you need to top off the phone, the phone supports Quick Charge 3.0 and a 9V/2A charger ships in the box.
+
+
+Conclusion
+
+
+If you go back to the headline, you’ll notice that we called the POCO F1 an absolute no brainer. We stand by that statement but that certainly doesn’t mean that the hardware is perfect. What the POCO F1 manages very well is to strike a balance between superior performance and good enough hardware at a price that is irresistible.
+
+
+The screen might not be the best in class and the design is a bit uninspiring but these are small sacrifices for getting the fastest hardware possible, oodles of storage, a camera that is pretty damn good for the price. The POCO F1 doesn’t kill the OnePlus 6 or the ZenFone 5Z, it smartly undercuts the competition to provide an option that will be appealing to a whole lot of people. If a luxurious build or better camera is a priority, well, you can always spend more and get something else. The POCO F1 is priced at Rs. 20,999 for the 6GB RAM with 64GB storage version and goes up to Rs. 29,999 for the 8GB RAM with 256GB Kevlar back Armored Edition. It is available exclusively from Flipkart.
+
+
+
+Author: Dhruv Bhutani
+
+
+Your friendly neighborhood techie. Currently using a Pixel 2 XL. Catch him on Twitter (@DhruvBhutani) / Facebook . View all posts by Dhruv Bhutani
+
+Author Dhruv BhutaniPosted on September 5, 2018September 5, 2018Categories Headlines, POCO, Reviews, Xiaomi
+
+Post navigation
+
+Previous Previous post: Google rolls out September 2018 Android security update
+Next Next post: OnePlus 6T box surfaces revealing in-display fingerprint scanner, waterdrop notch
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * Huawei View 20 Camera Samples
+  * Nokia 5.1 Plus 4GB and 6GB RAM variants with 64GB storage launched in India
+  * ASUS OMG Days Sale from Feb 6 to 9 on Flipkart – ZenFone 5Z at Rs. 21999, Rs. 1000 off on ZenFone Max Pro M2 and more
+  * Coolpad Cool 3 with 5.71-inch HD+ dewdrop notch display, dual rear cameras, Android Pie launched in India for Rs. 5999
+  * Picooc Mini smart weighing scale launched for Rs. 2999
+  * Skullcandy SET sweat-proof in-ear sport earbuds launched in India for Rs. 2999
+  * Acer Chromebase 24I2 and Chromebase for Meetings 24V2 with 8th Gen Intel Core processor announced
+  * Instagram said to be working on ‘Main Account’ feature to manage multiple logins easier
+  * Google Live Transcribe and Sound Amplifier apps released to help hearing-impaired users communicate
+  * Google expands Instant Tethering to more Chromebooks and smartphones
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

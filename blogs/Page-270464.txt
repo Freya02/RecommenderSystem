@@ -1,0 +1,209 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+Nokia 8.1 Review: The All Round Performer
+
+
+
+Ending the year on a high note, the Nokia 8.1 focusses on the fundamentals and makes improvements on the essentials. From the HDR capable display to the more than adequate processor, the phone combines great internals with a classic design language. What’s not to like? Let’s dive into our review of the Nokia 8.1 to see what makes it tick.
+
+
+Nokia 8.1 specifications
+
+  * 6.18-inch (2246 × 1080 pixels) Full HD+ Puredisplay with 18.7:9 aspect ratio, 500 nits brightness, 96% NTSC Color gamut, DCI-P3, 1500:1 Contrast ratio, Corning Gorilla Glass 3 protection
+  * Octa Core Snapdragon 710 10nm Mobile Platform (Dual 2.2GHz Kryo 360 + Hexa 1.7GHz Kryo 360 CPUs) with Adreno 616 GPU
+  * 4GB (LPPDDR4x) RAM, 64GB (eMMC 5.1) storage, expandable memory up to 400GB with microSD
+  * Hybrid Dual SIM (nano + nano / microSD)
+  * Android 9.0 (Pie)
+  * 12MP rear camera with dual-tone LED flash, 1/2.55″ Sony IMX363 sensor, f/1.8 aperture, 1.4μm pixels, OIS, 13MP secondary rear camera with f/2.2 aperture, ZEISS optics
+  * 20MP front-facing camera with f/2.0 aperture
+  * Fingerprint sensor
+  * Dimensions: 154.8 x 75.76 x 7.97 mm; Weight: 180g
+  * 3.5mm audio jack, Nokia OZO Stereo Audio recording
+  * Dual 4G VoLTE, WiFi 802.11 ac (2.4GHz + 5GHz), Bluetooth 5, GPS + GLONASS, USB Type-C
+  * 3500mAh (typical) / 3400mAh (minimum) battery with fast charging
+
+Design
+
+
+With every subsequent release, Nokia has found a way to unify their design language while also focussing on creating a uniquely identifiable product. The Nokia 8.1 continues this tradition and is perhaps one of the best looking phones of 2018. Seriously, the Nokia 8.1 is downright gorgeous.
+
+
+The front of the phone is a bit plain looking with a 6.18 inch display taking up most of the space. The screen does have a notch cut out and honestly, we’ve gotten used to it. What I still don’t like is Nokia’s habit of placing their brand name on the chin of the phone. It takes away from the clean look of the phone and with the brand name already emblazoned at the rear, just seems a bit much.
+
+
+Like most modern phones, the Nokia 8.1 is also a glass and metal sandwich. The central frame is made of extruded series 6000 aluminium. What really lifts the design though is the way the glass merges into the dual anodized edges. A matte finish right around the edges beautifully graduates to a shiny silver frame. Really, Nokia has done a delightful job here and the design looks great. The gently curved edges go a long way in ensuring that the phone fits well in the hand. The bottom edge has a Type C port while at the top is a 3.5mm audio jack.
+
+
+The back of the phone has a dual camera module towards the top with a fingerprint sensor below it. Towards the left lies the LED flash. The entire back is made of glass and has a very premium finish to it. An unfortunate side effect of this, however, is that the phone is ridiculously slippery. On more than one occassion, the phone slipped off the chair on which we’d kept it. You’ll have to be careful with this one!
+
+
+Software
+
+
+Like every other Nokia phones, the 8.1 is pretty straightforward when it comes to software. Part of the Android One initiative, the phone is running Android 9.0 with the November security patch on board.
+
+
+There’s practically no bloat where on the phone and the only apps you’ll find is the standard Google loadout. You even get support for Digital Wellbeing so that you can keep an eye on what has been driving your smartphone addiction.
+
+
+One of the biggest additions to the software comes in the form of Nokia’s Pro Camera app that gives it manual controls as well as support for some of the marquee features like a Bothie mode as well as live web streaming to YouTube and Facebook. The interface is optimized for use in a single hand and it makes navigating and adjusting finer options very easy.
+
+
+Performance
+
+
+Amongst the first few phones to ship with the Snapdragon 710 chipset, the performance on offer is exemplary. The chipset is built on a 10nm process and uses 6 efficiency cores paired with 2 high-performance cores in a big.LITTLE arrangement. The chipset is paired with 4GB of RAM and 64GB of eMMC storage. The latter is a bit disappointing since a lot of the competition now offers UFS based storage. Jargon aside, we doubt anyone will find it lacking for power. Even at the price point, the Snapdragon 845 toting competition beats the Nokia 8.1 only in synthetic benchmarks and on paper. For real-world use, the phone flies and everything from gaming to daily use is as smooth as it gets. That said, it bears mentioning that we observed a few issues while typing fast where there was a certain latency and the phone occasionally missed keystrokes. We’re inclined to blame it down on the keyboard app since this was not an issue anywhere else in the system. Paired with the stock Android build, the Nokia 8.1 was a joy to use and the entire experience was one of the best we’ve used in 2018.
+
+
+In the AnTuTu 7 Benchmark, the phone scores 168041 points placing it at the top of our test bench.
+
+
+In Basemark OS II, the Nokia 8.1 managed 3169 points.
+
+
+In Basemark X 1.1, the Nokia 8.1 managed 41445 points which once again placed it at the top of our testbench.
+
+
+Camera
+
+
+I’ll be the first to admit that the cameras on the fresh crop of Nokia’s haven’t really wowed me. They’ve not been bad performers but they always fell shy of being exemplary. The Nokia 8.1 takes a big step towards changing that. The 12MP camera has a 1.4um pixels size which is coupled with OIS and Zeiss optics. The phone handily captures great looking shots in all sorts of lighting conditions while the Pro Camera functionality lets you push it even further.
+
+
+What really struck us was the almost film-like look to the camera tuning. In good lighting, the camera is capable of capturing nicely saturated, good looking shots without any noticeable signs of oversharpening or excessive noise reduction.
+
+
+This extends to low light images as well where the camera once again shines. The phone captures well-exposed shots that are consistently low on noise. Meanwhile, the front camera has a 20MP sensor that can use pixel binning to produce superior selfies. The Nokia 8.1 sports one of the best cameras you can find at the price point.
+
+
+Display
+
+
+Like the Nokia 7.1 Plus, the Nokia 8.1 too comes equipped with an HDR capable panel dubbed ‘PureDisplay’. Going as bright as 500nits, the 6.18 inch LCD panel has a resolution of 2280×1080 pixels. The screen looks pretty damn good as far LCD panels go and displays excellent viewing angles. That’s pretty much the norm with quality IPS displays.
+
+
+The black levels could’ve been a bit deeper but generally, watching media, especially high-resolution content from the likes of Netflix is a pleasure.
+
+
+Connectivity & Battery Life
+
+
+Connectivity options on the Nokia 8.1 include Dual 4G VoLTE, Bluetooth 5 and WiFi 802.11 b/g/n/ac. Do note that while the phone does support dual 4G SIM cards, this is a hybrid SIM slot so you’ll have to choose between memory expansion and dual SIM functionality. Our review unit had 64GB of storage on board of which about 52GB was available at launch.
+
+
+The 3500 mAh battery on the Nokia 8.1 might not sound like much but when paired with the battery optimizations brought along by the all-new Snapdragon 710 chipset, the phone delivered well beyond our expectations. We’ve been testing out the phone for over a week now and put it through all our standard use case scenarios including music streaming, GPS navigation, browsing and more. The phone consistently delivered between 5.5 to 6 hours of screen on time. You can reliably expect the Nokia 8.1 to last you a full workday.
+
+
+Conclusion
+
+
+The Nokia 8.1 is a no-brainer. It does not rely on gimmicks or fads to try and woo you. At its core, this is a phone that focusses on the essentials and delivers a great camera, good performance, excellent battery life and an absolutely clean build of Android with a promise of long-term support. Priced at Rs. 26,999, the phone offers tremendous value for money and is highly recommended if you’re looking for a new smartphone in the sub Rs. 30,000 segment.
+
+
+
+
+
+Author: Dhruv Bhutani
+
+
+Your friendly neighborhood techie. Currently using a Pixel 2 XL. Catch him on Twitter (@DhruvBhutani) / Facebook . View all posts by Dhruv Bhutani
+
+Author Dhruv BhutaniPosted on December 10, 2018Categories Nokia, Reviews
+
+Post navigation
+
+Previous Previous post: Nokia 8.1 with 6.18-inch FHD+ HDR10 PureDisplay, Snapdragon 710, Android Pie, Dual rear cameras launched in India for Rs. 26999
+Next Next post: POCO F1 MIUI 10.1 Android 9.0 Pie stable update starts rolling out [Download Link]
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * XOLO Era 4X 2GB Unboxing and First Impressions
+  * LG to introduce Snapdragon 855-powered 5G smartphone with vapor chamber at MWC 2019
+  * Apple dismisses over 200 employees from its Project Titan autonomous vehicle group
+  * Microsoft Office 365 now available via the Apple Mac App Store
+  * Gmail v8.12 starts testing Dynamic Email support
+  * Apple iOS 12.2 beta brings new ‘Hey Siri’ setup for the rumored AirPods 2
+  * Twitter confirms it is testing “Original Tweeter” tag to distinguish who started a thread
+  * Facebook is shutting down Moments app on February 25th
+  * Samsung Galaxy A9 Pro (2019) with 6.4-inch FHD+ Infinity-O display, 6GB RAM, triple rear cameras announced
+  * Get Android 9.0 Pie on Redmi Note 5 Pro with OxygenOS 9.0 port
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

@@ -1,0 +1,203 @@
+Skip to Content Skip to Footer
+This site uses cookies for analytics, personalized content and ads. By continuing to browse this site, you agree to this use. Learn more
+Microsoft
+Windows Blogs
+Windows Blogs
+Windows Blogs
+  * Home
+  * Windows 10
+  * Devices
+  * Windows Developer
+  * Microsoft Edge
+  * Microsoft 365
+  * More
+  * All Microsoft
+          o Office
+          o Windows
+          o Surface
+          o Xbox
+          o Deals
+          o Support
+      + Software
+          o Windows apps
+          o OneDrive
+          o Outlook
+          o Skype
+          o OneNote
+      + PCs & Devices
+          o PCs & tablets
+          o Accessories
+      + Entertainment
+          o Xbox games
+          o PC games
+          o Windows digital games
+          o Movies & TV
+          o Books
+      + Business
+          o Microsoft Azure
+          o Microsoft Dynamics 365
+          o Microsoft 365
+          o Enterprise
+          o Data platform
+          o Microsoft Advertising
+      + Developer & IT
+          o .NET
+          o Visual Studio
+          o Windows Server
+          o Windows Dev Center
+          o Docs
+      + Other
+          o Microsoft Store
+          o Microsoft Rewards
+          o Free downloads & security
+          o Education
+          o Store locations
+          o Gift cards
+      + View Sitemap
+Search
+Cancel
+  * Surface
+  * Microsoft HoloLens
+  * Mixed Reality
+  * Xbox
+July 13, 2015 1:00 pm
+How to record your Windows Phone 8.1 screen
+
+By Microsoft Devices Team
+Share Tweet Share Share Skype
+
+Taking a screenshot on your Lumia is relatively easy–simultaneously pressing the power key and volume up—but recording your screen requires a bit more know-how. Here’s how to do it.
+
+
+There are times when a simple screenshot just won’t do. For instance, you may want to show somebody one of Windows Phone’s cool features, such as Cortana, or you might want to show off your Minecraft: Pocket Edition skills (tips and tricks, here).
+
+
+Follow these steps to start recording your Windows Phone. There are two things you’ll need.
+
+
+Project My Screen
+
+
+The Project My Screen feature is already on your phone since Windows Phone 8.1, under settings. However, you’ll also need it installed on your PC, which you can find here.
+
+
+Once installed, connect your phone to your PC using a USB cable and start the Project My Screen app on your PC. Tap “yes” on your phone when asked if you want to allow screen projection.
+
+
+You should now see your Lumia projected onto your PC display.
+
+
+Now for stage two, the recording of your screen.
+
+
+CamStudio
+
+
+As a free, open source screen-recorder program, CamStudio is simple to use.
+
+
+It can record your entire desktop, single windows, or specific parts of your screen; those settings can be found in the “Region” settings of the CamStudio program.
+
+
+Select the region, hit record, and navigate back to the Project My Screen app on your PC. As you interact with your phone, it’ll be displayed and recorded on your PC. Recording options are AVI, MP4, or SWF.
+
+
+Due to the multitude of video codecs available and because different PCs have different setups, head over to the “video options” setting to select what works for you.
+
+
+After that, share your recording with your friends, family, or followers anyway you see fit.
+
+
+If you’re looking for a way to record your screen, give this a try and share your creations with us. Alternatively, if you’ve found another way, share that with us, too.
+
+
+Updated November 9, 2015 8:34 am
+
+
+Tags Featured Project My Screen Windows Phone 8.1
+
+Share Tweet Share Share Skype
+
+Related Posts
+
+
+Surface Go with LTE Advanced available now
+
+Read more
+Surface Pro 6 and Surface Laptop 2 available today
+
+Read more
+Meet Surface Pro 6, Surface Laptop 2, Surface Studio 2 and Surface Headphones
+
+Read more
+
+What's new
+
+  * NEW Surface Pro 6
+  * NEW Surface Laptop 2
+  * NEW Surface Go
+  * Xbox One X
+  * Xbox One S
+  * VR & mixed reality
+  * Windows 10 apps
+  * Office apps
+
+Store & Support
+
+  * Account profile
+  * Download Center
+  * Sales & support
+  * Returns
+  * Order tracking
+  * Store locations
+  * Support
+  * Buy online, pick up in store
+
+Education
+
+  * Microsoft in education
+  * Office for students
+  * Office 365 for schools
+  * Deals for students & parents
+  * Microsoft Azure in education
+
+Enterprise
+
+  * Microsoft Azure
+  * Enterprise
+  * Data platform
+  * Find a solution provider
+  * Microsoft partner resources
+  * Microsoft AppSource
+  * Manufacturing & resources
+  * Financial services
+
+Developer
+
+  * Microsoft Visual Studio
+  * Windows Dev Center
+  * Developer Network
+  * TechNet
+  * Microsoft developer program
+  * Channel 9
+  * Office Dev Center
+  * Microsoft Garage
+
+Company
+
+  * Careers
+  * About Microsoft
+  * Company news
+  * Privacy at Microsoft
+  * Investors
+  * Diversity and inclusion
+  * Accessibility
+  * Security
+  * Sitemap
+  * Contact Microsoft
+  * Privacy & cookies
+  * Terms of use
+  * Trademarks
+  * Safety & eco
+  * About our ads
+  * © Microsoft 2019

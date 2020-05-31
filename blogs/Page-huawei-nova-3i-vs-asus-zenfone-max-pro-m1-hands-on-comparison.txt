@@ -1,0 +1,259 @@
+Skip to content
+Search for:
+What's New
+Piano Spa: Pacific Dreams (1997) – Live in 2019
+RHA CL2 Review: Planar Magnetic In-Ear Headphones Goes Wireless
+Sony HX99 Review: Compact Camera with 24-720mm 30X Optical Zoom
+YubiKey 5: Safer 2FA than SMS Authentication
+OPPO R17 Pro Review: Another Leap for OPPO
+
+  * Username or Email Address
+
+
+    Password
+
+
+    Remember Me
+
+
+    Lost your password?
+
+
+* Singapore's independent reviewer of consumer tech, audio, photography, & home products
+
+
+Music Photo Life
+
+  * Headphones
+  * Cameras
+  * Smartphones
+  * Reviews
+      + Car
+      + Speakers
+      + Tablets
+      + Wearable
+  * Music
+  * Piano Spa
+      + Piano Spa Official Page
+  * About
+      + About this Blog
+      + My Photography
+      + My Music
+
+
+Singapore's independent reviewer of consumer tech, audio, photography, & home products
+
+
+Music Photo Life
+
+  * Headphones
+  * Cameras
+  * Smartphones
+  * Reviews
+      + Car
+      + Speakers
+      + Tablets
+      + Wearable
+  * Music
+  * Piano Spa
+      + Piano Spa Official Page
+  * About
+      + About this Blog
+      + My Photography
+      + My Music
+Phone
+
+HUAWEI nova 3i vs. ASUS Zenfone Max Pro M1: Hands-on Comparison
+
+
+August 7, 2018August 17, 2018
+
+
+2 weeks ago, I blogged about the Singapore announcement of the ASUS Zenfone Max Pro and Huawei Nova 3i that happened on the same day, 18 July 2018. On that article, I could not give a recommendation on which phone to get because I did not have units to review. 2 weeks later, I managed to test the 2 smartphones and now I am ready to give my recommendation.
+
+
+HUAWEI nova 3i
+
+
+I managed to get a review unit from NXTmag.tech who attended the product launch. The retail unit comes with a 3-pin charger, transparent soft case and pre-installed screen protector. The black review unit does not showcase the gorgeous Iris Purple colour that is the more popular choice. It was announced that over 1000 units were sold over the launch weekend.
+
+
+The Nova 3i has all the latest hardware and software – 19.5:9 display with thin bezels, notch that can be hidden, dual rear AI cameras, dual front AI cameras, GPU Turbo, QMoji (like iPhone Animoji).
+
+
+There is nothing unfamiliar with the Huawei EMUI, as it offers similar experience as the more expensive Huawei models like P20 Pro. Obviously a few functions are not available here and there, like the stereo speaker setup, knuckle gesture, always-on display when screen is off. NFC is also unavailable.
+
+
+Fine-tuning of the display colour mode is possible and definitely appreciated for a budget mid-range device.
+
+
+On the other hand, what’s better from the pricier models is the dual front camera AI, touted as the first in the market. I was impressed that the camera detects the type of room I am in to adjust the shoot setting. Notice also the “HDR Pro” mode is enabled to counter-balance any harsh backlight.
+
+
+I was further impressed that the Nova 3i even has an AI mode for car setting!
+
+
+Good thing about Huawei Nova 3i camera app is that you can turn off the AI-processed images any time from the Gallery app.
+
+
+The Nova 3i is the first Huawei smartphone that uses the new Kirin 710 processor, which I feel lacks the smoothness achieved from the higher end Kirin processors. There are certain times that the phone fails to keep up, taking a little longer to load the camera app which caused me to miss some photographic moments. If you really need that prompt response, you should get the Kirin 970 processor like Honor 10.
+
+
+Another minor quibble is that the Nova 3i uses the old micro USB port.
+
+
+ASUS Zenfone Max Pro M1 (ZB602KL)
+
+
+On the second day of the official launch, I went to Marina Square and bought the phone at the launch price of S$258. Marina Square had several electronic stores – ASUS Brand Store, Gain City, Newstead – so I was confident that at least one of them should carry stocks. Eventually, I bought it from Gain City.
+
+
+I was pleased that the Zenfone Max Pro comes with a soft transparent casing, saving me the trouble of buying one myself.
+
+
+Its 6-inch full HD display is vibrant, nothing to complain. The corners are rounded, but no notch is in sight. The charging port still uses micro USB.
+
+
+The camera module is almost flushed against the rear. The metal back is somewhat a magnet for grease, with an uninspiring generic design.
+
+
+Once I boot up the phone, it went through about three cycles of Android OS updates. The pure Android UI is a refreshing departure from the heavily-skinned ZenUI, and has nothing much to shout about. There are a few minor features, like the ability to adjust the display hues to either warm or cool. It also comes with ZenMotion gestures, like double-tap to turn off or wake up screen, on-screen gestures like “W” to launch web browser.
+
+
+The camera app is not well-designed, as I find myself not able to get the right shooting mode quickly. For instance, once I selected the Beautify feature, I had to unselect to go back to Auto mode, when most other camera apps would just require me to select the Auto icon. Also, on the settings menu, tapping the desired option (e.g. Flash Mode Off) would exit the settings page, which I had to re-enter to the settings menu to go to the next item to edit.
+
+
+I was also rather dismay that the phone does not feel butter smooth despite running on pure Android with Snapdragon 636. Comparatively, the Moto Z Play with a lower Antutu benchmark feels a lot snappier. This goes to show that higher specs do not translate to higher performance.
+
+
+The biggest selling point, I feel, would be the massive 5000 mAh battery. If you find yourself always running out of battery before the day ends, the Zenfone Max Pro will not disappoint you.
+
+
+Compare Camera
+
+
+One of the most important consideration would be the camera quality. Here are some samples for you to decide for yourself.
+
+
+What I see is that the Zenfone Max Pro delivers more accurate white balance and a slightly lower exposure.
+
+
+Under artificial light, Zenfone delivers whiter white and slightly sharper, the result of higher contrast.
+
+
+Here is another photo shot with the bokeh adjustment to the max.
+
+
+Below, Huawei Nova 3i detects greenery and boosts saturation for better result. The Zenfone shot turns out flat.
+
+
+Verdict
+
+
+Which smartphone is better? After using both of them for a couple of days, I concluded that the Huawei Nova 3i is definitely worth that little more money. It is better looking, its AI camera assists the user to capture better images (which can be toggled off from Gallery for every AI photo taken). The larger screen with the notch is a more up-to-date look, and has 128GB internal memory, not forgetting a 2-year warranty.
+
+
+But the ASUS Zenfone Max Pro is in many sense of the word, unbeatable. Its price is attractive, the specs are decent, the battery life is superb. Both phones perform similar in terms of UI speed, so in that respect, Zenfone would provide a better value as a basic smartphone with a more faithful photo quality.
+
+
+Would I buy any of them? No I won’t. The specs and the overall performance is not up to my demands. Among the recent midrange phones I have reviewed, the Honor 10 meets my expectations with a great price.
+
+
+Is it a good time to buy the phones now? I am very price-conscious, and would go great lengths to ensure I get the best deal, sometimes even if it means buying second hand phones. With the upcoming ShopFest starting from September, maybe I don’t have to try so hard. I’ll be on a lookout at sites like ShopBack for substantial cashback that I might get when I shop at my three favourite online stores – Lazada, AliExpress, Taobao.
+
+
+Why I prefer Huawei:
+
+ 1. Nicer design
+ 2. AI camera with more shooting modes to achieve creative images
+ 3. More memory, newer display design with notch
+
+Why I prefer ASUS:
+
+ 1. Lower price
+ 2. Very long battery life
+ 3. Pure Android
+ 4. More faithful photo quality
+
+Official website links:
+
+  * Huawei Nova 3i (4GB/128GB)
+  * ASUS Zenfone Max Pro M1 (3GB/32GB)
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+  * Click to share on Twitter (Opens in new window)
+  * Click to share on WhatsApp (Opens in new window)
+  * Click to share on Pocket (Opens in new window)
+  * Click to share on Google+ (Opens in new window)
+  * Click to share on Pinterest (Opens in new window)
+  * Click to share on LinkedIn (Opens in new window)
+  * More
+
+* Like this:
+
+Like Loading...
+
+Similar Articles
+
+Summary
+Reviewer
+Chester Tan
+Review Date
+2018-08-07
+Reviewed Item
+Huawei Nova 3i vs. ASUS Zenfone Max Pro M1
+Author Rating
+4
+Tagged Review, Shopping, Tech
+
+Post navigation
+
+OnePlus 6 Review: The Underdog Smartphone Winner
+Samsung Galaxy Note9 Singapore Price Announced
+
+Share your comments
+
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+Search for:
+Top Articles
+
+  * Comparing Sennheiser HD660S, HD650 and HD6XX
+  * Sennheiser HD 4.50 BTNC Wireless vs. HD 4.40 BT Wireless Headphones
+  * Creative Super X-Fi (SXFI) Amp Review: Transforming Stereo Headphone Into Natural Room Audio
+  * Harman Kardon Aura Studio 2 Review: Bluetooth Speaker
+  * Creative Stage Review: 2.1 Soundbar for Computers and TV
+  * Sudio Niva Review: True Wireless Earphones from Sweden
+  * EOZ Air Review: True Wireless Earphones, Fantastic Connectivity
+  * Sony NW-WS623 Review: Waterproof Dustproof Walkman with Bluetooth
+  * Jabees Beebud Review: True Wireless Fitness Earphones
+  * Sennheiser CX 7.00BT Review vs. Momentum In-Ear Wireless M2 IEBT
+
+Tags
+
+Accessory Advertorial ANC Android Asus Award Baby Bluetooth Contest Dance Digital Music Event Family Fashion Fitness GearBest Guide Hong Kong Instagram iPad iPhone Jabra Logitech Mesh Router NFC Original Compositions Parenting Photoshoot Model Photostory Piano Piano Spa Review Security Shopping Social Media Sony Tech Travel Tribute True Wireless Earphones Tutorial Video Volkswagen Wedding Windows
+
+Follow The Blog
+
+
+We hope you have found what you are looking for here. Please sign up to receive notification whenever new articles are published.
+
+
+Join 1,040 other subscribers.
+
+
+Email Address
+
+
+Site Traffic
+
+
+Looking for an Article?
+
+Search for:
+Powered by WordPress | Theme: Greatmag by aThemes.
+Sitemap
+%d bloggers like this:

@@ -1,0 +1,177 @@
+Notebook.hu Blog Notebook, Tablet, 2 az 1-ben, Okostelefon hírek, tesztek
+
+  * Kezdőlap
+  * Hírek
+  * Cikkek
+  * Tudomány
+  * Tesztek
+  * Videók
+  * Vásárlás
+      + Notebook
+      + Ultrabook
+      + Tablet
+      + Szoftver
+      + Okostelefon
+      + Kiegészítők
+Kezdőlap / Tesztek / ASUS Zenfone 5 Lite Teszt | Lájtos?
+
+ASUS Zenfone 5 Lite Teszt | Lájtos?
+
+
+Szikra Balázs 2018-05-10 Tesztek, Videók Szólj hozzá 1,705 Megtekintések
+
+
+Kapcsolódó Cikkek
+
+
+Huawei MediaPad M5 Lite Teszt| Az esti rutinom
+
+
+4 nap ezelőtt
+
+
+ASUS ROG ZEPHYRUS S GX531GM Teszt | A nyugati szél visszatért
+
+
+1 hét ezelőtt
+
+
+Huawei P Smart 2019 Teszt | Új év, új Smart!
+
+
+2 hét ezelőtt
+
+
+Az ASUS márkanevet kiejtve, szerintem az emberek nagy százalékánál a pavlovi reflex egy notebook képét jeleníti meg. Ezen belül is ott vannak a „zen”-termékcsalád gépei, az ASUS ultrabookjai, amik a minőség-prémiumérzet-teljesítmény halmazoknál remek találkozási pontot képviselnek. Kérem szépen, van itt telefon is és a középkategóriás célzású Zenfone 5 Literól most tesztünkben kiderül, megérdemli-e a „Zen” jelzést.
+
+
+Külső és eszközök: Van valami furcsa és megmagyarázhatatlan
+
+
+Az „első látásra szerelem” kliséje bár remekül hangzik, sokszor a megismerkedés után rájön az ember, hogy ami külsőre szép, annak nem biztos, hogy elmondható ugyanez a „belsejéről”. Részemről a Zenfone 5 Lite esetében ez fordítva játszódott le: külsőre valahogy nem fogott meg. A gond valahol ott lehet, hogy üveg elő- és hátlap ide, vagy oda, annyira furcsán mutat a tej fehér előlap, az íveket megtörő alumíniumcsíkok és a Huawei P20-iPhoneX-et idéző hátlap. Vannak hasonlóságok az emlegetett telefonokkal, de valami mégis hiányzik belőle. Talán a fehér szín teszi, lehet hogy egy másik árnyalatban sokkal pofásabb lenne az egész. A gombkiosztás és a portok elhelyezésénél sok újdonságot nem kapunk, jobbon a hangerő és a lock, alul hangszórók és USB, balon pedig a SIM tálca. Jack is van, felül, nyugi! Méreteit tekintve egy igazán termetes darabról van szó, ugyanis a 6 inches, Multi-Touch FullHD+ IPS LCD érintőkijelző egy 160.6 x 76.2 x 7.8 mm-es házat kapott. Ez már egy abszolút „kétkezes” telefon, bár az igazán nagy kezű felhasználók (pl. André az Óriás) számára még ez is lehet ideális. Természetesen itt is használható az „Egy kezes” funció, ami csökkenti a kijelzőn látott kép méretét akkorára, hogy az appok egy kézzel is menedzselhetőek legyenek. Itt tenném fel a kérdést: minek? Ha ekkora telefonom van, ekkorában is akarom kiélvezni rajta a dolgokat. Ugyanis a fent már részletezett, 402 ppi-s képpontsűrűségű, lekerekített sarkokkal rendelkező panel nagyon szép képet mutat. Talán nem annyira élénk, mint egy Samsung, vagy egy iPhone esetében, sokkal inkább követi a Huawei élethűbb, kissé fakóbbnak ható színkezelését, ami összességében jól is áll neki. Érdekes, hogy a P20-as esetében a kis testvér P20 Lite megkapta a maga notchát, de az ASUS úgy döntött, hogy a Lite kiadást „megkíméli” ettől. Az alap és a Pro modell is kis „szigetes” kijelzővel dolgozik, de a Zenfone 5 Litenál egy normál kijelzőt biztosítottak.
+
+
+Megnéznél egy videós tesztet is az ASUS Zenfone 5 Lite-ról? Ne tartsd vissza a kattintásodat a lejátszás gombtól!
+
+A portolás tekintetében a legfőbb standardeknek megfelelő eszköztárat kaptuk meg, ahogy arra már fentebb is utaltam. Az alsó oldalra jutott a hangszórók mellé egy micro USB csatlakozó, a baloldalra pedig a tripla foglalattal rendelkező tálca, amit akár microSD-s bővítésre is felhasználhatunk (2TB-ig viseli ez utóbbit a telefon). Felülre természetesen járt a 3.5-es combo audio jack csatlakozó, amit én még mindig optimálisabb helynek érzek valamivel, mint az alulra rakott csatikat (nyilván, ahogy zsebre teszem a telefont, az utolsó „fogásnak” megfelelőbben az alsó panelt használni értelmesebb… de ettől még nem szeretem). Térjünk rá a hátlapra, amin a középre igazított és kissé kiemelt kamerarendszer alá, megkapta az ujjlenyomat olvasót. Ez első ránézésre egészen aprócskának tűnik, de összemérve két iPhone-éval, koppra ugyanakkorák. Valószínűleg, a nagy hátlap és a süllyesztett kialakítás miatt egy kis optikai trükk áldozata lettem. Az előlapra ugyanannyi kamera jutott, mint hátulra, mellettük pedig egy LED villanó is dolgozik, valamint a telefon kapott közelségérzékelést, arcfelismerő funkciót (ujjlenyomat mellett/helyett), meg a „szokásos” fény- és gyorsulásérzékelő szenzorokat. Nyilván van még itt 4.1-es Bluetooth és Wi-Fi vevő a 802.11 a/b/g/n/ac szabványnak megfelelően, na meg NFC lehetőség.
+
+
+Teljesítmény: Lájt
+
+
+A Zenfone 5 Lite-hoz egy házisárkányt alkalmazott az ASUS, na a békésebb fajtából: egy Snapdragon 630-as lapka dolgozik a telefon szívében. Ez egy Octa-core processzor, tehát 4 darab 2.2GHz-es teljesítményre képest és négy darab 1.9GHz-es mag látja el a feladatok nagyját. A 630-as a 2017-es évben jött ki a középkategóriás telefonok izgalmasabbá tételére és pár fancybb tulajdonság (nagyobb teljesítmény, Quick Charge 4-es funkció, stb.) áthozására, a Qualcomm műhelyéből. A mérések alapján nem a legfényesebb a helyzet, hiszen a mért telefonok 17%-ánál tudott jobbat nyújtani a Zenfone 5 Lite. Gyakorlatban ez mennyire jött ki? Nos, a játékoknál inkább, hiszen az AnTuTu is a GPU-ban érzékelte a kevesebb kakaót és ez például az NBA Livenál érződött is, amikor be-belassult a játék. Az egyszerűbb képi világú játékoknál, mint az Alto’s Adventure viszont nem volt vele probléma, így látható, hogy a régebbi, mérsékeltebb gépigényű appokkal még nem lesz problémája. A hétköznapi felhasználásnál (emailezgetés, telefonálás, fotó, meg a szokásos apróságok) nem akadt, bár ez köszönhető valamilyen szinten a 4 gigabyte RAM-nak is. Ez pontosan elegendő, talán egy kicsivel több is, mint ami az árkategóriában elvárt lenne. Háttértárnak kapunk 64 GB-ot, amiből a rendszer egy 12 gigát be is foglalt, így 50GB maradt szabadon, garázdálkodásra a különböző appokhoz és személyes cuccainkhoz. Szoftveresen az Andoird 7.0 Nougat dolgozik, ZenUI-val kísérve. Ez alapból biztosít egy kényelmes, könnyen személyre szabható kezelőfelületet, amit még egy mesterséges intelligencia is feldobott, kezdve például a Smart Lock rendszer használatával, ami adott helyeken, vagy elvégzett gesztusoknál, a beállításoknak megfelelően kezeli a képernyőzárat, az akkumulátort, vagy adott appokat. Az energiatakarékosság nem jön rosszul, bár a telefon alapból jól bánik az erőforrásaival: 3300 mAh-s akkumulátorának köszönhetően egészen sokáig aktívan használható a Zenfone 5 Lite.
+
+
+Kamera: Maximum íz
+
+
+Dupla kamerarendszer, csapó: sokadik. Ezúttal egy 16 MP-es és egy 120°-os szögben „látni képes” 8MP-s lencse dolgozik a hátoldalon. Előbbi 80°-os látómezővel, f2.2-es rekesszel és autófókusszal dolgozik. A szélesebb látómező baromi jól tud jönni egy tájkép, vagy egy csoportkép elkészítésénél, amikor a lehető legtöbb dolgot szeretnénk belepréselni egy fotóba. Videózásnál a hátlapi kamera képes a 4K UHD videófelvételre (30fps), illetve 1080p FHD 30/60 fps-re. Az előlapi kamera utóbbira képes, arckövetéssel, illetve mind a kettő kapott képstabilizálást. Ahogy az ASUS már képes volt arra, hogy egy komplett kiadást a selfie-zésre áldozzon, úgy számíthatunk arra is, hogy egy alap kiadásnál is erős lesz ebben az aspektusában a Zenfone 5 Lite. Nos, nem tévedünk, mert a tesztalanyunknak ismét a selfie-oldala az izgalmasabb. Ugyan a hátlapi kamerára sem lehet komolyabb panaszunk (hozza az árkategóriájának megfelelő képminőséget), de szemből nézve sokkal jobb a helyzet. Itt is megkaptuk a széles látószög lehetőségét a másodlagos kameránál, de a legfontosabb a 20 MP-es Sony® IMX376 képérzékelővel ellátott elsődleges kamera. Ez F2.0-ás rekeszértékkel dolgozik nekünk, szoftveresen pedig kapott egy beauty-funkciót is, hogy „instant-photoshoppként” harcoljon a bőrhibáinkkal. Szép próbálkozás volt, s az esetleges ráncokat tényleg kisimítja, de nem csinált belőlem Antonio Banderast. Sötét van? Sebaj, a LED-villanó egy kicsit majd rásegít a fényre, ha pedig sokan állnátok össze egy képre, akkor a széles látószögű másodlagos kamera tesz majd róla, hogy senki se maradjon le a fotóról.
+
+
+Összefoglalás
+
+
+Nincs kétség, hogy a Zenfone 5 Lite hozza az elvártakat, a kérdés inkább az, hogy meg tud-e küzdeni a kategóriatársakkal. Egy Huawei P20 Lite-al, a Honor kisebbik kiadásaival, esetleg a Samsung Galaxy A-szériával versenybe szállhat teljesítmény, kamera és felhasználóbarátság szempontjából, de a márkapreferenciával és a közízléssel való harc már komolyabb lesz.
+
+
+Megosztás:
+
+  * Kattints ide a Twitter-en való megosztáshoz(Új ablakban nyílik meg)
+  * Facebookon való megosztáshoz kattintás ide.(Új ablakban nyílik meg)
+  * Megosztás a Google plusszon(Új ablakban nyílik meg)
+
+* Tetszett a bejegyzés?
+
+Tetszik Betöltés...
+
+Kapcsolódó bejegyzések
+
+
+Comments
+
+Megosztás
+  * Facebook
+  * Twitter
+  * Google +
+  * Stumbleupon
+  * LinkedIn
+  * Pinterest
+
+CímkékASUS Zenfone 5 Lite termékbemutató termékteszt teszt zenfone Zenfone 5
+
+
+Kapcsolat Szikra Balázs
+
+Előző Foci Vb a gamereknek is! | Jön a FIFA 18 kiegészítője!
+Következő Ráadás OFFICE 365 csomag minden Windows-os notebook mellé!
+
+Talán ez is érdekel
+
+
+ASUS TUF Gaming FX705GE Teszt | A szelíd gamer-óriás
+
+
+„Kedves szülő, 2.6 kilogramm!” – egy újszülött esetében ez még erősen aprócska, de boldog gamer …
+
+
+Kövess a Facebook-on
+
+  * Legújabb
+  * Népszerű
+  * Hozzászólás
+  * Címkék
+
+  * 10 havi 0% THM AKCIÓ!
+
+    3 nap ezelőtt
+
+  * Tél végi BRUTÁLIS LEÁRAZÁS!
+
+    3 nap ezelőtt
+
+  * INGYENES KISZÁLLÍTÁS Pick Pack Pontra!
+
+    3 nap ezelőtt
+
+  * Huawei MediaPad M5 Lite Teszt| Az esti rutinom
+
+    4 nap ezelőtt
+
+  * Prémium telefonok 0% THM-el, akár 18 havi részletre!
+
+    4 nap ezelőtt
+
+  * Hogyan válasszunk laptopot? – 1.rész: Az operációs rendszer
+
+    2016-03-18 5
+
+  * Bosszantó alapértelmezett Windows beállítások – 1.rész
+
+    2015-11-30 3
+
+  * Business laptoppal az üzlet is jobban megy – 1.rész
+
+    2016-04-20 3
+
+  * Miért éppen notebookot? – 1.rész
+
+    2015-11-16 3
+
+  * A böngészők harca – csak egy maradhat? – 1. rész
+
+    2015-11-04 3
+  * Így válassz gépet iskolai használatra: strapabírás és aksi: […] […]...
+  * 2015 és 2016 legjobb gépei (csúcskategória): […] […]...
+  * 2015. és 2016. legjobb gépei II. (közepes árkategória): […] […]...
+  * Tablet vagy laptop? II. rész: […] […]...
+  * Mi legyen a gépemben? II.: […] […]...
+Notebook Okostelefon Tablet akció teszt Huawei ingyen hitel kedvezmény termékbemutató termékteszt bemutató 2in1 gaming 0%thm Samsung gamer Asus előrendelés Okoseszközök Lenovo Facebook Közösségi oldalak játék készletkisöprés 2 az 1-ben
+
+Bejelentkezés
+
+
+Emlékezz rám
+
+  * Elfelejtetted a jelszavad?
+2019 © Notebook.hu - Minden jog fenntartva!
+%d blogger ezt szereti:

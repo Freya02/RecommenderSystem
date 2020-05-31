@@ -1,0 +1,260 @@
+skip to content
+
+  * Corporate
+      + People & Culture
+      + Citizenship
+      + Technology
+      + Design
+      + Others
+  * Products
+      + Mobile
+      + TV & Audio
+      + Home Appliances
+      + Camera & Computing
+      + B2B
+      + Semiconductors
+      + Others
+  * Press Resources
+      + Press Release
+      + Issues & Facts
+          o Statements
+          o FAQs
+      + Video
+      + Photo
+      + Infographics
+  * Views
+      + Views
+  * About Us
+      + OVERVIEW
+      + FAST-FACTS
+      + EXPERIENCE ZONE
+Menu open Search open Nation choice page link
+Search close
+Search Search
+  * AI
+  * Bixby
+  * Galaxy Note9
+  * QLED 8K
+  * 5G
+Advanced search
+Day
+  * Day
+  * Any time
+  * Past week
+  * Past month
+  * Past year
+  * Custom range
+Sort by
+  * Sort by
+  * Recent
+  * Popular
+Content Type
+  * Content Type
+  * All
+  * Article
+  * Press Release
+OK Cancel
+
+Tips and Tricks for the Galaxy S8 and S8+
+
+on June 20, 2017
+Audio AUDIO Play/Stop
+Share Share open/close Print
+Share open/close
+  * Twitter
+  * Facebook
+  * Google+
+  * LinkedIn
+  * Tumbler
+  * WhatsApp
+  * Mail
+URL copy
+Layer close
+
+Ultimately, when it comes to creating technologies that help users streamline their mobile lives, UX (user experience) marks the spot.
+
+
+Take the Galaxy S8 and S8+. When designing its latest flagships, Samsung went to great lengths to ensure that the UX behind their groundbreaking, bezel-less designs would foster convenient and intuitive interactions. The result of the company’s efforts is a seamless interface that allows users to navigate the devices’ immersive displays with ease and take full advantage of their powerful features.
+
+
+The tips and functions outlined below offer simple ways for users to further amplify their Galaxy S8’s convenience and get more out of their smartphone experience.
+
+
+Get to Know the Navigation Bar
+
+
+The navigation bar that houses the Galaxy S8’s Home, Back and Recents buttons has a few tricks up its sleeve, including allowing users to bypass their device’s Lock screen and instantly access the Home screen.
+
+
+After activating the Unlock with Home button feature via Settings > Display > Navigation bar, a hard press of the square Home button from the Always On Display will unlock the device (a swiping motion is not required), while a double-tap will pull up the lock screen. The navigation bar’s settings also allow users to customize the Home button’s sensitivity to avoid unwanted presses.
+
+
+Users may hide the navigation bar in apps where it does not automatically disappear or fix it to their screen by toggling the Show and Hide button, which appears on the bar’s far left side. The bar’s configuration may also be customized.
+
+
+Using certain apps and functions may cause the navigation bar to disappear entirely. In those instances, users may navigate back to the Home screen by hard-pressing on the Home button’s usual location, and may access the navigation bar by swiping up from the bottom of the screen.
+
+
+Take Advantage of the Edge Screen
+
+
+The Edge panels in the Galaxy S8’s Edge screen offer access to apps, news and key functions with a simple swipe of the side of the screen. Users may customize their Edge panel selection and add more apps and shortcuts that work for them.
+
+
+The Edge screen’s Edge lighting feature adds additional convenience, notifying users of incoming messages by illuminating the Infinity Display’s edges. This allows notifications to be visible even when the device is facing down, and creates an intuitive means to notify users of messages without disrupting their enjoyment of videos, games and apps.
+
+
+Users may access the Edge screen’s settings by tapping Settings > Display > Edge screen.
+
+
+Create Convenient Reminders
+
+
+Find an interesting article that you’d like to get back to later? The Galaxy S8 allows users to conveniently save URLs using its Reminder function.
+
+
+With the website pulled up, simply access your browser’s sharing options and tap on the Reminder icon. Webpage URLs are automatically saved, and users may additionally select exactly when they’d like to receive their notification.
+
+
+The Galaxy S8 also allows users to create reminders based on texts. When viewing a conversation in the Messages app, long-press your selected message until the Message options menu appears and choose Send to Reminder. The message will automatically be saved to the Reminder app, and you’ll also be able to specify if/when you would like the reminder to appear.
+
+
+In addition, the Galaxy S8 allows users to pin reminders to its Always On Display, making them visible at all times. To do so, open the Reminder app, tap on the reminder that you would like to display and select Pin to Always On Display.
+
+
+Power Button and Sensor Shortcuts
+
+
+Sometimes taking the perfect photo requires one to be quick on the draw with their camera.
+
+
+To help users capture more of their special moments, the Galaxy S8’s camera launches instantly with a double-press of the power key. The camera’s zoom function is similarly seamless, allowing users to easily zoom in or out by dragging the white shutter button to the right or left.
+
+
+In addition to unlocking the device, the Galaxy S8’s fingerprint sensor allows users to open apps and manage key functions. A simple swipe down or up will show or hide the notification panel, while swiping up on the sensor from the Home screen will launch the Samsung Pay app. The function may be found under Settings > Advanced features > Finger sensor gestures.
+
+
+In a meeting and can’t answer the phone? With the Galaxy S8, you can politely decline incoming calls with preset text messages.
+
+
+The Quick Reply feature activates with a two-second touch of the device’s heart-rate sensor and allows users to send a customized response that suits their needs. The function may be found under Settings > Display > Edge screen > Edge lighting > More Options > Quick reply.
+
+
+Step Up Your Screenshot Game
+
+
+The Galaxy S8 allows users to snap quick screenshots via a variety of convenient ways.
+
+
+Users have the option to press and hold the ‘volume down’ and power buttons simultaneously, swipe the screen from one side to the other with the side of their palm, or utilize the Galaxy S8’s Smart Select feature, which is found via the Edge screen and allows you to select an area of the display to capture as an image or GIF.
+
+
+Located under Settings > Advanced features > Smart capture, scroll capture is another useful option that’s designed to help users snap more complete screenshots. The function appears after a screenshot has been taken and allows for all of an app or page’s scrollable content to be included in the image.
+
+
+Get More Done with Snap Window
+
+
+The Galaxy S8’s new Snap Window feature allows users to select a portion of the most recently opened app to pin to the top of their screen.
+
+
+This means that, for instance, a user may keep an eye on a video or constantly updated content such as stock prices and headlines via the top of their screen while using the remainder of the display to send an email, browse the web or manage other apps.
+
+
+Activate the feature by pulling up your recent apps and tapping on the function’s corresponding button.
+
+
+A Fun Way to Unlock Your Phone
+
+
+After registering their irises for biometric verification, Galaxy S8 users have the option to select a fun mask or background to display when the security feature is activated.
+
+
+Available designs may be found under Settings > Lock screen and security > Iris scanner > Preview screen mask.
+
+
+Sharing Links with Samsung Cloud
+
+
+Samsung Cloud offers users an effortless means to share large video clips and reams of pictures by creating a URL that lets others access your shared media.
+
+
+The function maintains full picture quality and supports files of up to 1GB in size. Users may save up to 2GB of content per day. After two days, the files are deleted from Samsung’s servers.
+
+
+To utilize the feature, select the photo or video that you would like to share in the Gallery app, tap Share and choose Link Sharing. The subsequent screen will allow you to select the app you would like to use to send your link.
+
+
+Users may also provide others with access to shared content by sending a code. Those who receive the code will be able to punch it in to Samsung’s Link Sharing app and instantly view and download the shared files.
+
+
+TAGSGalaxyGalaxy S8Galaxy S8+TipsUX
+
+
+Products > Mobile
+
+Related Articles
+  * [Interview] Galaxy S8 UX Designers Explain What it Took to Create One Continuous Experience
+
+For any issues related to customer service, please go to samsung.com/support for assistance. For media inquiries, please contact hq.comm@samsung.com.
+
+
+Check out the latest stories about Samsung
+
+Learn More
+
+Newsletter
+
+
+Sign up for daily updates from Samsung Newsroom
+
+SUBSCRIBE
+  * Sitemap
+  * Contact Us
+  * Samsung.com
+  * Terms of Use
+  * Privacy and Cookies
+
+Copyright© 2011-2019 SAMSUNG All Rights Reserved.
+
+  * Twitter
+  * YouTube
+  * LinkedIn
+  * Media Library
+  * facebook
+  * RSS
+  * Google News
+
+Sitemap
+
+  * Corporate
+      + People & Culture
+      + Citizenship
+      + Technology
+      + Design
+      + Others
+  * Products
+      + Mobile
+      + TV & Audio
+      + Home Appliances
+      + Camera & Computing
+      + B2B
+      + Semiconductors
+      + Others
+  * Press Resources
+      + Press Release
+      + Issues & Facts
+          o Statements
+          o FAQs
+      + Video
+      + Photo
+      + Infographics
+  * Views
+      + Views
+  * About Us
+      + OVERVIEW
+      + FAST-FACTS
+      + EXPERIENCE ZONE
+Layer Close
+TOP
+image Zoom-in image Zoom-out close

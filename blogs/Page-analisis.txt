@@ -1,0 +1,340 @@
+Xataka Android
+  * Menú
+  * Nuevo
+  * Buscar
+
+Motorola Moto G6 Plus, análisis tras un mes de uso: un gama media para exigentes
+
+
+Publicidad
+
+13 Comentarios
+Amparo Babiloni
+
+A pesar de la feroz competencia, la línea Moto G sigue siendo una referencia dentro de la gama media. El truco para mantenerse pasa por ir mejorando prestaciones año tras año y, además, apostar por distintos modelos que cubran más necesidades. Este año la familia Moto G está formada por tres miembros y el protagonista de hoy es el hermano mayor: el Moto G6 Plus.
+
+
+El Moto G6 Plus sube un escalón en la gama media y se sitúa en el rango de los 300 euros con componentes como su chip Snapdragon 630, 4 GB de RAM, la cámara doble o ese diseño de cristal que supone un salto claro hacia lo premium. Tampoco hay que olvidar la cámara, un sensor dual trasero que trae el popular modo bokeh. Tras analizarlo en profundidad, ahora me toca a mí la tarea de extraer conclusiones tras una prueba más extensa, concretamente de un mes. ¿Sigue convenciendo el Moto G6 Plus?
+
+
+Moto G6 Plus en vídeo
+
+
+Subiendo el listón del diseño, pero manteniendo la joroba
+
+
+Como decía, el diseño es uno de los puntos que han mejorado en esta generación. Tras probar los Moto G5 sin duda los Moto G6 han dado un salto importante a nivel estético y también de materiales. Marco de metal, cristal cubriendo ambas caras, acabados muy cuidados... Motorola ha querido transmitir la sensación premium de móviles más avanzados y lo ha conseguido.
+
+
+Pero todo lo que tiene de premium lo tiene de sucio. Basta con cogerlo un par de veces para que la trasera quede empañada por las huellas y pierda ese aspecto reflectante tan distinguido. Aquí el uso de la funda de silicona que viene en la caja es una solución, pero aunque es transparente no deja de ocultar el diseño en cierto modo. Yo la he acabado usando.
+
+El Moto G6 Plus es el más grande de su especie, pero el formato alargado ayuda a que el agarre sea cómodo y el tamaño no resulte excesivo.
+
+El tamaño es un punto a destacar y es que el Moto G6 Plus es el primero de su especie en montar una pantalla de 5,9 pulgadas. Esto no gustará a todos, pero el hecho de contar con un panel de formato alargado ayuda a que el manejo sea bastante cómodo. Además, sus formas se adaptan bien a la mano, no es resbaladizo (ni con funda ni sin ella) y resulta bastante ligero. Es verdad que los marcos frontales se podían haber ajustado más, en parte debido a haber mantenido el lector de huellas en la parte delantera, pero a pesar de esos milímetros adicionales no resulta aparatoso, o al menos no más que otros gama media de su generación.
+
+
+Hablando de pantalla, ninguna queja en cuanto a calidad. El panel IPS ofrece una experiencia visual muy completa y cumple tanto desde el punto de vista de la nitidez como del brillo y la reproducción del color.
+
+
+Pero no todo iba a ser bueno, el diseño del Moto G6 Plus también tiene un fallo y es algo a lo que Motorola ya nos tiene acostumbrados: la joroba de la cámara. La cámara dual es una de las características estrella de este modelo y parece como si con ese 'bump' tan pronunciado nos estén queriendo recordar que está ahí todo el tiempo.
+
+
+Hablamos de un móvil con un perfil de 8 milímetros, no es grueso, pero no parece tan delgado como para que la cámara sobresalga casi dos milímetros. A la vista es muy llamativo, en gran parte porque el módulo es bastante grande y no la típica pastilla ovalada más discreta que solemos ver, aunque a cambio gana originalidad. La cámara sobre ese módulo redondo ya es seña de identidad.
+
+La joroba de la cámara puede gustar más o menos estéticamente, pero lo que está claro es que el módulo queda más expuesto a golpes o arañazos.
+
+Nos puede gustar más o menos estéticamente, pero hay un hecho incontestable y es que al sobresalir, el módulo queda más expuesto a golpes o arañazos. Pensé que colocando la funda de silicona incluida se solucionaría el problema pero sólo lo minimiza. La cámara sigue sobresaliendo bastante, algo que notamos cada vez que apoyamos el móvil. En este mes no se me ha caído ni una sola vez y he llevado cuidado, pero a pesar de ello hay pequeñas marcas de uso en el marco que rodea el cristal. Son mínimas pero ahí están, y si la prueba durase varios meses más o incluso años (el uso habitual que le damos a un teléfono) las marcas serían más evidentes. Eso sí, el cristal que protege la cámara está impoluto.
+
+
+El rendimiento marca la diferencia, la autonomía no tanto
+
+
+Hace poco analicé el Moto G6 y me sorprendió gratamente lo bien que se desenvolvía con un Snapdragon 450. Sabiendo que el chip del Moto G6 Plus es un Snapdragon 630 ya me esperaba un rendimiento de nivel, y así ha sido.
+
+
+Cuando hablamos de tareas del día a día como chatear, publicar en redes, hacer fotos o consultar el correo, es muy difícil encontrar la línea que separa la gama media y la alta en términos de potencia y con el Moto G6 se ha hecho todavía más complicado. No he tenido problemas en ningún momento, incluso manejando varias apps al mismo tiempo y cambiando entre ellas rápidamente. Sin embargo, la excepción viene con juegos que piden mucha potencia. El ejemplo más claro lo he vivido con PUBG, que recomienda jugar con los gráficos en calidad baja y en general no va del todo fino.
+
+En rendimiento, el Moto G6 Plus está por encima de muchos modelos de su gama. En cambio, aunque la autonomía es buena, se mueve en la media y no consigue destacar.
+
+Como ya se comentó en el análisis, el Moto G6 Plus no llega al nivel de un gama alta, pero sin duda está por encima de otros modelos de su misma gama. Eso sí, en autonomía no destaca tanto. La mayoría de días, su batería de 3.200 mAh me ha dado para una jornada completa sin problemas, pero no mucho más. No hay queja, pero tampoco puedo hablar de la autonomía como algo a resaltar.
+
+
+La carga rápida lo compensa y ha hecho que las cargas, aunque más frecuentes de lo que me gustaría, sean un proceso menos 'doloroso'. En hora y media tenemos la batería a tope, pero si tenemos poco tiempo también podemos conseguir un 50% en una media hora.
+
+
+Desbloqueo facial y lector de huellas, ¿hace falta?
+
+
+Hablemos de la seguridad del Moto G6 Plus. Como decía antes, el lector de huellas se ha quedado en la parte frontal y he de decir que, tras un tiempo usando un móvil con lector trasero, ha sido un respiro volver a la ubicación frontal. Echaba de menos desbloquear el móvil mientras está en la mesa sin tener que levantarlo, sobre todo si además la respuesta del lector es tan rápida como la de este modelo. La respuesta del lector es rápida y precisa a pesar de su forma alargada, rara vez he tenido que reconocer el dedo para que lo pudiera reconocer.
+
+
+Pero la seguridad del Moto G6 Plus no se queda ahí y, como marcan las tendencias actuales, Motorola también apuesta por un sistema adicional de desbloqueo facial. No hay sensores especiales, todo se hace a través de la cámara delantera. O lo que es lo mismo, hablamos del sistema de desbloqueo integrado en Android de serie, por lo que en términos de seguridad es mucho mejor usar la huella.
+
+El Moto G6 Plus se 'blinda' con lector de huellas y el método de desbloqueo de moda: el reconocimiento facial. Tras un mes me parece prescindible, pero reconozco que funciona bien.
+
+Yo he usado ambos sistemas combinados y la verdad es que el desbloqueo facial es totalmente prescindible. Como sucede en la mayoría de móviles, para que funcione tenemos que activar primero la pantalla, por lo que en el tiempo que se tarda en hacer eso podemos poner el dedo en el lector y desbloquear el móvil. También es un poco incómodo si por ejemplo sólo queremos activar la pantalla para ver la hora, ya que en muchos casos se desbloquea porque es bastante preciso (con buena luz). Personalmente creo que ambos métodos combinados no son necesarios y he acabado quitando el reconocimiento facial, pero nunca está de más tener más opciones disponibles.
+
+
+Una cámara doble resultona pero que pide luz
+
+
+Motorola trajo la cámara dual a la línea Moto G con el Moto G5S Plus y para esta generación sigue apostando por esta configuración. Aquí la ventaja que nos ofrece es el bokeh o desenfoque de fondo, nada de zoom o angular. Los resultados del modo retrato son bastante buenos, siempre que la luz acompañe, eso sí. Los recortes de las figuras tienden a ser un poco artificiales en algunos casos, pero la app de la cámara nos permite ajustar la cantidad de desenfoque de forma manual y así conseguir un efecto más natural y no tan ‘pegote’.
+
+El modo retrato consigue un recorte bastante acertado si la luz acompaña. Además nos deja editar la cantidad de desenfoque para un efecto más natural.
+
+Además del modo retrato, el Moto G6 Plus aprovecha su dualidad para ofrecer efectos de recorte como la sustitución de fondo o el resalto de color con el que podemos mantener la figura a color y hacer que el fondo se quede en blanco y negro. Son las típicas funciones que pruebas cuando las descubres pero que acaban siendo olvidadas inmediatamente después. Dan mucho más juego otros modos como el manual, con el que podemos controlar bastantes parámetros y conseguir efectos más personalizados.
+
+
+La cámara rinde bien en el resto de escenarios, pero suele recordarnos a menudo que estamos tratando con un gama media. El rango dinámico sufre en escenas con altas luces aunque el modo HDR suele recuperar el detalle bastante bien. De noche se defiende medianamente bien siempre que no ampliemos mucho la imagen y no tratemos de fotografiar objetos en movimiento. Como una imagen vale más que mil palabras, cerramos este apartado con una galería de fotos tomadas con el Moto G6 Plus.
+
+
+Ver galería completa » Fotos hechas con el Moto G6 Plus (10 fotos)
+
+
+* Un mes con el Moto G6 Plus
+
+
+Pruebo bastantes móviles, muchos de ellos de gama media, y habitualmente noto un salto más pronunciado entre éstos y mi smartphone habitual, un gama alta. Sin embargo, tras un mes con el Moto G6 Plus, me he sentido más cómoda que con otros smartphones de su rango de precio.
+
+
+La excelente optimización de su software y un hardware más que decente hacen que la experiencia de uso esté por encima de lo que podríamos esperar de un Moto G. También sale bien parada su pantalla, amplia, nítida y con una excelente reproducción del color. La cámara es el apartado donde más se nota la brecha que separa las gamas, y es que a pesar de un modo bokeh bastante bien resuelto, la calidad de las tomas es mejorable, sobre todo en condiciones más complicadas.
+
+El Moto G6 Plus brilla en experiencia de uso, pantalla y diseño. La cámara cumple, pero es el punto donde nos recuerda que estamos tratando con un gama media.
+
+En general el conjunto es equilibrado y no tiene grandes carencias, pero es cierto que sus 299 euros lo colocan en un rango de precio que queda un poco ‘en tierra de nadie’. Por debajo tiene al Moto G6 que también ofrece una experiencia muy equilibrada, mientras que pagando un poco más ya podemos irnos a una gama media premium más completa. ¿Es recomendable el Moto G6 Plus? Totalmente. ¿Es atractivo? También, pero lo será más en unos meses, cuando su precio se haya reducido un poco y se aleje de los 300 euros para acercarse más a los 250 de su hermano pequeño.
+
+
+En Xataka | Moto G6 Plus, análisis: por menos de 300 euros pocos ofrecen una experienc
+
+
+Motorola Moto G6 Plus - Smartphone de 5.9" (procesador de ocho nucleos a 2.2 GHz, memoria interna de 4GB, doble cámara inteligente de 12 MP y 5 MP), color azul índigo
+
+
+Comprar por 249.61 EUR
+
+
+Xataka en Instagram
+
+
+* Seguir
+
+
+Compartir Motorola Moto G6 Plus, análisis tras un mes de uso: un gama media para exigentes
+
+  * Facebook
+  * Twitter
+  * E-mail
+* Temas
+  * Análisis
+  * Motorola
+  * Lenovo
+  * gama media
+  * Moto G
+
+Compartir Motorola Moto G6 Plus, análisis tras un mes de uso: un gama media para exigentes
+
+  * Facebook
+  * Twitter
+  * Email
+×
+Te puede interesar:
+Pixel 3 XL vs Pixel 2 XL, comparativa fotográfica: ¿hasta qué punto ha mejorado la cámara del buque insignia de Google?
+
+Publicidad
+
+Ver 13 comentarios
+
+Publicidad
+Síguenos
+  * Twitter
+  * Facebook
+  * Youtube
+  * Instagram
+  * RSS
+  * Flipboard
+
+En Xataka Android hablamos de...
+
+  * Móviles Android
+  * Tablets
+  * Análisis
+  * Aplicaciones Android
+  * Tutoriales
+  * Juegos Android
+  * Samsung
+  * Filtraciones
+  * Huawei
+  * Xiaomi
+  * Cazando gangas
+  * Android P
+
+Ver más temas
+
+Subir
+Weblogs SL
+
+  * Xataka
+  * Xataka Móvil
+  * Xataka Foto
+  * Xataka Android
+  * Xataka Smart Home
+  * Xataka Windows
+  * Xataka Ciencia
+  * Applesfera
+  * Vida Extra
+  * Genbeta
+  * Magnet
+  * Compradiccion
+  * Xataka eSports
+
+Otras publicaciones de Weblogs SL
+
+Inicio
+Reciente
+
+  * Cómo activar el modo oscuro en Android: todas las opciones disponibles
+  * El Motorola Moto Z4 Play se filtra con sensor de huellas bajo la pantalla y cámara de 48 megapíxeles
+  * Energizer asaltará el MWC 2019 con 26 nuevos móviles: rugerizados, con cámara desplegable y baterías enormes
+  * Firefox 66 para Android bloqueará la reproducción automática de vídeo y audio durante la navegación
+  * Google lanza Instant Tethering en 15 nuevos Chromebooks y más de 30 móviles Android
+  * El Meizu M9 Note muestra sus 48 megapíxeles y 3.900 mAh al pasar por la TENAA
+  * Transcripción instantánea y Amplificador de sonido, las nuevas apps de Google para personas con problemas auditivos
+  * El próximo flagship de Vivo, filtrado: cámara frontal retráctil y triple cámara trasera de 48 megapíxeles
+  * Decora la barra de navegación de Android con una animación de tu música con esta app
+  * Cómo proteger los chats de WhatsApp en Android con huella dactilar con estas apps
+  * El Samsung Galaxy A90 contará con cámara retráctil, según los primeros rumores
+  * WhatsApp ya permite proteger conversaciones con la huella o Face ID en iOS, así se hace en Xataka Móvil
+  * Cómo configurar un móvil Android para personas mayores
+  * Cómo compartir tus compras de Google Play
+  * Cómo proteger tu cuenta de Fortnite, Instagram, Facebook o Google usando la autenticación en dos pasos
+  * Cómo descargar en WhatsApp solo los stickers que más te gustan sin tener que bajar el paquete completo
+  * Qué es USB OTG y cómo sacarle todo el partido Por si te lo perdiste
+  * Las mejores apps para grabar voz en Android
+  * Google Discover: 18 trucos y consejos para dominar las recomendaciones en Android de la app de Google en Xataka
+  * Cómo enviar archivos de Android al PC y viceversa: todos los métodos disponibles Por si te lo perdiste
+
+Ver más artículos
+
+
+Xataka TV
+
+  * Como BORRAR HISTORIAL de búsqueda en INSTAGRAM | XTK Basics
+  * Honor 10 Lite, Review: apostando TODO por el DISEÑO y BATERÍA
+  * Sin cajeros y PAGANDO CON LA CARA: probamos nuevos métodos de pagos
+
+Ver más vídeos
+
+Inicio
+
+Destacamos
+
+  * Premios Xataka
+  * Black Friday
+  * Móviles Android
+  * Tablets
+  * Análisis
+  * Aplicaciones Android
+  * Tutoriales
+  * Juegos Android
+  * Samsung
+  * Filtraciones
+  * Huawei
+  * Xiaomi
+  * Cazando gangas
+  * Android P
+
+Ver más temas
+
+Síguenos
+  * Twitter
+  * Facebook
+  * Youtube
+  * Instagram
+  * RSS
+  * E-mail
+
+Recibe un email al día con los artículos de Xataka Android:
+
+
+Suscribir
+
+  * Xataka Android Respuestas
+  * Xataka TV
+  * Lo mejor
+  * Equipo editorial
+  * Contacta con nosotros
+
+* Más sitios que te gustarán
+
+  * Xataka
+  * Xataka Móvil
+  * Genbeta
+  * Vidaextra
+  * Applesfera
+  * Genbeta Dev
+
+Explora en Weblogs SL
+
+  * Tecnología Móviles, tablets, aplicaciones, videojuegos, fotografía, domótica...
+      + Xataka
+      + Xataka Móvil
+      + Xataka Foto
+      + Xataka Android
+      + Xataka Smart Home
+      + Xataka Windows
+      + Xataka Ciencia
+      + Applesfera
+      + Vida Extra
+      + Genbeta
+      + Magnet
+      + Compradiccion
+      + Xataka eSports
+  * Estilo de vida Moda, belleza, estilo, salud, fitness, familia, gastronomía, decoración, famosos...
+      + Trendencias
+      + Trendencias Belleza
+      + Trendencias Hombre
+      + Directo al Paladar
+      + Bebés y Más
+      + Vitónica
+      + Decoesfera
+  * Motor Coches, competición, motos, vehículos eléctricos, híbridos...
+      + Motorpasión
+      + Motorpasión Moto
+  * Ocio Televisión, series, cine, estrenos, viajes, literatura...
+      + Espinof
+      + Diario del Viajero
+      + WATmag
+  * Economía Finanzas, mundo de la empresa, autónomos, fiscalidad, administración, recursos humanos...
+      + El Blog Salmón
+      + Pymes y Autónomos
+  * Latinoamérica Publicaciones de México...
+      + Xataka México
+      + Motorpasión México
+      + Directo Al Paladar México
+  * Medios para clientes Publicaciones para otras marcas y partners...
+      + Circula Seguro
+      + Circula Seguro PT
+      + Nobbot
+      + Happing Magazine
+      + Sage Experience
+      + Optimismo Digital
+      + En Naranja
+      + Tecnología de tú a tú
+      + Mi Mundo Philips
+      + Blog Lenovo
+      + Muy Saludable de Sanitas
+      + Zona Coca-Cola
+      + Seguros de tú a tú
+      + Corriente Eléctrica
+      + eSports Unlocked by Orange
+      + Cervezas Alhambra
+      + Mahou Rentabilibar
+      + Inget by acer
+      + By Orange - Blog de Orange
+      + Pop TV
+      + Hablemos de empresas
+      + Huellas by Sareb
+  * Aviso legal
+  * Condiciones de uso
+  * Condiciones de uso de cookies
+  * Publicidad

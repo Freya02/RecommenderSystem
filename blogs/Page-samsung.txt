@@ -1,0 +1,186 @@
+Pocket-lint
+  * 
+    Reviews
+  * 
+    News
+  * 
+    Buyer's guides
+  * 
+    Deals
+  * 
+    More
+  * News
+  * Reviews
+  * Buyer's guides
+  * Deals
+  * More...
+Amazon UK YouTube Instagram Facebook Twitter
+search
+  * SIM only deals
+  * Which iPhone?
+  * Best smartphones
+  * Top Android phones
+  * Top budget phones
+  * Which mid-range phone?
+  * Upcoming phones
+search
+ 1. Home
+    >
+ 2. Phones
+    >
+ 3. Phone buyer's guides
+    >
+ 4. Samsung phone buyer's guides
+
+Samsung Galaxy A9 vs Galaxy S9+: What difference does £250 make?
+
+Britta O'Boyle | 11 October 2018
+Samsung / Pocket-lint
+Best Google Pixel 3 XL and Pixel 3 deals for January 2019: 30GB for £33/m on EE
+Facebook Twitter Pintrest LinkedIn Mail
+Comment
+
+Samsung offers numerous smartphones within its portfolio, ranging from the top-specced Galaxy Note series and S Series to the mid-range A series and budget J series.
+
+
+The Galaxy A9 is the most recent smartphone to join the Galaxy A range, with a price tag of £549 compared to the Galaxy S9+'s £799 and the S9's £679. How do they differ though and what do you miss out on to save that extra £250?
+
+  * Best Samsung phones: Galaxy Note, Galaxy S and Galaxy A compared
+
+Design
+
+  * Galaxy A9: 162.5 x 77 x 7.8 mm, 183g
+  * Galaxy S9: 147.7 x 68.7 x 8.5mm, 163g, IP68
+  * Galaxy S9+: 158.1 x 73.8 x 8.5mm, 189g, IP68
+
+The Samsung Galaxy S9 and S9+ have a metal core with a glass front and back, both of which are curved for a lovely design. There is an Infinity Display offering dual-curved edges and slim bezels at the top and bottom, while their rears have a fingerprint sensor. The S9 has a single camera lens and the S9+ has a dual camera setup on the back.
+
+
+The Samsung Galaxy A9 also offers a metal core and it too has a slightly curved glass back, but the front is flat and there are slightly larger bezels at the top and bottom of the screen. There are four camera lenses on the rear in the top left, along with a fingerprint sensor in the middle.
+
+
+The S9, S9+ and the A9 have USB Type-C and they all come with a dedicated Bixby button on the left-hand edge. The A9 has a 3.5mm headphone jack and one speaker, while the S9 and S9+ ditch the headphone jack to offer AKG-tuned stereo speakers.
+
+
+The S9 and S9+ come in Lilac Purple, Midnight Black and a lovely Coral Blue colour. The A9 meanwhile comes in Bubblegum Pink, Lemonade Blue and Caviar Black. The pink and blue options have an ombre effect on the A9, which is very striking, but this device doesn't feel quite as premium as the S9 or S9+ in the hand. It is also quite a bit larger than both devices.
+
+  * Samsung Galaxy A9 review
+
+Display
+
+  * Galaxy A9: 6.3-inches, 2220 x 1080 (392ppi), 18:9
+  * Galaxy S9: 5.8-inches, 2960 x 1440 (568ppi), 18.5:9
+  * Galaxy S9+: 6.2-inches, 2960 x 1440 (531ppi), 18.5:9
+
+The Samsung Galaxy S9 and S9+ and A9 all feature a Super AMOLED display, resulting in rich and vibrant colours and deep blacks. The S9 and S9+ have fantastic displays in our experience, with their dual curved edges making them even more special.
+
+
+The Galaxy A9 has the largest display of these three devices at 6.3-inches, putting it closer to the S9+ and its 6.2-inch display rather than the S9 and its 5.8-inch screen. It drops the resolution from Quad HD+ to Full HD+ though, resulting in a pixel density of 392ppi compared to the S9 and S9+, both of which are over 500ppi.
+
+
+The other thing you'll miss out on opting for the A9 over the S9 or S9+ is mobile HDR compatibility. This won't matter to everyone but if you enjoy watching content from YouTube, Netflix or Amazon at its best, you'll get a better experience with the S9 and S9+, assuming you are watching compatible content.
+
+
+The A9 has an 18:9 aspect ratio, which means the display makes good use of the footprint, though not as good as the S9 and S9+, both of which come with an 18.5:9 aspect ratio, making those bezels surrounding the display that little bit slimmer.
+
+
+Cameras
+
+  * Galaxy A9: Quad rear 24MP (f/1.7, AF, FHD video), 10MP telephoto, 8MP ultra wide and 5MP depth, 24MP front (f/2.0)
+  * Galaxy S9: 12MP (Dual aperture, AF, OIS, 4K video), 8MP front (f/1.7, AF)
+  * Galaxy S9+: Dual 12MP (Dual aperture, AF, Dual OIS, 4K video), 8MP front (f/1.7, AF)
+
+The Samsung Galaxy A9 has four camera lenses on the rear, while the S9+ has two and the S9 has one. More lenses doesn't automatically mean better experience though.
+
+
+The quad-lens system on the Galaxy A9 is made up of a main 24-megapixel sensor for generic shots and low light images, and a secondary 5-megapixel depth sensor for blurred backgrounds, otherwise known as bokeh effect. The third sensor is an ultra-wide 120-degree, 8-megapixel sensor and the fourth sensor is a 10-megapixel telephoto lens for 2x optical zoom.
+
+
+The Galaxy S9 has a 12-megapixel Dual Pixel sensor with a dual aperture between f/1.5 and f/2.4, while the S9+ adds a secondary 12-megapixel telephoto lens for 2x optical zoom. Both Galaxy S devices offer optical image stabilisation, autofocus, 4K video capabilities and they deliver excellent results.
+
+
+It's not yet clear how the A9's cameras will perform, though it does offer the Note 9's Scene Optimiser feature that users AI to identify an object or scene and adjust settings accordingly. It also has the Flaw Detection feature to let you know if your subject is blinking or your shot is blurry. Video capabilities are capped at Full HD though.
+
+
+In terms of the front camera, the A9 has a 24-megapixel sensor with an aperture of f/2.0, while the S9 and S9+ have an 8-megapixel sensor with an aperture of f/1.7.
+
+  * Samsung Galaxy S9+ review
+
+Hardware
+
+  * Galaxy A9: SD660, 6GB RAM, 128GB storage, 3800mAh
+  * Galaxy S9: SD845/Exynos 9810, 4GB RAM, 64GB storage, 3000mAh
+  * Galaxy S9+: SD845/Exynos 9810, 6GB RAM, 128GB/256GB storage, 3500mAh
+
+The Samsung Galaxy A9 has a mid-range chipset under its hood in the Qualcomm Snapdragon 660 but it offers 6GB of RAM, 128GB of storage and microSD support for storage expansion up to 512GB. It also has a huge 3800mAh battery capacity on board, chasing Note 9 territory.
+
+
+The Galaxy S9 and S9+ both opt for either the Qualcomm Snapdragon 845 or the Exynos 9810, depending on the region. The S9 has 4GB of RAM while the S9+ has 6GB of RAM and the S9 comes with 64GB of storage, while the S9+ is available in 128GB and 256GB options. Both have microSD support but it is capped at 400GB.
+
+
+The two flagship handsets also offer smaller batteries than the A9 with the S9 featuring a 3000mAh capacity under its hood and the S9+ offering 3500mAh. Both devices offer a very fluid performance though, and they both offer excellent sound from those AKG-tuned stereo speakers.
+
+
+Software
+
+  * Android Oreo with Samsung UX Experience
+
+All of Samsung's devices run on Android Oreo with the company's UX Experience over the top. They all offer Bixby Voice and they all have facial recognition and fingerprint scanners on board. The S9 and S9+ also offer iris scanning though, which is something the A9 leaves off its list.
+
+
+Overall, the experience will be very familiar across the A9 and S9 and S9+ devices, aside from a few differences here and there.
+
+
+Price and conclusion
+
+  * S9: $619.99 on Samsung US | £679 on Samsung UK
+  * S9+: $739.99 on Samsung US | £799 on Samsung UK
+  * A9: £549 on Samsung UK
+
+The Samsung Galaxy A9 will cost £549 when it launches in mid-November. The S9 currently costs £679 on Samsung's website and the S9+ costs £799 on Samsung's website.
+
+
+So what do you miss out on and what do you gain if you buy the A9 over one of the flagship S devices?
+
+
+A less premium finish, a lower resolution display, no HDR, Full HD video only, an older chipset and no iris scanning is what you miss out on in a nutshell, if you buy the A9 over the S9 or S9+.
+
+
+What you gain however, is a couple of extra rear cameras, a higher resolution front camera, a larger battery capacity, extra RAM compared to the S9, double the internal storage compared to the S9, extra microSD expansion and at least £90 in your pocket.
+
+
+We will update this feature when we have reviewed the A9 in full.
+
+Sections Samsung Phones
+PopularIn Phones
+Xiaomi Mi Mix 3 review: The slider phone has arrived
+Mobile World Congress 2019: What to expect from the World's biggest mobile show
+Nokia 9 PureView specs, release date, news and rumours
+Nokia reveals MWC 19 press event, Nokia 9 PureView finally coming?
+Best SIM only deals for January 2019: 120GB data for £20 on Virgin Media
+Why the Apple Smart Battery Case is perfect for influencers and Fortnite gamers
+Comments
+search
+  * Pocket-lint Gadget Awards
+  * RSS Feeds
+  * Newsletter
+  * Popular sections:
+  * Phones
+  * Apps
+  * TV
+  * Smart home
+  * Games
+  * Tablets
+  * Laptops
+  * Speakers
+  * Cameras
+  * Smartwatches
+  * Site map
+  * Contact us
+  * About Pocket-lint
+  * Reviews Policy
+  * Terms of Use
+  * Privacy Policy
+  * Advertise on Pocket-lint
+
+2003 - 2019 © Pocket-lint Limited PO Box 4770, Ascot, SL5 5DP. All rights reserved. England and Wales company registration number 5237480.

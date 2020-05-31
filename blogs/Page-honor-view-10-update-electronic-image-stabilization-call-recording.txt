@@ -1,0 +1,286 @@
+* News
+  * Forums
+    Forum Home
+
+    Top Devices
+
+
+    New Devices
+
+
+    Topics
+
+  * Devices
+    More
+  * Topics
+
+    Features
+
+
+    Customize
+
+  * Best Posts
+close
+close
+Remember me Forgot password?
+Log In
+Register or Login with Google
+
+
+Notifications
+
+
+My Devices (edit)
+
+  * Log Out
+  * Settings
+  * Reported Posts
+
+XDA’s Apps
+
+
+  * Nav Gestures
+
+
+    Add swipe gestures to any Android, no root
+
+
+  * One handed mode
+
+
+    Make your phone easier to use with one hand, no root
+
+
+  * XDA Forum App
+
+
+    The best way to access XDA on your phone
+
+
+  * XDA Labs
+
+
+    An app store for independent developers
+
+
+  * Hyperion Launcher
+
+
+    A sweet, feature-filled launcher with a beautiful UX.
+
+
+Sites we like
+
+
+  * Swappa
+
+
+    XDA’s official marketplace for buying and selling tech
+
+
+  * Pocketnow
+
+
+    Premium videos
+
+
+Social
+
+
+* Resources
+
+  * Subscribe to our Newsletter
+  * Contact
+  * About
+  * Tip Us
+July 23, 2018 11:45pm 0 Comments Idrees Patel
+
+Honor View 10 update brings electronic image stabilization (EIS), call recording, and more
+
+
+The Honor View 10 was launched in January 2018 as an affordable flagship smartphone. Its list of specifications includes the high-end HiSilicon Kirin 970 system-on-chip, 6GB of RAM paired with 128GB of storage, 6-inch Full HD+ (2160×1080) 18:9 IPS LCD, dual 16MP (RGB) + 20MP (monochrome) rear cameras, 16MP front camera, and a 3,750mAh battery. The phone shipped with EMUI 8.0 on top of Android 8.0 Oreo. In the US, the phone launched in March with EMUI 8.1 on top of Android 8.1 Oreo.
+
+
+The international BKL-L09 model of the Honor View 10 hasn’t received EMUI 8.1 on top of Android 8.1 yet, however, which means that it’s still running Android 8.0. Now, Honor is rolling out an update to the Honor View 10 BKL-L09 model in India. The update will bring the software version of the Honor View 10 to BLK-L09 8.0.0.161. It adds electronic image stabilization (EIS), call recording, “thermal optimization,” and Ride mode.
+
+
+Honor notes that since the launch of the Honor View 10, many users had expressed feedback about the absence of EIS on the device. The Honor View 10 does not have optical image stabilization (OIS), and the absence of EIS meant that the phone had no video stabilization whatsoever at launch. This was a significant drawback when considering the fact that even phones such as the Xiaomi Redmi Note 5 Pro now have EIS for recording [email protected] videos. The lack of EIS meant that videos recorded on the Honor View 10 were prone to camera shake.
+
+
+The 8.0.0.161 update now does bring EIS, which is noted by Honor to be an electronic image stabilization technique that minimizes blurring and compensates for device shake while capturing video. Notably, the Honor 10 also recently received a update that brought the EIS feature.
+
+
+The update for the Honor View 10 also brings call recording and Ride mode for users riding a bike. The changelog also mentions “thermal optimization,” but doesn’t go into further detail. Finally, it includes the July 2018 Android security patches.
+
+
+The full changelog can be read below:
+
+
+Changelog
+
+
+EIS Feature – Enable EIS, an electronic image stabilization technique which minimizes blurring and compensates for device shake while capturing video.
+
+
+Call Recorder – Call recorder feature added.
+
+
+Ride Mode – Ride mode feature added.
+
+
+[Bug fixes]
+
+
+Thermal Optimization – Thermal optimization done.
+
+
+Security Patch – Google security patches are merged to make your device more secure.
+
+
+Honor states that the update will roll out in batches starting July 24 to Honor View 10 users in India. Users in other markets will then start to receive the update.
+
+Source: Honor
+* Discuss This Story
+
+Tags HonorHonor View 10
+
+Want more posts like this delivered to your inbox? Enter your email to be subscribed to our newsletter.
+
+Email Address
+Frequency - Select -XDA News DailyXDA News Weekly
+Subscribe
+
+READ THIS NEXT
+
+0 Comments
+
+LG V40 ThinQ Display Review: The Underdog Has Finally Caught Up
+
+0 Comments
+
+Xiaomi’s UK launch has been sullied by growing pains, but the company is still looking forward
+
+0 Comments
+
+Android Q’s Dark Mode: How Google’s next Android OS will tackle blindingly light themes
+
+Please enable JavaScript to view comments.
+
+About Author
+
+Idrees Patel 677 posts see posts >
+Idrees Patel is a smartphone enthusiast from India. He has been an Android user since the time he got the LG Optimus One in 2011. He has a bachelor's degree in Management Studies. The subjects in which he is interested are mobile processors, real-world UI performance, in-depth camera quality analysis, and many more. Contact: [email protected]
+
+
+Subscribe to XDA
+
+
+Receive the freshest Android & development news right in your inbox!
+
+Email Address
+Consent
+I give xda-developers permission to collect and use my data submitted in this form.
+
+Give consent that we may collect and use your data.
+
+Subscribe Now
+
+Latest XDA News
+
+
+Nokia 7.1 Video Review – Dear HMD Global: Please Do More Of This!
+
+February 5, 2019
+
+LG V40 ThinQ Display Review: The Underdog Has Finally Caught Up
+
+February 5, 2019
+
+The Alcatel 1S and ZTE Blade A5 2019 are upcoming budget smartphones that run Android Pie
+
+February 5, 2019
+
+Motorola Moto Z4 Play leak suggests 48MP rear camera and in-display fingerprint sensor
+
+February 5, 2019
+
+Become a Professional Graphic Designer with This Adobe Training Bundle
+
+February 5, 2019
+
+From the Forums
+
+
+Xiaomi Mi Play’s kernel source code is now available
+
+February 1, 2019
+
+Simple Mobile Tools – A Collection of Open Source, Ad-Free apps
+
+February 1, 2019
+
+FWUL, the Linux distro designed for Android debugging and modding, hits version 3.0
+
+January 31, 2019
+
+SALT is a third-party alternative to LG UP
+
+January 31, 2019
+
+OPPO Find X’s kernel source code is now available
+
+January 30, 2019
+
+Binary Watch Face brings the 1s and 0s to your Wear OS smartwatch because why not
+
+January 30, 2019
+
+Widget Timeline shows your calendar events on the Amazfit Pace/Stratos/Verge
+
+January 30, 2019
+More Forum Links
+
+Suggested Apps
+
+
+Official XDA Forum App
+
+The XDA App is the fastest way to access the forums on mobile.
+
+Navigation Gestures
+
+Customizable gesture control for any Android device.
+
+XDA Labs
+
+Labs is an independent app store that gives developers full control over their work.
+
+Substratum
+
+The ultimate, most complete theming solution for Android.
+
+Hyperion Launcher
+
+A sweet, feature-filled launcher with a beautiful UX.
+
+XDA Developers was founded by developers, for developers. It is now a valuable resource for people who want to make the most of their mobile devices, from customizing the look and feel to adding new functionality.
+Are you a developer? | Terms of Service
+
+More info
+  * Contact
+  * Advertise
+  * Rules
+  * Suggest Content
+  * Security
+  * Privacy Policy
+  * XDA App
+  * Remove ads on XDA
+    
+  * Root Any Device
+  * How To Guides
+  * XDA's Best
+
+
+Copyright © xda-developers. Hosted by Leaseweb
+
+We're Social

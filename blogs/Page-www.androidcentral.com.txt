@@ -1,0 +1,239 @@
+Skip to main content
+  * Forums
+  * Shop
+  * Toggle Search
+  * Honor
+  * Amazon Echo vs Dot
+  * Mint Mobile
+  * Google Pixel 3
+  * Best Android Phones
+  * Galaxy S9
+  * Galaxy Note 9
+  * Forums
+  * BlackBerry KEY2
+Mid-range champ
+Moto G6 Plus review: Motorola still masters the art of the mid-range phone
+
+This is Motorola's bread and butter.
+Andrew Martonik
+8 May 2018 35
+
+Motorola's phone business in 2018 revolves around the Moto G series. The Moto E and Moto Z sell, but not in the same realm as the Moto G. Motorola has sold 70 million Moto Gs to date, with a majority of those sales coming in just the last couple of years. By the time the Moto G6 series runs its course, Motorola hopes to have that sales number reach 100 million cumulatively. The Moto G6 is a big deal for the company.
+
+
+And because of its multi-model approach and attainable pricing, the Moto G6 series is also a big deal for anyone who wants to strike a balance between quality, style and price. The standard Moto G6 will be the one most people gravitate to for that ultimate balance at $249, but for a little more money (in some markets) you can get this, the Moto G6 Plus. It's a little bigger, a little more capable and a solid notch up in price.
+
+
+Does that make the Moto G6 Plus the ultimate mid-range phone with style and substance to match? Our full review covers everything you need to know.
+
+
+See at Amazon
+
+
+About this review
+
+
+I'm writing this review after two weeks using the Moto G6 Plus, running software version OPW27.113-27 and the March 1 security patch. The software was not updated during the course of the review. The phone was used in the Seattle, WA area on AT&T. This is the Brazilian version of the phone, meaning it does not have compete LTE band coverage. Technically this can have a negative effect on battery life and network performance, but I do not feel it had an appreciable influence.
+
+
+Mid-range champ
+
+
+Moto G6 Plus What I like
+
+
+Motorola seems to have been successful with its revival of the Moto X line with the launch of the Moto X4, due in part to its shiny new design. It's the first time Motorola leaned into the "metal and glass sandwich" look, and it definitely worked — so much so that Motorola took that design and brought it down to the Moto G6 series and even the inexpensive Moto E5 Plus.
+
+
+This phone looks great from every angle, and the display is solid for a mid-range phone.
+
+
+But this shiny exterior isn't the exact same — it keeps the curved pane of Gorilla Glass on the back, but the frame is a hard acrylic (read: shiny plastic) instead. But still, it looks great. And since the back is still glass you get that "solid" feel when you pick it up even though the main frame is plastic. Little touches like the nice curving of the back glass and the neat circular pattern around the camera module give the Moto G6 Plus a classy flair you don't usually get in lower-end phones.
+
+
+Moto G6, G6 Plus and G6 Play specs
+
+
+The same good feelings extend to the display, where Motorola has gone to the modern-feeling 18:9 aspect ratio with rounded corners just like you'd see in top-end phones. It's also 5.9 inches, a tad larger than the standard G6 and right on par with what the market's asking for — getting more screen for the money is what it's all about nowadays. The IPS LCD itself is great for the money, too: 1080p resolution is plenty at this size, and it has good colors, viewing angles and brightness. If there's one complaint, it's that it doesn't get very dim, which can be annoying in a dark room.
+
+
+Motorola's software continues to be great, whether it's on a $700 Moto Z2 Force or $150 Moto E5. The whole "Moto" suite of software, from the actions to gestures and smart assistant-like features, all strike the perfect balance of being useful but not pushy or cumbersome. I chose to use a few of them, particularly the gestures, but didn't enable everything and that was just fine. Moto Display has been surpassed in some ways by Google's own ambient notifications, but it's still super-useful to interact with things without turning on the screen.
+
+
+Motorola's software continues to be one of its strengths.
+
+
+Everything else about the experience is effectively the same as "stock" Android, plus a few small tweaks of colors. The launcher still includes the Google Now Feed, there are a few changes in the settings, and that's it. It's always refreshing to use a Motorola phone, and that same simplicity also helps more novice users pick up and use the phone without being overwhelmed.
+
+
+Software performance is solid, but you'll never mistake this for a flagship that's twice the price. A Snapdragon 630 and 4GB of RAM is plenty for normal tasks, but now and then you can catch it skipping some frames or taking a few extra beats to switch between apps. That's nothing people in this price bracket haven't experienced (and then some) before, but then again I also didn't experience hiccups like this on the Android One Moto X4 with the same specs, which was interesting to see.
+
+
+Moto X4 review: A mid-range phone done right
+
+
+Having 64GB of storage plus an SD card (that works as adoptable storage) means there's plenty of room to grow as you use the phone. You may not appreciate it right away, but as apps continue to get larger and more demanding, they won't cause you problems.
+
+
+The other upside of the frugal processor and simple software is battery life, which is absolutely immense on the G6 Plus. Just like having a big screen, Motorola knows mid-range buyers want battery life, and it delivers. I never had a day where I went to bed with less than 25% battery, and on easier weekend days with minimal use I'd have over 50% remaining. On average, 15-16 hours of use with 3-4 hours of "screen on" time had me end the day with about 40% battery — that's just fantastic. This is all from a totally normal-sized 3300mAh battery — it just goes to show that optimization can be just as important as capacity. There's also a 15W TurboPower charger in the box, which is great, and it finally uses the new USB-C standard.
+
+
+Another part of Motorola's push for the G6 to feel more modern while staying on a budget is the move to dual rear cameras. The main camera has good specs: a 12MP sensor with good pixel size sits behind an f/1.7 lens, and even has dual pixel autofocus like many higher-end smartphone cameras. The secondary camera is a 5MP unit that's there purely in a supporting role, to pull in more color and light information and also provide extra data for depth effects.
+
+
+I took some surprisingly good photos, but dynamic range is a notable shortcoming.
+
+
+The camera is surprisingly good when it has light to work with, and focuses extremely quickly. Images are crisp and natural, but are lacking in dynamic range compared to higher-end phones. I had to use tap-to-meter on most shots to make sure exposure was correct from the start, because even with HDR applied images could easily be far too dark or completely washed out. When you work around that limitation, you actually get some really good photos.
+
+
+Low light performance isn't great, but that's to be expected on a less-expensive camera without OIS. The lack of dynamic range hurt the camera's ability to get brightness out of dark scenes, and dark areas often came out a little blotchy.
+
+
+Selfies are important, right? Well Motorola's doing its best with limited resources here. There's an 8MP sensor up front, which I'll commend for taking crisp shots with pretty good colors to boot. But it's fixed-focus, so unless you really get your arm out there your face will end up being a little soft. But don't expect too much in low light — the front-facing flash helps a ton, giving you a chance to get a decent shot where most wouldn't get anything usable, but it's still not enough to get you a crisp photo every time. Overall, it's a better selfie shooter than you expect for the money.
+
+
+Not all perfect
+
+
+Moto G6 Plus What isn't as good
+
+
+That shiny exterior sure looks nice, and is made well, but if there's one complaint with Motorola's overall hardware strategy its that the Moto G6 Plus lacks grip. The plastic frame, pebble-like curves and relatively large size are a combination for a phone that's a bit of a slippery fish. Taking this design in a smaller size with a textured metal frame, like on the Moto X4, is notably easier to hold and operate in one hand. To Motorola's credit it does include a clear rubberized case in the box, which will keep that shiny exterior looking good but also provide you one-handed grip when you need it.
+
+
+This tall phone is pretty slippery, and at $350 it's okay to question why it isn't properly waterproof.
+
+
+The only other real shortcoming of the hardware is that it's merely "splashproof" rather than properly IPX8 water resistant. I understand this omission on the standard G6 and low-end G6 Play, but for a phone of this price you start to expect little extras like that — particularly when the Moto X4 is IP68.
+
+
+It's also worth spending time on the camera once again in this section, because for as good as its general performance is, Motorola has completely missed the mark on its advanced features using the secondary camera and "AI" of some sort. You can use the pair of cameras, plus some software magic, to use a "Portrait" mode but also what Motorola calls "Cutout" and "Spot color" — the first is self-explanatory, but the other two aim to separate the subject from the background so you can edit them indepdentently for different colors and effects.
+
+
+None of them work particularly well, and this is easily the worst implementation of these dual-camera features I've used. The edge detection is not good, and that manifests itself in very bad-looking background cutouts. Even the best dual-camera pairs on high-end phones mess up pretty regularly, so it isn't surprising to see Motorola stumble on its first attempt in a cheaper phone, but I think this one should've stayed in the oven for another generation.
+
+
+A classier mid-range phone
+
+
+Moto G6 Plus Review
+
+
+There's no other way to say it, Motorola still masters the art of the mid-range phone with the Moto G6 Plus. While the standard Moto G6 may strike the ultimate balance of price and capabilities, the G6 Plus is a great example of the complete package you can get for what's still a very affordable $349.
+
+
+Motorola managed to get a great-looking and feeling body, a large 18:9 display and solid specs together for an affordable price, while also adding value in many other places. Its software is still top-notch and filled with useful features, the camera is surprisingly good despite some AI shortcomings, there's support for dual SIM, an SD card and a headphone jack, and holy moly the battery life is spectacular. The only real shortcomings to speak of are the slippery body and some sporadic performance hiccups — but let's remember the price bracket this phone is playing in ... I can forgive those two issues.
+
+
+The Good
+
+  * Fantastic battery life
+  * Clean, simple software
+  * Big, nice-looking screen
+  * Above-average camera
+  * Headphone jack and FM radio
+  * Dual SIM + SD card
+
+The Bad
+
+  * Sporadic performance hiccups
+  * Slippery to hold
+  * "Splashproof" not waterproof
+  * Moto X4 may be a better value
+
+4 out of 5
+
+
+After spending a couple weeks with the Moto G6 Plus, it makes sense to me why this phone isn't coming to the U.S. (and many other markets). At the equivalent of $350, the G6 Plus doesn't look all that enticing alongside a Moto X4 for $399 (or often less) that offers better materials and nice features like full water resistance and a wide-angle secondary camera — clearly a step up overall from the G6 Plus. On the other side the standard G6, at just $249, offers much of the same experience with only subtle spec downgrades for a very enticing price.
+
+
+But in most markets, you won't have those choices — if the Moto X4 is available, the G6 Plus probably won't be. Same for the standard Moto G6. If Motorola is ranging only the Moto G6 Play and G6 Plus where you live, this really is the budget phone to beat in the $3-400 price range. It offers so much, with so few downsides, and a really great price — the complete package is tough to match. Motorola has this formula locked in, and it shows in the Moto G6 Plus.
+
+
+See at Amazon
+
+
+This post may contain affiliate links. See our disclosure policy for more details.
+
+ViewClose Comments (35)
+  * Reviews
+  * Moto G6
+
+Andrew Martonik
+
+
+Andrew is the Executive Editor, U.S. at Android Central. He has been a mobile enthusiast since the Windows Mobile days, and covering all things Android-related with a unique perspective at AC since 2012. For suggestions and updates, you can reach him at andrew.martonik@androidcentral.com or on Twitter at @andrewmartonik.
+
+Load More
+  * The Best Phones
+  * The Best Carriers
+  * Reviews
+  * Google Pixel 3
+  * Chromebooks
+  * Android 9 Pie
+  * Apps
+  * Rooting
+  * Help
+
+Other Categories
+
+  * Answer / Ask a Question
+  * Forums
+  * The Best
+  * Contests
+  * Newsletter
+  * Podcast
+  * Cell Phone Plans
+  * Licensing and Reprints
+  * Android Central
+  * Windows Central
+  * iMore
+  * CrackBerry
+  * Thrifter
+  * CordCutters
+  * MrMobile
+
+Forums and Discussions
+
+  * Android Central Forums
+  * Answer / Ask a Question
+  * Trending Discussions
+  * New Posts
+  * Help & How-To
+  * BlackBerry KEY2
+  * Galaxy Note 9
+  * Galaxy S8 & S8+
+  * Galaxy S9 & S9+
+  * HTC U12+
+  * Honor 7X
+  * Honor V10
+  * Huawei P20 & P20 Pro
+  * LG G7
+  * Moto Z3
+  * Moto Z3 Play
+  * OnePlus 6
+  * Pixel 2 & Pixel 2 XL
+
+Shop
+
+
+Dev Center
+
+Log in or Sign up
+  * Google+
+  * Twitter
+  * Facebook
+  * YouTube
+  * Instagram
+  * RSS
+  * Tip us on news!
+Mobile Nations 500M Consumers Reached Yearly
+  * Copyright 2019 Mobile Nations
+  * Terms and Conditions
+  * Privacy Policy
+  * Your Ad Choices
+  * Careers: Writer | Dev
+  * Licensing
+  * External Links Disclosure
+Advertising Partner

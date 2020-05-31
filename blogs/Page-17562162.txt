@@ -1,0 +1,197 @@
+* Mobile
+
+
+Moto G6, G6 Play, and G6 Plus review: I can’t believe budget phones are this good
+
+By Jacob Kastrenakes@jake_k Jul 12, 2018, 11:15am EDT
+Photography by Amelia Holowaty Krales
+Share Tweet Share
+Share Moto G6, G6 Play, and G6 Plus review: I can’t believe budget phones are this good
+share tweet Linkedin Reddit Pocket Flipboard Email
+Part of The Verge Guide to Android
+
+I still can’t believe this is a $250 phone.
+
+
+The Moto G6 looks and feels like a phone twice its price. It has a great screen, a comfortable design, a clear speaker, and in the few weeks I’ve been using it, no obvious performance issues (despite its budget price and processor). I certainly do have complaints and nitpicks, but I still keep picking it up and thinking, “How on earth is this thing only $250?”
+
+
+The Moto G6 is the latest in Motorola’s line of $200–$300 Moto G smartphones, which quickly became, and have remained, the company’s most popular phone line since its introduction five years ago.
+
+
+Alongside the announcement of the G6, Motorola also launched two variants: the G6 Play, which trades some performance for battery life, and the G6 Plus, which adds performance and a bigger screen. The G6 and G6 Play are available unlocked and work on all major US carriers; the Plus is only available internationally. If you’re in the market for a phone under $300 right now, you don’t have to look much further.
+
+8 Verge Score
+
+Motorola Moto G6
+
+
+Good Stuff
+
+  * Vibrant screen
+  * Comfortable design
+  * Bargain price
+
+Bad Stuff
+
+  * Slow camera
+  * Processor may age poorly
+  * Atrocious default wallpaper
+Buy for $249.99 from Motorola Buy for $234.99 from Amazon Buy for $249.99 from B&H Photo
+7.5 Verge Score
+
+Motorola Moto G6 Play
+
+
+Good Stuff
+
+  * Ludicrous battery life
+  * Few performance issues
+
+Bad Stuff
+
+  * Dull camera
+  * Fuzzier screen
+Buy for $199.99 from Motorola Buy for $189.99 from Amazon Buy for $199.99 from B&H Photo
+7.5 Verge Score
+
+Motorola Moto G6 Plus
+
+
+Good Stuff
+
+  * Solid performance
+  * Not too big
+
+Bad Stuff
+
+  * Extra size doesn’t add much
+  * SIM card tray is puzzlingly hard to remove
+Buy for $263.74 from Amazon
+
+The standard G6 sits in the middle of the line and strikes the best balance of the bunch. The phone has a 5.7-inch screen, but because it has a tall, 18:9 display, it isn’t all that wide. Couple that with a back that’s curved at the edges, and you end up with a relatively large screen inside of what feels like a small phone.
+
+
+It’s a good screen, too, with bright and vibrant colors and a resolution just above 1080p. It isn’t OLED, so you don’t get the perfect blacks seen on many higher-end phones, but I actually find the Moto G’s color tuning to be more pleasing than the screen on my Pixel 2 (a $649 phone), which looks a bit greener and washed out in comparison.
+
+
+Moto G6.
+
+The phone’s weakest point is its cameras. The selfie cam’s results are soft and muddy, a lot like what you’d get from the average webcam. On the back are two f/1.8 lenses on a 12-megapixel and 5-megapixel sensor, and the lower-resolution one is purely being used to add portrait mode effects. Portrait modes have issues on far more expensive phones, so I wasn’t expecting much here. The feature works, but it’s hard to imagine using it since the results look worse than a regular photo. I’d have much preferred Motorola put one good camera on the back of the phone than two mediocre ones.
+
+
+In bright daylight, you can get some good shots out of the phone. But in anything other than ideal settings — and often, even in ideal settings — it would run into issues. The phone isn’t great at exposing shots that have both bright and dark areas at the same time. And in low-light, its photos become noisy or smudgy. The even bigger problem is that the camera is just too slow, leaving me with a lot of blurry pictures of my cat.
+
+
+The G6 is, for the most part, a pretty typical Android phone. It has a USB-C port, a headphone jack (!), and near-stock Android, augmented with just a handful of Motorola features. Those features range from slightly handy, like one that helps your screen stay on while you’re looking at it, to mostly inconsequential, like a gesture to shrink the screen down for one-handed use, which I never used. One of the more prominent additions is an ambient display that shows your notifications on a minimalist black-and-white screen when you flip the phone over. I found it to be more confusing than the normal lock screen. Fortunately, you can turn all of these features off.
+
+
+The phone’s fingerprint reader is on the front beneath the screen, rather than on the back. I didn’t have a real problem with where it was located, but I do think scanners on the back are a more natural placement. Motorola does take advantage of offering gesture controls by using the fingerprint scanner as a touch surface, which can free up screen space by removing Android’s three control buttons, but the feature isn’t activated by default. They gestures work well, but I still found the on-screen controls to be more comfortable.
+
+
+My one outstanding question with this phone is how its performance will hold up in the long run. Right now, it’s running great. Apps and webpages open quickly, and there’s usually no visible lag as I move from screen to screen — not a given among phones at this price. But the G6 is still using a lower-end processor, Qualcomm’s Snapdragon 450, which is likely to age quicker than a higher-end model. I can’t test how well it’ll perform in the long run in the scope of this review, but it’s something to consider if you were waffling between this phone or something more powerful.
+
+
+Moto G6 Play.
+
+For $50 less than the Moto G6, you can get the Moto G6 Play. The G6 Play is generally a worse phone. It has a slightly slower processor, a much worse camera, less RAM, a thicker build, a cheaper-looking body, and a lower-resolution screen.
+
+
+But all of those trade-offs might just be worth it for one thing: the phone’s huge, 4,000mAh battery, which lasted for three days of my use.
+
+
+Side by side with the G6, the G6 Play’s flaws stand out. But on its own, they aren’t all that bad. The phone is nearly the same size, also putting a 5.7-inch screen with an 18:9 aspect ratio in a narrow body, just with a slightly broader back. Its resolution is closer to 720p, instead of 1080p, making it noticeably less crisp than the G6. But on its own — and held not as close to your face — it’s not a huge issue, especially at $200. The Play model even moves the fingerprint scanner to the phone’s back, which I liked.
+
+
+Stacked top to bottom: Moto G6, G6 Play, G6 Plus.
+
+
+The G6 Play does feel a touch slower than the G6, and it was more likely to get a little choppy while scrolling through a busy app. It wasn’t a problem for me in daily use — at least until the battery got very low — but it does suggest the phone won’t age quite as well once it’s loaded up with a year or more of text messages and apps.
+
+
+The more apparent limit was its camera, which was even worse with dynamic range than the standard G6, and it produced flatter, less detailed colors. The phone also uses a Micro USB port for charging, which is increasingly dated, but I don’t necessarily see that as a drawback for buyers who already have a wealth of compatible cables lying around.
+
+
+But even with all of those issues and downgrades, the battery life on this phone is so remarkable that it makes it worth considering. I’m not the most demanding phone user in the world. I use a lot of Twitter, stream music, and browse the web a bunch, but I’m not doing a ton of video streaming or gaming. So I’m sure everyone won’t get the same three days of use that I did. But I still think it would be hard with typical use to get this thing to die before the end of a single day. The G6 Play isn’t the first phone to offer a wild battery life advantage, but it’s a wonderful perk to get on a phone that’s otherwise a downgrade.
+
+
+Moto G6 Plus.
+
+Finally, if you want to go even bigger, Motorola has the G6 Plus. It’s a larger phone with a 5.9-inch display, a resolution around 1080p, more RAM, a slightly better camera, and a faster processor: the Snapdragon 630.
+
+
+That processor is the real reason to make the leap to the G6 Plus. In my testing, it wasn’t appreciably faster; it was about the same at opening apps but slightly faster at loading webpages. But one would suspect that it will hold up a bit better in the long run, as more demanding apps come along. The extra RAM can also come in handy if you’re a heavy multitasker on your phone.
+
+
+Otherwise, I don’t find that the Plus stands out particularly favorably. The screen is bigger, but it’s also a bit less sharp than the one on the G6. And the bigger screen means a bigger body. It isn’t unwieldy, but it’s bigger than I’d like, and the extra size doesn’t add anything feature-wise like it does on Samsung’s (way more expensive) Galaxy Note line, which includes stylus support.
+
+
+The standard G6 really does strike the best balance here. And for $250, it’s hard to complain about the shortcomings it does have. If anything, it’s given me more reason to complain about the flaws on my $649 phone. As the quality gap between high- and low-end smartphones continues to shrink, the price between them seems to be growing bigger. For people who usually buy top-of-the-line phones, that’s bad news. But if you’re shopping under $300, Motorola makes it feel like there’s very little you’re missing out on.
+
+
+Vox Media has affiliate partnerships. These do not influence editorial content, though Vox Media may earn commissions for products purchased via affiliate links. For more information, see our ethics policy.
+
+
+The Verge Guide to Android
+
+  * What Android phone should I buy? 8
+      + Google Pixel 3 and 3 XL review: the best camera gets a better phone
+      + Samsung Galaxy Note 9 review: more, more, more
+      + OnePlus 6 review: new phone, same compromises
+      + LG V40 ThinQ review: one phone, five cameras
+      + Editor’s Choice: LG G7 ThinQ
+      + LG G7 ThinQ review: a big price for small improvements
+      + Samsung Galaxy S9 review: predictably great, predictably flawed
+      + Here are all the phones with headphone jacks you can buy right now
+  * How to use your Android phone 12
+      + 11 useful Android 9 Pie features you shouldn’t overlook
+      + How to use Google Pay
+      + How to add iPhone X gestures to your Android phone
+      + How to text from your computer with Android Messages
+      + How to test out Google’s Digital Wellbeing features on Android 9 Pie right now
+      + How to use Google Lens
+      + Here’s how to unlock the hidden Easter eggs in Android Messages
+      + How to stream your gaming sessions
+      + How to hear (and delete) every conversation your Google Home has recorded
+      + How to install Fortnite on Android
+      + How to turn off Bixby on the Samsung Galaxy S9, S8, and Note 8
+      + How to trade in your old Pixel phone
+    Show More
+  * Unique things that make Android great 7
+      + The Razer Phone 2 is poised to be the gaming phone to beat
+      + The Asus ROG Phone has a 90Hz screen, vapor cooling, and a plethora of gaming accessories
+      + Google revives blobs, its correct emoji, as sticker packs on Gboard and Android Messages
+      + The Pixel Buds’ translation feature is coming to all headphones with Google Assistant
+      + Fortnite looks terrible on my Android phone, and I love it
+      + Google Fit is getting redesigned with new health-tracking rings
+      + Google is developing native hearing aid support for Android
+  * Android accessories 6
+      + Google Pixel USB-C earbuds review: more than okay Google
+      + How to choose a smartwatch if you use Android
+      + Samsung Galaxy Watch review: iteration over innovation
+      + LG’s new neckbuds have a button for Google Assistant and Translate
+      + How the Samsung Galaxy Watch stacks up against the Apple Watch Series 3
+      + Sony’s 2-in-1 headphone adapter is not our USB-C savior
+  * The future of Android 5
+      + Google’s software design is having a reformation
+      + Google breathes new life into Wear OS smartwatches with today’s update
+      + Android 9 Pie (Go edition) will make Android Go better this fall
+      + Sony made a pretty infographic to explain why Android updates can be so slow
+      + Android 9 Pie review: the predictive OS
+
+Loading comments...
+
+Chorus
+  * Terms of Use
+  * Privacy Policy
+  * Cookie Policy
+  * GDPR Commitment
+  * Communications Preferences
+  * Contact
+  * Tip Us
+  * Community Guidelines
+  * About
+  * Ethics Statement
+All Systems Operational Check out our status page for more details.
+Vox Media Advertise with us Jobs @ Vox Media © 2019 Vox Media, Inc. All Rights Reserved
+tweet share

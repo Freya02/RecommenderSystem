@@ -1,0 +1,867 @@
+Notebookcheck
+  * Reviews
+  * News
+  * Benchmarks / Tech
+  * Buyers Guide
+  * Library
+  * Search
+  * Jobs
+  * Contact
+  * ...
+* X
+  * Deutsch
+  * English
+  * Español
+  * Français
+  * Italiano
+  * Nederlands
+  * Polski
+  * Português
+  * Русский
+  * Türkçe
+  * Svenska
+  * Chinese
+  * Magyar
+
+Honor 7C Smartphone Review
+Florian Wimmer, 👁 Daniel Schmidt, ✓ Stefanie Voigt (translated by Ariana Brodsky), 06/13/2018
+Touchscreen Smartphone Phablet ARM Android
+
+The letters make all the difference. The Honor 7C is a lower mid-range smartphone in large format with a modern full-view display. Unfortunately, the dual camera's second sensor has a very low resolution. Can we take that hit in exchange for this low price?
+
+
+Working For Notebookcheck
+
+
+Are you a techie who knows how to write? Then join our Team!
+
+
+Currently wanted:
+German-English-Translator - Details here
+
+Honor's 7 series has recently expanded somewhat: For a start, there is now the Honor 7A, the cheapest device in the series, with a simple camera and a 5.7-inch screen. The Honor 7X is significantly larger and equipped with a MP dual camera. With its high resolution and ample storage space, it is currently the top model in the series. The Honor 7C - our test device - falls between the other two smartphones, solidly in the lower mid-range price bracket. And indeed, its specifications also position it right between the other devices in the series: It has a dual camera, but the second sensor's lens has a rather low resolution. The display resolution and storage space are also appropriate to the price tag of 180 Euros (~$210; similar cost in the US). Incidentally, the Honor 7C is the successor of the Honor 6C.
+
+
+For the purposes of this review, we will compare the Honor 7C with the Motorola Moto G6 Play, the Huawei Y7 2018 and the Xiaomi Redmi 5 Plus.
+
+good (81%) Honor 7C Qualcomm Snapdragon 450Qualcomm Adreno 506 Smartphone - 06/06/2018 - v6
+Test device courtesy of notebooksbilliger.de
+Download your licensed rating image as PNG / SVG
+Honor 7C (7 Series)
+Processor
+Qualcomm Snapdragon 450
+Graphics adapter
+Qualcomm Adreno 506
+Memory
+3072 MB
+Display
+5.99 inch 2:1, 1440 x 720 pixel 269 PPI, capacitive touchscreen, IPS, glossy: yes
+Storage
+32 GB eMMC Flash, 32 GB
+, 26 GB free
+Connections
+1 USB 2.0, Audio Connections: 3.5mm audio jack, Card Reader: microSD up to 256 GB, 1 Fingerprint Reader, Brightness Sensor, Sensors: accelerometer, proximity sensor, compass, USB-OTG
+Networking
+802.11 b/g/n (b/g/n), Bluetooth 4.2, GSM (850/​900/​1800/​1900), UMTS (850/​900/​1900/​2100), LTE (B1/​B3/​B5/​B7/​B8/​B20/​B40), Dual SIM, LTE, GPS
+Size
+height x width x depth (in mm): 7.8 x 158.3 x 76.7 ( = 0.31 x 6.23 x 3.02 in)
+Battery
+11.4 Wh, 3000 mAh Lithium-Ion
+Operating System
+Android 8.0 Oreo
+Camera
+Primary Camera: 13 MPix dual camera, phase-detect AF, LED flash, videos @1080p/30fps (main camera); 2.0MP, depth of field (second camera)
+Secondary Camera: 8 MPix f/​2.0, LED flash
+Additional features
+Speakers: mono speaker on the bottom edge, Keyboard: virtual keyboard, power supply, USB cable, Honor, Phone Clone, Designs, 24 Months Warranty, USB-OTG, fanless
+Weight
+164 g ( = 5.78 oz / 0.36 pounds), Power Supply: 46 g ( = 1.62 oz / 0.1 pounds)
+Price
+180 Euro
+Note: The manufacturer may use components from different suppliers including display panels, drives or memory sticks with similar specifications.
+see all specifications
+
+[+] Add to comparison
+
+» Compare devices
+
+Case - Stable metal back on the Honor 7C
+
+
+Honor has opted to outfit the 7C with a modern 2:1 display that looks fashionable, despite its lower mid-range price tag. The panel has narrow side borders and somewhat wider borders at the top and bottom. On the company website, Honor refers only to the smartphone's "metal design", but the material on the back is truly metal. The front is equipped with 2.5D glass that is shielded with a solid protective film. The transition is clearly visible, but the screen is still well-protected.
+
+
+At 164 grams (0.36 lbs), the Honor 7C is quite a lightweight smartphone, yet it feels good in the hand. The back gives way slightly under pressure, which detracts from the smartphone's otherwise sturdy quality. Fortunately, the pressure does not reach the screen, and the front of the smartphone is quite stable. It can hardly be pressed in or twisted at all and makes no cracking noises under pressure.
+
+
+Top 10 Laptops
+
+Multimedia, Budget Multimedia, Gaming, Budget Gaming, Lightweight Gaming, Business, Budget Office, Workstation, Subnotebooks, Ultrabooks, Chromebooks
+
+
+under 300 USD/Euros, under 500 USD/Euros, 1.000 USD/Euros
+
+
+Best Displays, for University Students
+
+Top 10 Smartphones
+
+Smartphones, Phablets, ≤5-inch, Camera SmartphonesNotebookcheck's Top 10 Smartphones under 160 Euros
+
+Size Comparison
+
+Xiaomi Redmi 5 Plus Honor 7C Huawei Y7 2018 Huawei Honor 7X Motorola Moto G6 Play
+
+Connectivity - Features typical of this price bracket
+
+
+With 32 GB of storage and 3 GB of RAM, the Honor 7C positions itself in between similarly-priced devices: The competitor from the same manufacturer, the Huawei Y7 2018, only offers 16 GB/2 GB, while the Xiaomi Redmi 5 Plus is equipped with 64 GB of storage space and 4 GB of RAM. Overall, the Honor 7C's connectivity is fitting for its price class. It has no unusual connections, just a USB 2.0 port and the usual Bluetooth 4.2. Honor is actively advertising the dual Bluetooth function, which allows two Bluetooth devices to be connected with the smartphone simultaneously.
+
+
+Software - Pre-installed apps are a blessing and a curse
+
+
+Honor's parent company, Huawei, is known for selling smartphones with a large number of pre-installed apps. That has both advantages and disadvantages: Some useful tools, such as a proprietary backup system and a design app for customizing the layout of the user interface, are nice additions. But the smartphone also arrives with advertising apps and Free2Play games that are just a waste of space for most users. Fortunately, most apps can be easily deleted.
+
+
+Android 8, overlaid with Huawei's EMUI, serves as the device's operating system. The security patches at the time of review date from April 2018 and are thus reasonably current.
+
+
+Communication and GPS - Slow WLAN, precise GPS
+
+
+The fact that the Honor 7C does not support 5 GHz WLAN is a shame, but not unusual in this price bracket. Among our comparison devices, only the Xiaomi Redmi 5 Plus offers the lesser-used frequency. In our benchmark with the Linksys EA8500 reference router, the smartphone lands in the lower-average range compared to the other devices. Even so, it is nearly as fast as the more expensive Honor 7X.
+
+
+The smartphone supports 7 LTE bands, which should be sufficient for trips within Europe. Travelers to far-off destinations, however, may find that the Honor 7C cannot access the network.
+
+
+Independent journalism is made possible by advertising. We show the least amount of ads whenever possible but we intentionally show more ads when an adblocker is used. Please, switch off ad blockers and support us!
+Networking                                                
+iperf3 Client (receive) TCP 1 m 4M x10                    
+Average of class Smartphone (5.9 - 939, n=324)             215 MBit/s ∼100% +367%
+Huawei Y7 2018 Adreno 505, 430, 16 GB eMMC Flash           55 MBit/s ∼26% +20%   
+Xiaomi Redmi 5 Plus Adreno 506, 625, 64 GB eMMC Flash      53.9 MBit/s ∼25% +17% 
+Huawei Honor 7X Mali-T830 MP2, Kirin 659, 32 GB eMMC Flash 46.4 MBit/s ∼22% +1%  
+Honor 7C Adreno 506, 450, 32 GB eMMC Flash                 46 MBit/s ∼21%        
+Motorola Moto G6 Play Adreno 505, 430, 32 GB eMMC Flash    44.7 MBit/s ∼21% -3%  
+iperf3 Client (transmit) TCP 1 m 4M x10                   
+Average of class Smartphone (9.4 - 703, n=324)             209 MBit/s ∼100% +294%
+Huawei Y7 2018 Adreno 505, 430, 16 GB eMMC Flash           56.9 MBit/s ∼27% +7%  
+Xiaomi Redmi 5 Plus Adreno 506, 625, 64 GB eMMC Flash      55.7 MBit/s ∼27% +5%  
+Honor 7C Adreno 506, 450, 32 GB eMMC Flash                 53 MBit/s ∼25%        
+Huawei Honor 7X Mali-T830 MP2, Kirin 659, 32 GB eMMC Flash 47 MBit/s ∼22% -11%   
+Motorola Moto G6 Play Adreno 505, 430, 32 GB eMMC Flash    46.8 MBit/s ∼22% -12% 
+
+GPS test indoors
+
+
+GPS test outdoors
+
+
+Indoors, the Honor 7C's GPS module cannot determine its location; but as soon as the smartphone is taken outdoors, it immediately positions itself and is accurate to 3 meters (~10 feet).
+
+
+In order to test the smartphone's positioning abilities in everyday use, we took it on a bike ride along with our professional navigation device, the Garmin Edge 500. Both devices reproduced the route well, though the Garmin device was a little more precise. For non-professional use without higher expectations, the Honor 7C should be a perfectly sufficient companion.
+
+
+GPS Garmin Edge 500 - overview
+
+GPS Garmin Edge 500 - lake-side trail
+
+
+GPS Garmin Edge 500 - loop
+
+
+GPS Honor 7C - overview
+
+
+GPS Honor 7C - lake-side trail
+
+
+GPS Honor 7C - loop
+
+
+Phone Function and Call Quality - The Honor 7C has good voice quality
+
+
+The telephone app on the Huawei Honor 7C looks somewhat different from the respective app on devices with Vanilla Android, but it functions quite similarly: It displays a tab with the telephone pad and received/missed/dialed calls. The user can also access their contacts and favorites directly from the tab.
+
+At maximum volume, the voice quality is mediocre. The speaker readily distorts the voice at the other end of the call and produces an irritating buzzing sound. However, if the volume is dialed down somewhat, the conversation partner's voice feels quite near. The user's voice is transmitted cleanly. In calls over the speakerphone, the person at the other end is still easy to understand. But the user must take care to speak loud enough, as the microphone fails to pick up quiet voices.
+
+
+Cameras - The Huawei Honor 7C offers (almost) a dual camera
+
+
+shot taken with front camera
+
+The Honor 7C comes with a dual camera, but this should by no means be taken to refer to two independent lenses. Independent lenses perform tricks such as optical zoom, whereas this is simply a 13 MP main lens and a 2 MP secondary lens for depth of field effects. Even so, the Honor 7C outdoes the competition here, given that all of the comparison devices in this price bracket only offer a single camera.
+
+
+Photos taken in normal lighting look quite bright and also quite sharp. However, bright areas bloom easily and lose their definition. In dark environments, the camera cannot be used without the flash. The images lack light and are quite blurry.
+
+
+Videos can be recorded in Full HD at 30 FPS. Both the image sharpness and the color reproduction are reasonably good, and details are rendered quite clearly.
+
+
+The front camera has a resolution of 8 MP and takes pictures that are somewhat lacking in color. Bright areas bloom easily here too. However, as with the back camera, we are satisfied with its image sharpness.
+
+
+Image Comparison
+
+
+Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.
+
+Scene 1Scene 2Scene 3
+click to load images
+Honor 7C
+BQ Aquaris X Pro
+Huawei P20 Pro
+Canon EOS 70D
+0.2 2 MPix 4 Mpix 1
+
+In the regulated lighting conditions in our laboratory, the main camera performs well in terms of image sharpness, but more contrast certainly would not hurt. The edges exhibit a minimal amount of colored fringe, and the solid areas are not quite clean; but for a smartphone camera in this price range, it carries out its task quite well. The color reproduction, however, is clearly too pale.
+
+
+test chart photographed
+
+test chart detail
+
+
+ColorChecker colors photographed; the original colors are displayed in the lower half of each patch
+
+
+Accessories and Warranty - Only the basic necessities
+
+
+The packaging contains nothing more than a power supply, a USB cable, a SIM tool and the usual leaflets. Accessories specifically designed for the device are not available in the Huawei or the Honor online shop.
+
+
+The Honor 7C comes with a 24-month warranty in the EU.
+
+
+Input Devices and Operation - Smooth input recognition despite protective film
+
+
+Swift Key serves as the smartphone's keyboard app; other keyboard apps must be installed manually. But typing goes quickly with Swift Key, and it offers a host of customization options.
+
+
+Fingers glide smoothly over the protective film on the touchscreen. The smartphone recognizes input flawlessly, whether in the middle of the screen, along the edges or in the corners.
+
+
+A simple mode with fewer symbols allows the user to activate the smartphone's basic functions. The navigation bar, as an alternative to the menu buttons located at the bottom edge of the screen, is also available for those who prefer it.
+
+
+keyboard portrait mode
+
+keyboard landscape mode
+
+
+Display - Not exactly bright and lacks contrast
+
+
+subpixel grid
+
+1440x720 pixels is a perfectly normal resolution in this price bracket, but the Honor 7C's large display demands a higher resolution to look 100% sharp. The manufacturer justifies the Honor 7X's higher price with its somewhat higher resolution, but the Xiaomi Redmi 5 Plus offers more pixels too.
+
+
+At 403 cd/m², the smartphone's average brightness is mediocre, although the Huawei Y7 2018 is even darker. In addition, the similarity of brightness distribution across the screen is just 85%. Differences in brightness are definitely visible in larger monochromatic areas.
+
+435 cd/m² 385 cd/m² 372 cd/m²   439 cd/m² 392 cd/m² 388 cd/m²   438 cd/m² 384 cd/m² 392 cd/m²
+Distribution of brightness
+X-Rite i1Pro 2
+Maximum: 439 cd/m² Average: 402.8 cd/m² Minimum: 2.86 cd/m²
+Brightness Distribution: 85 %
+Center on Battery: 392 cd/m²
+Contrast: 643:1 (Black: 0.61 cd/m²)
+ΔE Color 5.4 | 0.4-29.43 Ø6.2
+ΔE Greyscale 4.2 | 0.64-98 Ø6.4
+Gamma: 2.59
+                               Honor 7C IPS, 1440x720, 5.99 Motorola Moto G6 Play IPS, 1440x720, 5.7 Huawei Honor 7X IPS, 2160x1080, 5.93 Xiaomi Redmi 5 Plus IPS, 2160x1080, 5.99 Huawei Y7 2018 IPS, 1440x720, 5.99
+Screen                                                      44%                                      42%                                  33%                                      20%                               
+Brightness middle              392                          614 57%                                  533.2 36%                            620 58%                                  393 0%                            
+Brightness                     403                          593 47%                                  511 27%                              612 52%                                  365 -9%                           
+Brightness Distribution        85                           90 6%                                    88 4%                                96 13%                                   85 0%                             
+Black Level *                  0.61                         0.29 52%                                 0.35 43%                             0.57 7%                                  0.29 52%                          
+Contrast                       643                          2117 229%                                1523 137%                            1088 69%                                 1355 111%                         
+Colorchecker DeltaE2000 *      5.4                          5.9 -9%                                  2.83 48%                             3.46 36%                                 5.28 2%                           
+Colorchecker DeltaE2000 max. * 9.7                          9.6 1%                                   6.72 31%                             7.88 19%                                 9 7%                              
+Greyscale DeltaE2000 *         4.2                          5.5 -31%                                 3.7 12%                              3.9 7%                                   4.2 -0%                           
+Gamma                          2.59 85%                     2.32 95%                                 1.9 116%                             2.073 106%                               2.6 85%                           
+CCT                            6734 97%                     7822 83%                                 6918 94%                             7230 90%                                 7086 92%                          
+
+* ... smaller is better
+
+
+Screen Flickering / PWM (Pulse-Width Modulation)
+
+ℹ
+To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.
+Screen flickering / PWM detected                                                                                                                                                                                                                                                                                                                                                                                                                                                       3086 Hz ≤ 26 % brightness setting 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+The display backlight flickers at 3086 Hz (Likely utilizing PWM) Flickering detected at a brightness setting of 26 % and below. There should be no flickering or PWM above this brightness setting.   The frequency of 3086 Hz is quite high, so most users sensitive to PWM should not notice any flickering.   In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 9173 (minimum: 43 - maximum: 142900) Hz was measured.
+
+The display's black value of 0.61 cd/m² also fails to impress. 643:1 is not a strong contrast ratio either. As a result, the colors on the display look fairly pallid. The color temperature can be freely adjusted in the menu settings, or the user can simply use the warm and cold presets.
+
+
+We use a spectrophotometer and the CalMAN software to determine a display's color accuracy. Here we found that the panel does not suffer from a blue cast, and its average color accuracy is also acceptable.
+
+
+We also established that the screen flickers at a high frequency. Fortunately, this means that even sensitive individuals should not have to worry about eye problems or headaches.
+
+
+CalMAN color accuracy
+
+CalMAN color space
+
+
+CalMAN gray scale
+
+
+CalMAN color saturation
+
+
+Display Response Times
+
+ℹ
+Display response times show how fast the screen is able to change from one color to the next. Slow response times can lead to afterimages and can cause moving objects to appear blurry (ghosting). Gamers of fast-paced 3D titles should pay special attention to fast response times.
+↔ Response Time Black to White                                                                                                                                                                                                                                                                                  
+30.4 ms ... rise ↗ and fall ↘ combined                                                                                                                                                                                                                                                                           ↗ 18 ms rise 
+↘ 12.4 ms fall                                                                                                                                                                                                                                                                                                  
+The screen shows slow response rates in our tests and will be unsatisfactory for gamers. In comparison, all tested devices range from 0.8 (minimum) to 240 (maximum) ms. » 76 % of all devices are better. This means that the measured response time is worse than the average of all tested devices (25.7 ms).
+↔ Response Time 50% Grey to 80% Grey                                                                                                                                                                                                                                                                            
+50.8 ms ... rise ↗ and fall ↘ combined                                                                                                                                                                                                                                                                           ↗ 24 ms rise 
+↘ 26.8 ms fall                                                                                                                                                                                                                                                                                                  
+The screen shows slow response rates in our tests and will be unsatisfactory for gamers. In comparison, all tested devices range from 0.9 (minimum) to 636 (maximum) ms. » 85 % of all devices are better. This means that the measured response time is worse than the average of all tested devices (41 ms).  
+
+Outdoors, low display brightness comes up against the added problem of surface reflections. The screen content is still somewhat visible in the shade, but in brighter environments it is almost entirely obscured.
+
+
+In principle, the IPS display is readable even from flat angles, but the brightness level varies noticeably.
+
+
+outdoor use
+
+viewing angle
+
+
+Performance - High performance thanks to Qualcomm
+
+
+The SoC at work in the Honor 7C is almost unusual for a Huawei smartphone: Because Huawei engineers its own SoCs, typically it uses those chips. But in this case we have Qualcomm's Snapdragon 450, at least in the version sold in the West.
+
+
+The Snapdragon 450 is certainly a good choice, given that its eight cores and up to 1.8 GHz provide more performance than usual for this price bracket. In the benchmarks, the Honor 7C clearly outperforms the Huawei Y7 2018, and even the significantly more expensive Honor 7X cannot get far ahead. An Adreno 506 serves as the smartphone's graphics unit. This part of the SoC also brings considerably more performance power than other devices in this price range. Only the Xiaomi Redmi 5 Plus is faster in terms of graphics.
+
+AnTuTu v6 | AnTuTu v7 | PCMark for Android | BaseMark OS II | Geekbench 4.3 | 3DMark | GFXBench (DX / GLBenchmark) 2.7 | GFXBench 3.0 | GFXBench 3.1 | GFXBench
+AnTuTu v6 - Total Score (sort by value)             
+Honor 7C                                             54731 Points ∼71%      
+Motorola Moto G6 Play                                46267 Points ∼60% -15% 
+Huawei Honor 7X                                      62810 Points ∼81% +15% 
+Xiaomi Redmi 5 Plus                                  60490 Points ∼78% +11% 
+Huawei Y7 2018                                       45687 Points ∼59% -17% 
+Average Qualcomm Snapdragon 450 (54731 - 60077, n=9) 57722 Points ∼74% +5%  
+Average of class Smartphone (23275 - 254229, n=406)  77517 Points ∼100% +42%
+AnTuTu v7 - Total Score (sort by value)              
+Honor 7C                                              71167 Points ∼60%       
+Motorola Moto G6 Play                                 58511 Points ∼49% -18%  
+Huawei Honor 7X                                       81992 Points ∼69% +15%  
+Xiaomi Redmi 5 Plus                                   76178 Points ∼64% +7%   
+Huawei Y7 2018                                        59421 Points ∼50% -17%  
+Average Qualcomm Snapdragon 450 (56497 - 71739, n=10) 69509 Points ∼58% -2%   
+Average of class Smartphone (17073 - 348178, n=191)   119358 Points ∼100% +68%
+PCMark for Android                                 
+Work 2.0 performance score (sort by value)         
+Honor 7C                                            4736 Points ∼97%      
+Motorola Moto G6 Play                               3624 Points ∼74% -23% 
+Huawei Honor 7X                                     4859 Points ∼99% +3%  
+Xiaomi Redmi 5 Plus                                 4905 Points ∼100% +4% 
+Huawei Y7 2018                                      3874 Points ∼79% -18% 
+Average Qualcomm Snapdragon 450 (4171 - 4759, n=10) 4478 Points ∼91% -5%  
+Average of class Smartphone (2828 - 9868, n=276)    4635 Points ∼94% -2%  
+Work performance score (sort by value)             
+Honor 7C                                            5656 Points ∼91%      
+Motorola Moto G6 Play                               4590 Points ∼74% -19% 
+Huawei Honor 7X                                     6213 Points ∼100% +10%
+Xiaomi Redmi 5 Plus                                 5801 Points ∼93% +3%  
+Huawei Y7 2018                                      4918 Points ∼79% -13% 
+Average Qualcomm Snapdragon 450 (4836 - 5656, n=10) 5188 Points ∼84% -8%  
+Average of class Smartphone (3977 - 13531, n=444)   5054 Points ∼81% -11% 
+BaseMark OS II                                     
+Web (sort by value)                                
+Honor 7C                                            10 Points ∼1%          
+Motorola Moto G6 Play                               866 Points ∼100% +8560%
+Huawei Honor 7X                                     724 Points ∼84% +7140% 
+Xiaomi Redmi 5 Plus                                 722 Points ∼83% +7120% 
+Huawei Y7 2018                                      673 Points ∼78% +6630% 
+Average Qualcomm Snapdragon 450 (10 - 814, n=10)    596 Points ∼69% +5860% 
+Average of class Smartphone (7 - 1731, n=519)       702 Points ∼81% +6920% 
+Graphics (sort by value)                           
+Honor 7C                                            955 Points ∼55%        
+Motorola Moto G6 Play                               737 Points ∼42% -23%   
+Huawei Honor 7X                                     845 Points ∼48% -12%   
+Xiaomi Redmi 5 Plus                                 1017 Points ∼58% +6%   
+Huawei Y7 2018                                      739 Points ∼42% -23%   
+Average Qualcomm Snapdragon 450 (943 - 975, n=10)   960 Points ∼55% +1%    
+Average of class Smartphone (18 - 15969, n=519)     1752 Points ∼100% +83% 
+Memory (sort by value)                             
+Honor 7C                                            1522 Points ∼85%       
+Motorola Moto G6 Play                               741 Points ∼41% -51%   
+Huawei Honor 7X                                     1788 Points ∼100% +17% 
+Xiaomi Redmi 5 Plus                                 961 Points ∼54% -37%   
+Huawei Y7 2018                                      1144 Points ∼64% -25%  
+Average Qualcomm Snapdragon 450 (770 - 1522, n=10)  963 Points ∼54% -37%   
+Average of class Smartphone (21 - 6283, n=519)      1278 Points ∼71% -16%  
+System (sort by value)                             
+Honor 7C                                            2665 Points ∼82%       
+Motorola Moto G6 Play                               1531 Points ∼47% -43%  
+Huawei Honor 7X                                     2899 Points ∼90% +9%   
+Xiaomi Redmi 5 Plus                                 3236 Points ∼100% +21% 
+Huawei Y7 2018                                      1906 Points ∼59% -28%  
+Average Qualcomm Snapdragon 450 (2560 - 2898, n=10) 2747 Points ∼85% +3%   
+Average of class Smartphone (369 - 12202, n=519)    2571 Points ∼79% -4%   
+Overall (sort by value)                            
+Honor 7C                                            442 Points ∼33%        
+Motorola Moto G6 Play                               923 Points ∼69% +109%  
+Huawei Honor 7X                                     1334 Points ∼100% +202%
+Xiaomi Redmi 5 Plus                                 1229 Points ∼92% +178% 
+Huawei Y7 2018                                      1020 Points ∼76% +131% 
+Average Qualcomm Snapdragon 450 (389 - 1221, n=10)  1005 Points ∼75% +127% 
+Average of class Smartphone (150 - 6097, n=523)     1276 Points ∼96% +189% 
+Geekbench 4.3                                      
+Compute RenderScript Score (sort by value)         
+Honor 7C                                            2800 Points ∼62%      
+Motorola Moto G6 Play                               2224 Points ∼49% -21% 
+Huawei Honor 7X                                     2772 Points ∼62% -1%  
+Xiaomi Redmi 5 Plus                                 3316 Points ∼74% +18% 
+Huawei Y7 2018                                      2133 Points ∼47% -24% 
+Average Qualcomm Snapdragon 450 (2777 - 3374, n=7)  3137 Points ∼70% +12% 
+Average of class Smartphone (1131 - 21070, n=216)   4499 Points ∼100% +61%
+64 Bit Multi-Core Score (sort by value)            
+Honor 7C                                            3913 Points ∼91%      
+Motorola Moto G6 Play                               2322 Points ∼54% -41% 
+Huawei Honor 7X                                     3342 Points ∼77% -15% 
+Xiaomi Redmi 5 Plus                                 4292 Points ∼99% +10% 
+Huawei Y7 2018                                      2889 Points ∼67% -26% 
+Average Qualcomm Snapdragon 450 (3272 - 4022, n=10) 3835 Points ∼89% -2%  
+Average of class Smartphone (1652 - 11598, n=267)   4318 Points ∼100% +10%
+64 Bit Single-Core Score (sort by value)           
+Honor 7C                                            758 Points ∼60%       
+Motorola Moto G6 Play                               643 Points ∼51% -15%  
+Huawei Honor 7X                                     869 Points ∼69% +15%  
+Xiaomi Redmi 5 Plus                                 870 Points ∼69% +15%  
+Huawei Y7 2018                                      676 Points ∼53% -11%  
+Average Qualcomm Snapdragon 450 (741 - 787, n=10)   760 Points ∼60% 0%    
+Average of class Smartphone (590 - 4824, n=268)     1268 Points ∼100% +67%
+3DMark                                                               
+2560x1440 Sling Shot Extreme (ES 3.1) Physics (sort by value)        
+Honor 7C                                                              1817 Points ∼89%       
+Motorola Moto G6 Play                                                 1259 Points ∼62% -31%  
+Huawei Honor 7X                                                       1553 Points ∼76% -15%  
+Xiaomi Redmi 5 Plus                                                   2038 Points ∼100% +12% 
+Huawei Y7 2018                                                        1258 Points ∼62% -31%  
+Average Qualcomm Snapdragon 450 (1521 - 1855, n=10)                   1796 Points ∼88% -1%   
+Average of class Smartphone (503 - 4216, n=371)                       1668 Points ∼82% -8%   
+2560x1440 Sling Shot Extreme (ES 3.1) Graphics (sort by value)       
+Honor 7C                                                              366 Points ∼31%        
+Motorola Moto G6 Play                                                 254 Points ∼21% -31%   
+Huawei Honor 7X                                                       338 Points ∼28% -8%    
+Xiaomi Redmi 5 Plus                                                   379 Points ∼32% +4%    
+Huawei Y7 2018                                                        255 Points ∼21% -30%   
+Average Qualcomm Snapdragon 450 (363 - 369, n=10)                     365 Points ∼31% 0%     
+Average of class Smartphone (65 - 5246, n=371)                        1194 Points ∼100% +226%
+2560x1440 Sling Shot Extreme (ES 3.1) (sort by value)                
+Honor 7C                                                              445 Points ∼39%        
+Motorola Moto G6 Play                                                 309 Points ∼27% -31%   
+Huawei Honor 7X                                                       409 Points ∼36% -8%    
+Xiaomi Redmi 5 Plus                                                   463 Points ∼40% +4%    
+Huawei Y7 2018                                                        310 Points ∼27% -30%   
+Average Qualcomm Snapdragon 450 (441 - 449, n=10)                     444 Points ∼39% 0%     
+Average of class Smartphone (81 - 4734, n=379)                        1145 Points ∼100% +157%
+2560x1440 Sling Shot OpenGL ES 3.0 Physics (sort by value)           
+Honor 7C                                                              1809 Points ∼88%       
+Motorola Moto G6 Play                                                 1254 Points ∼61% -31%  
+Huawei Honor 7X                                                       1656 Points ∼80% -8%   
+Xiaomi Redmi 5 Plus                                                   2058 Points ∼100% +14% 
+Huawei Y7 2018                                                        1280 Points ∼62% -29%  
+Average Qualcomm Snapdragon 450 (1504 - 1833, n=10)                   1783 Points ∼87% -1%   
+Average of class Smartphone (512 - 4215, n=404)                       1567 Points ∼76% -13%  
+2560x1440 Sling Shot OpenGL ES 3.0 Graphics (sort by value)          
+Honor 7C                                                              713 Points ∼44%        
+Motorola Moto G6 Play                                                 522 Points ∼32% -27%   
+Huawei Honor 7X                                                       528 Points ∼32% -26%   
+Xiaomi Redmi 5 Plus                                                   732 Points ∼45% +3%    
+Huawei Y7 2018                                                        524 Points ∼32% -27%   
+Average Qualcomm Snapdragon 450 (690 - 716, n=10)                     700 Points ∼43% -2%    
+Average of class Smartphone (46 - 8312, n=404)                        1632 Points ∼100% +129%
+2560x1440 Sling Shot OpenGL ES 3.0 (sort by value)                   
+Honor 7C                                                              824 Points ∼59%        
+Motorola Moto G6 Play                                                 600 Points ∼43% -27%   
+Huawei Honor 7X                                                       622 Points ∼45% -25%   
+Xiaomi Redmi 5 Plus                                                   854 Points ∼61% +4%    
+Huawei Y7 2018                                                        603 Points ∼43% -27%   
+Average Qualcomm Snapdragon 450 (800 - 824, n=10)                     809 Points ∼58% -2%    
+Average of class Smartphone (58 - 6454, n=412)                        1395 Points ∼100% +69% 
+1280x720 offscreen Ice Storm Unlimited Physics (sort by value)       
+Motorola Moto G6 Play                                                 9162 Points ∼59%       
+Huawei Honor 7X                                                       13372 Points ∼86%      
+Xiaomi Redmi 5 Plus                                                   15593 Points ∼100%     
+Huawei Y7 2018                                                        9153 Points ∼59%       
+Average Qualcomm Snapdragon 450 (13596 - 15177, n=9)                  14089 Points ∼90%      
+Average of class Smartphone (3958 - 37475, n=560)                     13023 Points ∼84%      
+1280x720 offscreen Ice Storm Unlimited Graphics Score (sort by value)
+Motorola Moto G6 Play                                                 9713 Points ∼53%       
+Huawei Honor 7X                                                       10332 Points ∼57%      
+Xiaomi Redmi 5 Plus                                                   13219 Points ∼73%      
+Huawei Y7 2018                                                        9713 Points ∼53%       
+Average Qualcomm Snapdragon 450 (12323 - 12550, n=9)                  12439 Points ∼68%      
+Average of class Smartphone (1152 - 162695, n=560)                    18171 Points ∼100%     
+1280x720 offscreen Ice Storm Unlimited Score (sort by value)         
+Motorola Moto G6 Play                                                 9585 Points ∼63%       
+Huawei Honor 7X                                                       10882 Points ∼71%      
+Xiaomi Redmi 5 Plus                                                   13682 Points ∼89%      
+Huawei Y7 2018                                                        9583 Points ∼63%       
+Average Qualcomm Snapdragon 450 (12604 - 12878, n=9)                  12751 Points ∼83%      
+Average of class Smartphone (2915 - 77599, n=561)                     15311 Points ∼100%     
+GFXBench (DX / GLBenchmark) 2.7                    
+1920x1080 T-Rex HD Offscreen C24Z16 (sort by value)
+Honor 7C                                            21 fps ∼66%        
+Motorola Moto G6 Play                               16 fps ∼50% -24%   
+Huawei Honor 7X                                     19 fps ∼60% -10%   
+Xiaomi Redmi 5 Plus                                 23 fps ∼72% +10%   
+Huawei Y7 2018                                      16 fps ∼50% -24%   
+Average Qualcomm Snapdragon 450 (21 - 22, n=10)     19.4 fps ∼61% -8%  
+Average of class Smartphone (4.1 - 251, n=585)      31.8 fps ∼100% +51%
+T-Rex HD Onscreen C24Z16 (sort by value)           
+Honor 7C                                            34 fps ∼100%       
+Motorola Moto G6 Play                               26 fps ∼76% -24%   
+Huawei Honor 7X                                     18 fps ∼53% -47%   
+Xiaomi Redmi 5 Plus                                 17 fps ∼50% -50%   
+Huawei Y7 2018                                      27 fps ∼79% -21%   
+Average Qualcomm Snapdragon 450 (20 - 34, n=10)     23.4 fps ∼69% -31% 
+Average of class Smartphone (6.9 - 120, n=588)      25.3 fps ∼74% -26% 
+GFXBench 3.0                                      
+off screen Manhattan Offscreen OGL (sort by value)
+Honor 7C                                           9.2 fps ∼54%       
+Motorola Moto G6 Play                              7.1 fps ∼42% -23%  
+Huawei Honor 7X                                    8 fps ∼47% -13%    
+Xiaomi Redmi 5 Plus                                9.9 fps ∼58% +8%   
+Huawei Y7 2018                                     7.1 fps ∼42% -23%  
+Average Qualcomm Snapdragon 450 (9.2 - 9.4, n=10)  8.35 fps ∼49% -9%  
+Average of class Smartphone (2.2 - 132, n=507)     17.1 fps ∼100% +86%
+on screen Manhattan Onscreen OGL (sort by value)  
+Honor 7C                                           18 fps ∼100%       
+Motorola Moto G6 Play                              14 fps ∼78% -22%   
+Huawei Honor 7X                                    7.9 fps ∼44% -56%  
+Xiaomi Redmi 5 Plus                                9.4 fps ∼52% -48%  
+Huawei Y7 2018                                     14 fps ∼78% -22%   
+Average Qualcomm Snapdragon 450 (8.7 - 18, n=10)   11.4 fps ∼63% -37% 
+Average of class Smartphone (4.1 - 115, n=510)     16.3 fps ∼91% -9%  
+GFXBench 3.1                                         
+off screen Manhattan ES 3.1 Offscreen (sort by value)
+Honor 7C                                              6 fps ∼41%          
+Motorola Moto G6 Play                                 4.6 fps ∼32% -23%   
+Huawei Honor 7X                                       4.7 fps ∼32% -22%   
+Xiaomi Redmi 5 Plus                                   6.5 fps ∼45% +8%    
+Huawei Y7 2018                                        4.6 fps ∼32% -23%   
+Average Qualcomm Snapdragon 450 (6 - 6.1, n=10)       5.45 fps ∼38% -9%   
+Average of class Smartphone (1.3 - 88, n=368)         14.5 fps ∼100% +142%
+on screen Manhattan ES 3.1 Onscreen (sort by value)  
+Honor 7C                                              13 fps ∼92%         
+Motorola Moto G6 Play                                 10 fps ∼71% -23%    
+Huawei Honor 7X                                       4.5 fps ∼32% -65%   
+Xiaomi Redmi 5 Plus                                   6.2 fps ∼44% -52%   
+Huawei Y7 2018                                        10 fps ∼71% -23%    
+Average Qualcomm Snapdragon 450 (5.7 - 13, n=10)      7.87 fps ∼56% -39%  
+Average of class Smartphone (2.7 - 110, n=371)        14.1 fps ∼100% +8%  
+GFXBench                                         
+off screen Car Chase Offscreen (sort by value)   
+Honor 7C                                          3.3 fps ∼33%       
+Motorola Moto G6 Play                             2.6 fps ∼26% -21%  
+Huawei Honor 7X                                   2.9 fps ∼29% -12%  
+Xiaomi Redmi 5 Plus                               3.5 fps ∼35% +6%   
+Huawei Y7 2018                                    2.6 fps ∼26% -21%  
+Average Qualcomm Snapdragon 450 (3.3 - 3.5, n=10) 3.08 fps ∼31% -7%  
+Average of class Smartphone (0.7 - 54, n=299)     9.9 fps ∼100% +200%
+on screen Car Chase Onscreen (sort by value)     
+Honor 7C                                          7 fps ∼78%         
+Motorola Moto G6 Play                             5.3 fps ∼59% -24%  
+Huawei Honor 7X                                   2.9 fps ∼32% -59%  
+Xiaomi Redmi 5 Plus                               3.4 fps ∼38% -51%  
+Huawei Y7 2018                                    5.4 fps ∼60% -23%  
+Average Qualcomm Snapdragon 450 (3.3 - 7, n=10)   4.37 fps ∼49% -38% 
+Average of class Smartphone (1.2 - 58, n=302)     9 fps ∼100% +29%   
+
+Legend
+
+Honor 7C Qualcomm Snapdragon 450, Qualcomm Adreno 506, 32 GB eMMC Flash
+Motorola Moto G6 Play Qualcomm Snapdragon 430 (MSM8937), Qualcomm Adreno 505, 32 GB eMMC Flash
+Huawei Honor 7X HiSilicon Kirin 659, ARM Mali-T830 MP2, 32 GB eMMC Flash
+Xiaomi Redmi 5 Plus Qualcomm Snapdragon 625, Qualcomm Adreno 506, 64 GB eMMC Flash
+Huawei Y7 2018 Qualcomm Snapdragon 430 (MSM8937), Qualcomm Adreno 505, 16 GB eMMC Flash
+Average Qualcomm Snapdragon 450
+Average of class Smartphone
+
+When it comes to surfing the internet, on the other hand, the Honor 7C cannot secure a leading position. Even so, it ranks safely in the middle of our comparison devices. From a subjective perspective: Sites load relatively quickly, but photos take time.
+
+JetStream 1.1 | Octane V2 | Mozilla Kraken 1.1
+JetStream 1.1 - 1.1 Total Score                  
+Average of class Smartphone (10.8 - 273, n=443)   37 Points ∼100% +66%   
+Huawei Honor 7X (Chrome 63.0.3239.111)            31.299 Points ∼85% +40%
+Xiaomi Redmi 5 Plus (Chrome 66)                   23.097 Points ∼62% +3% 
+Honor 7C (Chrome 66)                              22.35 Points ∼60%      
+Average Qualcomm Snapdragon 450 (22 - 22.7, n=10) 22.3 Points ∼60% 0%    
+Motorola Moto G6 Play (Chrome 66)                 18.142 Points ∼49% -19%
+Huawei Y7 2018 (Chrome 66)                        17.86 Points ∼48% -20% 
+Octane V2 - Total Score                            
+Average of class Smartphone (1506 - 43280, n=579)   5666 Points ∼100% +63%
+Huawei Honor 7X (Chrome 63.0.3239.111)              5302 Points ∼94% +53% 
+Xiaomi Redmi 5 Plus (Chrome 66)                     4424 Points ∼78% +27% 
+Average Qualcomm Snapdragon 450 (3470 - 4078, n=10) 3957 Points ∼70% +14% 
+Honor 7C (Chrome 66)                                3470 Points ∼61%      
+Huawei Y7 2018 (Chrome 66)                          3363 Points ∼59% -3%  
+Motorola Moto G6 Play (Chrome 66)                   3296 Points ∼58% -5%  
+Mozilla Kraken 1.1 - Total Score                     
+Motorola Moto G6 Play (Chrome 66)                     13730 ms * ∼100% -21%
+Huawei Y7 2018 (Chrome 66)                            13541 ms * ∼99% -19% 
+Average Qualcomm Snapdragon 450 (11352 - 11863, n=10) 11515 ms * ∼84% -1%  
+Honor 7C (Chrome 66)                                  11370 ms * ∼83%      
+Average of class Smartphone (603 - 59466, n=599)      11352 ms * ∼83% -0%  
+Xiaomi Redmi 5 Plus (Chrome 66)                       10895 ms * ∼79% +4%  
+Huawei Honor 7X (Chrome 63.0.3239.111)                8684.3 ms * ∼63% +24%
+
+* ... smaller is better
+
+
+The speed of the Huawei Honor 7C's internal storage medium is mediocre: The Huawei Y7 2018 is outpaced here too, but most of the other devices are able to access data more quickly.
+
+We use a Toshiba Exceria Pro M501 as a reference card to test how fast a smartphone can access a microSD card. The Honor 7C's results are typical of its price class here. On the subject of the microSD slot: Interestingly, Honor has opted to equip the smartphone with 2 SIM card slots as well as a separate microSD slot, enabling the user to utilize all three at once. MicroSD cards are always treated as external memory, and the storage space can be used for apps.
+
+                              Honor 7C                         Motorola Moto G6 Play                Huawei Honor 7X Xiaomi Redmi 5 Plus Huawei Y7 2018 Average 32 GB eMMC Flash      Average of class Smartphone  
+AndroBench 3-5                                                 106%                                 31%             32%                 -5%            5%                            1%                           
+Sequential Write 256KB SDCard 62.61 (Toshiba Exceria Pro M501) 60.73 (Toshiba Exceria Pro M501) -3% 30.55 -51%      59.46 -5%           61.5 -2%       47.5 (3.4 - 87.1, n=114) -24% 46.5 (3.4 - 87.1, n=334) -26%
+Sequential Read 256KB SDCard  83.87 (Toshiba Exceria Pro M501) 83.23 (Toshiba Exceria Pro M501) -1% 52.65 -37%      84.38 1%            85 1%          66.4 (8.2 - 96.5, n=114) -21% 64.6 (8.2 - 96.5, n=334) -23%
+Random Write 4KB              10                               61.68 517%                           20.24 102%      7.1 -29%            9.5 -5%        18.9 (0.75 - 77.3, n=155) 89% 17 (0.14 - 250, n=627) 70%   
+Random Read 4KB               30                               65.95 120%                           81.4 171%       79.5 165%           38.8 29%       36.8 (3.59 - 117, n=155) 23%  39.6 (1.59 - 173, n=627) 32% 
+Sequential Write 256KB        115                              135.82 18%                           127.87 11%      194.5 69%           71.5 -38%      95 (14.8 - 189, n=155) -17%   82.6 (2.99 - 253, n=627) -28%
+Sequential Read 256KB         297                              243.67 -18%                          265.31 -11%     270 -9%             256 -14%       231 (25.8 - 440, n=155) -22%  235 (12.1 - 912, n=627) -21% 
+
+Games - OK for fairly lightweight games
+
+
+Simple games like “Angry Birds” are no problem for the Honor 7C, and somewhat more demanding 3D games, “Temple Run 2”, for example, also run flawlessly. The screen's low resolution is certainly a benefit here.
+
+
+There is no lag in the smartphone's reaction to input via the position sensor or touchscreen.
+
+
+Angry Birds
+
+Temple Run 2
+
+
+Emissions - Remains cool, reasonably good speaker
+
+
+The temperatures in idle mode and under load are almost identical. In both modes, the lower portion of the front warms up the most. This is hardly noticeable, however, as the smartphone always maintains a comfortable temperature.
+
+Max. Load
+
+Idle
+
+35.4 °C 96 F 34.7 °C 94 F 38.6 °C 101 F   35 °C 95 F   34.6 °C 94 F 37.6 °C 100 F   34.4 °C 94 F 33.5 °C 92 F 37.7 °C 100 F
+Maximum: 38.6 °C = 101 F Average: 35.7 °C = 96 F                                                                           
+33.7 °C 93 F 34.1 °C 93 F 34.6 °C 94 F   33.5 °C 92 F 34.1 °C 93 F 34.8 °C 95 F   33.7 °C 93 F 33.9 °C 93 F 34.4 °C 94 F
+Maximum: 34.8 °C = 95 F Average: 34.1 °C = 93 F                                                                         
+Power Supply (max.) 36.7 °C = 98 F | Room Temperature 22 °C = 72 F | Voltcraft IR-260
+(±) The average temperature for the upper side under maximal load is 35.7 °C / 96 F, compared to the average of 33.1 °C / 92 F for the devices in the class Smartphone.
+(+) The maximum temperature on the upper side is 38.6 °C / 101 F, compared to the average of 35.6 °C / 96 F, ranging from 22.4 to 51.7 °C for the class Smartphone.
+(+) The bottom heats up to a maximum of 34.8 °C / 95 F, compared to the average of 34.1 °C / 93 F
+(±) In idle usage, the average temperature for the upper side is 35.3 °C / 96 F, compared to the device average of 33.1 °C / 92 F.
+
+heat map front
+
+heat map back
+
+
+Speaker
+
+
+speaker test "pink noise"
+
+A small mono speaker on the bottom edge of the device is responsible for sound production, and it does a reasonably good job. At a maximum of 87.3 dB(A), it can get quite loud—and even at maximum volume, the sound is still relatively clear. It does not hold a candle to a stereo, of course, but the sound is quite good for a device in this price bracket.
+
+
+Speakers or headphones can be plugged into the 3.5mm jack, and the resulting sound is clean in both cases.
+
+dB(A) 0102030405060708090Deep BassMiddle BassHigh BassLower RangeMidsHigher MidsLower HighsMid HighsUpper HighsSuper Highs2035.243.52532.942.53137.244.44031.744.75039.6446328.337.28027.336.410026.936.712526.731.21602430.920020.930.125020.934.431519.54140018.549.150017.555.963017.561.480015.767.5100015.871125016.672.4160015.871200015.472.7250015.571.431501674.8400015.878.950001681630016.378.4800016.376.31000016.274.71250016.471.31600016.461.7SPL28.687.3N1.164.1median 16.4median 71Delta2.113.736.23633.633.231.429.931.432.331.431.530.831.428.329.728.128.827.427.92627.725.731.624.939.12445.323.949.823.75422.557.322.458.121.959.721.66821.371.421.168.921.170.320.871.620.878.720.776.320.866.320.764.720.570.520.665.520.753.533.683.8249.9median 21.6median 59.72.211.9hearing rangehide median Pink NoiseHonor 7CHuawei Honor 7X
+Frequency diagram (checkboxes can be checked and unchecked to compare devices)
+
+Honor 7C audio analysis
+
+
+(+) | speakers can play relatively loud (87.3 dB)
+Bass 100 - 315 Hz
+(-) | nearly no bass - on average 36.9% lower than median
+(+) | bass is linear (5.4% delta to prev. frequency)
+Mids 400 - 2000 Hz
+(±) | reduced mids - on average 6.6% lower than median
+(±) | linearity of mids is average (7.9% delta to prev. frequency)
+Highs 2 - 16 kHz
+(±) | higher highs - on average 5.5% higher than median
+(+) | highs are linear (4.5% delta to prev. frequency)
+Overall 100 - 16.000 Hz
+(±) | linearity of overall sound is average (25.7% difference to median)
+Compared to same class
+» 56% of all tested devices in this class were better, 11% similar, 32% worse
+» The best had a delta of 13%, average was 25%, worst was 44%
+Compared to all devices tested
+» 74% of all tested devices were better, 6% similar, 20% worse
+» The best had a delta of 3%, average was 21%, worst was 53%
+
+
+Huawei Honor 7X audio analysis
+
+
+(±) | speaker loudness is average but good (78.73 dB)
+Bass 100 - 315 Hz
+(-) | nearly no bass - on average 26.3% lower than median
+(±) | linearity of bass is average (8.5% delta to prev. frequency)
+Mids 400 - 2000 Hz
+(±) | higher mids - on average 6.1% higher than median
+(±) | linearity of mids is average (9.3% delta to prev. frequency)
+Highs 2 - 16 kHz
+(±) | higher highs - on average 11.5% higher than median
+(±) | linearity of highs is average (11.1% delta to prev. frequency)
+Overall 100 - 16.000 Hz
+(-) | overall sound is not linear (34.1% difference to median)
+Compared to same class
+» 93% of all tested devices in this class were better, 2% similar, 5% worse
+» The best had a delta of 13%, average was 25%, worst was 44%
+Compared to all devices tested
+» 95% of all tested devices were better, 1% similar, 4% worse
+» The best had a delta of 3%, average was 21%, worst was 53%
+
+
+Battery Life - Low power consumption, good endurance
+
+
+The Honor 7C's power usage when turned off is encouragingly low. The smartphone's energy consumption is impressive in general, given that the rest of the comparison devices need significantly more energy.
+
+Power Consumption
+Off / Standby                           0.01 / 0.11 Watt      
+Idle                                    0.6 / 2.16 / 2.24 Watt
+Load                                    2.59 / 4.11 Watt      
+                                                              
+                                       
+Key: min: , med: , max: Metrahit Energy
+                  Honor 7C 3000 mAh Motorola Moto G6 Play 4000 mAh Huawei Honor 7X 3340 mAh Xiaomi Redmi 5 Plus 4000 mAh Huawei Y7 2018 3000 mAh Average Qualcomm Snapdragon 450 Average of class Smartphone  
+Power Consumption                   -9%                            -40%                     -47%                         -32%                    -25%                            -22%                         
+Idle Minimum *    0.6               0.68 -13%                      1.02 -70%                0.7 -17%                     0.9 -50%                0.79 (0.6 - 1.26, n=10) -32%    0.878 (0.2 - 3.4, n=657) -46%
+Idle Average *    2.16              1.8 17%                        2.46 -14%                2.8 -30%                     1.9 12%                 2.51 (0.96 - 4.45, n=10) -16%   1.725 (0.6 - 6.2, n=656) 20% 
+Idle Maximum *    2.24              1.83 18%                       2.51 -12%                3.4 -52%                     2.3 -3%                 2.61 (0.99 - 4.51, n=10) -17%   2 (0.74 - 6.6, n=657) 11%    
+Load Average *    2.59              3.38 -31%                      4.16 -61%                4.2 -62%                     4.7 -81%                3.56 (1.85 - 5.78, n=10) -37%   4.04 (0.8 - 10.8, n=651) -56%
+Load Maximum *    4.11              5.67 -38%                      5.87 -43%                7.2 -75%                     5.7 -39%                4.99 (3.04 - 7.18, n=10) -21%   5.78 (1.2 - 14.2, n=651) -41%
+
+* ... smaller is better
+
+
+Battery Life
+
+
+The Honor 7C's efficient use of energy is apparent in its battery life: The smartphone lasted a good 11:33 hours in our WLAN test. This run time is especially good considering that the Honor 7C's battery capacity is only 3000 mAh. The Huawei Y7 2018 is equipped with the same size battery, yet our test device runs more than an hour longer.
+
+
+The Honor 7C's energy usage is modest in everyday use as well: The battery should easily last through a workday, even if the device is continuously in use. The smartphone should also run through the subsequent evening without any battery issues; when used sparingly, the device could even go two days between charges. But charging the smartphone with the charger included in the box does take over two hours, not exactly a speedy process.
+
+Battery Runtime
+                                    
+NBC WiFi Websurfing Battery Test 1.3  11h 33min
+                Honor 7C 3000 mAh Motorola Moto G6 Play 4000 mAh Huawei Honor 7X 3340 mAh Xiaomi Redmi 5 Plus 4000 mAh Huawei Y7 2018 3000 mAh
+Battery Runtime                   28%                            -4%                      -28%                         -10%                   
+Reader / Idle                                                    1111                                                  1305                   
+WiFi v1.3       693               887 28%                        664 -4%                  497 -28%                     624 -10%               
+Load                                                             199                                                   245                    
+H.264                                                                                                                  687                    
+
+Pros
+
++ metal case with good stability
++ dedicated microSD slot
++ high performance
++ relatively sharp photos
++ reasonably good speaker
++ reliable fingerprint scanner
++ low energy usage
++ long battery life
+
+Cons
+
+- low contrast and dark screen
+- somewhat slow access to internal storage
+- mediocre voice quality at maximum volume
+- pre-installed advertising apps
+
+Verdict - The Honor 7C is worth the price
+
+
+In Review: the Honor 7C. Test device courtesy of notebooksbilliger.de.
+
+Both in online forums and among expert groups, time and again people ask whether Huawei is creating its own competition with its Honor brand. The question is legitimate, given that the Honor 7C is in no way inferior to the similarly equipped, and slightly more expensive, Huawei Y7 2018. On the contrary: The Honor model has more performance power, better battery life and a dual camera (though in the latter case, the second lens only supports the main lens and cannot be used independently).
+
+
+Even at this low price point, the display is too dark and lacking in contrast, and the storage access could stand to be faster. But those are the only points of criticism we have for the Honor 7C. Even the significantly more expensive Honor 7X sometimes has a hard time competing with its supposedly weaker brother.
+
+
+Lots of performance at a low cost, a reasonably good camera and a metal case—the 7C poses a challenge for more than just the in-house competition.
+
+
+The Qualcomm SoC seems to have been a lucky choice, seeing as it gives the Honor 7C a fighting chance against its rivals from other manufacturers as well. Its good price-performance ratio makes it a great bargain.
+
+
+Honor 7C - 06/06/2018 v6
+Florian Wimmer
+
+Chassis
+79%
+Keyboard
+65 / 75 → 87%
+Pointing Device
+90%
+Connectivity
+37 / 60 → 62%
+Weight
+91%
+Battery
+94%
+Display
+82%
+Games Performance
+27 / 63 → 42%
+Application Performance
+44 / 70 → 63%
+Temperature
+88%
+Noise
+100%
+Audio
+60 / 91 → 66%
+Camera
+59%
+Average
+71%
+81%
+Smartphone - Weighted Average
+
+Pricecompare
+
+
+static version load dynamic
+
+Loading Comments
+Comment on this article
+Please share our article, every link counts!
+> Notebook / Laptop Reviews and News > Reviews > Honor 7C Smartphone Review
+Florian Wimmer, 2018-06-13 (Update: 2018-06-13)
+
+Deutsch | English | Español | Français | Italiano | Nederlands | Polski | Português | Русский | Türkçe | Svenska | 21:45 22.01

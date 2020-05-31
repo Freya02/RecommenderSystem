@@ -1,0 +1,271 @@
+* News
+  * Deals
+  * Reviews
+  * Apps
+  * The Best
+  * more
+      + Giveaways
+      + Features
+      + How To
+      + Android Development
+  * Reviews
+  * The Best
+  * Apps & Games
+  * News
+  * Android Development
+  * Features
+  * How To
+  * Deals
+      + About
+      + Contact
+      + Jobs
+      + Advertise
+      + Privacy Policy
+Search
+          o About
+          o Contact
+          o Jobs
+          o Advertise
+          o Privacy Policy
+Trending
+  * Galaxy s10
+  * Pixel 3
+  * Note 9
+  * OnePlus 6T
+  * Best of Android
+Buy now!
+Name:    
+Subject: 
+Message: 
+
+… this isn't the forums?
+
+Unfortunately, the forums have been discontinued. All discussion has been moved to the comments section of our articles, so start clicking on the topics you're interested in to dive back into the conversation!
+
+Xiaomi Mi A1 review: the perfect budget phone?
+
+Reviews
+by Abhishek BaxiNovember 3, 2017
+2.3K
+8.5
+  * Rating
+  * Full Article
+  * Design
+  * Display
+  * Performance
+  * Hardware
+  * Battery Life
+  * Camera
+  * Software
+  * Specifications
+  * Gallery
+  * Conclusion
+Positives
+
+Great build quality and premium design
+Stock Android experience
+Very good performance
+Excellent price
+
+Negatives
+
+Limited availability outside of India
+Camera falls apart in low-light
+Unoriginal design
+
+Rating
+Battery
+8.5
+Display
+8.5
+Camera
+8.3
+Performance
+8.0
+Software
+9.0
+Design
+8.5
+Bottom Line
+8.5
+8.5
+Mi A1
+by Xiaomi
+
+The Android One pitch is passable, but the Xiaomi Mi A1 is a very capable device on its own and comes very close to being the perfect smartphone for those on a budget.
+
+
+Introduced in 2014, Google’s Android One program never quite took off the way the company had envisioned. The program focused on developing markets like India and aimed to deliver budget smartphones with a stock Android experience powered by Google. A series of disappointing devices from domestic OEMs, partly thanks to stringent requirements from Google, didn’t manage to make a dent in the market. But Android One wasn’t out for the count.
+
+
+In collaboration with Xiaomi, Google has just rebooted the Android One program, which has since had the Moto X4 and HTC U11 Life added to the mix. It is clear the program is not just about entry-level smartphones anymore. The mid-range Xiaomi Mi A1 is pitched as a product that‘s ‘created by Xiaomi and powered by Google.’
+
+
+That means Xiaomi is shunning its proprietary Android skin MIUI in favor of stock Android for the first time. Having spent a few weeks with the device, here’s my comprehensive Xiaomi MI A1 review.
+
+For this review, I used the Indian variant of the Mi A1. My colleague, Bailey Stein, had the international variant and he used that for the accompanying video review. The reviews – text and video – reflect both of our opinions of the device.
+Show More
+
+Design
+
+
+The Mi A1 has design elements in common with other Xiaomi devices, but feels like an elegantly crafted upgrade.
+
+
+It offers a premium metallic feel and looks solid in construction. At 7.3mm, it is still quite slim. It’s 165 gram weight feels great in the hand. Although slightly wider, it fits nicely in the palm and has great ergonomics because of its round edges and sleek side profile.
+
+
+At the back, the dual cameras protrude a bit— an aberration for Xiaomi devices— but it’s neither an eyesore nor a deal breaker. Below the cameras, in the center of the phone, is the Mi A1’s fingerprint reader. We found it to be on par with other devices in this price category.
+
+
+Overall, the Mi A1 has a striking visual appeal with neat elements, like the nicely crafted speaker grille and the antenna lines at the back. I think that it is one of the best looking Xiaomi devices we’ve seen, ignoring the Mi MIX series of course.
+
+
+I do have to mention that the rear of the Mi A1 is eerily similar to the iPhone 7 Plus. A lot of Chinese brands have followed this model over the past year, so we would have liked to see something more original, but again, it’s not a deal breaker.
+
+
+Display
+
+
+The 5.5-inch LTPS IPS display on the Mi A1 makes for a good design choice with 2.5D curved glass at the top. The Full HD display delivers crisp visuals and excellent contrast, with a pixel density of 403 ppi.
+
+
+While the ample brightness results in good enough sunlight viewing, it is certainly not the best, especially because of the reflective display panel. Also, outdoors in the sun, the colors often appear washed out. There’s also no reading mode like on other MIUI-based Xiaomi devices of late.
+
+
+The display on the Mi A1 is vivid and bright. Its graphics look great and its text is sharp. The color reproduction could be more accurate, but most users won’t notice unless they have it side-by-side with a better panel.
+
+
+Performance
+
+
+With the Mi A1, Xiaomi goes back to its trusted octa-core Qualcomm Snapdragon 625 processor, which also powers the Redmi Note 4 and Mi Max 2.
+
+
+While some expected Xiaomi to go up the value chain and opt for the newer Snapdragon 630 or 660 SoC, or last year’s Snapdragon 626, the 625 is still a fair choice. For a mid-tier chipset, it offers a good balance of performance and efficiency, and keeps the pricing in check.
+
+
+Clocked at 2 GHz and coupled with 4 GB of RAM, the Snapdragon 625 keeps the Mi A1 snappy and able to handle anything thrown at it in everyday usage. It is also powerful enough to handle most graphics-intensive games. The stock Android experience is definitely lighter on resources than MIUI, so you’ll enjoy a snappier experience overall than on the Redmi Note 4.
+
+
+Xiaomi claims it uses dual pyrolytic graphite sheets to dissipate heat effectively, but the results are a mixed bag. While I didn’t face any problem during long gaming sessions, the phone can get a bit hot while charging or while using Google Maps for navigation during a long commute. We should not that this is not entirely abnormal, but certainly something to keep in mind.
+
+
+Hardware
+
+
+The Mi A1 packs in 64 GB of internal storage which should be enough for most people, though there is a microSD card slot so you can expand its capacity up to another 128 GB. You will have to give up one of the two nano SIM card slots to do so, however. A lot of people who use only one SIM or are content with 64 GB of storage won’t mind this, but there’s a vocal group of users who will hate the lack of flexibility.
+
+
+The Mi A1 also sports an infrared emitter that works flawlessly with a variety of home appliances via the Mi Remote app. We always enjoy seeing this feature, as it has become quite rare in recent years.
+
+
+Audio output through the single bottom-firing speaker is pretty good. The sound is loud, albeit slightly distorted. Overall, it’s about average for this price.
+
+
+Battery Life
+
+
+The Redmi Note 4 boasted an exceptional 4,000 mAh battery, but Xiaomi has kept the capacity modest with the Mi A at 3,080 mAh. Battery life was still very good in our testing, although not far above average. Standby times were especially impressive, possibly thanks to the various optimizations in stock Android.
+
+
+
+
+
+
+Note that the battery life screenshots above represent Bailey’s experience while using the Mi A1 on a 3G network in the United States. We expect that actual battery life while using the device on a proper 4G network will be less impressive.
+
+
+The Xiaomi Mi A1 also supports Qualcomm’s Quick Charge technology, and the bundled 2A charger replenishes the device from zero to 100% in less than two hours, which is good but not incredible.
+
+
+Camera
+
+
+The Xiaomi Mi A1 brings a dual camera setup to a mid-range smartphone. It’s not the first brand to do this, but it is the first one to offer 2x lossless optical zoom in its segment.
+
+
+The camera setup includes a 12 MP wide-angle 26mm f/2.2 lens and another 12 MP 50mm f/2.6 telephoto lens, with a dual-tone LED flash.
+
+
+In ideal lighting conditions, the camera on the Mi A1 manages to take some really good portrait shots with natural looking colors. Most shots had clearly defined edges and just the right blurring. In a few cases, it overdid the blurring, though. The landscape shots were also impressive and offered accurate color reproduction and good sharpness.
+
+
+In low light conditions, photos lack detail and excessive noise creeps in. Unlike in daylight, these shots didn’t capture color well. The portrait mode is almost useless in low-light conditions, too. The lack of optical image stabilization is evident. Photos taken with the flash came out better, although I don’t usually prefer to take photos that way.
+
+
+While the Mi A1 does have phase detection auto-focus (PDAF), it sometimes takes a moment before locking on to the subject. When it does, it is usually accurate even in difficult lighting conditions.
+
+
+The 5 MP front camera takes quite good selfies and with face detection it locks on to your face in a snap. The details are fairly impressive in good lighting conditions, though it cannot be compared to some other smartphones in the market with a special focus on front camera optics.
+
+
+Xiaomi claims that its portrait mode can match the performance of the iPhone 7 Plus and OnePlus 5, but that’s a stretch. For its price it is impressive and it nails depth-of-field shots. If you do well, you’d be able to manage some incredible portraits and bokeh shots from the Mi A1. Overall, apart from underwhelming low-light performance, the results on the dual cameras on the Mi A1 won’t disappoint you.
+
+
+While the Mi A1 runs stock Android, Xiaomi offers its own Camera app. The minimal app offers intuitive controls and includes modes like Panorama, Manual, Beautify, Group selfies, Square, et al. When in depth mode, the Camera app guides you in shooting portraits suggesting appropriate distance and lighting which is quite handy for new or amateur users.
+
+
+Software
+
+
+The Mi A1 runs Android 7.1.1 Nougat in its unadulterated form. There are no add-ons or customizations, and Xiaomi only bundles three of its apps – Feedback, Mi Remote, and Mi Store. The camera app too is Xiaomi’s because the stock Android app does not support dual cameras yet.
+
+
+And that’s that. You get all the goodness of stock Android Nougat, along with the assurance of regular security patches and an Android Oreo update before the end of the year. At the launch event in New Delhi, it was also announced that the Mi A1 will get Android P as and when it’s released.
+
+
+That said, there’s nothing else an Android One device brings to the table compared to other devices from Nokia or Lenovo that offer a stock Android experience. Google offers unlimited high-quality storage for photos and videos on Google Photos, but not in original quality, which is pretty disappointing – that’s a Pixel exclusive.
+
+
+At first, it was slightly disorienting to use a Xiaomi device without MIUI. The customization layer has been an integral part of the company’s devices. To its credit, Xiaomi has earned a lot of fans by working hard to bake in nifty add-ons and useful features to MIUI. In the end, it boils down to individual preference between two good approaches to the Android experience.
+
+
+Specifications
+
+
+
+
+Operating System Android 7.1.2 Nougat                                                                                      
+Display          5.5-inch LTPS IPS LCD Full HD (1080 x 1920) 403ppi density Corning Gorilla Glass 3                        
+Processor        Qualcomm Snapdragon 625 Octa-core 2.0 GHz Adreno 506                                                      
+RAM              4 GB                                                                                                      
+Internal Storage 64 GB Expandable up to 128 GB with microSD card                                                           
+Rear Camera      Dual 12 MP (26mm, f/2.2; 50mm, f/2.6) Phase detection autofocus (PDAF) 2x optical zoom Dual-tone LED flash
+Primary Camera   5 MP                                                                                                      
+Battery          3,080 mAh Quick Charge 2.0                                                                                
+Dimensions       155.4 x 75.8 x 7.3 mm                                                                                     
+Weight           165 g                                                                                                     
+
+Gallery
+
+
+Pricing and final thoughts
+
+
+I’m not sure if Google contributes anything significant to this collaboration, but Xiaomi puts up a good showcase of its prowess.
+
+
+The Xiaomi Mi A1 is a pretty solid and well-rounded package. The capable innards are housed in a premium metallic chassis that looks great. In the daylight the dual cameras shine, and its portraits alone merit a much higher price.
+
+
+It’s difficult to criticize the Mi A1 given its impressive affordability, but we would have liked to see a more original design and better low-light camera performance nonetheless.
+
+
+Android One or not, the Mi A1 is a very capable device. Getting a stock Android experience with guaranteed updates, which essentially future-proofs device, just sweetens the deal. I’m not sure if Google contributes anything significant to this collaboration, but Xiaomi puts up a good showcase of its prowess. At ₹14,999 ($230) in India, the Mi A1 is close to the perfect smartphone for those on a budget.
+
+
+Reviews
+
+XiaomiAndroid OneXiaomi Mi A1
+Android One, Xiaomi, Xiaomi Mi A1
+Abhishek Baxi@baxiabhishek
+2.3K
+Please enable JavaScript to view the comments powered by Disqus.
+Your source for all things Android!
+  * About
+  * Contact
+  * Jobs
+  * Advertise
+  * Privacy Policy
+* ©2019 Android Authority | All Rights Reserved.

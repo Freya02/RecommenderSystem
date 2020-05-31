@@ -1,0 +1,237 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+Xiaomi Mi A2 Review
+
+
+
+Xiaomi Mi A2, the second installment from Xiaomi under the Android One program has been launched in India at a starting price of Rs. 16,999. While the Xiaomi’s MIUI is pretty much popular, the majority of the population, particularly in the Indian market, feels connected towards the stock Android and the vice versa with the Chinese UI.
+
+
+However, most of the China-based handset manufacturers are not ready to let go of their flavor on top of Android. Understanding this, Xiaomi tied up with Google to manufacture Android One devices with stock Android to cater to specific audiences taste.
+
+
+Since Xiaomi is known for its smartphones at a cheaper price, Mi A2 could be the next potential device for those who don’t want to shell out a lot of money for a Pixel-like Android experience. Having said that, we got hold of the Xiaomi Mi A2 (4GB + 64GB) recently, and here is our review on it. Do check out and let us know your opinion in the comment section at the end.
+
+
+Unboxing
+
+
+We recently unboxed the smartphone, check it out below.
+
+
+Box Contents
+
+
+  * Xiaomi Mi A2 smartphone in Black color
+
+  * 2-pin charger (5V-2A)
+  * USB Type-C Cable
+  * USB Type-C to 3.5mm adapter
+  * SIM Ejector tool
+  * Protective case
+
+Display
+
+
+The Xiaomi Mi A2 sports a 5.99-inch (2160×1080 pixels) Full HD+ 2.5D curved glass display with 1500:1 Contrast ratio and has Corning Gorilla Glass 5 protection. It has a screen-to-body ratio of 77.4% and a pixel density of around 403 PPI. The display is not as bright as it should be, which proves to be a problem in outdoor conditions especially under sunlight. Keeping this aside, the viewing angles, color reproduction accuracy is good with sharp texts. Overall, the Mi A2 display could have been improved compared to the A1, but it’s not bad either.
+
+
+Design
+
+
+The Xiaomi Mi A2 comes with a metal unibody design that looks nice and premium. For some reason, the company has ditched the “Notch”, which seems to be the buzzword these days. I am pretty much happy with it since I am not a fan of notches. With back case, the device feels much comfortable and gives you a solid feel and sort of control over it while using it. Removing the back case makes it terribly slippery considering its soft matte finish in rear and sleek form factor. Slapping the rear case given inside the box is always recommended. It measures 158.7×75.4×7.3mm and weighs around 168 grams.
+
+
+The front side of the device is occupied by 5.99-inch with a considerable amount of bezels on top and bottom. Up top, we have 20MP front-facing camera, earpiece, LED flash, notifications lights and sensors. Xiaomi Mi A2 is equipped with sensors including accelerometer, gyroscope, magnetic sensor, proximity sensor and ambient light sensor. At the bottom, we have a thin chin, left all alone with no functionalities.
+
+
+The right side of the device houses volume rockers, power button, while the left side has dual SIM slots (Nano+Nano). It does’t have a microSD card slot similar to the predecessor.
+
+
+At the bottom, we have a speaker grille, USB Type-C port, and primary microphone. Up top, there is an IR blaster and secondary noise-canceling microphone. Xiaomi made a big mistake of ditching the 3.5mm audio jack in Mi A2, which is just a mid-ranger. Having said that, the company includes a Type-C to 3.5mm Audio adapter in the box.
+
+
+Turning it back, we have a vertically-aligned dual-camera setup with a LED flash sandwiched in between. It has a big camera bump, which makes it wobble when placed in the flat surface. The fingerprint scanner lies further below the camera module.
+
+
+Camera
+
+
+The Xiaomi Mi A2 comes equipped with a dual camera setup — a 12MP rear camera with f/1.75 aperture, Sony IMX486 sensor LED flash, EIS, and a 20MP secondary camera with Sony IMX376 sensor with f/1.75 aperture. The front side of the device is taken care of 20MP front-facing camera with Sony IMX376 sensor and LED flash as well.
+
+
+Moving on, the image quality has been significantly improved compared to its predecessor. The pictures under broad daylight conditions come out well with accurate details, perfect contrast and sharper as well. The colors are lively and the dynamic range is good as well. When it comes low light shots, the image quality is better than most of the smartphone at this price range. Under the manual mode, you get to switch between using the ‘regular lens’ and the ‘low light lens’. Talking about the portrait, the photos turned out to be pleasant with accurately processed blur effects.
+
+
+The front camera captures a detailed selfie, which indeed is a significant improvement over Mi A1. The soft LED flash comes to the rescue under low light condition. It’s worth mentioning that the light doesn’t overpower the subject under these circumstances.
+
+
+Check out the camera samples (Click the image to view the full-resolution sample).
+
+
+Check out more camera samples here.
+
+
+Coming to the video, the Mi A2 records video in 1080p at 30fps and 60fps and 2160p at 30fps. It supports image stabilization as well for 4K videos. The video recorded is quite and good and detailed. Check out the sample video below.
+
+
+Software and storage
+
+
+The Xiaomi Mi A2 is shipped with Android 8.1 (Oreo) along with the support for Project Treble and security patch for August 2018. As per the company claims, Mi A2 will get Android 9.0 (Pie) update within this year. Since it comes under the Android One program, it has a stock Android feel to it with a few Xiaomi apps like Mi Store, Mi Remote, Mi drop and Mi community. Users can also make use of the unlimited high-quality photo and video backups in Google Photos.
+
+
+The Xiaomi has launched Mi A2 with 4GB LPDDR4x RAM and 64GB (eMMC 5.1) storage in the Indian market. In addition to it, the company has also mentioned that it will launch a 6GB RAM with 128GB inbuilt storage soon. Out of 64GB, we got around 45.69GB free inbuilt storage on-board.
+
+
+The audio output through headphones is good in quality, but the volume level is a letdown. Moreover, it comes with a single, bottom firing loudspeaker. The loudspeaker is significantly good. The call quality is good, and we did not face any call drops and the earpiece volume was loud as well.
+
+
+Performance
+
+
+The Xiaomi Mi A2 is powered by Octa Core Snapdragon 660 14nm Mobile Platform (Quad 2.2GHz Kryo 260 + Quad 1.8GHz Kryo 260 CPUs) with Adreno 512 GPU under the hood. On a day to day usage, the performance of Mi A2 was smooth and commendable, since we didn’t find any lag or hang.
+
+
+The Snapdragon 660 SoC is powerful enough to play some graphics demanding games including PUBG, Asphalt, and others. It’s worth mentioning here that the device got heated up to an extent during our gameplay mainly due to its metal back. Overall, the performance of the Mi A2 was satisfactory. Check out the synthetic benchmark scores below.
+
+
+Connectivity and fingerprint scanner
+
+
+The Xiaomi Mi A2 supports various connectivity options including Dual 4G VoLTE for Airtel and Reliance Jio, Wi-Fi 802.11 ac (2.4GHz / 5GHz), Bluetooth 5 LE, GPS + GLONASS, and USB Type-C. The Xiaomi Mi A2 houses a fingerprint scanner on the back below the camera module. In this device, you can add up to 5 fingerprints on your and it is quick to unlock the phone. Unlike other phones at present, it doesn’t Face unlock feature, gestures using the fingerprint scanner.
+
+
+Battery
+
+
+The Xiaomi Mi A2 is powered by 3010mAh battery which is not big considering today’s standard. Since the device comes with power efficient chipset the probability of things going berserk is low. Having said that, the device comes with Qualcomm Quick Charge 4+ technology which in turn helps in charging the phone in less time. Unfortunately, the company won’t be shipping the Quick Charge adapter and you would have to buy on your own. Since we did not have a Quick Charge 4+ charger, we used Quick Charge 3.0 charger. It took just 28 minutes to charge from 0 to 50% and took about 1 hour and 20 minutes to charge from 0 to 100%.
+
+
+Coming to the real-time usage, with a moderate usage the device can easily sail you through a day or day and a half with a single charge. With heavy usage, on the other hand, can get you through a day. In our One Charge rating, the Xiaomi Mi A2 scored 14 hours and 41 minutes, which is decent, but it could have been better. Hope the Android Pie will improve the battery life.
+
+
+Conclusion
+
+
+The Xiaomi Mi A2 is one of the finest smartphone available on the market right now with pure Android experience. On the other hand, at a price of Rs. 16,999, the compromising factors in Mi A2 equals the positives, which makes a purchasing decision tougher. Lack of important factors including 3.5mm audio jack and MicroSD card slot, not-so-bright display, and a 3000mAh battery makes it fall short.
+
+
+On the other hand, we are not sure how Xiaomi will place the Mi A2 since POCO F1 is taking all the limelight being the most affordable Snapdragon 845-powered smartphone. The phone is available exclusively on Amazon.in and Mi.com, but it goes on sale only once a week. To summarize, here are the pros and cons of the smartphone.
+
+
+Pros
+
+  * Stock Android experience
+  * Good cameras
+  * Good build quality
+  * Smooth performance
+
+Cons
+
+  * No 3.5mm audio jack
+  * No MicroSD card slot
+  * Display could have been better
+  * Battery life is not impressive
+
+Photography by Siraj
+
+Author Vigneshwar SRPosted on August 27, 2018Categories Reviews, Xiaomi
+
+Post navigation
+
+Previous Previous post: RCOM completes sale of fiber assets worth Rs. 3000 crore to Reliance Jio
+Next Next post: Vivo X23 with 8GB RAM, 91.2% screen-to-body ratio, in-display fingerprint sensor to be announced on September 6
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * XOLO Era 4X 2GB Unboxing and First Impressions
+  * LG to introduce Snapdragon 855-powered 5G smartphone with vapor chamber at MWC 2019
+  * Apple dismisses over 200 employees from its Project Titan autonomous vehicle group
+  * Microsoft Office 365 now available via the Apple Mac App Store
+  * Gmail v8.12 starts testing Dynamic Email support
+  * Apple iOS 12.2 beta brings new ‘Hey Siri’ setup for the rumored AirPods 2
+  * Twitter confirms it is testing “Original Tweeter” tag to distinguish who started a thread
+  * Facebook is shutting down Moments app on February 25th
+  * Samsung Galaxy A9 Pro (2019) with 6.4-inch FHD+ Infinity-O display, 6GB RAM, triple rear cameras announced
+  * Get Android 9.0 Pie on Redmi Note 5 Pro with OxygenOS 9.0 port
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

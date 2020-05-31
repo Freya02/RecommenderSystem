@@ -1,0 +1,428 @@
+* Home
+  * News
+  * Reviews
+  * Gadgets
+  * Apps
+  * Startups
+  * Opinion
+  * Top 5
+  * Contact Us
+  * Write for Us
+  * Advertise on TechArena
+Reviews
+
+The OPPO F5 Review: More Than Just A Camera Phone
+
+By Kaluka wanjala
+December 13, 2017
+
+WordPress database error: [Table 'techaren_vivvo.wp_transients' doesn't exist]
+SHOW FULL COLUMNS FROM `wp_transients`
+
+Share on Facebook Share
+
+WordPress database error: [Table 'techaren_vivvo.wp_transients' doesn't exist]
+SHOW FULL COLUMNS FROM `wp_transients`
+
+Share on Twitter Tweet
+
+WordPress database error: [Table 'techaren_vivvo.wp_transients' doesn't exist]
+SHOW FULL COLUMNS FROM `wp_transients`
+
+Share on Linkedin Share
+Send email Mail
+Share on Whatsapp Share
+
+The OPPO F5 is the latest smartphone from the company you can get in Kenya. The phone is available for Ksh 32,000, within the same price range as the OPPO F3 that it is supposed to be replacing. The F5 is another camera-centric smartphone from OPPO, it comes less than 8 months after we saw the unveiling of the OPPO F3. With that in mind, the question you should be asking is, is this a worthy upgrade? Where does it stand when compared with other devices within the same price range? Is it a good device or just another overhyped camera phone? These are the questions I will try and answer in this review.
+
+
+I have been using the OPPO F5 for about two weeks and I am sure I have figured out what it brings to the market. For those interested in buying it, you can get it from Safaricom shops and online it is available on Jumia. This phone has an 18:9 (read, 18 by 9) aspect ratio, a trend we have seen a lot this year. What this means is that the phone is twice as tall as it is wide. This is an interesting concept that gives the phone a different look and feel. With that said, let us now look at what the phone offers.
+
+
+What’s In The Box?
+
+
+Before we get into the review, this is what you should get in the box.
+
+
+The Phone (OPPO F5)
+
+
+Earphones
+
+
+Transparent back coverage
+
+
+Information guide and user manual
+
+
+SIM ejector tool
+
+
+Wall adapter for charging
+
+
+USB cable for charging and data transfer
+
+
+Design and Build
+
+
+Metallic, 18:9 aspect ratio
+
+
+The first thing I am going to talk about is the design and build of the phone. The Phone feels really good unlike some other devices we have seen in this price range. It is light and thin and even though it has a 6 inch display, its 18:9 aspect ratio makes it easy to carry around. The edges are curved to give it a smooth feel that makes the phone comfortable to hold.
+
+
+oppo f5 back
+
+
+The back is made of metal, something we expect on a 2017 flagship smartphone. Still at the back is where you will find the fingerprint scanner and the 16MP camera. This is a different design from what we have seen in the OPPO F series as we are used to seeing the fingerprint scanner embedded underneath the home button.
+
+
+The power button is on the right of the OPPO F5 with the SIM and SD card tray above it. The volume keys are on the left of the phone. Both the power and volume buttons are easy to reach even when using the phone with one hand.
+
+
+At the bottom we have the headphone jack, MicroUSB port, speaker grille and microphone. It is dissappointing to see OPPO stick with the normal MicroUSB port and not the USB-C port.
+
+
+Overall, the OPPO F5 has a refreshing design, it looks and feels premium. Unlike some other devices we seen on the market, you can feel like OPPO did put it some work when making this phone.
+
+
+Display
+
+
+6 inch, 1080 x 2160 pixels
+
+
+As mentioned above, the OPPO F5 comes with a 6 inch display with a resolution of 1080 x 2160 pixels. Even though this is a 6 inch screen, its 18:9 aspect ratio ensures that it is easy to carry and even use with one hand. Speaking of using it with one hand, you may have problems reaching the very top of the screen depending on the size of your hands.
+
+
+OPPO F5 display
+
+
+This display is quite bright and can easily be used under direct sunlight. Even with that said, this is not the brightest display out there, it appears tamed and this can be a good thing indoors but may be an issue outdoors. The colours do not pop as much as I am used to but this is not that bad unless you are coming from a Samsung Galaxy device.
+
+
+The viewing angles are really good as I expected from a smartphone within this price range. You get on screen navigation keys and this is not that big of a deal considering the fact that the display itself is huge, you are still left with enough space to use even after the navigation keys use part of it. Still on the navigation keys, you can choose to hide them in situations where you do not need them, for example when you are reading through an article and you do not really need the navigation keys.
+
+
+With a display with an 18:9 aspect ratio, the OPPO F5 is perfect for media consumption. You get a very big display that does not feel or look big and you can use this for consuming all the media you want. If you are into movies, this screen is just right. On some platforms, you will get the black bars on the edges but that can be fixed on YouTube using the pinch to zoom feature
+
+
+Software and Performance
+
+
+Android Nougat with ColorOS 3.2, 4GB RAM, 32GB storage, 2.6GHz CPU
+
+
+When we get to the software, this is where the true Android fans will be disappointed. The OPPO F5 comes with Android 7.1.1 Nougat with the company’s own Custom UI, ColorOS. On the F5, you get ColorOS version 3.2. ColorsOS is made to look like iOS and OPPO has done a good job at copying Apple, the attention to detail is on another level here. I am not a big fan of this move as I want Android to be Android. If I want an iOS device, I will save up and get myself one, no need to bring that here. I get the fact that having something similar to iOS is a big deal in China, but that is not the case here.
+
+
+Still on the UI, I noticed that you cannot change the default launcher on the OPPO F5. The first thing I install on a new smartphone is Nova Launcher and preventing me from activating it on your smartphone is just annoying. I can get used to the UI looking like iOS but limiting its flexibility is just a not for me.
+
+
+In terms of performance, the OPPO F5 did not disappoint me. The phone comes with 4GB of RAM paired with the Octa-core MediaTek Helio P23 processor and 32GB of storage space. There is a 6GB variant of this phone but that is not available in the country just yet. The 4GB version has served me well, no performance issues even when running demanding and heavy applications. Opening and switching between apps is not a problem, you can do that without slowing down the phone.
+
+
+Given that ColorOS is inspired by iOS, you will be able to access the quick toggle menu by swiping up from the bottom of the display. From this menu, you will be able to access some of the key features we are used to having when we pull down the notification shade. Some of these include the Wi-Fi and data on/off settings, bluetooth settings, flashlight, location just to name a few. At first, this was strange for me but the more I used it, the more I got comfortable with it. Pulling up this menu is not the easiest thing though, most of the time I found myself tapping the home button or the other navigation keys as I attempted to pull it up. This happened even after two weeks of using the phone.
+
+
+The notifications on the OPPO F5 borrow a lot from iOS and as expected, they bring some confusions here. On Android, we are used to removing notifications just by swiping it to the left or right, on the F5, you have to swipe the notification to the left and them choosing the delete option. This is unnecessary if you ask me, OPPO should have left the notification shade as it was.
+
+
+Overall, the OPPO F5 performs quite well matching its flagship status. The only issue I have is that it looks and feels more like iOS. I get that this is a big deal in China but not here, we are used to Android being Android and even with the many custom Uis on Android, most change their appearance to create their own identity and not to copy Apple for the sake of it. I believe that those who want to get iPhones should do so and not get iOS lookalikes.
+
+
+Limiting the customization of the OPPO F5 is just something we do not see on Android. I am not a big fan of this as I like to customize my devices the way I like and this was not entirely possible with this phone. Here I am speaking about the launcher which cannot be changed and with that, there is no way to get back the app drawer and all your apps are bumped on the homescreen and there is nothing much you can do. If you have many apps installed in your phone, you better be prepared to have numerous screens to house them.
+
+
+One last thing I have to mention about the OPPO F5’s performance has to do is the sound quality. The phone has good speakers but that is not all, it has even better earphones. The sound quality through the earphones provided by OPPO is just awesome. Better than anything I have heard within this price range. It also has the Real Sound Technology that has been developed in partnership with Dirac Research AB. This ensures better audio quality and allows you to play around with the settings to get the audio quality you want.
+
+
+Also Read: OPPO F5 Specifications And Price In Kenya
+
+
+Camera
+
+
+16MP main, 20 MP selfies shooter with AI Beauty Technology
+
+
+The one area the OPPO F5 shines is in the camera department. To be fair, OPPO has always had very good camera phones and this has been the company’s main selling point the last couple of years.
+
+
+The back camera on the OPPO F5 is 16MP unit that takes some really good shots. OPPO decided not to go with a dual camera setup but this does not mean those who buy this phone will be shortchanged. All users will be missing is the ability to take portrait shots (those shots with blurred backgrounds). This camera reproduces the colours accurately even when the lighting is not the best.
+
+<
+►
+>
+
+The dynamic range of the back camera is really good, You also get a ton of features with this camera including time-lapse, panorama, beauty mode with the back camera among others.
+
+<
+►
+>
+
+As for the front facing camera, the OPPO F5 comes with a 20MP unit that takes really good photos. This camera comes with AI beauty mode that the company says is to help take even better selfies. So far it has been good but in some cases I noticed it went overboard and the results appeared unnatural. This was mostly the case when the lighting was not so good or when ot was too bright, I ended up looking like I have flour on my face.
+
+
+Battery
+
+
+3200mAh
+
+
+When I first saw that the OPPO f5 has a 3200mAh battery, I was disappointed as I did not expect this to be enough for me. This all changed when I started using the phone, the battery is small but lasts longer that other bigger ones out there. I could easily get this battery to last for two days even with my usage habits. This is very impressive and my guess is that it has something to do with the software and how OPPO has optimized it to consume less power. This is commendable, including all premium features without compromising on battery performance is something other manufacturers cannot achieve.
+
+
+The OPPO F5 comes with a charging adapter that supports fast charging but the phone itself does not. The company did not mention anything about VOOC charging and that is because it is not supported. This wasn’t that big of a deal breaker for me but it would have been nice to have the option. Speaking of charging, the port here is a normal MicroUSB one and not a USB-Type-C one.
+
+
+Even with heavy usage, you can get the OPPO F5 to last for at least a day as I found out. In many occasions, I left my charger at home and used my phone without any issues and even have about 20 or 30% remaining by the time I went to bed.
+
+
+Conclusion
+
+
+So, is the OPPO F5 the right device for you? The phone is well built and is worth the price OPPO is selling it for. Compared with devices such as the Tecno Phantom 8, I can say that the F5 is the best value for your money. It feels good to hold and looks the part, the entire design including the 18:9 aspect ratio give it a new look we haven’t seen from OPPO recently.
+
+
+The phone handles light and heavy tasks without any issues, this is the sort of thing you expect from a premium flagship from the company. The only issue I have is the software looks and feel like iOS. It borrows a lot from Apple and that is not entirely a bad thing, the biggest issue I have here is that it limits customization and this is not something we appreciate on Android. OPPO can do all it can to copy iOS, my only request is that they ensure users can customize they phones to how they like.
+
+
+One other thing about the OPPO F5 that impressed me is the battery. I just did not expect it to be really good. Even with that said, it does not support VOOC charging and this is a bummer depending on who you ask.
+
+
+Overall, the OPPO F5 is a pretty good phone. It is not another overpriced selfie shooter from the company and is worth considering.
+
+
+Read Now: The Infinix S2 Pro Review
+
+
+WordPress database error: [Table 'techaren_vivvo.wp_transients' doesn't exist]
+SHOW FULL COLUMNS FROM `wp_transients`
+
+Share on Facebook Share
+
+WordPress database error: [Table 'techaren_vivvo.wp_transients' doesn't exist]
+SHOW FULL COLUMNS FROM `wp_transients`
+
+Share on Twitter Tweet
+
+WordPress database error: [Table 'techaren_vivvo.wp_transients' doesn't exist]
+SHOW FULL COLUMNS FROM `wp_transients`
+
+Share on Linkedin Share
+Send email Mail
+Share on Whatsapp Share
+Share:
+oppo OPPO F5
+Share:
+
+About author
+
+
+Kaluka wanjala
+
+I do gadget reviews and then some... Send your tips and Press Releases to kaluka@techarena.co.ke
+Previous
+Safaricom’s 4G User base Crosses the 1 million Mark
+Next
+OLX named best online classifieds platform in Kenya
+
+Related posts
+
+Reviews
+
+Huawei Y7 Prime 2019 Unboxing and First Impressions
+
+By Kaluka wanjala
+February 1, 2019
+Reviews
+
+TECNO Camon 11 Review
+
+By Kaluka wanjala
+December 11, 2018
+Reviews
+
+TECNO Camon 11 Camera Review
+
+By Kaluka wanjala
+December 9, 2018
+GadgetsReviews
+
+Tecno Camon 11 Unboxing and First Impressions
+
+By Kaluka wanjala
+November 23, 2018
+
+Sign up for our Newsletter and
+stay informed
+
+
+Email address:
+
+
+Leave this field empty if you're human:
+
+
+11 Comments
+
+Comments are closed.
+  * Pingback: The Tecno Camon CM Is Set To Be The Company’s First Smartphone With A Full View Display (18:9 Aspect Ratio)
+  * Pingback: The Tecno Camon CM Will Have a 13MP Front Facing Camera
+  * Pingback: The Infinix Zero 5 Pro Review: Photography At Its Core
+  * Pingback: The Nokia 6 Review: Nokia is Back! - TechArena Kenya
+  * Sachin Mundra
+    January 22, 2018 at 9:58 pm
+
+    This phone does not support device encryption, which such a shame as it means it can be used a work device (intune enrolled or any other means of enrolling your device into a work organization)
+
+
+    I’d have thought it could be over ridden by installing a different build of android OS. But is that possible? Does anyone have any ideas? Oppo support is $hit and cant even respond to me 🙁
+
+  * Pingback: 5 Smartphones Worth Checking Out During Jumia’s Mobile Week
+  * Pingback: Specs Showdown: Tecno Camon X vs OPPO F5 - TechArena
+  * Pingback: The OPPO F7 Kenyan Launch Is Set for May 2 - TechArena
+  * Pingback: The OPPO F7 has Officially Been Launched in Kenya, You Can Pre-order Through Jumia
+  * Pingback: OPPO F7 Specifications and Price in Kenya - TechArena Kenya
+  * Pingback: The OPPO F9 is Now Available in Kenya, Here are Five things You Need to Know
+
+  * Follow Us on Social Media
+
+      + 8340likes
+      + 2684followers
+      + 590subscribers
+      + 323followers
+    / Free WordPress Plugins and WordPress Themes by Silicon Themes. Join us right now!
+
+  * Newsletter
+
+
+    Enter your email address below to subscribe to get the news in your inbox
+
+
+    Email address:
+
+
+    Leave this field empty if you're human:
+
+
+  * Something Fresh
+
+
+      + With Firefox 66, Say Goodbye to those annoying Autoplaying Videos
+
+        February 5, 2019
+
+      + WhatsApp for iOS Gets Face ID and Touch ID Authentication to Keep Your Conversations Private
+
+        February 4, 2019
+
+      + App of The Week: Wordscapes - Escape and stimulate your mind
+
+        February 4, 2019
+
+  * What People Are Reading
+
+    News
+
+    Android Pie is Now Rolling Out to The Huawei P10
+
+    By Kaluka wanjala
+    January 24, 2019
+    Opinion
+
+    What You Need to Know About Fuliza, Safaricom’s Overdraft Service
+
+    By Kaluka wanjala
+    January 11, 2019
+    News
+
+    This Is How You Can Send Money Across the Globe Through M-Pesa Global
+
+    By Kaluka wanjala
+    November 6, 2018
+    News
+
+    DStv Packages and Rates in Kenya As Of May 2018
+
+    By Kaluka wanjala
+    May 17, 2018
+    AppsNews
+
+    Fuliza M-Pesa Is Now Available Through mySafaricom APP
+
+    By Kaluka wanjala
+    January 17, 2019
+
+  * Categories
+
+    24 Bit1All Social Media141Apps1117Features4Gadgets1866News1414Opinion113Reviews139Specs170sponsored6Startups1Top 584
+
+  * Partners
+
+
+    Just add here your partners image or promo text
+
+    Read More
+
+      + With Firefox 66, Say Goodbye to those annoying Autoplaying Videos
+
+        February 5, 2019
+
+      + WhatsApp for iOS Gets Face ID and Touch ID Authentication to Keep Your Conversations Private
+
+        February 4, 2019
+
+      + App of The Week: Wordscapes - Escape and stimulate your mind
+
+        February 4, 2019
+
+      + Safaricom Claims That It Has Fixed Home Fibre Reliability Issues
+
+        February 4, 2019
+
+      + Lava Z81 Specifications and Price in Kenya
+
+        February 4, 2019
+  * News
+
+    With Firefox 66, Say Goodbye to those annoying Autoplaying Videos
+
+    By Kaluka wanjala
+    February 5, 2019
+    AppsNews
+
+    WhatsApp for iOS Gets Face ID and Touch ID Authentication to Keep Your Conversations Private
+
+    By Kaluka wanjala
+    February 4, 2019
+    Apps
+
+    App of The Week: Wordscapes - Escape and stimulate your mind
+
+    By Kaluka wanjala
+    February 4, 2019
+    News
+
+    Safaricom Claims That It Has Fixed Home Fibre Reliability Issues
+
+    By Kaluka wanjala
+    February 4, 2019
+    Specs
+
+    Lava Z81 Specifications and Price in Kenya
+
+    By TechArena
+    February 4, 2019
+
+  * Home
+
+  * Privacy Policy
+  * Contact Us
+
+2019 TechArena. All rights reserved.

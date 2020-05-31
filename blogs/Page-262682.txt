@@ -1,0 +1,219 @@
+Skip to content
+
+Fone Arena
+
+
+The Mobile Blog
+
+Menu
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+
+Xiaomi Redmi 6 Pro Review: Keeping up With the Times
+
+
+
+Already out in China, Xiaomi has finally brought the latest generation of the very popular Redmi Pro series to India. Jumping onto the notch display bandwagon, the Redmi 6 Pro brings a fresh looking design to Xiaomi’s always aggressive price point. Let’s take a closer look to see what else has changed with the hardware.
+
+
+Xiaomi Redmi 6 Pro specifications
+
+  * 5.84-inch (2280×1080 pixels) Full HD+ 19:9 2.5D curved glass display with 500 nits brightness, 1500:1 contrast ratio, 84% NTSC Color Gamut
+  * 2GHz Octa-Core Snapdragon 625 14nm Mobile Platform with Adreno 506 GPU
+  * 3GB RAM with 32GB storage, 4GB RAM with 32GB/64GB storage, expandable memory up to 256GB with microSD
+  * Android 8.1 (Oreo) with MIUI 10
+  * Dual SIM (nano + nano + microSD)
+  * 12MP rear camera with LED Flash, Sony IMX486 sensor, 1.25um pixel size, PDAF, f/2.2 aperture, secondary 5MP camera with Samsung S5K5E8 sensor, 1.12um pixel size, f/2.2 aperture
+  * 5MP front-facing camera
+  * Fingerprint sensor, Infrared sensor
+  * 3.5mm audio jack
+  * Dimensions: 149.33×71.68×8.75mm; Weight: 178g
+  * 4G VoLTE, Wi-Fi 802.11 a/b/g/n, Bluetooth 4.2, GPS + GLONASS
+  * 4000mAh (typical) / 3900mAh (minimum) battery
+
+Design
+
+
+The overall dimensions of the Redmi 6 Pro are just a smidgen smaller than the very popular Redmi 5. The notch design plays a role in mating a larger display to the smaller body. And THAT is the biggest change you’re going to see in the design of the Redmi 5 Pro.
+
+
+Up front is a 5.84 inch Full HD+ screen with a skinny 19:9 aspect ratio making the phone taller, slimmer in an attempt to improve one handed usability. It works too as the Redmi 6 Pro is a very comfortable handset to use. After getting used to much larger physical sizes, it took me a few seconds to get used to the diminutive Redmi 6 Pro but you really start appreciating the pocketability and comfortable hand-feel once you’ve spent some time with the hardware. The display is slightly raised up from the aluminium frame giving the phone a ridge that further aids in improving the grip.
+
+
+The top of the phone has a notch that you get used to over time though it isn’t a favourite choice around here. You can switch it off in the settings if you want but since this is an LCD panel, the software overlay remains visible. There’s a significant chin along the bottom edge of the device. The combination of smaller hardware and gesture based full screen navigation makes using the Redmi 6 Pro a very enjoyable experience.
+
+
+Over on the right is the power button and volume rocker. The former is a bit too soft, and we’d have liked slightly tighter tolerance levels. The left side has the dual SIM card slots as well as a dedicated microSD card slot. The phone still charges over microUSB and the headphone jack is placed at the top. The top is where you’ll spot the IR LED as well.
+
+
+The back of the phone is nearly identical to the Redmi Note 5 Pro. The left side has a vertically stacked dual camera module with an LED flash placed between two cameras. The fingerprint scanner is easily reachable and is very fast too. Plastic end caps lie at the top and bottom for better antenna performance. As we said, more or less identical to the Redmi Note 5 Pro. The back panel despite being made of aluminum picks up scuffs very easily and you’ll have to keep wiping it down to keep it clean.
+
+
+Software
+
+
+There’s not much new to talk about in terms of software. The phone runs MIUI 9.6 with all the features that you’ve come to expect from it. The biggest recent addition has to be gesture based navigation that makes using the phone quite enjoyable.
+
+
+The interface is also gradually moving towards a material design based UI. In fact, you should expect to see more of this with the upgrade to MIUI 10 over the coming months.
+
+
+Swiping to the left reveals a shelf which has an entire slot dedicated to ads. Ugh. There are a fair few utilities and apps preinstalled with some Xiaomi apps further integrating ads.
+
+
+Performance
+
+
+The Xiaomi Redmi 6 Pro continues to use the Snapdragon 625 chipset. Getting really long in the tooth now, it is no longer a particularly competitive processor. Now, Xiaomi’s Redmi series is immensely popular amongst young smartphone users who are also the demographic for wildly popular games like PUBG. We’d have liked it if the Redmi 6 Pro had been bumped up to a Snapdragon 636 at least for a little more grunt. As it stands, the game runs on the phone, but we did notice the occasional frame drops. The phone heats up a fair bit while gaming. If you’re not the gaming audience, general performance is fine. The 4GB of RAM is sufficient for jumping between apps and there’s little cause for performance related concerns.
+
+
+In the AnTuTu benchmark, the Redmi 6 Pro scores 78478 points which places it below competitors like the Huawei P20 Lite.
+
+
+In Basemark OS II, the phone scored 1343 points.
+
+
+In Basemark X 1.1, the phone manages 21425 points. Bear in mind, synthetic benchmarks aren’t always indicative of real world performance. That said, the Redmi 6 Pro should not be your choice if gaming is your priority. For everything else, the performance is adequate.
+
+
+Display
+
+
+The 5.8″ Full HD+ panel up front has a 19:9 aspect ratio that slims it down for better one hand usage. The screen goes as bright as 500nits, and we can attest to the fact that the display is quite readable even in bright sunlight.
+
+
+We found the display on the Redmi 6 Pro to be vibrant and great for multimedia use. It appears a bit over saturated but there are software options to tune the color saturation and warmth levels to your preference. There is next to no color shift even when viewing the screen at an angle and generally, the screen is as good as it gets in this price band.
+
+
+Camera
+
+
+The Redmi 6 Pro employs a 12MP rear camera paired with a 5MP secondary, depth sensing module. The primary camera sensor is the Sony IMX486 with a 1.25um pixel size. The secondary depth sensing modules is a 5MP Samsung S5k5E8 sensor with an 1.12um pixel size and f/2.2 aperture. There’s no doubt that the camera is a step above the competition. You can expect performance that comes close to the Redmi Note 5 Pro.
+
+
+As long as lighting conditions remain good, the camera takes excellent shots and manages to capture fine details. Dynamic range could’ve been a tad better but its not bad.
+
+
+Zooming in you’ll spot a lot of details in the foliage. Heavy noise reduction ends up making a mess of such shots, the Redmi 6 Pro manages to do a pretty decent job here.
+
+
+In low or dimly lit situations, the HHT mode helps bring down noise levels. The performance is not too bad though low light is usually the Achilles heel of most budget smartphones. You’ll also have to hold the phone very still to get a stable shot.
+
+
+The secondary camera on the Redmi 6 Pro enables portrait mode capabilities and as you can see on the right, the phone does a really good job at edge detection. Across a number of scenarios, we observed edge detection to be almost perfect and the results are visually appealing.
+
+
+Connectivity & Battery Life
+
+
+The Redmi 6 Pro supports 4G VoLTE alongside dual standby. There’s Wi-Fi 802.11 a/b/g/n of course as well as Bluetooth 4.2. You also get GPS + GLONASS. The phone has dedicated dual nano SIM slots as well as a secondary microSD card slot. Phone calls sound loud and clear at both ends and the phone latched on to Airtel’s usually terrible network quite well. Depending on the variant you opt for, you’ll have between 32 and 64GB of storage. On the 64GB version, about 53GB was available at first boot.
+
+
+Pairing a Snapdragon 625 chipset with a 4000 mAh battery means that battery life is obviously going to be stupendous. That is true of course and you can easily go a full day and more depending on your use. Throughout the review period, we had absolutely no issues with getting a full day of use out of the phone with music listening, photographs, social media and phone calls of course. There is no Quick Charge support so charging up the phone does take a bit of time.
+
+
+Conclusion
+
+
+The Redmi 6 Pro isn’t really a game changing phone. Think of it as a nice iterative upgrade. A refresh that brings in some additional modern elements to an already solid offering. The Snapdragon 625 isn’t as good as the 636 on the Redmi Note 5 Pro but is a good enough mid way ground. Similarly, the dual camera array is much better than the Redmi 5 and just a touch behind the Redmi Note 5 Pro. Essentially, the Redmi 6 Pro is a great stepping stone between budget and mid range hardware.
+
+
+The Xiaomi Redmi 6 Pro comes in Red, Blue, Gold and Black colors, is priced at Rs. 10999 for the 3GB RAM with 32GB storage version, and the 4GB RAM with 64GB storage version costs Rs. 12999. It comes bundled with a clear case, and will be available exclusively from Amazon.in as well as Mi.com starting from September 11th. HDFC Bank Credit/Debit cards and EMI transactions get Rs. 500 off for the first sale.
+
+
+
+Author: Dhruv Bhutani
+
+
+Your friendly neighborhood techie. Currently using a Pixel 2 XL. Catch him on Twitter (@DhruvBhutani) / Facebook . View all posts by Dhruv Bhutani
+
+Author Dhruv BhutaniPosted on September 7, 2018September 7, 2018Categories Reviews, Xiaomi
+
+Post navigation
+
+Previous Previous post: Amazon introduces new Fire HD 8 with hands-free Alexa support, Fire OS 6
+Next Next post: Moto G5 and Moto G5 Plus Android 8.1 Oreo update finally rolling out starting from India, Brazil and Mexico
+
+Trending Phones
+
+  * OnePlus 6
+  * Xiaomi Mi 8
+  * Honor 10
+  * Samsung Galaxy S9
+  * Apple iPhone X
+  * Nokia 7 Plus
+
+Mobile Phones
+
+  * Nokia
+  * Sony Ericsson
+  * Samsung
+  * Motorola
+  * i-Mate
+  * Dopod
+  * HTC
+  * LG
+  * 02
+  * BlackBerry
+  * Sagem
+  * Haier
+  * palmOne
+  * HP
+  * Spice
+  * Fly
+  * Apple
+
+Latest Phones
+
+  * Oppo Find X
+  * Xiaomi Redmi 6 Pro
+  * vivo NEX S
+  * Nokia X6
+  * Blackberry KEY2
+  * Motorola Moto G6
+
+Featured Video
+
+Search for: Search
+Recent Posts
+
+  * Huawei View 20 Camera Samples
+  * Nokia 5.1 Plus 4GB and 6GB RAM variants with 64GB storage launched in India
+  * ASUS OMG Days Sale from Feb 6 to 9 on Flipkart – ZenFone 5Z at Rs. 21999, Rs. 1000 off on ZenFone Max Pro M2 and more
+  * Coolpad Cool 3 with 5.71-inch HD+ dewdrop notch display, dual rear cameras, Android Pie launched in India for Rs. 5999
+  * Picooc Mini smart weighing scale launched for Rs. 2999
+  * Skullcandy SET sweat-proof in-ear sport earbuds launched in India for Rs. 2999
+  * Acer Chromebase 24I2 and Chromebase for Meetings 24V2 with 8th Gen Intel Core processor announced
+  * Instagram said to be working on ‘Main Account’ feature to manage multiple logins easier
+  * Google Live Transcribe and Sound Amplifier apps released to help hearing-impaired users communicate
+  * Google expands Instant Tethering to more Chromebooks and smartphones
+
+Categories
+
+Categories Select Category 2 in 1 3G 4G 5G Accessories Acer ACT Fibernet Aircel Airtel Alcatel Amazon Android Announcements AOC Apple apps Articles askFA AskFoneArena Asus AT&T Bada Battery test Benchmarks Bharti Blackberry BlackBerry World Blogging Bluetooth Brands BSNL BT Byond Camera Samples Canada Cases CDMA CeBIT Celkon Centric CES CES 2013 CES 2014 CES 2015 CES 2016 CES 2017 CES 2018 Chaze Cheers China china Computex 2014 Computex 2015 Computex 2016 Contributors Coolpad CREO CTIA Datawind Dell Development development Digiflip Pro Digital Payments Domo Dual SIM EE Elephone eReaders EV-DO Events Exclusive Facebook Featured FiiO Firefox Fitness Trackers Fly FoneArena Daily FoneArena Labs G Five Games G’FIVE General Gifts Gionee Google GPRS GPS GSM Guides Handsets Headlines Honor HP HTC Huawei Hutch iBall iberry IDEA IFA India Infinix Infocus Innelo INQ Instagram Photo Contest Intek Intel Interviews Intex IoT iPad iPhone itel Japan Japan Java / J2ME Jio Jolla KaiOS Karbonn Lava LeEco Lemon Lenovo LeTV LG Linux Luxury Maemo Magicon Manufacturers Maxx MediaTek MeeGo Meizu Memory Micromax Microsoft Mobiistar Motorola MTNL MTS Multimedia MWC MWC 2010 MWC 2011 MWC 2012 MWC 2013 MWC 2014 MWC 2015 MWC 2016 MWC 2017 MWC 2018 MWC 2019 News Nexian Nextbit NFC Nokia Nokia World 2009 Nokia World 2010 Nokia World 2011 Nokia-Siemens O2 Obi OnePlus Operators Oplus Oppo Palm Palm Panasonic Phicomm Philips Photo Gallery Platforms POCO poll Press Releases Previews Qiku Qualcomm Realme Reliance Reliance Reports Reviews Roundup Rumors Sailfish Samsung Sections SEE2009 Sennheiser Sharp Simmtronics Singapore Smartisan Smartron Smartwatches SMS Software Sony Sony Ericsson Spice Spice Sprint Swipe Symbian T-Mobile Tablets Tata Docomo Tata Indicom TCL Teardown Techno Technology Tesla Three Tips Tizen TP-LINK Ubuntu uk Ulefone UMi Unboxings Uncategorized Uninor USA VAS Verizon Video Videocon Videocon Vivo Vodafone VR Wallets WickedLeak Wifi Win a Nokia E7 Windows Xiaomi Xolo YU Zen Zopo ZTE ZUK
+FA on Facebook
+
+
+Youtube
+
+  * Main Site
+  * Phones
+  * Gadgets
+  * About
+  * Media Coverage
+  * Advertising
+  * Contact
+  * Tip Us
+  * Twitter
+  * FB
+  * Youtube
+Fone Arena 2005-2017

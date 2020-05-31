@@ -1,0 +1,267 @@
+SUBSCRIBER LOGIN
+TechInsights Application Inside Technology
+ENGLISH
+ENGLISH CHINESE, SIMPLIFIED CHINESE, TRADITIONAL JAPANESE KOREAN
+CONTACT US |
+  * Technology Intelligence Technology Analysis Structural/Process Analysis Circuit Analysis Systems Technology Reports Technology Roadmaps Featured Reports Subscriptions IC Analysis Logic Image Sensors Internet of Things Memory Power Semiconductor Teardown Mobile Devices Wearables SSDs Notebooks & Tablets IoT Home Emerging Technologies Costing & Design Win Database
+  * IP Solutions IP Solutions Know Your Competition Build Better Patents Optimize Your Portfolio Assert Your IP Defend Your Business Acquire or Divest Patents For Lawyers and Law Firms Conflict of Interest and Confidential Information IP Services Evidence of Use Portfolio Assessment Patent Strengthening Patent Landscaping Prior Art Search Patent Mining Patent Transaction Services Subscriptions TechInsights Library Prior Art Library Semiconductor Library Design Wins Library Capabilities Structural/Process Analysis Circuit Analysis Systems Software
+  * About Us Overview Careers News & Events Blog Contact Us Worldwide Locations
+  * Show Menu
+  * Technology Intelligence
+      + Overview
+          o Custom Analysis
+          o Technology Reports
+      + Products
+          o ChipSelect
+              - ChipSelect ACMOS
+              - ChipSelect Image Sensors
+              - ChipSelect Design Architecture
+              - ChipSelect Internet of Things
+          o Teardown.com
+      + Technology Analysis
+          o Structural/Process Analysis
+          o Circuit Analysis
+          o Systems
+          o Software
+  * IP Solutions
+      + IP Solutions
+          o Know Your Competition
+          o Build Better Patents
+          o Optimize Your Portfolio
+          o Assert Your IP
+          o Defend Your Business
+          o Acquire or Divest Patents
+      + IP Services
+          o Patent Landscaping
+          o Patent Strengthening
+          o Patent Mining
+          o Prior Art Search
+          o Evidence of Use
+          o Portfolio Assessment
+          o Patent Transaction Services
+      + IP Products
+          o Inside Technology
+          o Prior Art Library
+          o Teardown.com
+      + Capabilities
+          o Structural/Process Analysis
+          o Circuit Analysis
+          o Systems
+          o Software
+  * Reports
+      + Search Reports
+      + Search Devices
+      + Search Images
+      + Latest Reports
+  * About Us
+      + Overview
+          o Leadership Team
+          o Careers
+          o News & Events
+          o Blog
+          o Media Resources
+      + Contact Us
+          o Worldwide Locations
+  * 1.877.826.4447
+
+  * Apple iPhone X Teardown
+
+ 1. Home > About TechInsights > Blog > Technology Blogs
+ 2. Subscribe to the latest TechInsights news
+
+  * 
+
+    Posted: September 13, 2017, Updated: November 8, 2017
+
+    Contributing Authors: Daniel Yang, Stacy Wegner, Jim Morrison
+
+
+    Apple used the tagline “Say hello to the future” to introduce the era of the iPhone X, and with the iPhone X in our lab for teardown, we are working to bring our readers news of the innovations made by Apple in their latest smartphone offering.
+
+
+    We recently completed the iPhone 8 Plus teardown, and have examined the evolution of key iPhone hardware – i.e. Application Processors and CMOS Image Sensors – used by Apple for every generation of iPhone over the past 10 years.
+
+
+    There are a lot of firsts for Apple in this phone. The iPhone X is Apple’s first full-screen phone, with a 5.8-inch OLED Super Retina screen.
+
+
+    Here is what we saw inside the phone when we first opened it.
+
+
+    The first thing we noticed was that there are two batteries. It looks like this change was made in the interests of real estate: by splitting one larger battery into two, the smaller batteries are easier to position inside the packed phone. The new split-cell configuration provides marginally more power than the iPhone 8 Plus’ single battery (2716mAh vs 2681mAh); however, according to Apple, the iPhone X is estimated to provide the same talk time, but less internet and video playback time than the iPhone 8 Plus. This higher power consumption than iPhone 8 Plus appears to be confirmed by various battery life tests published on the iPhone X since its release.
+
+
+    The iPhone X uses 2 PCBs, which is pretty impressive considering that Apple was able to keep the overall thickness of phone to 7.7 mm. They are Substrate-like PCB (SLB).
+
+
+    Here in the cross section images we see evidence of this adoption of SLPs. SLPs are very high density substrates. They will employ conductors down to 10 um or 15 um in width. SLPs also make use of microvias that can be blind or buried in diameters down to 10 or 15 um.
+
+
+    We were reminded by iFixit that this stacked solution in the iPhone X is not new for Apple. Whether by design or just coincidence, the iPhone X PCB (SLB) assembly has made a full circle back to the assembly of the original iPhone.
+
+
+    Costing
+
+
+    Here is a high-level view into the costs of the various components of the iPhone X:
+
+Apple iPhone X A1901    
+Teardown Date            November 2017
+Applications Processor   $52.00       
+Baseband Processor       $14.50       
+Battery                  $4.00        
+Camera / Image           $40.00       
+Connectivity             $11.50       
+Display / Touchscreen    $65.50       
+Memory: Non-Volatile**   $20.50       
+Memory: Volatile         $25.50       
+Mixed Signal             $0.50        
+Non-Electronics          $36.00       
+Other                    $16.00       
+Power Management / Audio $14.00       
+RF Component             $21.00       
+Sensor                   $2.00        
+Substrates               $14.50       
+Supporting Materials     $3.50        
+Final Assembly & Test    $16.50       
+Total                    $357.50      
+
+    Costing note: All cost estimates provided here are compiled using information available to us at the time of the initial teardown. Some assumptions have been made where concrete data is not yet available. We will continue to gather and refine this costing data throughout our on-going deep-dive teardown process and analysis. While we do not expect drastic cost changes, we do expect some adjustments.
+
+
+    Face ID
+
+
+    Touch ID fingerprint recognition has been used in all iPhones since it was first introduced in the 5S, through to the 8 and 8 Plus. In the iPhone X, Apple replaces Touch ID with Face ID.
+
+
+    Face ID is enabled by the TrueDepth camera, about which Apple has published a white paper and illustrative images on their site.
+
+
+    Face ID functionality is delivered through a combination of a few different components:
+
+
+    Dot Projector
+
+
+    On the right side of the TrueDepth assembly we have the Dot projector, which projects 30,000 infrared dots onto your face to map its structure.
+
+
+    We are working on the Dot Projector to get more information.
+
+
+    Infrared Camera
+
+
+    The Infrared camera, on the left side, takes the image of your face to form a depth map of the face, along with a 2D infrared image.
+
+
+    We have confirmed that STMicroelectronics supplied the Infrared camera. TechInsights will launch a Device Essentials Image Set and Summary report of the iPhone X Infrared Camera.
+
+
+    Flood Illuminator
+
+
+    The Flood illuminator is used in low-light and dark environments to illuminate your face using infrared light to enable the IR camera.
+
+
+    We found a manufacturer unknown die:
+
+
+    Time-of-Flight (ToF)
+
+
+    We have confirmed that STMicroelectronics wins the ToF socket again. The ToF die is the same S2L012AC used in iPhone 8/8 Plus and iPhone 7/7 Plus. As we analyze this True Depth Module, the ToF sensor is being used as a proximity sensor once again.
+
+
+    Ambient Light Sensor
+
+
+    Not surprisingly, AMS wins the ambient light sensor socket.
+
+
+    OLED Display Driver
+
+
+    In the previous iPhones, Renesas and Synaptics (display driver IC division of Renesas sold to Synaptics) always supplied the display driver ICs. However, the iPhone X is Apple’s first phone with a Super Retina OLED display. The OLED display driver is supplied by Samsung.
+
+
+    OLED Display PMIC
+
+
+    STMicroelectronics wins the OLED Display PMIC socket in the iPhone X. This is different from other teardowns of mobile phones which have used a Samsung OLED display driver for 5” or larger displays. Most of the teardowns of mobile phones with additional display power management have been almost exclusively Texas Instruments wins, and predominantly with TPS65633 ICs.
+
+
+    Another STMicroelectronics Win?
+
+
+    Meanwhile, we found an ASIC in the main logic board, with package markings STB600B0. We think it is very likely from STMicroelectronics. We have depotted it and got the die photos. We suspected that it is PMIC with multi buck-boost voltage regulators, might be related to display or Face ID
+
+
+    iPhone X, iPhone 8 Plus, and iPhone 8 Key Components Comparison
+
+                       iPhone X (A1901)                                  iPhone 8 Plus (A1897)                             iPhone 8 (A1905)                                 
+Application Processor  A11 Bionic                                        A11 Bionic                                        A11 Bionic                                       
+Baseband               Intel XMM7480 (PMB9948)                           Intel XMM7480 (PMB9948)                           Intel XMM7480 (PMB9948)                          
+RF Transceivers (x2)   Intel PMB5757                                     Intel PMB5757                                     Intel PMB5757                                    
+LPDDR4 SDRAM           Vary by manufacturer and part number              Vary by manufacturer and part number              Vary by manufacturer and part number             
+NAND Flash             Vary by manufacturer and part number              Vary by manufacturer and part number              Vary by manufacturer and part number             
+WiFi / Bluetooth       Murata w/ Broadcom SoC                            USI w/ Broadcom SoC                               Murata w/ Broadcom SoC                           
+Image Sensor(s) - Rear Work in progress                                  Sony / Sony                                       Sony                                             
+Image Sensor - Front   Sony                                              Sony                                              Sony                                             
+ToF                    STMicroelectronics                                STMicroelectronics                                STMicroelectronics                               
+NFC                    NXP PN80V                                         NXP PN80V                                         NXP PN80V                                        
+PMIC (3 total)         Intel PMB6848, Apple / Dialog 338S00341&338S00306 Intel PMB6848, Apple / Dialog 338S00309&338S00306 Intel PMB6848, Apple / Dialog 338S00309&338S00306
+USB Type-C             Cypress CYPD2104                                  Cypress CYPD2104                                  Cypress CYPD2104                                 
+Audio IC               Apple/Cirrus Logic                                Apple/Cirrus Logic                                Apple/Cirrus Logic                               
+Wireless Charging      Broadcom BCM59355                                 Broadcom BCM59355                                 Broadcom BCM59355                                
+
+    Main Board, back side with shields intact
+
+
+    Main Board, front side with PCB cover removed (part of the SLP module)
+
+
+    Close up of A11 board
+
+
+    Modem side of Main PCB. Note the Intel BB processor PMB9948 and the Intel PMIC (PMB6848) as well as a Murata WiFi module
+
+
+    Follow this blog for updates on what we find in the iPhone X.
+
+  * About TechInsights
+
+    Leadership Team
+    Careers at TechInsights
+    News and Events
+    Blogs
+    Media Resources
+    Worldwide Office Locations
+
+  * Latest News and Reports
+
+      Stay up to date with the latest news and updates from TechInsights, sign up here.
+
+  * Popular Technology Blogs
+
+Revealing the innovation others can't
+
+
+inside advanced technology
+
+
+Contact TechInsights
+
+
+1891 Robertson Road, Suite 500, Ottawa, ON K2H 5B7 Canada (map and directions)
+Tel: +1.613.599.6500 | Fax: +1.613.599.6501 | info@techinsights.com
+View our International Locations
+
+
+© TechInsights Inc. 2019 all rights reserved. TechInsights and the Chipworks logos are registered trademarks of TechInsights Inc.
+
+  * Sitemap
+  * Media Resources
+  * Privacy Statement
+  * Accessibility
